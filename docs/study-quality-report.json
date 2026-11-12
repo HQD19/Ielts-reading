@@ -1,0 +1,954 @@
+{
+  "senseFixed": [
+    [
+      "c7t3p3",
+      "confined to",
+      "chỉ còn phân bố trong phạm vi",
+      "bị giới hạn trong phạm vi"
+    ],
+    [
+      "c7g1p1",
+      "held responsible",
+      "bị quy trách nhiệm",
+      "bị yêu cầu chịu trách nhiệm thanh toán"
+    ],
+    [
+      "c8t4p3",
+      "confined to",
+      "chỉ còn phân bố trong phạm vi",
+      "bị giới hạn trong phạm vi"
+    ],
+    [
+      "c8g1p3",
+      "tolerant of",
+      "chấp nhận sự tồn tại của thú săn mồi",
+      "có khả năng chịu được, thích nghi với (điều kiện đất)"
+    ],
+    [
+      "c8g2p1",
+      "put off",
+      "trì hoãn, để việc lại sau",
+      "làm nản lòng, khiến không muốn tiếp tục"
+    ],
+    [
+      "c13t4p3",
+      "confined to",
+      "chỉ còn phân bố trong phạm vi",
+      "bị giới hạn trong phạm vi"
+    ],
+    [
+      "c14t2p2",
+      "rich legacy",
+      "di sản nghệ thuật phong phú",
+      "di sản phong phú được để lại từ quá khứ"
+    ],
+    [
+      "c15t1p2",
+      "adapt to",
+      "thích ứng với điều kiện khí hậu mới",
+      "thích nghi với điều kiện hoặc cách hoạt động mới"
+    ],
+    [
+      "c15t4p1",
+      "confined to",
+      "chỉ còn phân bố trong phạm vi",
+      "bị giới hạn trong phạm vi"
+    ],
+    [
+      "t1p2",
+      "vascular system",
+      "hệ mạch vận chuyển nước và dinh dưỡng của cây",
+      "thuộc hệ mạch dẫn của cây"
+    ],
+    [
+      "t2p2",
+      "take a toll on",
+      "gây tác động tiêu cực lên",
+      "tác động tiêu cực lên năng suất"
+    ],
+    [
+      "t3p1",
+      "annual turnover",
+      "doanh thu hằng năm",
+      "doanh thu"
+    ]
+  ],
+  "removed": [
+    [
+      "c7t1p1",
+      "achieve",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c7t1p3",
+      "experiment",
+      "POS conflicts with observed context: VBD"
+    ],
+    [
+      "c7t2p1",
+      "under pressure",
+      "no exact, complete sentence containing source form"
+    ],
+    [
+      "c7t2p1",
+      "grasp",
+      "no exact, complete sentence containing source form"
+    ],
+    [
+      "c7t2p1",
+      "principle",
+      "no exact, complete sentence containing source form"
+    ],
+    [
+      "c7t2p1",
+      "construction",
+      "no exact, complete sentence containing source form"
+    ],
+    [
+      "c7t2p1",
+      "ancient",
+      "no exact, complete sentence containing source form"
+    ],
+    [
+      "c7t2p3",
+      "research",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c7t2p3",
+      "improve",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c7t3p1",
+      "outstrip",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c7t3p1",
+      "demonstrate",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c7t4p1",
+      "notice",
+      "POS conflicts with observed context: VBD"
+    ],
+    [
+      "c7t4p2",
+      "nutrient",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c7t4p2",
+      "spawn",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c7t4p2",
+      "require",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c7t4p2",
+      "approach",
+      "POS conflicts with observed context: VBP"
+    ],
+    [
+      "c7g1p1",
+      "process",
+      "POS conflicts with observed context: VBD"
+    ],
+    [
+      "c7g1p3",
+      "despite",
+      "POS conflicts with observed context: IN"
+    ],
+    [
+      "c7g1p3",
+      "notice",
+      "POS conflicts with observed context: VB"
+    ],
+    [
+      "c7g1p3",
+      "breed",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c7g2p1",
+      "discount",
+      "POS conflicts with observed context: VBN"
+    ],
+    [
+      "c7g2p2",
+      "commission",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c7g2p2",
+      "despite",
+      "POS conflicts with observed context: IN"
+    ],
+    [
+      "c7g2p2",
+      "notice",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c8t1p2",
+      "improve",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c8t2p1",
+      "experiment",
+      "POS conflicts with observed context: VBG"
+    ],
+    [
+      "c8t2p1",
+      "transport",
+      "POS conflicts with observed context: VBN"
+    ],
+    [
+      "c8t3p1",
+      "behaviour",
+      "no exact, complete sentence containing source form"
+    ],
+    [
+      "c8t3p2",
+      "genetic",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c8t4p2",
+      "forage",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c8t4p3",
+      "forage",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c8g1p2",
+      "challenge",
+      "POS conflicts with observed context: VB"
+    ],
+    [
+      "c8g1p2",
+      "entitled",
+      "POS conflicts with observed context: NNP"
+    ],
+    [
+      "c8g1p3",
+      "concentrate",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c8g1p3",
+      "whereas",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c8g2p3",
+      "linguistic",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c9t1p1",
+      "despite",
+      "POS conflicts with observed context: IN"
+    ],
+    [
+      "c9t1p2",
+      "evolve",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c9t1p2",
+      "determine",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c9t1p2",
+      "emerge",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c9t2p1",
+      "process",
+      "POS conflicts with observed context: VBG"
+    ],
+    [
+      "c9t3p2",
+      "sufficient",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c9t3p3",
+      "intact",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c9t4p3",
+      "research",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c9g2p1",
+      "refund",
+      "POS conflicts with observed context: VB"
+    ],
+    [
+      "c9g2p1",
+      "discount",
+      "POS conflicts with observed context: VBN"
+    ],
+    [
+      "c9g2p1",
+      "distinct",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c9g2p3",
+      "approach",
+      "POS conflicts with observed context: VBN"
+    ],
+    [
+      "c9g2p3",
+      "notice",
+      "POS conflicts with observed context: VBD"
+    ],
+    [
+      "c10t1p1",
+      "archaeological",
+      "POS conflicts with observed context: NNP"
+    ],
+    [
+      "c10t2p2",
+      "predict",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c10t2p3",
+      "reinforce",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c10t3p2",
+      "herbivore",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c10t3p2",
+      "nutrient",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c10t4p1",
+      "commission",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c10t4p1",
+      "despite",
+      "POS conflicts with observed context: IN"
+    ],
+    [
+      "c10t4p2",
+      "despite",
+      "POS conflicts with observed context: IN"
+    ],
+    [
+      "c10t4p3",
+      "minuscule",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c10t4p3",
+      "characteristic",
+      "POS conflicts with observed context: VB"
+    ],
+    [
+      "c10t4p3",
+      "genetic",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c11t1p2",
+      "transport",
+      "POS conflicts with observed context: VBN"
+    ],
+    [
+      "c11t1p2",
+      "despite",
+      "POS conflicts with observed context: IN"
+    ],
+    [
+      "c11t1p3",
+      "induce",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c11t1p3",
+      "reinforce",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c11t1p3",
+      "transparent",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c11t2p1",
+      "require",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c11t2p1",
+      "approach",
+      "POS conflicts with observed context: VBD"
+    ],
+    [
+      "c11t2p1",
+      "archaeological",
+      "POS conflicts with observed context: NNP"
+    ],
+    [
+      "c11t2p2",
+      "maintain",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c11t2p2",
+      "transport",
+      "POS conflicts with observed context: VBD"
+    ],
+    [
+      "c11t2p3",
+      "process",
+      "POS conflicts with observed context: VB"
+    ],
+    [
+      "c11t3p1",
+      "process",
+      "POS conflicts with observed context: VBN"
+    ],
+    [
+      "c11t3p1",
+      "improve",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c11t3p2",
+      "distinguish",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c11t3p3",
+      "require",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c11t4p2",
+      "emerge",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c12t1p1",
+      "ancient",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c12t1p1",
+      "specialise",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c12t1p2",
+      "identify",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c12t2p1",
+      "breed",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c12t2p1",
+      "distinguish",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c12t2p1",
+      "fossil",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c12t2p1",
+      "minimise",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c12t2p3",
+      "cognitive",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c12t3p1",
+      "breed",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c12t3p1",
+      "distinct",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c12t3p1",
+      "barren",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c12t3p2",
+      "emerge",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c12t3p3",
+      "intricate",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c12t4p2",
+      "breed",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c12t4p2",
+      "establish",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c13t1p1",
+      "generate",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c13t1p2",
+      "approach",
+      "POS conflicts with observed context: VBP"
+    ],
+    [
+      "c13t2p1",
+      "indicate",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c13t2p2",
+      "outcome",
+      "POS conflicts with observed context: RP"
+    ],
+    [
+      "c13t2p3",
+      "attribute",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c13t2p3",
+      "reveal",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c13t3p3",
+      "archaeologist",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c13t3p3",
+      "estimate",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c13t3p3",
+      "insight",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c13t4p2",
+      "sustainable",
+      "POS conflicts with observed context: NNP"
+    ],
+    [
+      "c14t1p2",
+      "perceive",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c14t1p3",
+      "enhance",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c14t3p1",
+      "notion",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c14t3p1",
+      "phenomenon",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c14t4p2",
+      "breed",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c14t4p2",
+      "ecosystem",
+      "POS conflicts with observed context: IN"
+    ],
+    [
+      "c14t4p2",
+      "restore",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c14t4p3",
+      "perceive",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c15t1p1",
+      "fertile",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c15t1p1",
+      "uproot",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c15t1p2",
+      "specialise",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c15t1p3",
+      "breed",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c15t1p3",
+      "deplete",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c15t1p3",
+      "hardy",
+      "POS conflicts with observed context: NNP"
+    ],
+    [
+      "c15t2p1",
+      "prevalent",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c15t2p2",
+      "establish",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c15t3p2",
+      "generate",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c15t3p3",
+      "preserve",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c16t1p2",
+      "archaeologist",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c16t1p3",
+      "cognitive",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c16t1p3",
+      "instinct",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c16t1p3",
+      "thrive",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c16t2p1",
+      "archaeological",
+      "POS conflicts with observed context: NNP"
+    ],
+    [
+      "c16t2p1",
+      "preserve",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c16t3p1",
+      "approach",
+      "POS conflicts with observed context: VB"
+    ],
+    [
+      "c16t3p3",
+      "stimulate",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c16t3p3",
+      "pinpoint",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c16t4p2",
+      "sequence",
+      "POS conflicts with observed context: VB"
+    ],
+    [
+      "c17t1p2",
+      "ancient",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c17t2p1",
+      "insight",
+      "POS conflicts with observed context: RB"
+    ],
+    [
+      "c17t2p2",
+      "drought",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c17t2p3",
+      "diverse",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c17t2p3",
+      "enhance",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c17t3p1",
+      "distinguish",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c17t3p1",
+      "scarce",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c17t3p2",
+      "habitat",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c17t3p3",
+      "identify",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c17t4p2",
+      "equivalent",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c17t4p2",
+      "estimate",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c17t4p2",
+      "threshold",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c18t1p1",
+      "breed",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c18t1p1",
+      "hardy",
+      "POS conflicts with observed context: NNP"
+    ],
+    [
+      "c18t2p1",
+      "estimate",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c18t2p2",
+      "specialise",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c18t3p1",
+      "fossil",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c18t3p3",
+      "estimate",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c18t3p3",
+      "extract",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c18t3p3",
+      "advocate",
+      "POS conflicts with observed context: VBZ"
+    ],
+    [
+      "c18t4p2",
+      "attribute",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c19t1p2",
+      "extract",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c19t1p3",
+      "detrimental",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c19t1p3",
+      "facilitate",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c19t1p3",
+      "monitor",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c19t2p3",
+      "attribute",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c19t2p3",
+      "emerge",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c19t2p3",
+      "equivalent",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c19t3p1",
+      "ancient",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c19t3p2",
+      "fertile",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c19t4p1",
+      "specialise",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "c19t4p3",
+      "estimate",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "c21t1p2",
+      "approach",
+      "POS conflicts with observed context: VB"
+    ],
+    [
+      "c21t1p3",
+      "dedicate",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "c21t2p1",
+      "insight",
+      "POS conflicts with observed context: RB"
+    ],
+    [
+      "c21t3p1",
+      "extinction",
+      "POS conflicts with observed context: VB"
+    ],
+    [
+      "c21t4p2",
+      "remote",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "t2p1",
+      "uproot",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "t2p3",
+      "automated",
+      "POS conflicts with observed context: NNP"
+    ],
+    [
+      "t2p3",
+      "evolve",
+      "POS conflicts with observed context: NNS"
+    ],
+    [
+      "t3p2",
+      "minuscule",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "t3p2",
+      "spawn",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "t3p3",
+      "outstrip",
+      "POS conflicts with observed context: JJ"
+    ],
+    [
+      "t4p2",
+      "barren",
+      "POS conflicts with observed context: NN"
+    ],
+    [
+      "t4p3",
+      "livestock",
+      "POS conflicts with observed context: RB"
+    ]
+  ],
+  "phrasesAdded": 461,
+  "passages": 198,
+  "vocabBefore": 2662,
+  "grammarBefore": 791,
+  "vocabAfter": 2949,
+  "grammarAfter": 907
+}

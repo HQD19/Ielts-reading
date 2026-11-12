@@ -1,0 +1,77 @@
+[
+  {
+    "book": 7,
+    "pages": 177,
+    "filename": "7.pdf"
+  },
+  {
+    "book": 8,
+    "pages": 173,
+    "filename": "8.pdf"
+  },
+  {
+    "book": 9,
+    "pages": 165,
+    "filename": "9.pdf"
+  },
+  {
+    "book": 10,
+    "pages": 106,
+    "filename": "10.pdf"
+  },
+  {
+    "book": 11,
+    "pages": 144,
+    "filename": "11.pdf"
+  },
+  {
+    "book": 12,
+    "pages": 140,
+    "filename": "12.pdf"
+  },
+  {
+    "book": 13,
+    "pages": 143,
+    "filename": "13.pdf"
+  },
+  {
+    "book": 14,
+    "pages": 119,
+    "filename": "14.pdf"
+  },
+  {
+    "book": 15,
+    "pages": 142,
+    "filename": "15.pdf"
+  },
+  {
+    "book": 16,
+    "pages": 143,
+    "filename": "16.pdf"
+  },
+  {
+    "book": 17,
+    "pages": 135,
+    "filename": "17.pdf"
+  },
+  {
+    "book": 18,
+    "pages": 148,
+    "filename": "18.pdf"
+  },
+  {
+    "book": 19,
+    "pages": 138,
+    "filename": "19.pdf"
+  },
+  {
+    "book": 20,
+    "pages": 184,
+    "filename": "20.pdf"
+  },
+  {
+    "book": 21,
+    "pages": 146,
+    "filename": "21.pdf"
+  }
+]
