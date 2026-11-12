@@ -2391,7 +2391,7 @@ html.dark .source-preview,html.dark .map-table{background:#1d2a40}html.dark .pil
   </header>
   <div class="sessionbar">
     <nav class="passage-tabs" id="passage-tabs" aria-label="Chọn passage"></nav>
-    <div class="timer-box" id="timer-box"><span data-icon="clock"></span><div><div class="timer-label" id="timer-label">THỜI GIAN CÒN LẠI</div><div class="timer-digits" id="timer">20:00</div></div><button class="timer-control" id="timer-control" aria-label="Bắt đầu đồng hồ" title="Bắt đầu / Tạm dừng (Alt+P)"></button></div>
+    <div class="timer-box" id="timer-box"><label class="screenreader" for="duration-select">Thời gian làm bài (phút)</label><select id="duration-select" class="test-select" aria-label="Thời gian làm bài (phút)" title="Chọn thời gian trước khi bắt đầu"><option value="10" >10 phút</option><option value="11" >11 phút</option><option value="12" >12 phút</option><option value="13" >13 phút</option><option value="14" >14 phút</option><option value="15" >15 phút</option><option value="16" >16 phút</option><option value="17" >17 phút</option><option value="18" >18 phút</option><option value="19" >19 phút</option><option value="20" selected>20 phút</option><option value="21" >21 phút</option><option value="22" >22 phút</option><option value="23" >23 phút</option><option value="24" >24 phút</option><option value="25" >25 phút</option><option value="26" >26 phút</option><option value="27" >27 phút</option><option value="28" >28 phút</option><option value="29" >29 phút</option><option value="30" >30 phút</option><option value="31" >31 phút</option><option value="32" >32 phút</option><option value="33" >33 phút</option><option value="34" >34 phút</option><option value="35" >35 phút</option><option value="36" >36 phút</option><option value="37" >37 phút</option><option value="38" >38 phút</option><option value="39" >39 phút</option><option value="40" >40 phút</option><option value="41" >41 phút</option><option value="42" >42 phút</option><option value="43" >43 phút</option><option value="44" >44 phút</option><option value="45" >45 phút</option><option value="46" >46 phút</option><option value="47" >47 phút</option><option value="48" >48 phút</option><option value="49" >49 phút</option><option value="50" >50 phút</option><option value="51" >51 phút</option><option value="52" >52 phút</option><option value="53" >53 phút</option><option value="54" >54 phút</option><option value="55" >55 phút</option><option value="56" >56 phút</option><option value="57" >57 phút</option><option value="58" >58 phút</option><option value="59" >59 phút</option><option value="60" >60 phút</option></select><span data-icon="clock"></span><div><div class="timer-label" id="timer-label">THỜI GIAN CÒN LẠI</div><div class="timer-digits" id="timer">20:00</div></div><button class="timer-control" id="timer-control" aria-label="Bắt đầu đồng hồ" title="Bắt đầu / Tạm dừng (Alt+P)"></button></div>
     <div class="session-actions"><div class="progress-copy"><strong id="progress-copy">0 / 13 câu đã trả lời</strong><div class="progress-track"><div class="progress-fill" id="progress-fill"></div></div></div><button class="primary" id="submit-button"><span data-icon="check"></span><span>Nộp bài</span></button></div>
   </div>
   <main class="workspace" id="workspace">
@@ -2489,6 +2489,7 @@ function newState() {
     multi: {},
     flags: [],
     annotations: [],
+    duration: 1200,
     remaining: 1200,
     running: false,
     started: false,
@@ -2523,7 +2524,8 @@ function sanitizeState(s, p) {
       end: x.end
     }))
   })).filter(a => a.segments.length) : [];
-  out.remaining = Number.isFinite(s.remaining) ? Math.max(0, Math.min(1200, s.remaining)) : 1200;
+  out.duration = Number.isInteger(s.duration) && s.duration >= 600 && s.duration <= 3600 && s.duration % 60 === 0 ? s.duration : 1200;
+  out.remaining = Number.isFinite(s.remaining) ? Math.max(0, Math.min(out.duration, s.remaining)) : out.duration;
   out.started = !!s.started;
   out.graded = !!s.graded;
   out.expired = !!s.expired;
@@ -2661,6 +2663,8 @@ function updateTimer() {
   const s = state(),
     r = remaining();
   $('#timer').textContent = displayTime(r);
+  $('#duration-select').value = String(s.duration / 60);
+  $('#duration-select').disabled = s.started || s.graded;
   $('#timer-box').classList.toggle('low', r <= 120);
   $('#timer-control').innerHTML = icon(s.running ? 'pause' : 'play');
   $('#timer-control').setAttribute('aria-label', s.running ? 'Tạm dừng đồng hồ' : s.started ? 'Tiếp tục đồng hồ' :
@@ -3177,7 +3181,7 @@ function finish(expired) {
 }
 
 function showResults(expired){
- const total=questions().length,scorable=scorableQuestions().length,correct=score(),elapsed=1200-state().remaining;
+ const total=questions().length,scorable=scorableQuestions().length,correct=score(),elapsed=state().duration-state().remaining;
  $('#submit-dialog-content').innerHTML=`<div class="dialog-top"><h2>${expired?'Hết giờ — bài đã được nộp.':'Một lượt luyện đã hoàn thành.'}</h2><button class="icon-btn" data-close="submit-dialog" aria-label="Đóng">${icon('close')}</button></div><div class="score-big"><b>${correct}</b><span>/ ${scorable}</span></div><div class="score-caption">${scorable?Math.round(correct/scorable*100):0}% chính xác · Cambridge ${current.book} · ${esc(current.title)}</div><div class="result-stats"><div><b>${answeredCount()}</b><small>ĐÃ TRẢ LỜI</small></div><div><b>${total-answeredCount()}</b><small>CÒN TRỐNG</small></div><div><b>${displayTime(elapsed)}</b><small>THỜI GIAN LÀM</small></div></div>${scorable<total?`<p>Chấm được ${scorable}/${total} câu có khóa đáp án đã xác minh. Những câu còn lại vẫn được lưu.</p>`:''}<p>Điểm này dành cho một passage/section, không quy đổi trực tiếp thành IELTS band. ${esc(answerSourceText())}</p><div class="dialog-actions"><button class="secondary" data-close="submit-dialog">Đóng</button><button class="primary" id="review-answers">Xem đáp án &amp; học lại ${icon('right')}</button></div>`;
  $('#review-answers').onclick=()=>{$('#submit-dialog').close();setStudy(true);showTab('answers');};openDialog('submit-dialog');
 }
@@ -3196,6 +3200,8 @@ function resetCurrent() {
   $('#confirm-reset').onclick = () => {
     const old = state(),
       fresh = newState();
+    fresh.duration = old.duration;
+    fresh.remaining = old.duration;
     fresh.annotations = old.annotations;
     db.states[current.id] = fresh;
     db.study = false;
@@ -3204,7 +3210,7 @@ function resetCurrent() {
     persist();
     $('#submit-dialog').close();
     renderAll();
-    toast('Đã mở lượt luyện mới · 20 phút.');
+    toast(`Đã mở lượt luyện mới · ${fresh.duration / 60} phút.`);
   };
   openDialog('submit-dialog');
 }
@@ -3805,6 +3811,14 @@ $('#passage-tabs').onclick = e => {
   if (b) switchPassage(b.dataset.passage);
 };
 $('#study-toggle').onclick = () => setStudy(!db.study);
+$('#duration-select').onchange = e => {
+  const minutes = Number(e.target.value), s = state();
+  if (s.started || s.graded || !Number.isInteger(minutes) || minutes < 10 || minutes > 60) { updateTimer(); return; }
+  s.duration = minutes * 60;
+  s.remaining = s.duration;
+  persist();
+  updateTimer();
+};
 $('#timer-control').onclick = toggleTimer;
 $('#resume-overlay').onclick = toggleTimer;
 $('#submit-button').onclick = requestSubmit;

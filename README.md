@@ -6,7 +6,7 @@
 
 - Thư viện Cambridge 7–21: 180 bài Academic, 60 bộ đề, 2.399 câu hỏi có trong các PDF đầu vào.
 - Chọn sách, test và passage. Đã loại các bài General Training khỏi dữ liệu ứng dụng.
-- Màn hình hai cột, đồng hồ 20 phút, highlight, ghi chú, cờ xem lại và chấm bài.
+- Màn hình hai cột, đồng hồ tùy chọn 10–60 phút (mặc định 20 phút; chọn trước khi bắt đầu), highlight, ghi chú, cờ xem lại và chấm bài.
 - Mỗi passage có 22–25 mục từ/cụm từ, tổng cộng 4.310 mục; có IPA, nghĩa Việt, câu ví dụ nguyên văn và từ gần nghĩa. Dạng từ thực tế trong bài được ghi riêng.
 - Cấu trúc câu có công thức và dấu hiệu trong câu. Các tab học gồm Từ vựng, Cấu trúc, Flashcards và Đáp án.
 - Chế độ tối có nút bật/tắt, lưu lựa chọn trong trình duyệt.
