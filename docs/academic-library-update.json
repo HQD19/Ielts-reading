@@ -1,0 +1,758 @@
+{
+  "updated": "2026-11-12",
+  "scope": "Academic Reading only, Cambridge 7–21",
+  "removedGeneralPassages": 18,
+  "summary": {
+    "books": 15,
+    "passages": 180,
+    "tests": 60,
+    "questions": 2399,
+    "vocabulary": 4310,
+    "minimum": 22,
+    "maximum": 25,
+    "figures": 375
+  },
+  "checks": {
+    "uniquePassageAndVocabularyKeys": true,
+    "allVocabularyExamplesVerbatimInPassage": true,
+    "allVocabularySourceFormsInExamples": true,
+    "allVocabularyFieldsPresent": true,
+    "academicQuestionsAndPassageTextUnchanged": true
+  },
+  "notes": [
+    "Grammar and question source text preserved.",
+    "Vocabulary POS and meaning corrections include electrical conduct, positron emission, suspended from service, and context-specific commission/material.",
+    "Source matching validates quotations, not complete semantic accuracy.",
+    "Cambridge 14 Test 4 retains 39 available questions because Q22 is missing from the supplied PDF."
+  ],
+  "passages": [
+    {
+      "id": "c10t1p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c10t1p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c10t1p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c10t2p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c10t2p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c10t2p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c10t3p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c10t3p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c10t3p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c10t4p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c10t4p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c10t4p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c11t1p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c11t1p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c11t1p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c11t2p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c11t2p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c11t2p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c11t3p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c11t3p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c11t3p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c11t4p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c11t4p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c11t4p3",
+      "vocabulary": 23
+    },
+    {
+      "id": "c12t1p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c12t1p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c12t1p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c12t2p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c12t2p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c12t2p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c12t3p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c12t3p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c12t3p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c12t4p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c12t4p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c12t4p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c13t1p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c13t1p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c13t1p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c13t2p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c13t2p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c13t2p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c13t3p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c13t3p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c13t3p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c13t4p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c13t4p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c13t4p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c14t1p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c14t1p2",
+      "vocabulary": 22
+    },
+    {
+      "id": "c14t1p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c14t2p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c14t2p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c14t2p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c14t3p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c14t3p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c14t3p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c14t4p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c14t4p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c14t4p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c15t1p1",
+      "vocabulary": 23
+    },
+    {
+      "id": "c15t1p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c15t1p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c15t2p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c15t2p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c15t2p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c15t3p1",
+      "vocabulary": 23
+    },
+    {
+      "id": "c15t3p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c15t3p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c15t4p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c15t4p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c15t4p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c16t1p1",
+      "vocabulary": 25
+    },
+    {
+      "id": "c16t1p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c16t1p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c16t2p1",
+      "vocabulary": 23
+    },
+    {
+      "id": "c16t2p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c16t2p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c16t3p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c16t3p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c16t3p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c16t4p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c16t4p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c16t4p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c17t1p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c17t1p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c17t1p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c17t2p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c17t2p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c17t2p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c17t3p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c17t3p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c17t3p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c17t4p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c17t4p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c17t4p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c18t1p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c18t1p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c18t1p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c18t2p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c18t2p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c18t2p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c18t3p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c18t3p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c18t3p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c18t4p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c18t4p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c18t4p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c19t1p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c19t1p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c19t1p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c19t2p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c19t2p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c19t2p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c19t3p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c19t3p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c19t3p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c19t4p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c19t4p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c19t4p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c21t1p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c21t1p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c21t1p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c21t2p1",
+      "vocabulary": 23
+    },
+    {
+      "id": "c21t2p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c21t2p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c21t3p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c21t3p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c21t3p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c21t4p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c21t4p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c21t4p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c7t1p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c7t1p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c7t1p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c7t2p1",
+      "vocabulary": 23
+    },
+    {
+      "id": "c7t2p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c7t2p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c7t3p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c7t3p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c7t3p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c7t4p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c7t4p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c7t4p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c8t1p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c8t1p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c8t1p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c8t2p1",
+      "vocabulary": 22
+    },
+    {
+      "id": "c8t2p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c8t2p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c8t3p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c8t3p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c8t3p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c8t4p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c8t4p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c8t4p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c9t1p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c9t1p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c9t1p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c9t2p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c9t2p2",
+      "vocabulary": 23
+    },
+    {
+      "id": "c9t2p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c9t3p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c9t3p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c9t3p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "c9t4p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "c9t4p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "c9t4p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "t1p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "t1p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "t1p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "t2p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "t2p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "t2p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "t3p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "t3p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "t3p3",
+      "vocabulary": 24
+    },
+    {
+      "id": "t4p1",
+      "vocabulary": 24
+    },
+    {
+      "id": "t4p2",
+      "vocabulary": 24
+    },
+    {
+      "id": "t4p3",
+      "vocabulary": 24
+    }
+  ],
+  "browserChecks": {
+    "renderedVocabularyForAll180Passages": true,
+    "generalSelectorRemoved": true,
+    "darkModePersistsAfterReload": true,
+    "academicAnswersAndReviewFlagsRetained": true,
+    "savedFlashcardsRetainedWithoutReassigningSource": true,
+    "runtimeErrors": 0
+  }
+}

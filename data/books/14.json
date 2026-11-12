@@ -392,6 +392,76 @@
         "example": "But what they often lack is the evidence to base policies on.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "contribution",
+        "pos": "n",
+        "ipa": "/ˌkɒntrɪˈbjuːʃən/",
+        "meaning": "sự đóng góp",
+        "synonyms": "input; assistance",
+        "example": "Let's not lose sight of its benefits, and the fundamental contributions it makes to human achievements in the arts, sciences and technology.",
+        "needle": "contributions",
+        "sourceForm": "contributions"
+      },
+      {
+        "term": "intellectual",
+        "pos": "adj",
+        "ipa": "/ˌɪntəˈlektʃuəl/",
+        "meaning": "thuộc trí tuệ",
+        "synonyms": "mental; cognitive",
+        "example": "Whitebread, who directs PEDAL, trained as a primary school teacher in the early 1970s, when, as he describes, 'the teaching of young children was largely a quiet backwater, untroubled by any serious intellectual debate or controversy.'",
+        "needle": "intellectual",
+        "sourceForm": "intellectual"
+      },
+      {
+        "term": "achievement",
+        "pos": "n",
+        "ipa": "/əˈtʃiːvmənt/",
+        "meaning": "thành tựu",
+        "synonyms": "accomplishment; success",
+        "example": "'Play in all its rich variety is one of the highest achievements of the human species,' says Dr David Whitebread from the Faculty of Education at the University of Cambridge, I-JK.",
+        "needle": "achievements",
+        "sourceForm": "achievements"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "Now, thanks to the university's new Centre for Research on Play in Education, Development and Learning (PEDAL), Whitebread, Baker, Gibson and a team of researchers hope to provide evidence on the role played by play in how a child develops.",
+        "needle": "Development",
+        "sourceForm": "Development"
+      },
+      {
+        "term": "experience",
+        "pos": "n",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "meaning": "kinh nghiệm; trải nghiệm",
+        "synonyms": "knowledge gained through practice",
+        "example": "If playful experiences do facilitate this aspect of development, say the researchers, it could be extremely significant for educational practices, because the ability to self-regulate has been shown to be a key predictor of academic performance.",
+        "needle": "experiences",
+        "sourceForm": "experiences"
+      },
+      {
+        "term": "importance",
+        "pos": "n",
+        "ipa": "/ɪmˈpɔːtəns/",
+        "meaning": "tầm quan trọng",
+        "synonyms": "significance",
+        "example": "Recognising the importance of play is not new: over two millennia ago, the Greek philosopher Plato extolled its virtues as a means of developing skills for adult life, and ideas about play-based learning have been developing since the 19th century.",
+        "needle": "importance",
+        "sourceForm": "importance"
+      },
+      {
+        "term": "scientific",
+        "pos": "adj",
+        "ipa": "/ˌsaɪənˈtɪfɪk/",
+        "meaning": "thuộc khoa học",
+        "synonyms": "research-based",
+        "example": "In a study carried out by Baker with toddlers and young pre-schoolers, she found that children with greater self-control solved problems more quickly when exploring an unfamiliar set-up requiring scientific reasoning.",
+        "needle": "scientific",
+        "sourceForm": "scientific"
       }
     ],
     "grammar": [
@@ -727,6 +797,176 @@
         "example": "The police were opposed to Provo's initiatives and almost as soon as the white bikes were distributed around the city, they removed them.",
         "needle": "initiatives",
         "sourceForm": "initiatives"
+      },
+      {
+        "term": "contribute",
+        "pos": "v",
+        "ipa": "/kənˈtrɪbjuːt/",
+        "meaning": "đóng góp; góp phần gây ra",
+        "synonyms": "add to",
+        "example": "It turned out that a white bicycle – per person, per kilometre - would cost the municipality only 10% of what it contributed to public transport per person per kilometre.",
+        "needle": "contributed",
+        "sourceForm": "contributed"
+      },
+      {
+        "term": "experiment",
+        "pos": "n",
+        "ipa": "/ɪkˈsperɪmənt/",
+        "meaning": "thí nghiệm",
+        "synonyms": "trial; test",
+        "example": "'People had become more environmentally conscious, and the Danish experiment had proved that bike-sharing was a real possibility.'",
+        "needle": "experiment",
+        "sourceForm": "experiment"
+      },
+      {
+        "term": "industrial",
+        "pos": "adj",
+        "ipa": "/ɪnˈdʌstriəl/",
+        "meaning": "thuộc công nghiệp",
+        "synonyms": "manufacturing",
+        "example": "Luud Schimmelpennik, a Dutch industrial engineer who still lives and cycles in Amsterdam, was heavily involved in the original scheme.",
+        "needle": "industrial",
+        "sourceForm": "industrial"
+      },
+      {
+        "term": "successful",
+        "pos": "adj",
+        "ipa": "/səkˈsesfəl/",
+        "meaning": "thành công",
+        "synonyms": "effective; achieving its aim",
+        "example": "Although he thinks it is strange that a city like Amsterdam does not have a successful bike-sharing scheme, he is optimistic about the future.",
+        "needle": "successful",
+        "sourceForm": "successful"
+      },
+      {
+        "term": "attention",
+        "pos": "n",
+        "ipa": "/əˈtenʃən/",
+        "meaning": "sự chú ý",
+        "synonyms": "concentration; notice",
+        "example": "He recalls how the scheme succeeded in attracting a great deal of attention – particularly when it came to publicizing Provo's aims – but struggled to get off the ground.",
+        "needle": "attention",
+        "sourceForm": "attention"
+      },
+      {
+        "term": "conscious",
+        "pos": "adj",
+        "ipa": "/ˈkɒnʃəs/",
+        "meaning": "có ý thức, nhận biết",
+        "synonyms": "aware",
+        "example": "'People had become more environmentally conscious, and the Danish experiment had proved that bike-sharing was a real possibility.'",
+        "needle": "conscious",
+        "sourceForm": "conscious"
+      },
+      {
+        "term": "pollution",
+        "pos": "n",
+        "ipa": "/pəˈluːʃn/",
+        "meaning": "sự ô nhiễm",
+        "synonyms": "contamination",
+        "example": "They believed the scheme, which was known as the Witte Fietsenplan, was an answer to the perceived threats of air pollution and consumerism.",
+        "needle": "pollution",
+        "sourceForm": "pollution"
+      },
+      {
+        "term": "transport",
+        "pos": "n",
+        "ipa": "/ˈtrænspɔːt/",
+        "meaning": "sự vận chuyển; giao thông",
+        "synonyms": "transportation",
+        "example": "After setting up the Danish system, Schimmelpennik decided to try his luck again in the Netherlands – and this time he succeeded in arousing the interest of the Dutch Ministry of Transport.",
+        "needle": "Transport",
+        "sourceForm": "Transport"
+      },
+      {
+        "term": "original",
+        "pos": "adj",
+        "ipa": "/əˈrɪdʒənəl/",
+        "meaning": "ban đầu; có tính độc đáo",
+        "synonyms": "initial; novel",
+        "example": "Luud Schimmelpennik, a Dutch industrial engineer who still lives and cycles in Amsterdam, was heavily involved in the original scheme.",
+        "needle": "original",
+        "sourceForm": "original"
+      },
+      {
+        "term": "develop",
+        "pos": "v",
+        "ipa": "/dɪˈveləp/",
+        "meaning": "phát triển",
+        "synonyms": "grow; evolve",
+        "example": "However, riding a white bike was no longer free; it cost one guilder per trip and payment was made with a chip card developed by Dutch bank Postbank.",
+        "needle": "developed",
+        "sourceForm": "developed"
+      },
+      {
+        "term": "involve",
+        "pos": "v",
+        "ipa": "/ɪnˈvɒlv/",
+        "meaning": "bao hàm, liên quan đến",
+        "synonyms": "include; entail",
+        "example": "Luud Schimmelpennik, a Dutch industrial engineer who still lives and cycles in Amsterdam, was heavily involved in the original scheme.",
+        "needle": "involved",
+        "sourceForm": "involved"
+      },
+      {
+        "term": "payment",
+        "pos": "n",
+        "ipa": "/ˈpeɪmənt/",
+        "meaning": "khoản thanh toán",
+        "synonyms": "remittance",
+        "example": "However, riding a white bike was no longer free; it cost one guilder per trip and payment was made with a chip card developed by Dutch bank Postbank.",
+        "needle": "payment",
+        "sourceForm": "payment"
+      },
+      {
+        "term": "project",
+        "pos": "n",
+        "ipa": "/ˈprɒdʒekt/",
+        "meaning": "dự án, công việc có kế hoạch",
+        "synonyms": "planned undertaking",
+        "example": "'To continue the project we would have needed to set up another system, but the business partner had lost interest. '",
+        "needle": "project",
+        "sourceForm": "project"
+      },
+      {
+        "term": "serious",
+        "pos": "adj",
+        "ipa": "/ˈsɪəriəs/",
+        "meaning": "nghiêm trọng; cần được quan tâm",
+        "synonyms": "grave; significant",
+        "example": "Things got more serious when I became a member of the Amsterdam city council two years later.'",
+        "needle": "serious",
+        "sourceForm": "serious"
+      },
+      {
+        "term": "system",
+        "pos": "n",
+        "ipa": "/ˈsɪstəm/",
+        "meaning": "hệ thống",
+        "synonyms": "organised set of parts",
+        "example": "After setting up the Danish system, Schimmelpennik decided to try his luck again in the Netherlands – and this time he succeeded in arousing the interest of the Dutch Ministry of Transport.",
+        "needle": "system",
+        "sourceForm": "system"
+      },
+      {
+        "term": "threat",
+        "pos": "n",
+        "ipa": "/θret/",
+        "meaning": "mối đe dọa",
+        "synonyms": "danger",
+        "example": "They believed the scheme, which was known as the Witte Fietsenplan, was an answer to the perceived threats of air pollution and consumerism.",
+        "needle": "threats",
+        "sourceForm": "threats"
+      },
+      {
+        "term": "urban",
+        "pos": "adj",
+        "ipa": "/ˈɜːbən/",
+        "meaning": "thuộc đô thị",
+        "synonyms": "city",
+        "example": "The original idea for an urban bike-sharing scheme dates back to summer's day in Amsterdam in 1965.",
+        "needle": "urban",
+        "sourceForm": "urban"
       }
     ],
     "grammar": [
@@ -1187,6 +1427,76 @@
         "example": "While it seems likely that employees' reactions to their job characteristics could be affected by a predisposition to view their work environment negatively, no evidence exists to support this hypothesis (Spector et al.,2000).",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "achievement",
+        "pos": "n",
+        "ipa": "/əˈtʃiːvmənt/",
+        "meaning": "thành tựu",
+        "synonyms": "accomplishment; success",
+        "example": "Employees also have intrinsic motivation needs or motivators, which include such factors as achievement and recognition.",
+        "needle": "achievement",
+        "sourceForm": "achievement"
+      },
+      {
+        "term": "appropriate",
+        "pos": "adj",
+        "ipa": "/əˈprəʊpriət/",
+        "meaning": "phù hợp",
+        "synonyms": "suitable",
+        "example": "Those particularly appropriate to the hospitality industry include allowing adequate breaks during the working day, staff -.pportunity functions that involve families, and providing health and well-being opportunities.",
+        "needle": "appropriate",
+        "sourceForm": "appropriate"
+      },
+      {
+        "term": "competitive",
+        "pos": "adj",
+        "ipa": "/kəmˈpetətɪv/",
+        "meaning": "có tính cạnh tranh",
+        "synonyms": "attractive; rivalrous",
+        "example": "Such conditions are particularly troubling for the luxury hotel market, where high-quality service, requiring a sophisticated approach to HRM, is recognized as a critical source of competitive advantage (Maroudas et al., 2008).",
+        "needle": "competitive",
+        "sourceForm": "competitive"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "Despite this recognition of the importance of employee development, the hospitality industry has historically been dominated by underdeveloped HR practices (Lucas, 2002)",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "There is a strong link between the perceptions of employees and particular factors of their work environment that are separate from the work itself, including company policies, salary and vacations.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "improvement",
+        "pos": "n",
+        "ipa": "/ɪmˈpruːvmənt/",
+        "meaning": "sự cải thiện",
+        "synonyms": "enhancement; progress",
+        "example": "Hospitality organizations can therefore enhance employee motivation and retention through the development and improvement of their working conditions.",
+        "needle": "improvement",
+        "sourceForm": "improvement"
+      },
+      {
+        "term": "experience",
+        "pos": "n",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "meaning": "kinh nghiệm; trải nghiệm",
+        "synonyms": "knowledge gained through practice",
+        "example": "This representation has commonly been limited to guest experiences.",
+        "needle": "experiences",
+        "sourceForm": "experiences"
       }
     ],
     "grammar": [
@@ -1552,6 +1862,136 @@
         "example": "There was little competing hobby or amateur photography before the late 1880s because of the time-consuming techniques involved and the weight of the equipment.",
         "needle": "techniques",
         "sourceForm": "techniques"
+      },
+      {
+        "term": "construction",
+        "pos": "n",
+        "ipa": "/kənˈstrʌkʃn/",
+        "meaning": "sự xây dựng",
+        "synonyms": "building",
+        "example": "That same year, while in the lower St Lawrence River region, he took some photographs of the construction of the Intercolonial Railway.",
+        "needle": "construction",
+        "sourceForm": "construction"
+      },
+      {
+        "term": "photography",
+        "pos": "n",
+        "ipa": "/fəˈtɒɡrəfi/",
+        "meaning": "nhiếp ảnh",
+        "synonyms": "taking photographs",
+        "example": "There was little competing hobby or amateur photography before the late 1880s because of the time-consuming techniques involved and the weight of the equipment.",
+        "needle": "photography",
+        "sourceForm": "photography"
+      },
+      {
+        "term": "collection",
+        "pos": "n",
+        "ipa": "/kəˈlekʃən/",
+        "meaning": "bộ sưu tập; việc thu thập",
+        "synonyms": "set of collected objects; gathering",
+        "example": "Today collections of his work are held at the National Archives of Canada, Ottawa, and the McCord Museum of Canadian History, Montreal.",
+        "needle": "collections",
+        "sourceForm": "collections"
+      },
+      {
+        "term": "commission",
+        "pos": "n",
+        "ipa": "/kəˈmɪʃən/",
+        "meaning": "đơn đặt hàng hoặc nhiệm vụ được giao để tạo ra tác phẩm",
+        "synonyms": "order for a work; commissioned assignment",
+        "example": "This undertaking led in 1875 to a commission rom the railway to record the principal structures along the almost-completed line connecting Montreal to Halifax.",
+        "needle": "commission",
+        "sourceForm": "commission"
+      },
+      {
+        "term": "exhibition",
+        "pos": "n",
+        "ipa": "/ˌeksɪˈbɪʃən/",
+        "meaning": "cuộc trưng bày, triển lãm",
+        "synonyms": "display; show",
+        "example": "He met with greater success in 1877 and 1878 in New York whe he won first prizes in the exhibition held by E and HT Anthony and Company for landscapes using the Lambertype process.",
+        "needle": "exhibition",
+        "sourceForm": "exhibition"
+      },
+      {
+        "term": "experiment",
+        "pos": "n",
+        "ipa": "/ɪkˈsperɪmənt/",
+        "meaning": "thí nghiệm",
+        "synonyms": "trial; test",
+        "example": "The two men made a photographic excursion to Niagara Falls in 1860 and they cooperated on experiments with magnesium flares as a source of artificial light in 1865.",
+        "needle": "experiments",
+        "sourceForm": "experiments"
+      },
+      {
+        "term": "photograph",
+        "pos": "n",
+        "ipa": "/ˈfəʊtəɡrɑːf/",
+        "meaning": "bức ảnh",
+        "synonyms": "picture; image",
+        "example": "People wanted to buy photographs as souvernirs of a trip or as gifts, and catering to this market, Henderson had stock photographs on display at his studio for mounting, framing, or inclusion in albums.",
+        "needle": "photographs",
+        "sourceForm": "photographs"
+      },
+      {
+        "term": "successful",
+        "pos": "adj",
+        "ipa": "/səkˈsesfəl/",
+        "meaning": "thành công",
+        "synonyms": "effective; achieving its aim",
+        "example": "Alexander Henderson was born in Scotland in 1831 and was the son of a successful marchant.",
+        "needle": "successful",
+        "sourceForm": "successful"
+      },
+      {
+        "term": "equipment",
+        "pos": "n",
+        "ipa": "/ɪˈkwɪpmənt/",
+        "meaning": "thiết bị",
+        "synonyms": "apparatus",
+        "example": "There was little competing hobby or amateur photography before the late 1880s because of the time-consuming techniques involved and the weight of the equipment.",
+        "needle": "equipment",
+        "sourceForm": "equipment"
+      },
+      {
+        "term": "structure",
+        "pos": "n",
+        "ipa": "/ˈstrʌktʃə/",
+        "meaning": "cấu trúc; công trình",
+        "synonyms": "framework",
+        "example": "This undertaking led in 1875 to a commission rom the railway to record the principal structures along the almost-completed line connecting Montreal to Halifax.",
+        "needle": "structures",
+        "sourceForm": "structures"
+      },
+      {
+        "term": "activity",
+        "pos": "n",
+        "ipa": "/ækˈtɪvəti/",
+        "meaning": "hoạt động",
+        "synonyms": "action; pursuit",
+        "example": "His numerous photographs of city life revealed in street scenes, houses, and markets are alive with human activity, and although his favourite subject was landscape he usually composed his scenes around such human pursuits as farming the land, cutting ice on a river, or sailing down a woodland stream.",
+        "needle": "activity",
+        "sourceForm": "activity"
+      },
+      {
+        "term": "portrait",
+        "pos": "n",
+        "ipa": "/ˈpɔːtrət/",
+        "meaning": "tranh hoặc ảnh chân dung",
+        "synonyms": "likeness of a person",
+        "example": "In 1866, he gave up his business to open a photographic studio, advertising himself as a portrait and landscape photographer.",
+        "needle": "portrait",
+        "sourceForm": "portrait"
+      },
+      {
+        "term": "connect",
+        "pos": "v",
+        "ipa": "/kəˈnekt/",
+        "meaning": "kết nối",
+        "synonyms": "link; join",
+        "example": "This undertaking led in 1875 to a commission rom the railway to record the principal structures along the almost-completed line connecting Montreal to Halifax.",
+        "needle": "connecting",
+        "sourceForm": "connecting"
       }
     ],
     "grammar": [
@@ -1932,6 +2372,126 @@
         "example": "Successful examples of Short's approach include the Queen's Building at the De Montfort University in Leicester.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "construction",
+        "pos": "n",
+        "ipa": "/kənˈstrʌkʃn/",
+        "meaning": "sự xây dựng",
+        "synonyms": "building",
+        "example": "Today, huge amounts of a building's space and construction cost are given over to air conditioning.",
+        "needle": "construction",
+        "sourceForm": "construction"
+      },
+      {
+        "term": "appropriate",
+        "pos": "adj",
+        "ipa": "/əˈprəʊpriət/",
+        "meaning": "phù hợp",
+        "synonyms": "suitable",
+        "example": "Single rooms are not appropriate for all patients.",
+        "needle": "appropriate",
+        "sourceForm": "appropriate"
+      },
+      {
+        "term": "engineering",
+        "pos": "n",
+        "ipa": "/ˌendʒɪˈnɪərɪŋ/",
+        "meaning": "kỹ thuật, ngành thiết kế và chế tạo",
+        "synonyms": "technical design and construction",
+        "example": "The Recovery of Natural Environments in Architecture by Professor Alan Short is culmination of 30 years of research and award-winning green building design by Short and colleagues in Architecture, Engineering, Applied Maths and Earth Sciences at the University of Cambridge.",
+        "needle": "Engineering",
+        "sourceForm": "Engineering"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "The Recovery of Natural Environments in Architecture by Professor Alan Short is culmination of 30 years of research and award-winning green building design by Short and colleagues in Architecture, Engineering, Applied Maths and Earth Sciences at the University of Cambridge.",
+        "needle": "Environments",
+        "sourceForm": "Environments"
+      },
+      {
+        "term": "requirement",
+        "pos": "n",
+        "ipa": "/rɪˈkwaɪəmənt/",
+        "meaning": "yêu cầu, điều kiện cần",
+        "synonyms": "condition",
+        "example": "Short regards glass, steel and air-conditioned skyscrapers as symbols of status, rather than practical ways of meeting our requirements.",
+        "needle": "requirements",
+        "sourceForm": "requirements"
+      },
+      {
+        "term": "particular",
+        "pos": "adj",
+        "ipa": "/pəˈtɪkjələ/",
+        "meaning": "cụ thể, riêng biệt",
+        "synonyms": "specific",
+        "example": "Of particular interest were those built to the designs of John Shaw Billings, including the first Johns Hospital in the US city of Baltimore ( 1873-1889) 'We spent three years digitally modelling Billings' final designs', says Short.",
+        "needle": "particular",
+        "sourceForm": "particular"
+      },
+      {
+        "term": "successful",
+        "pos": "adj",
+        "ipa": "/səkˈsesfəl/",
+        "meaning": "thành công",
+        "synonyms": "effective; achieving its aim",
+        "example": "Successful examples of Short's approach include the Queen's Building at the De Montfort University in Leicester.",
+        "needle": "Successful",
+        "sourceForm": "Successful"
+      },
+      {
+        "term": "principle",
+        "pos": "n",
+        "ipa": "/ˈprɪnsəpl/",
+        "meaning": "nguyên lý, nguyên tắc",
+        "synonyms": "rule",
+        "example": "While miasma theory has been long since disproved, Short has for the last 30 years advocated a return to some of the building design principles produced in its wake.",
+        "needle": "principles",
+        "sourceForm": "principles"
+      },
+      {
+        "term": "discover",
+        "pos": "v",
+        "ipa": "/dɪˈskʌvə/",
+        "meaning": "phát hiện, khám phá",
+        "synonyms": "find; uncover",
+        "example": "' We discovered that 19th –century hospital wards could generate up to 24 air changes an hour- that's similar to the performance of a modern-day, computer-controlled operating theatre.",
+        "needle": "discovered",
+        "sourceForm": "discovered"
+      },
+      {
+        "term": "research",
+        "pos": "n",
+        "ipa": "/rɪˈsɜːtʃ/",
+        "meaning": "nghiên cứu",
+        "synonyms": "investigation",
+        "example": "The Recovery of Natural Environments in Architecture by Professor Alan Short is culmination of 30 years of research and award-winning green building design by Short and colleagues in Architecture, Engineering, Applied Maths and Earth Sciences at the University of Cambridge.",
+        "needle": "research",
+        "sourceForm": "research"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "Containing as many as 2,000 staff and students, the entire building is naturally ventilated, passively cooled and naturally lit, including the two largest auditoria, each seating more than 150 people.",
+        "needle": "including",
+        "sourceForm": "including"
+      },
+      {
+        "term": "protect",
+        "pos": "v",
+        "ipa": "/prəˈtekt/",
+        "meaning": "bảo vệ",
+        "synonyms": "safeguard; preserve",
+        "example": "Much of the ingenuity present in 19th –century hospital and building design was driven by a panicked public clamouring for buildings that could protect against what was thought to be the lethal threat of miasmas- toxic air that spread disease.",
+        "needle": "protect",
+        "sourceForm": "protect"
       }
     ],
     "grammar": [
@@ -2402,6 +2962,56 @@
         "example": "A word of warning to others thinking of jumping on this bandwagon: the evidence so far suggests disorder, much like order, also seems to have diminishing utility, and can also have detrimental effects ori performance if Overused.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "In fact, research shows that, when innovating, the best approach is to create an environment devoid of structure and hierarchy and enable everyone involved to engage as one organic group.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "improvement",
+        "pos": "n",
+        "ipa": "/ɪmˈpruːvmənt/",
+        "meaning": "sự cải thiện",
+        "synonyms": "enhancement; progress",
+        "example": "This approach proved to be highly successful initially, with clear improvements in worker productivity in all facets of the business.",
+        "needle": "improvements",
+        "sourceForm": "improvements"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "These environments can lead to new solutions that, under econventionally structured environments ( filled with bottlenecks in terms of information flow, power structures, rules, and rountines) would never be reached.",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "eventually",
+        "pos": "adv",
+        "ipa": "/ɪˈventʃuəli/",
+        "meaning": "cuối cùng, sau một thời gian",
+        "synonyms": "ultimately",
+        "example": "Order does increase productivity to a certain extent, but eventually the usefulness of the process of organisation, and the benefit it yields, reduce until the point where any further increase in order reduces productivity.",
+        "needle": "eventually",
+        "sourceForm": "eventually"
+      },
+      {
+        "term": "scientific",
+        "pos": "adj",
+        "ipa": "/ˌsaɪənˈtɪfɪk/",
+        "meaning": "thuộc khoa học",
+        "synonyms": "research-based",
+        "example": "Frederick Taylor was one of the forefathers of scientific management.",
+        "needle": "scientific",
+        "sourceForm": "scientific"
       }
     ],
     "grammar": [
@@ -2822,6 +3432,106 @@
         "example": "If an investigation of implicit theories reveals little correspondence between the extant implicit and explicit theories, the implicit theories may be wrong.",
         "needle": "reveals",
         "sourceForm": "reveals"
+      },
+      {
+        "term": "responsibility",
+        "pos": "n",
+        "ipa": "/rɪˌspɒnsəˈbɪləti/",
+        "meaning": "trách nhiệm",
+        "synonyms": "duty",
+        "example": "The Jacksonian view is that all people are equal, not only as human beings but in terms of their competencies- that one person would serve as well as another in government or on a jury or in almost any position of responsibility.",
+        "needle": "responsibility",
+        "sourceForm": "responsibility"
+      },
+      {
+        "term": "investigation",
+        "pos": "n",
+        "ipa": "/ɪnˌvestɪˈɡeɪʃn/",
+        "meaning": "sự điều tra, nghiên cứu",
+        "synonyms": "inquiry; research",
+        "example": "If an investigation of implicit theories reveals little correspondence between the extant implicit and explicit theories, the implicit theories may be wrong.",
+        "needle": "investigation",
+        "sourceForm": "investigation"
+      },
+      {
+        "term": "contribution",
+        "pos": "n",
+        "ipa": "/ˌkɒntrɪˈbjuːʃən/",
+        "meaning": "sự đóng góp",
+        "synonyms": "input; assistance",
+        "example": "Implicit theories of intelligence and of the relationship of intelligence to society perhaps need to be considered more carefully than they have been because they often serve as underlying presuppositions for explicit theories and even experimental designs that are then taken as scientific contributions.",
+        "needle": "contributions",
+        "sourceForm": "contributions"
+      },
+      {
+        "term": "intellectual",
+        "pos": "adj",
+        "ipa": "/ˌɪntəˈlektʃuəl/",
+        "meaning": "thuộc trí tuệ",
+        "synonyms": "mental; cognitive",
+        "example": "As mentioned earlier, people have expectations for intellectual performances that differ for children of different ages.",
+        "needle": "intellectual",
+        "sourceForm": "intellectual"
+      },
+      {
+        "term": "intelligence",
+        "pos": "n",
+        "ipa": "/ɪnˈtelɪdʒəns/",
+        "meaning": "trí thông minh",
+        "synonyms": "mental ability",
+        "example": "In sum, knowledge about implicit theories of intelligence is important because this knowledge is so often used by people to make judgments in the course of their everyday lives.",
+        "needle": "intelligence",
+        "sourceForm": "intelligence"
+      },
+      {
+        "term": "relationship",
+        "pos": "n",
+        "ipa": "/rɪˈleɪʃnʃɪp/",
+        "meaning": "mối quan hệ",
+        "synonyms": "connection",
+        "example": "Implicit theories of intelligence and of the relationship of intelligence to society perhaps need to be considered more carefully than they have been because they often serve as underlying presuppositions for explicit theories and even experimental designs that are then taken as scientific contributions.",
+        "needle": "relationship",
+        "sourceForm": "relationship"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "For example, parents' implicit theories of their children's language development will determine at what ages they will be willing to make various corrections in their children's speech.",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "institution",
+        "pos": "n",
+        "ipa": "/ˌɪnstɪˈtjuːʃən/",
+        "meaning": "cơ sở, tổ chức được thành lập cho một mục đích",
+        "synonyms": "establishment; organisation",
+        "example": "In this view, we do not need or want any institutions that might lead to favoring one group over another.",
+        "needle": "institutions",
+        "sourceForm": "institutions"
+      },
+      {
+        "term": "unconscious",
+        "pos": "adj",
+        "ipa": "/ʌnˈkɒnʃəs/",
+        "meaning": "vô thức, không có ý thức",
+        "synonyms": "unaware",
+        "example": "In other words, people all have unconscious notions- known as 'implicit theories'- of intelligence, but no one knows for certain what it actually is.",
+        "needle": "unconscious",
+        "sourceForm": "unconscious"
+      },
+      {
+        "term": "eventually",
+        "pos": "adv",
+        "ipa": "/ɪˈventʃuəli/",
+        "meaning": "cuối cùng, sau một thời gian",
+        "synonyms": "ultimately",
+        "example": "Herrnstein and Murray (1994) seem to have shared this belief when they wrote about the emergence of a cognitive (high-IQ) elite, which eventually would have to take responsibility for the largely irresponsible masses of non-elite (low-IQ) people who cannot take care of themselves.",
+        "needle": "eventually",
+        "sourceForm": "eventually"
       }
     ],
     "grammar": [
@@ -3280,6 +3990,66 @@
         "example": "Firstly, there are so many insects that, without some manner of targeted approach, investigating this hughe variety of species is a daunting task.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "consequently",
+        "pos": "adv",
+        "ipa": "/ˈkɒnsɪkwəntli/",
+        "meaning": "do đó",
+        "synonyms": "as a result",
+        "example": "Consequently, they have a bewildering array of interactions with other organisms, something which has driven the evolution of an enormous range of every interesting compounds for defensive and offensive purposes.",
+        "needle": "Consequently",
+        "sourceForm": "Consequently"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "Laboratory- based drug discovery has achieved varying levels of success, something which has now prompted the development of new approaches focusing once again on natural products.",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "significant",
+        "pos": "adj",
+        "ipa": "/sɪɡˈnɪfɪkənt/",
+        "meaning": "đáng kể hoặc có ý nghĩa quan trọng",
+        "synonyms": "substantial; meaningful",
+        "example": "Securing sufficient numbers of the organism in question, isolating and characterising the compounds of interest, and producing large quantities of these compounds are all significant hurdles.",
+        "needle": "significant",
+        "sourceForm": "significant"
+      },
+      {
+        "term": "motivation",
+        "pos": "n",
+        "ipa": "/ˌməʊtɪˈveɪʃən/",
+        "meaning": "động lực thúc đẩy hành động",
+        "synonyms": "incentive; drive",
+        "example": "As much as I'd love to help develop a groundbreaking insect-derived medicine, my main motivation for looking at insects in this way is conservation.",
+        "needle": "motivation",
+        "sourceForm": "motivation"
+      },
+      {
+        "term": "proportion",
+        "pos": "n",
+        "ipa": "/prəˈpɔːʃən/",
+        "meaning": "tỉ lệ của một phần so với toàn bộ",
+        "synonyms": "share; fraction",
+        "example": "From the tiny proportion of insects that have been investigated, several promising compounds have been identified.",
+        "needle": "proportion",
+        "sourceForm": "proportion"
+      },
+      {
+        "term": "remarkable",
+        "pos": "adj",
+        "ipa": "/rɪˈmɑːkəbəl/",
+        "meaning": "đáng chú ý, khác thường",
+        "synonyms": "notable; extraordinary",
+        "example": "Their remarkable diversity exceeds that of every other group of animals on the planet combined.",
+        "needle": "remarkable",
+        "sourceForm": "remarkable"
       }
     ],
     "grammar": [
@@ -3761,6 +4531,46 @@
         "example": "Critically, recent research supports the idea that adults can facilitate children's learning while maintaining a playful approach in interactions known as 'guide play\" ( Fisher et al.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "construction",
+        "pos": "n",
+        "ipa": "/kənˈstrʌkʃn/",
+        "meaning": "sự xây dựng",
+        "synonyms": "building",
+        "example": "Definitions range from discrete descriptions of various types of play such as physical construction, language, or symbolic play ( Miller & Almon 2009), to lists of broad criteria, based on observations and attitudes ; that are meant to capture the essence of all play behaviors (e.g.",
+        "needle": "construction",
+        "sourceForm": "construction"
+      },
+      {
+        "term": "relationship",
+        "pos": "n",
+        "ipa": "/rɪˈleɪʃnʃɪp/",
+        "meaning": "mối quan hệ",
+        "synonyms": "connection",
+        "example": "Through play, children learn to regulate their behavior, lay the foundations for later learning in science and mathematics, figure out the complex negotiations of social relationships, build a repertoire of creative problem-solving skills, and so much more.",
+        "needle": "relationships",
+        "sourceForm": "relationships"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "Indeed, play is such an instrumental component to healthy child development that the United Nations High Commission on Human Rights (1989) recognized as a fundamental right of every child.",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "At a very basic level, adults can enrich the child's environment by providing objects or experiences that promote aspects of a curriculum.",
+        "needle": "environment",
+        "sourceForm": "environment"
       }
     ],
     "grammar": [
@@ -4102,6 +4912,166 @@
         "example": "Then Giraldo compared the brains of 20-day-old and 95-day-old ants, identifying any cells that were close to death.",
         "needle": "identifying",
         "sourceForm": "identifying"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "Out in the wild, the ants probably don't live for a full 140 days thanks to predators, disease and just being in an environment that's much harsher than the comforts of the lab.'",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "processing information, learning and memory.",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "structure",
+        "pos": "n",
+        "ipa": "/ˈstrʌktʃə/",
+        "meaning": "cấu trúc; công trình",
+        "synonyms": "framework",
+        "example": "Ants and other insects have structures in their brains called mushroom bodies, which are important for",
+        "needle": "structures",
+        "sourceForm": "structures"
+      },
+      {
+        "term": "chemical",
+        "pos": "n/adj",
+        "ipa": "/ˈkemɪkl/",
+        "meaning": "hóa chất; thuộc hóa học",
+        "synonyms": "substance",
+        "example": "What was more, the old ants didn't experience and drop in the levels of either serotonin or dopamine-brain chemicals whose decline often coincides with aging.",
+        "needle": "chemicals",
+        "sourceForm": "chemicals"
+      },
+      {
+        "term": "contrast",
+        "pos": "n",
+        "ipa": "/ˈkɒntrɑːst/",
+        "meaning": "sự tương phản",
+        "synonyms": "difference",
+        "example": "By contrast, most animal studies of aging use mice, worms or fruit flies, which all lead much more isolated lives.",
+        "needle": "contrast",
+        "sourceForm": "contrast"
+      },
+      {
+        "term": "function",
+        "pos": "n",
+        "ipa": "/ˈfʌŋkʃn/",
+        "meaning": "chức năng",
+        "synonyms": "role; purpose",
+        "example": "She saw no major differenced with age, nor was there any difference in the location of the dying cells, showing that age didn't seem to affect specific brain functions.",
+        "needle": "functions",
+        "sourceForm": "functions"
+      },
+      {
+        "term": "isolated",
+        "pos": "adj",
+        "ipa": "/ˈaɪsəleɪtɪd/",
+        "meaning": "bị cô lập, biệt lập",
+        "synonyms": "remote; separated",
+        "example": "By contrast, most animal studies of aging use mice, worms or fruit flies, which all lead much more isolated lives.",
+        "needle": "isolated",
+        "sourceForm": "isolated"
+      },
+      {
+        "term": "previous",
+        "pos": "adj",
+        "ipa": "/ˈpriːviəs/",
+        "meaning": "trước đó",
+        "synonyms": "earlier",
+        "example": "Unlike all previous studies, which only estimated how old the ants were, her work tracked the ants from the time pupae became adults, so she knew their exact ages.",
+        "needle": "previous",
+        "sourceForm": "previous"
+      },
+      {
+        "term": "specific",
+        "pos": "adj",
+        "ipa": "/spəˈsɪfɪk/",
+        "meaning": "cụ thể, xác định rõ",
+        "synonyms": "particular; precise",
+        "example": "She saw no major differenced with age, nor was there any difference in the location of the dying cells, showing that age didn't seem to affect specific brain functions.",
+        "needle": "specific",
+        "sourceForm": "specific"
+      },
+      {
+        "term": "compare",
+        "pos": "v",
+        "ipa": "/kəmˈpeə/",
+        "meaning": "so sánh",
+        "synonyms": "contrast; assess similarities",
+        "example": "She compared how well 20-day-old and 95-day-old ants followed the telltale scent that insects usually leave to mark a trail to food.",
+        "needle": "compared",
+        "sourceForm": "compared"
+      },
+      {
+        "term": "connect",
+        "pos": "v",
+        "ipa": "/kəˈnekt/",
+        "meaning": "kết nối",
+        "synonyms": "link; join",
+        "example": "Humans are also highly social, a triat that has been connected to healthier aging.",
+        "needle": "connected",
+        "sourceForm": "connected"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "Giraldo says, ' including how P.dentata stays in such good shape.",
+        "needle": "including",
+        "sourceForm": "including"
+      },
+      {
+        "term": "similar",
+        "pos": "adj",
+        "ipa": "/ˈsɪmɪlə/",
+        "meaning": "tương tự",
+        "synonyms": "alike; comparable",
+        "example": "Scientists have looked at some similar aspects in bees, but the results of recent bee studies were mixed- some studies showed age-related declines, which biologists call senescence, and others didn't. '",
+        "needle": "similar",
+        "sourceForm": "similar"
+      },
+      {
+        "term": "species",
+        "pos": "n",
+        "ipa": "/ˈspiːʃiːz/",
+        "meaning": "loài",
+        "synonyms": "type of organism",
+        "example": "It will be important to extend these findings to other species of social insects,' says Gene E. Robinson, an entomologist at the University of Illinois at Urbana-Champaign.",
+        "needle": "species",
+        "sourceForm": "species"
+      },
+      {
+        "term": "appear",
+        "pos": "v",
+        "ipa": "/əˈpɪə/",
+        "meaning": "xuất hiện; có vẻ",
+        "synonyms": "emerge; seem",
+        "example": "Old worker ants can do everything just was well as the youngsters, and their brains appear just a sharp. '",
+        "needle": "appear",
+        "sourceForm": "appear"
+      },
+      {
+        "term": "neuron",
+        "pos": "n",
+        "ipa": "/ˈnjʊərɒn/",
+        "meaning": "tế bào thần kinh",
+        "synonyms": "nerve cell",
+        "example": "She also wanted to see if aging affects the density of synaptic complexes within these structures- regions where neurons come together.",
+        "needle": "neurons",
+        "sourceForm": "neurons"
       }
     ],
     "grammar": [
@@ -4427,8 +5397,8 @@
         "term": "reintroduce",
         "pos": "v",
         "ipa": "/ˌriːɪntrəˈdjuːs/",
-        "meaning": "đưa một loài trở lại vùng phân bố cũ",
-        "synonyms": "bring back; restore",
+        "meaning": "đưa trở lại; áp dụng hoặc đưa một loài, đặc điểm trở lại nơi từng có",
+        "synonyms": "bring back; introduce again",
         "needle": "reintroduced",
         "example": "Still more only exist in the wild because they have been reintroduced from zoos, or have wild populations that have been boosted by captive bred animals.",
         "sourceForm": "reintroduced"
@@ -4532,6 +5502,86 @@
         "example": "Their environment might be somewhat restricted, but they have a safe environment in which to live, and they spared bullying an social ostracism by others of their kind.",
         "needle": "social",
         "sourceForm": "social"
+      },
+      {
+        "term": "communication",
+        "pos": "n",
+        "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+        "meaning": "sự giao tiếp, truyền thông",
+        "synonyms": "exchange of information",
+        "example": "This was an area where zoos used to be lacking, but they are now increasingly sophisticated in their communication and outreach work.",
+        "needle": "communication",
+        "sourceForm": "communication"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "In conclusion, considering the many ongoing global threats to the environment, it is hard for me to see zoos as anything other than essential to the long-term survival of numerous species.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "furthermore",
+        "pos": "adv",
+        "ipa": "/ˌfɜːðəˈmɔː/",
+        "meaning": "hơn nữa",
+        "synonyms": "moreover",
+        "example": "Furthermore, zoos serve several key purposes.",
+        "needle": "Furthermore",
+        "sourceForm": "Furthermore"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "In addition to this, there is also the education that can take place in zoos through signs, talks and presentations which directly communicate information to visitors about the animals they are seeing and their place in the world.",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "contribute",
+        "pos": "v",
+        "ipa": "/kənˈtrɪbjuːt/",
+        "meaning": "đóng góp; góp phần gây ra",
+        "synonyms": "add to",
+        "example": "That alone will bring a greater understanding and perspective to many, and hopefully give them a greater appreciation for wildlife, conservation efforts and how they can contribute.",
+        "needle": "contribute",
+        "sourceForm": "contribute"
+      },
+      {
+        "term": "experience",
+        "pos": "n",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "meaning": "kinh nghiệm; trải nghiệm",
+        "synonyms": "knowledge gained through practice",
+        "example": "Procedures such as capturing and moving at-risk or dangerous individuals are bolstered by knowledge gained in zoos about doses for anaesthetics, and by experience in handling and transporting animals.",
+        "needle": "experience",
+        "sourceForm": "experience"
+      },
+      {
+        "term": "individual",
+        "pos": "n/adj",
+        "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+        "meaning": "cá nhân; riêng lẻ",
+        "synonyms": "person; separate",
+        "example": "Procedures such as capturing and moving at-risk or dangerous individuals are bolstered by knowledge gained in zoos about doses for anaesthetics, and by experience in handling and transporting animals.",
+        "needle": "individuals",
+        "sourceForm": "individuals"
+      },
+      {
+        "term": "population",
+        "pos": "n",
+        "ipa": "/ˌpɒpjuˈleɪʃn/",
+        "meaning": "dân số, quần thể",
+        "synonyms": "inhabitants",
+        "example": "Still more only exist in the wild because they have been reintroduced from zoos, or have wild populations that have been boosted by captive bred animals.",
+        "needle": "populations",
+        "sourceForm": "populations"
       }
     ],
     "grammar": [
@@ -4904,6 +5954,166 @@
         "example": "None of that tells us how many birds or fish or sea turtles could die from plastic pollution- or how deaths in one species could affect that animal's predators, or the rest of the ecosystem.",
         "needle": "ecosystem",
         "sourceForm": "ecosystem"
+      },
+      {
+        "term": "investigation",
+        "pos": "n",
+        "ipa": "/ɪnˌvestɪˈɡeɪʃn/",
+        "meaning": "sự điều tra, nghiên cứu",
+        "synonyms": "inquiry; research",
+        "example": "Strikingly, Rochman says, only one well-designed study failed to find the effect it was looking for, an investigation of mussels ingesting microscopic plastic bits.",
+        "needle": "investigation",
+        "sourceForm": "investigation"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "Usually, scientists don't know exactly how disasters such as a tanker accidentally spilling its whole cargo of oil and polluting huge areas of the ocean will affect the environment until after they've happened. '",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "There wasn't a lot of information.",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "collection",
+        "pos": "n",
+        "ipa": "/kəˈlekʃən/",
+        "meaning": "bộ sưu tập; việc thu thập",
+        "synonyms": "set of collected objects; gathering",
+        "example": "For example, the name of the ' Great Pacific Garbage Patch'- a collection of marine debris in the northern Pacific Ocean- might conjure up a vast, floating trash island.",
+        "needle": "collection",
+        "sourceForm": "collection"
+      },
+      {
+        "term": "individual",
+        "pos": "n/adj",
+        "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+        "meaning": "cá nhân; riêng lẻ",
+        "synonyms": "person; separate",
+        "example": "Many studies have looked at how plastic affects an individual animal, or that animal's tissues or cells, rather than whole populations.",
+        "needle": "individual",
+        "sourceForm": "individual"
+      },
+      {
+        "term": "mechanical",
+        "pos": "adj",
+        "ipa": "/məˈkænɪkəl/",
+        "meaning": "thuộc máy móc hoặc cơ học",
+        "synonyms": "machine-operated",
+        "example": "A Dutch group called ' The Ocean Cleanup' is currently working on plans to put mechanical devices in the Pacific Garbage Patch and similar areas to suck up plastic.",
+        "needle": "mechanical",
+        "sourceForm": "mechanical"
+      },
+      {
+        "term": "population",
+        "pos": "n",
+        "ipa": "/ˌpɒpjuˈleɪʃn/",
+        "meaning": "dân số, quần thể",
+        "synonyms": "inhabitants",
+        "example": "For example, a study could show that certain seabirds eat plastic bags, and go on to warn that whole bird populations are at risk of dying out. '",
+        "needle": "populations",
+        "sourceForm": "populations"
+      },
+      {
+        "term": "scientific",
+        "pos": "adj",
+        "ipa": "/ˌsaɪənˈtɪfɪk/",
+        "meaning": "thuộc khoa học",
+        "synonyms": "research-based",
+        "example": "Interrogating the existing scientific literature can help ecologists figure out which problems really need addressing, and which ones they'd be better off- like the musselsabsorbing and ignoring.",
+        "needle": "scientific",
+        "sourceForm": "scientific"
+      },
+      {
+        "term": "attention",
+        "pos": "n",
+        "ipa": "/əˈtenʃən/",
+        "meaning": "sự chú ý",
+        "synonyms": "concentration; notice",
+        "example": "Asking the right questions can help policy makers, and the public, figure out where to focus their attention.",
+        "needle": "attention",
+        "sourceForm": "attention"
+      },
+      {
+        "term": "determine",
+        "pos": "v",
+        "ipa": "/dɪˈtɜːmɪn/",
+        "meaning": "xác định, quyết định",
+        "synonyms": "establish",
+        "example": "Plenty of studies have sounded alarm bells about the state of marine debris; in a recent paper published in the journal Ecology, Rochman and her colleagues set out to determine how many of those perceived risks are real.",
+        "needle": "determine",
+        "sourceForm": "determine"
+      },
+      {
+        "term": "pollution",
+        "pos": "n",
+        "ipa": "/pəˈluːʃn/",
+        "meaning": "sự ô nhiễm",
+        "synonyms": "contamination",
+        "example": "But a recent paper used simulations to show that strategically positioning the cleanup devices closer to shore would more effectively reduce pollution over the long term",
+        "needle": "pollution",
+        "sourceForm": "pollution"
+      },
+      {
+        "term": "synthetic",
+        "pos": "adj",
+        "ipa": "/sɪnˈθetɪk/",
+        "meaning": "tổng hợp, nhân tạo",
+        "synonyms": "artificial",
+        "example": "These may be ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, or eroded remnants of larger debris.",
+        "needle": "synthetic",
+        "sourceForm": "synthetic"
+      },
+      {
+        "term": "clothing",
+        "pos": "n",
+        "ipa": "/ˈkləʊðɪŋ/",
+        "meaning": "quần áo",
+        "synonyms": "garments; clothes",
+        "example": "These may be ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, or eroded remnants of larger debris.",
+        "needle": "clothing",
+        "sourceForm": "clothing"
+      },
+      {
+        "term": "material",
+        "pos": "n",
+        "ipa": "/məˈtɪəriəl/",
+        "meaning": "vật liệu, chất liệu",
+        "synonyms": "substance; raw material",
+        "example": "Within the studies they looked at, most of the proven threats came from plastic debris, rather than other materials like metal or wood.",
+        "needle": "materials",
+        "sourceForm": "materials"
+      },
+      {
+        "term": "research",
+        "pos": "n",
+        "ipa": "/rɪˈsɜːtʃ/",
+        "meaning": "nghiên cứu",
+        "synonyms": "investigation",
+        "example": "Compared to the number of studies investigating large-scale debris, Rochman's group found little research on the effects of these tiny bits. '",
+        "needle": "research",
+        "sourceForm": "research"
+      },
+      {
+        "term": "compare",
+        "pos": "v",
+        "ipa": "/kəmˈpeə/",
+        "meaning": "so sánh",
+        "synonyms": "contrast; assess similarities",
+        "example": "Compared to the number of studies investigating large-scale debris, Rochman's group found little research on the effects of these tiny bits. '",
+        "needle": "Compared",
+        "sourceForm": "Compared"
       }
     ],
     "grammar": [

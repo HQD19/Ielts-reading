@@ -4,13 +4,14 @@
 
 ## Tính năng
 
-- Thư viện Cambridge 7–21: 198 bài/section, 66 bộ đề, 2.639 câu hỏi có trong các PDF đầu vào.
-- Chọn sách, test, Academic hoặc General Training khi sách có cả hai.
+- Thư viện Cambridge 7–21: 180 bài Academic, 60 bộ đề, 2.399 câu hỏi có trong các PDF đầu vào.
+- Chọn sách, test và passage. Đã loại các bài General Training khỏi dữ liệu ứng dụng.
 - Màn hình hai cột, đồng hồ 20 phút, highlight, ghi chú, cờ xem lại và chấm bài.
-- Từ vựng và cụm từ có IPA, nghĩa Việt, nguyên văn ví dụ và ghi chú cách dùng.
-- Cấu trúc câu có công thức và dấu hiệu trong câu; tab Phrasal Verbs có 42 mục từ thông dụng.
+- Mỗi passage có 22–25 mục từ/cụm từ, tổng cộng 4.310 mục; có IPA, nghĩa Việt, câu ví dụ nguyên văn và từ gần nghĩa. Dạng từ thực tế trong bài được ghi riêng.
+- Cấu trúc câu có công thức và dấu hiệu trong câu. Các tab học gồm Từ vựng, Cấu trúc, Flashcards và Đáp án.
+- Chế độ tối có nút bật/tắt, lưu lựa chọn trong trình duyệt.
 - Flashcard SRS, xuất/khôi phục JSON và đối chiếu nghĩa flashcard đã lưu với bản sửa.
-- 411 ảnh trang câu hỏi gốc, hỗ trợ phóng to để xem bảng và sơ đồ.
+- 375 ảnh trang câu hỏi Academic gốc, hỗ trợ phóng to để xem bảng và sơ đồ.
 
 Tiến độ học được lưu trong trình duyệt, không gửi lên GitHub. Chức năng chính chạy ngoại tuyến; tra từ chưa có trong bộ từ cục bộ có thể dùng Free Dictionary API và cần mạng.
 
@@ -36,7 +37,7 @@ build.py                   # Build độc lập, không cần cài dependency
 src/index.template.html    # Mã nguồn giao diện và JavaScript
 data/books.json            # Danh mục sách
 data/books/*.json          # Bài đọc, câu hỏi, đáp án và nội dung học tập
-data/phrasal-verbs.json    # Thư viện cụm động từ
+data/phrasal-verbs.json    # Ngân hàng biên tập cũ, không nhúng vào ứng dụng
 data/*.tsv                 # Ngân hàng cụm từ để biên tập
 assets/figures/             # Ảnh nguồn dùng trong ứng dụng
 docs/                      # Ghi nhận kiểm tra và cải thiện dữ liệu
@@ -53,8 +54,8 @@ Nội dung Reading được chuyển đổi từ các PDF Cambridge do người 
 
 Đáp án lấy từ bảng khóa trong PDF khi có; các đáp án phân tích bổ sung được ghi riêng. Giải thích, nghĩa Việt và tài liệu học tập không phải tài liệu giải thích chính thức của Cambridge. Dữ liệu OCR có thể còn lỗi; tab đáp án và ảnh nguồn giúp đối chiếu.
 
-Bản `14.pdf` đầu vào thiếu nội dung câu 22 ở Test 4: ứng dụng giữ 39 câu thực có của test đó và ghi chú chỗ thiếu. Vì vậy tổng số câu của thư viện là 2.639.
+Bản `14.pdf` đầu vào thiếu nội dung câu 22 ở Test 4: ứng dụng giữ 39 câu thực có của test đó và ghi chú chỗ thiếu. Vì vậy tổng số câu của thư viện Academic là 2.399.
 
-Ví dụ trong thư viện Phrasal Verbs được tự soạn và được phân biệt với trích đoạn bài đọc. Các prepositional verbs, cụm ba thành phần và cụm cố định có nhãn loại riêng.
+Build chỉ chọn dữ liệu có `track: academic`. Để kiểm tra số mục từ, trích dẫn nguyên văn, tính duy nhất và dữ liệu ảnh trước khi build, chạy `python tools/validate_library.py`. Báo cáo đợt cập nhật nằm trong `docs/academic-library-update.json`.
 
 Việc chuẩn hóa từ vựng và cấu trúc có kiểm tra nguyên văn, nhưng không thay thế việc duyệt ngữ nghĩa thủ công toàn bộ bộ dữ liệu. Nội dung sách nguồn vẫn thuộc quyền của chủ sở hữu tương ứng; chưa cấp giấy phép phân phối công khai cho bộ dữ liệu này.

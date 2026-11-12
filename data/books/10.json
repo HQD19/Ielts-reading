@@ -284,8 +284,8 @@
         "term": "commission",
         "pos": "v",
         "ipa": "/kəˈmɪʃən/",
-        "meaning": "đặt làm, thuê phát triển hệ thống",
-        "synonyms": "order; authorise production",
+        "meaning": "đặt làm hoặc giao thực hiện một công việc theo yêu cầu",
+        "synonyms": "order; engage someone to produce something",
         "example": "At 46 metres deep, 20 metres wide and 40 metres long, the intricately carved monument is one of 21 baoris commissioned in the Bundi area by Nathavatji.",
         "needle": "commissioned",
         "sourceForm": "commissioned"
@@ -369,6 +369,86 @@
         "example": "In Patan, the state's ancient capital, the stepwell of Rani Ki Vav (Queen's Stepwell) is perhaps the finest current example.",
         "needle": "ancient",
         "sourceForm": "ancient"
+      },
+      {
+        "term": "architecture",
+        "pos": "n",
+        "ipa": "/ˈɑːkɪtektʃə/",
+        "meaning": "kiến trúc; nghệ thuật thiết kế công trình",
+        "synonyms": "building design",
+        "example": "It actually resembles a tank (kund means reservoir or pond) rather than a well, but displays the hallmarks of stepwell architecture, including four sides of steps that descend to the bottom in a stunning geometrical .",
+        "needle": "architecture",
+        "sourceForm": "architecture"
+      },
+      {
+        "term": "engineering",
+        "pos": "n",
+        "ipa": "/ˌendʒɪˈnɪərɪŋ/",
+        "meaning": "kỹ thuật, ngành thiết kế và chế tạo",
+        "synonyms": "technical design and construction",
+        "example": "Today, following years of neglect, many of these monuments to medieval engineering have been saved by the Archaeological Survey of India, which has recognised the importance of preserving them as part of the country's rich history.",
+        "needle": "engineering",
+        "sourceForm": "engineering"
+      },
+      {
+        "term": "importance",
+        "pos": "n",
+        "ipa": "/ɪmˈpɔːtəns/",
+        "meaning": "tầm quan trọng",
+        "synonyms": "significance",
+        "example": "Today, following years of neglect, many of these monuments to medieval engineering have been saved by the Archaeological Survey of India, which has recognised the importance of preserving them as part of the country's rich history.",
+        "needle": "importance",
+        "sourceForm": "importance"
+      },
+      {
+        "term": "elaborate",
+        "pos": "adj",
+        "ipa": "/ɪˈlæbərət/",
+        "meaning": "được thiết kế công phu, nhiều chi tiết",
+        "synonyms": "intricate; complex",
+        "example": "()thers are more elaborate, with long stepped passages leading to the water via several storeys.",
+        "needle": "elaborate",
+        "sourceForm": "elaborate"
+      },
+      {
+        "term": "existence",
+        "pos": "n",
+        "ipa": "/ɪɡˈzɪstəns/",
+        "meaning": "sự tồn tại",
+        "synonyms": "presence; being",
+        "example": "Tourists flock to wells in far-flung corners of northwestern India to gaze in wonder at these architectural marvels from hundreds of years ago, which serve as a reminder of both the ingenuity and artistry of ancient civilisations and of the value of water to human existence.",
+        "needle": "existence",
+        "sourceForm": "existence"
+      },
+      {
+        "term": "intricate",
+        "pos": "adj",
+        "ipa": "/ˈɪntrɪkət/",
+        "meaning": "phức tạp với nhiều chi tiết liên kết",
+        "synonyms": "elaborate; complex",
+        "example": "But perhaps the most impressive features are the intricate decorative sculptures that embellish many stepwells, showing activities from fighting and dancing to everyday acts such as women combing their hair or churning butter.",
+        "needle": "intricate",
+        "sourceForm": "intricate"
+      },
+      {
+        "term": "sculpture",
+        "pos": "n",
+        "ipa": "/ˈskʌlptʃə/",
+        "meaning": "điêu khắc; tác phẩm điêu khắc",
+        "synonyms": "three-dimensional artwork",
+        "example": "But perhaps the most impressive features are the intricate decorative sculptures that embellish many stepwells, showing activities from fighting and dancing to everyday acts such as women combing their hair or churning butter.",
+        "needle": "sculptures",
+        "sourceForm": "sculptures"
+      },
+      {
+        "term": "activity",
+        "pos": "n",
+        "ipa": "/ækˈtɪvəti/",
+        "meaning": "hoạt động",
+        "synonyms": "action; pursuit",
+        "example": "But perhaps the most impressive features are the intricate decorative sculptures that embellish many stepwells, showing activities from fighting and dancing to everyday acts such as women combing their hair or churning butter.",
+        "needle": "activities",
+        "sourceForm": "activities"
       }
     ],
     "grammar": [
@@ -802,6 +882,76 @@
         "example": "The first approach would consist of focusing on road transport soiely through pricing.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "infrastructure",
+        "pos": "n",
+        "ipa": "/ˈɪnfrəstrʌktʃə/",
+        "meaning": "cơ sở hạ tầng phục vụ một cộng đồng",
+        "synonyms": "basic facilities; support systems",
+        "example": "However, this approach does not include investment in new infrastructure, nor does it guarantee better regional cohesion.",
+        "needle": "infrastructure",
+        "sourceForm": "infrastructure"
+      },
+      {
+        "term": "distribution",
+        "pos": "n",
+        "ipa": "/ˌdɪstrɪˈbjuːʃən/",
+        "meaning": "sự phân bố hoặc phân phối",
+        "synonyms": "spread; allocation",
+        "example": "And although many candidate countries inherited a transport system which encourages rail, the distribution between modes has tipped sharply in favour of road transport since the 1990s.",
+        "needle": "distribution",
+        "sourceForm": "distribution"
+      },
+      {
+        "term": "concentrate",
+        "pos": "v",
+        "ipa": "/ˈkɒnsntreɪt/",
+        "meaning": "tập trung",
+        "synonyms": "focus",
+        "example": "The second approach also concentrates on road transport pricing but is accompanied by measures to increase the efficiency of the other modes (better quality of services, logistics, technology).",
+        "needle": "concentrates",
+        "sourceForm": "concentrates"
+      },
+      {
+        "term": "consumption",
+        "pos": "n",
+        "ipa": "/kənˈsʌmpʃən/",
+        "meaning": "sự tiêu thụ hoặc sử dụng",
+        "synonyms": "use; expenditure",
+        "example": "In 1998, energy consumption in the transport sector was to blame for 28% of emissions of C02, the leading greenhouse gas.",
+        "needle": "consumption",
+        "sourceForm": "consumption"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "Although modern information technologies can reduce the demand for physical transport by facilitating teleworking and teleservices, the requirement for transport continues to increase.",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "requirement",
+        "pos": "n",
+        "ipa": "/rɪˈkwaɪəmənt/",
+        "meaning": "yêu cầu, điều kiện cần",
+        "synonyms": "condition",
+        "example": "Although modern information technologies can reduce the demand for physical transport by facilitating teleworking and teleservices, the requirement for transport continues to increase.",
+        "needle": "requirement",
+        "sourceForm": "requirement"
+      },
+      {
+        "term": "sustainable",
+        "pos": "adj",
+        "ipa": "/səˈsteɪnəbəl/",
+        "meaning": "có thể duy trì lâu dài mà không làm cạn nguồn lực",
+        "synonyms": "viable long-term; environmentally sound",
+        "example": "The ambitious objective can only be fully achieved by 2020, but proposed measures are nonetheless a first essential step towards a sustainable transport system which will ideally be in place in 80 years' time, that is by 2040.",
+        "needle": "sustainable",
+        "sourceForm": "sustainable"
       }
     ],
     "grammar": [
@@ -1256,6 +1406,86 @@
         "example": "Managers should therefore adopt an approach that appears counterintuitive — they should explain what stands to be lost if the company fails to seize a particular opportunity.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "responsibility",
+        "pos": "n",
+        "ipa": "/rɪˌspɒnsəˈbɪləti/",
+        "meaning": "trách nhiệm",
+        "synonyms": "duty",
+        "example": "The wrong kind of leadership will lead to what Cialdini calls 'captainitis, the regrettable tendency of team members to opt out of team responsibilities that are properly theirs'.",
+        "needle": "responsibilities",
+        "sourceForm": "responsibilities"
+      },
+      {
+        "term": "simultaneously",
+        "pos": "adv",
+        "ipa": "/ˌsɪməlˈteɪniəsli/",
+        "meaning": "cùng một thời điểm",
+        "synonyms": "at the same time; concurrently",
+        "example": "Cialdini says: 'Leaders should encourage everyone to contribute and simultaneously assure all concerned that every recommendation is important to making the right decision and will be given full attention.'",
+        "needle": "simultaneously",
+        "sourceForm": "simultaneously"
+      },
+      {
+        "term": "psychological",
+        "pos": "adj",
+        "ipa": "/ˌsaɪkəˈlɒdʒɪkəl/",
+        "meaning": "thuộc tâm lý",
+        "synonyms": "mental; relating to the mind",
+        "example": "However, a manager who wants to create a truly innovative culture can make their job a lot easier by recognising these psychological realities.",
+        "needle": "psychological",
+        "sourceForm": "psychological"
+      },
+      {
+        "term": "accomplished",
+        "pos": "adj",
+        "ipa": "/əˈkʌmplɪʃt/",
+        "meaning": "thành thạo; có kỹ năng cao nhờ rèn luyện",
+        "synonyms": "skilled; proficient",
+        "example": "'When asked how they had cracked the code ahead of an array of highly accomplished rivalinvestigators, he said something that stunned me.",
+        "needle": "accomplished",
+        "sourceForm": "accomplished"
+      },
+      {
+        "term": "circumstance",
+        "pos": "n",
+        "ipa": "/ˈsɜːkəmstəns/",
+        "meaning": "hoàn cảnh, điều kiện xảy ra sự việc",
+        "synonyms": "condition; situation",
+        "example": "Studies at Harvard Business School show that, although some individuals may be more creative than others, almost every individual can be creative in the right circumstances.",
+        "needle": "circumstances",
+        "sourceForm": "circumstances"
+      },
+      {
+        "term": "contribution",
+        "pos": "n",
+        "ipa": "/ˌkɒntrɪˈbjuːʃən/",
+        "meaning": "sự đóng góp",
+        "synonyms": "input; assistance",
+        "example": "Research shows that the fit between an employee's values and a company's values makes a difference to what contribution they make and whether, two years after they join, they're still at the company.",
+        "needle": "contribution",
+        "sourceForm": "contribution"
+      },
+      {
+        "term": "nevertheless",
+        "pos": "adv",
+        "ipa": "/ˌnevəðəˈles/",
+        "meaning": "tuy nhiên, dù vậy",
+        "synonyms": "nonetheless",
+        "example": "There are, nevertheless, people working in luxurious, state-of-the-art centres designed to stimulate innovation who find that their environment doesn't make them feel at all creative.",
+        "needle": "nevertheless",
+        "sourceForm": "nevertheless"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "Watson, together with Francis Crick, discovered the structure of DNA, the genetic information carrier of all living organisms.",
+        "needle": "information",
+        "sourceForm": "information"
       }
     ],
     "grammar": [
@@ -1688,6 +1918,76 @@
         "example": "'%ere are about 20 different factors and all of them need to be present before the revolution can happen,' he says.",
         "needle": "factors",
         "sourceForm": "factors"
+      },
+      {
+        "term": "improvement",
+        "pos": "n",
+        "ipa": "/ɪmˈpruːvmənt/",
+        "meaning": "sự cải thiện",
+        "synonyms": "enhancement; progress",
+        "example": "%ere were improvements in agriculture that wiped out malaria, but these were small gains.",
+        "needle": "improvements",
+        "sourceForm": "improvements"
+      },
+      {
+        "term": "historical",
+        "pos": "adj",
+        "ipa": "/hɪˈstɒrɪkəl/",
+        "meaning": "thuộc lịch sử",
+        "synonyms": "relating to past events",
+        "example": "Some digging around in historical records revealed that there was a change in the incidence of water-borne disease at that time, especially dysentery.",
+        "needle": "historical",
+        "sourceForm": "historical"
+      },
+      {
+        "term": "industrial",
+        "pos": "adj",
+        "ipa": "/ɪnˈdʌstriəl/",
+        "meaning": "thuộc công nghiệp",
+        "synonyms": "manufacturing",
+        "example": "'When you start moving towards an industrial revolution, it is economically efficient to have people living close together,' says Macfarlane.",
+        "needle": "industrial",
+        "sourceForm": "industrial"
+      },
+      {
+        "term": "sufficient",
+        "pos": "adj",
+        "ipa": "/səˈfɪʃənt/",
+        "meaning": "đủ cho một nhu cầu hoặc mục đích",
+        "synonyms": "adequate; enough",
+        "example": "All these factors must have been necessary but not sufficient to cause the revolution,' says Macfarlane.",
+        "needle": "sufficient",
+        "sourceForm": "sufficient"
+      },
+      {
+        "term": "widespread",
+        "pos": "adj",
+        "ipa": "/ˈwaɪdspred/",
+        "meaning": "phổ biến hoặc trải rộng trên nhiều khu vực",
+        "synonyms": "extensive; prevalent",
+        "example": "Sanitation did not become widespread until the 19th century.",
+        "needle": "widespread",
+        "sourceForm": "widespread"
+      },
+      {
+        "term": "community",
+        "pos": "n",
+        "ipa": "/kəˈmjuːnəti/",
+        "meaning": "cộng đồng",
+        "synonyms": "local population",
+        "example": "antiseptic properties of tannin, the active ingredient in tea, and of hops in beer — plus the fact that both are made with boiled water — allowed urban communities to flourish at close quarters without succumbing to water-borne diseases such as dysentery.",
+        "needle": "communities",
+        "sourceForm": "communities"
+      },
+      {
+        "term": "introduce",
+        "pos": "v",
+        "ipa": "/ˌɪntrəˈdjuːs/",
+        "meaning": "giới thiệu, đưa vào sử dụng",
+        "synonyms": "present; bring in",
+        "example": "But in the late 17th century a tax was introduced on malt, the basic ingredient of beer.",
+        "needle": "introduced",
+        "sourceForm": "introduced"
       }
     ],
     "grammar": [
@@ -2143,6 +2443,66 @@
         "example": "To sum up, learning is affected by emotions of both the individual and significant others.",
         "needle": "significant",
         "sourceForm": "significant"
+      },
+      {
+        "term": "characteristic",
+        "pos": "n",
+        "ipa": "/ˌkærəktəˈrɪstɪk/",
+        "meaning": "đặc điểm tiêu biểu",
+        "synonyms": "feature; trait",
+        "example": "Research with creative scientists by Simonton (1988) brought him to the conclusion that above a certain high level, characteristics such as independence seemed to contribute more to reaching the highest levels of expertise than intellectual skills, due to the great demands of effort and time needed for learning and practice.",
+        "needle": "characteristics",
+        "sourceForm": "characteristics"
+      },
+      {
+        "term": "independence",
+        "pos": "n",
+        "ipa": "/ˌɪndɪˈpendəns/",
+        "meaning": "sự độc lập",
+        "synonyms": "autonomy; freedom",
+        "example": "Research with creative scientists by Simonton (1988) brought him to the conclusion that above a certain high level, characteristics such as independence seemed to contribute more to reaching the highest levels of expertise than intellectual skills, due to the great demands of effort and time needed for learning and practice.",
+        "needle": "independence",
+        "sourceForm": "independence"
+      },
+      {
+        "term": "intellectual",
+        "pos": "adj",
+        "ipa": "/ˌɪntəˈlektʃuəl/",
+        "meaning": "thuộc trí tuệ",
+        "synonyms": "mental; cognitive",
+        "example": "Research with creative scientists by Simonton (1988) brought him to the conclusion that above a certain high level, characteristics such as independence seemed to contribute more to reaching the highest levels of expertise than intellectual skills, due to the great demands of effort and time needed for learning and practice.",
+        "needle": "intellectual",
+        "sourceForm": "intellectual"
+      },
+      {
+        "term": "intelligence",
+        "pos": "n",
+        "ipa": "/ɪnˈtelɪdʒəns/",
+        "meaning": "trí thông minh",
+        "synonyms": "mental ability",
+        "example": "Children's educational environment contributes to the IQ score and the way intelligence is used.",
+        "needle": "intelligence",
+        "sourceForm": "intelligence"
+      },
+      {
+        "term": "achievement",
+        "pos": "n",
+        "ipa": "/əˈtʃiːvmənt/",
+        "meaning": "thành tựu",
+        "synonyms": "accomplishment; success",
+        "example": "Because IQ tests are decidedly influenced by what the child has learned, they are to some extent measures of current achievement based on age-norms; that is, how well the children have learned to manipulate their knowledge and know-how within the terms of the test.",
+        "needle": "achievement",
+        "sourceForm": "achievement"
+      },
+      {
+        "term": "demonstrate",
+        "pos": "v",
+        "ipa": "/ˈdemənstreɪt/",
+        "meaning": "chứng minh hoặc thể hiện rõ",
+        "synonyms": "show; establish",
+        "example": "This happens to such a high degree in some children that they appear to be demonstrating talent in particular areas.",
+        "needle": "demonstrating",
+        "sourceForm": "demonstrating"
       }
     ],
     "grammar": [
@@ -2572,6 +2932,96 @@
         "example": "Consequently, the dominant critical approach becomes that of the art historian, a specialised academic approach devoted to 'discovering the meaning' of art within the cultural context of its time.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "consequently",
+        "pos": "adv",
+        "ipa": "/ˈkɒnsɪkwəntli/",
+        "meaning": "do đó",
+        "synonyms": "as a result",
+        "example": "Consequently, the dominant critical approach becomes that of the art historian, a specialised academic approach devoted to 'discovering the meaning' of art within the cultural context of its time.",
+        "needle": "Consequently",
+        "sourceForm": "Consequently"
+      },
+      {
+        "term": "reproduction",
+        "pos": "n",
+        "ipa": "/ˌriːprəˈdʌkʃn/",
+        "meaning": "sự sinh sản; bản sao",
+        "synonyms": "breeding; copy",
+        "example": "If appropriate works of fine art could be rendered permanently accessible to the public by means of high-fidelity reproductions, as literature and music already are, the public may feel somewhat less in awe of them.",
+        "needle": "reproductions",
+        "sourceForm": "reproductions"
+      },
+      {
+        "term": "furthermore",
+        "pos": "adv",
+        "ipa": "/ˌfɜːðəˈmɔː/",
+        "meaning": "hơn nữa",
+        "synonyms": "moreover",
+        "example": "Furthermore, consideration of the 'value' of the original work in its treasure house setting impresses upon the viewer that, since these works were originally produced, they have been assigned a huge monetary value by some person or institution more powerful than themselves.",
+        "needle": "Furthermore",
+        "sourceForm": "Furthermore"
+      },
+      {
+        "term": "institution",
+        "pos": "n",
+        "ipa": "/ˌɪnstɪˈtjuːʃən/",
+        "meaning": "cơ sở, tổ chức được thành lập cho một mục đích",
+        "synonyms": "establishment; organisation",
+        "example": "Furthermore, consideration of the 'value' of the original work in its treasure house setting impresses upon the viewer that, since these works were originally produced, they have been assigned a huge monetary value by some person or institution more powerful than themselves.",
+        "needle": "institution",
+        "sourceForm": "institution"
+      },
+      {
+        "term": "recognition",
+        "pos": "n",
+        "ipa": "/ˌrekəɡˈnɪʃən/",
+        "meaning": "sự nhận ra hoặc công nhận",
+        "synonyms": "identification; acknowledgement",
+        "example": "But despite an implicit recognition that the spread of good reproductions can be culturally valuable, museums continue to promote the special status of original work.",
+        "needle": "recognition",
+        "sourceForm": "recognition"
+      },
+      {
+        "term": "spontaneous",
+        "pos": "adj",
+        "ipa": "/spɒnˈteɪniəs/",
+        "meaning": "tự phát, không được lên kế hoạch trước",
+        "synonyms": "unplanned; instinctive",
+        "example": "Again, this seems to put paid to that spontaneous, participatory criticism which can be found in abundance in criticism of classic works of literature, but is absent from most art history.",
+        "needle": "spontaneous",
+        "sourceForm": "spontaneous"
+      },
+      {
+        "term": "collection",
+        "pos": "n",
+        "ipa": "/kəˈlekʃən/",
+        "meaning": "bộ sưu tập; việc thu thập",
+        "synonyms": "set of collected objects; gathering",
+        "example": "In addition, a major collection like that of London's National Gallery is housed in numerous rooms, each with dozens of works, any one of which is likely to be worth more than all the average visitor possesses.",
+        "needle": "collection",
+        "sourceForm": "collection"
+      },
+      {
+        "term": "experience",
+        "pos": "n",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "meaning": "kinh nghiệm; trải nghiệm",
+        "synonyms": "knowledge gained through practice",
+        "example": "Unfortunately, this seems to place severe limitations on the kind of experience offered to visitors.",
+        "needle": "experience",
+        "sourceForm": "experience"
+      },
+      {
+        "term": "historical",
+        "pos": "adj",
+        "ipa": "/hɪˈstɒrɪkəl/",
+        "meaning": "thuộc lịch sử",
+        "synonyms": "relating to past events",
+        "example": "As repositories of unique historical objects, art museums are often called 'treasure houses'.",
+        "needle": "historical",
+        "sourceForm": "historical"
       }
     ],
     "grammar": [
@@ -2998,6 +3448,66 @@
         "example": "In fact, McIntosh and Goeldner (1990) suggest that tourism has become the largest commodity in international trade for many nations and, for a significant number of other countries, it ranks second or third.",
         "needle": "significant",
         "sourceForm": "significant"
+      },
+      {
+        "term": "transportation",
+        "pos": "n",
+        "ipa": "/ˌtrænspɔːˈteɪʃən/",
+        "meaning": "việc vận chuyển người hoặc hàng hóa",
+        "synonyms": "conveyance; transport",
+        "example": "Historians suggest that the advent of mass tourism began in England during the industrial revolution with the rise of the middle class and the availability of relatively inexpensive transportation.",
+        "needle": "transportation",
+        "sourceForm": "transportation"
+      },
+      {
+        "term": "accommodation",
+        "pos": "n",
+        "ipa": "/əˌkɒməˈdeɪʃn/",
+        "meaning": "chỗ ở",
+        "synonyms": "lodging",
+        "example": "The travel industry includes: hotels, motels and other types of accommodation; restaurants and other food services; transportation services and facilities; amusements, attractions and other leisure facilities; gift shops and a large number of other enterprises.",
+        "needle": "accommodation",
+        "sourceForm": "accommodation"
+      },
+      {
+        "term": "availability",
+        "pos": "n",
+        "ipa": "/əˌveɪləˈbɪləti/",
+        "meaning": "mức độ có sẵn để sử dụng",
+        "synonyms": "accessibility; supply",
+        "example": "Historians suggest that the advent of mass tourism began in England during the industrial revolution with the rise of the middle class and the availability of relatively inexpensive transportation.",
+        "needle": "availability",
+        "sourceForm": "availability"
+      },
+      {
+        "term": "contribution",
+        "pos": "n",
+        "ipa": "/ˌkɒntrɪˈbjuːʃən/",
+        "meaning": "sự đóng góp",
+        "synonyms": "input; assistance",
+        "example": "According to the World Travel and Tourism Council (1992), 'Travel and tourism is the largest industry in the world on virtually any economic measure including value-added capitalinvestment, employment and tax contributions'.",
+        "needle": "contributions",
+        "sourceForm": "contributions"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "Moreover, in all nations this problem has made it difficult for the industry to develop any type of reliable or credible tourism information base in order to estimate the contribution it makes to regional, national and global economies.",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "employment",
+        "pos": "n",
+        "ipa": "/ɪmˈplɔɪmənt/",
+        "meaning": "việc làm",
+        "synonyms": "work",
+        "example": "In turn, international tourism became the concern of a number of world governments since it not only provided new employment opportunities but also produced a means of earning foreign exchange.",
+        "needle": "employment",
+        "sourceForm": "employment"
       }
     ],
     "grammar": [
@@ -3412,6 +3922,96 @@
         "example": "As fall approaches in the northern hemisphere, the amount of solar energy available declines considerably.",
         "needle": "approaches",
         "sourceForm": "approaches"
+      },
+      {
+        "term": "manufacture",
+        "pos": "v/n",
+        "ipa": "/ˌmænjuˈfæktʃə/",
+        "meaning": "sản xuất, chế tạo",
+        "synonyms": "produce",
+        "example": "However there are problems with each of these theories, including the fact that leaves are red for such a relatively short period that the expense of energy needed to manufacture the anthocyanins would outweigh any anti-fungal or anti-herbivore activity achieved.",
+        "needle": "manufacture",
+        "sourceForm": "manufacture"
+      },
+      {
+        "term": "deficiency",
+        "pos": "n",
+        "ipa": "/dɪˈfɪʃənsi/",
+        "meaning": "sự thiếu hụt một yếu tố cần thiết",
+        "synonyms": "shortage; inadequacy",
+        "example": "Chlorophyll, although exquisitely evolved to capture the energy of sunlight, can sometimes be overwhelmed by it, especially in situations of drought, low temperatures, or nutrient deficiency.",
+        "needle": "deficiency",
+        "sourceForm": "deficiency"
+      },
+      {
+        "term": "hypothesis",
+        "pos": "n",
+        "ipa": "/haɪˈpɒθəsɪs/",
+        "meaning": "giả thuyết có thể được kiểm chứng",
+        "synonyms": "testable explanation; proposition",
+        "example": "Perhaps the most plausible suggestion as to why leaves would go to the trouble of making anthocyanins when they're busy packing up for the winter is the theory known as the 'light screen' hypothesis.",
+        "needle": "hypothesis",
+        "sourceForm": "hypothesis"
+      },
+      {
+        "term": "production",
+        "pos": "n",
+        "ipa": "/prəˈdʌkʃən/",
+        "meaning": "sự sản xuất, sản lượng",
+        "synonyms": "manufacturing; output",
+        "example": "* photosynthesis: the production of new material from sunlight, water and carbon dioxide",
+        "needle": "production",
+        "sourceForm": "production"
+      },
+      {
+        "term": "attention",
+        "pos": "n",
+        "ipa": "/əˈtenʃən/",
+        "meaning": "sự chú ý",
+        "synonyms": "concentration; notice",
+        "example": "If insects paid attention to such advertisements, they might be prompted to lay their eggs on a duller, and presumably less resistant host.",
+        "needle": "attention",
+        "sourceForm": "attention"
+      },
+      {
+        "term": "plausible",
+        "pos": "adj",
+        "ipa": "/ˈplɔːzəbəl/",
+        "meaning": "có vẻ hợp lý và có thể tin được",
+        "synonyms": "credible; believable",
+        "example": "Perhaps the most plausible suggestion as to why leaves would go to the trouble of making anthocyanins when they're busy packing up for the winter is the theory known as the 'light screen' hypothesis.",
+        "needle": "plausible",
+        "sourceForm": "plausible"
+      },
+      {
+        "term": "activity",
+        "pos": "n",
+        "ipa": "/ækˈtɪvəti/",
+        "meaning": "hoạt động",
+        "synonyms": "action; pursuit",
+        "example": "However there are problems with each of these theories, including the fact that leaves are red for such a relatively short period that the expense of energy needed to manufacture the anthocyanins would outweigh any anti-fungal or anti-herbivore activity achieved.",
+        "needle": "activity",
+        "sourceForm": "activity"
+      },
+      {
+        "term": "chemical",
+        "pos": "n/adj",
+        "ipa": "/ˈkemɪkl/",
+        "meaning": "hóa chất; thuộc hóa học",
+        "synonyms": "substance",
+        "example": "But it is hard to make sense of the manufacture of anthocyanins — why should a tree bother making new chemicals in its leaves when it's already scrambling to withdraw and preserve the ones already there?",
+        "needle": "chemicals",
+        "sourceForm": "chemicals"
+      },
+      {
+        "term": "maintain",
+        "pos": "v",
+        "ipa": "/meɪnˈteɪn/",
+        "meaning": "duy trì; khẳng định",
+        "synonyms": "preserve; assert",
+        "example": "So rather than maintaining the now redundant leaves throughout the winter, the tree saves its precious resources and discards them.",
+        "needle": "maintaining",
+        "sourceForm": "maintaining"
       }
     ],
     "grammar": [
@@ -3882,6 +4482,86 @@
         "example": "An important archaeological discovery on the island of Éfaté in the Pacific archipelago of Vanuatu has revealed traces of an ancient seafaring people, the distant ancestors of today's Polynesians.",
         "needle": "ancient",
         "sourceForm": "ancient"
+      },
+      {
+        "term": "archaeology",
+        "pos": "n",
+        "ipa": "/ˌɑːkiˈɒlədʒi/",
+        "meaning": "khảo cổ học",
+        "synonyms": "study of ancient material remains",
+        "example": "There is one stubborn question for which archaeology has yet to provide any answers: how did the Lapita accomplish the ancient equivalent of a moon landing, many times over?",
+        "needle": "archaeology",
+        "sourceForm": "archaeology"
+      },
+      {
+        "term": "successful",
+        "pos": "adj",
+        "ipa": "/səkˈsesfəl/",
+        "meaning": "thành công",
+        "synonyms": "effective; achieving its aim",
+        "example": "For returning explorers, successful or not, the pgraphy of their own archipelagoes would have rrrwided a safety net.",
+        "needle": "successful",
+        "sourceForm": "successful"
+      },
+      {
+        "term": "discovery",
+        "pos": "n",
+        "ipa": "/dɪˈskʌvəri/",
+        "meaning": "sự phát hiện",
+        "synonyms": "finding; revelation",
+        "example": "An important archaeological discovery on the island of Éfaté in the Pacific archipelago of Vanuatu has revealed traces of an ancient seafaring people, the distant ancestors of today's Polynesians.",
+        "needle": "discovery",
+        "sourceForm": "discovery"
+      },
+      {
+        "term": "knowledge",
+        "pos": "n",
+        "ipa": "/ˈnɒlɪdʒ/",
+        "meaning": "kiến thức, hiểu biết",
+        "synonyms": "understanding; learning",
+        "example": "'%ey zuid sail out for days into the unknown and_assess area, secure in the knowledge that if udn't find anything, they could turn abo catch a swift ride back on the trade wind'.",
+        "needle": "knowledge",
+        "sourceForm": "knowledge"
+      },
+      {
+        "term": "identify",
+        "pos": "v",
+        "ipa": "/aɪˈdentɪfaɪ/",
+        "meaning": "xác định hoặc nhận diện",
+        "synonyms": "recognise; pinpoint",
+        "example": "team digging up the site, for it conclusively identifies the remains as Lapita.'",
+        "needle": "identifies",
+        "sourceForm": "identifies"
+      },
+      {
+        "term": "indicate",
+        "pos": "v",
+        "ipa": "/ˈɪndɪkeɪt/",
+        "meaning": "chỉ ra hoặc là dấu hiệu của",
+        "synonyms": "suggest; demonstrate",
+        "example": "@versing is what would have made the whole thing Once out there, skilled seafarers would detected abundant leads to follow to land: e*irds, coconuts and twigs carried out to sea by tte tides, and the afternoon pile-up of clouds on ne horizon which often indicates an island in the",
+        "needle": "indicates",
+        "sourceForm": "indicates"
+      },
+      {
+        "term": "ability",
+        "pos": "n",
+        "ipa": "/əˈbɪləti/",
+        "meaning": "khả năng",
+        "synonyms": "capacity; capability",
+        "example": "'Æl we can say for certain is that the Lapita canoes that were capable of ocean voyages, ax.i they had the ability to sail them,' says Geoff a professor of archaeology at the University suckland.",
+        "needle": "ability",
+        "sourceForm": "ability"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "Other items included a Lapita burial urn with modeled birds arranged on the rim as though peering down at the human remains sealed inside.",
+        "needle": "included",
+        "sourceForm": "included"
       }
     ],
     "grammar": [
@@ -4307,6 +4987,56 @@
         "example": "Three other factors contribute to the trend, they add.",
         "needle": "factors",
         "sourceForm": "factors"
+      },
+      {
+        "term": "infrastructure",
+        "pos": "n",
+        "ipa": "/ˈɪnfrəstrʌktʃə/",
+        "meaning": "cơ sở hạ tầng phục vụ một cộng đồng",
+        "synonyms": "basic facilities; support systems",
+        "example": "'We are pleased that the current state administration has been very proactive in its support of us, and [has] come through with budgetary support of the infrastructure needs we have long sought,' says Mr. McHale of the firefighters' union.",
+        "needle": "infrastructure",
+        "sourceForm": "infrastructure"
+      },
+      {
+        "term": "improvement",
+        "pos": "n",
+        "ipa": "/ɪmˈpruːvmənt/",
+        "meaning": "sự cải thiện",
+        "synonyms": "enhancement; progress",
+        "example": "'I am extraordinarily impressed by the improvements we have witnessed,' says Randy Jacobs, a Southern Californiabased lawyer who has had to evacuate both his home and business to escape wildfires.",
+        "needle": "improvements",
+        "sourceForm": "improvements"
+      },
+      {
+        "term": "commission",
+        "pos": "n",
+        "ipa": "/kəˈmɪʃən/",
+        "meaning": "ủy ban được giao nhiệm vụ điều tra hoặc đánh giá",
+        "synonyms": "committee; inquiry panel",
+        "example": "After a commission examined and revamped communications procedures, the statewide response 'has become far more professional and responsive,' he says.",
+        "needle": "commission",
+        "sourceForm": "commission"
+      },
+      {
+        "term": "experience",
+        "pos": "n",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "meaning": "kinh nghiệm; trải nghiệm",
+        "synonyms": "knowledge gained through practice",
+        "example": "There's a reason fire squads battling more frequent blazes in Southern California are having such difficulty containing the flames, despite better preparedness than ever and decades of experience fighting fires fanned by the 'Santa Ana Winds'.",
+        "needle": "experience",
+        "sourceForm": "experience"
+      },
+      {
+        "term": "community",
+        "pos": "n",
+        "ipa": "/kəˈmjuːnəti/",
+        "meaning": "cộng đồng",
+        "synonyms": "local population",
+        "example": "'With so much dryness, so many communities to catch fire, so many fronts to fight, it becomes an almost incredible job. '",
+        "needle": "communities",
+        "sourceForm": "communities"
       }
     ],
     "grammar": [
@@ -4727,6 +5457,96 @@
         "example": "'The evidence is good that most personality traits can be altered,' says Christopher Peterson, professor of psychology at the University of Michigan, who cites himself as an example.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "concentration",
+        "pos": "n",
+        "ipa": "/ˌkɒnsənˈtreɪʃən/",
+        "meaning": "sự tập trung; nồng độ của một chất",
+        "synonyms": "focused attention; proportion",
+        "example": "One thing that can hold joy back is a person's concentration on avoiding failure rather than their looking forward to doing something well.",
+        "needle": "concentration",
+        "sourceForm": "concentration"
+      },
+      {
+        "term": "psychological",
+        "pos": "adj",
+        "ipa": "/ˌsaɪkəˈlɒdʒɪkəl/",
+        "meaning": "thuộc tâm lý",
+        "synonyms": "mental; relating to the mind",
+        "example": "The physical stamina required for this sport is intense but the psychological demands are even more overwhelming.",
+        "needle": "psychological",
+        "sourceForm": "psychological"
+      },
+      {
+        "term": "competitive",
+        "pos": "adj",
+        "ipa": "/kəmˈpetətɪv/",
+        "meaning": "có tính cạnh tranh",
+        "synonyms": "attractive; rivalrous",
+        "example": "'In my career as a competitive freediver, there was a limit to what I could do — but it wasn't anywhere near what I thought it was,' she says.",
+        "needle": "competitive",
+        "sourceForm": "competitive"
+      },
+      {
+        "term": "spontaneous",
+        "pos": "adj",
+        "ipa": "/spɒnˈteɪniəs/",
+        "meaning": "tự phát, không được lên kế hoạch trước",
+        "synonyms": "unplanned; instinctive",
+        "example": "'Now my extroverted behaviour is spontaneous,' he says.",
+        "needle": "spontaneous",
+        "sourceForm": "spontaneous"
+      },
+      {
+        "term": "discipline",
+        "pos": "n",
+        "ipa": "/ˈdɪsəplɪn/",
+        "meaning": "ngành học; sự rèn luyện có quy tắc",
+        "synonyms": "field of study; self-control",
+        "example": "The secret about consuming passions, though, according to psychologist Paul Silvia of the University of North Carolina, is that 'they require discipline, hard work and ability, which is why they are so rewarding.'",
+        "needle": "discipline",
+        "sourceForm": "discipline"
+      },
+      {
+        "term": "psychology",
+        "pos": "n",
+        "ipa": "/saɪˈkɒlədʒi/",
+        "meaning": "tâm lý học",
+        "synonyms": "study of the mind and behaviour",
+        "example": "Suzanne Segerstrom, professor of psychology at the University of Kentucky, believes that the key to increasing optimism is through cultivating optimistic behaviour, rather than positive thinking.",
+        "needle": "psychology",
+        "sourceForm": "psychology"
+      },
+      {
+        "term": "attention",
+        "pos": "n",
+        "ipa": "/əˈtenʃən/",
+        "meaning": "sự chú ý",
+        "synonyms": "concentration; notice",
+        "example": "She recommends you train yourself to pay attention to good fortune by writing down three positive things that come about each day.",
+        "needle": "attention",
+        "sourceForm": "attention"
+      },
+      {
+        "term": "cultivate",
+        "pos": "v",
+        "ipa": "/ˈkʌltɪveɪt/",
+        "meaning": "trồng trọt hoặc nuôi dưỡng một khả năng",
+        "synonyms": "grow; develop",
+        "example": "Suzanne Segerstrom, professor of psychology at the University of Kentucky, believes that the key to increasing optimism is through cultivating optimistic behaviour, rather than positive thinking.",
+        "needle": "cultivating",
+        "sourceForm": "cultivating"
+      },
+      {
+        "term": "curiosity",
+        "pos": "n",
+        "ipa": "/ˌkjʊəriˈɒsəti/",
+        "meaning": "sự tò mò, ham tìm hiểu",
+        "synonyms": "inquisitiveness",
+        "example": "Unfortunately, he was miserable as his research wasn't compatible with his curiosity about healing.",
+        "needle": "curiosity",
+        "sourceForm": "curiosity"
       }
     ],
     "grammar": [
@@ -5214,6 +6034,76 @@
         "example": "The team calculated that there is a good chance of silent genes surviving for up to 6 million years in at least a few individuals in a population, and that some might survive as long as IO million years.",
         "needle": "individuals",
         "sourceForm": "individuals"
+      },
+      {
+        "term": "evolutionary",
+        "pos": "adj",
+        "ipa": "/ˌiːvəˈluːʃənəri/",
+        "meaning": "thuộc quá trình tiến hóa",
+        "synonyms": "related to evolutionary development",
+        "example": "They reasoned that while some evolutionary changes involve the loss of genes and are therefore irreversible, others may be the silent genes are somehow switched back on, they argued, long-lost traits could reappear.",
+        "needle": "evolutionary",
+        "sourceForm": "evolutionary"
+      },
+      {
+        "term": "primitive",
+        "pos": "adj",
+        "ipa": "/ˈprɪmɪtɪv/",
+        "meaning": "thuộc giai đoạn phát triển sơ khai",
+        "synonyms": "early; rudimentary",
+        "example": "The word has connotations thanks largely to Cesare Lombroso, a 19th-century Italian medic who argued that criminals were born not made nd could be identified by certain physical —tures that were throwbacks to a primitive, sub-human state.",
+        "needle": "primitive",
+        "sourceForm": "primitive"
+      },
+      {
+        "term": "therefore",
+        "pos": "adv",
+        "ipa": "/ˈðeəfɔː/",
+        "meaning": "vì vậy",
+        "synonyms": "consequently",
+        "example": "They reasoned that while some evolutionary changes involve the loss of genes and are therefore irreversible, others may be the silent genes are somehow switched back on, they argued, long-lost traits could reappear.",
+        "needle": "therefore",
+        "sourceForm": "therefore"
+      },
+      {
+        "term": "discover",
+        "pos": "v",
+        "ipa": "/dɪˈskʌvə/",
+        "meaning": "phát hiện, khám phá",
+        "synonyms": "find; uncover",
+        "example": "Since then, so many other examples have been discovered that it no longer makes sense to say that evolution is as good as irreversible.",
+        "needle": "discovered",
+        "sourceForm": "discovered"
+      },
+      {
+        "term": "identify",
+        "pos": "v",
+        "ipa": "/aɪˈdentɪfaɪ/",
+        "meaning": "xác định hoặc nhận diện",
+        "synonyms": "recognise; pinpoint",
+        "example": "The word has connotations thanks largely to Cesare Lombroso, a 19th-century Italian medic who argued that criminals were born not made nd could be identified by certain physical —tures that were throwbacks to a primitive, sub-human state.",
+        "needle": "identified",
+        "sourceForm": "identified"
+      },
+      {
+        "term": "ability",
+        "pos": "n",
+        "ipa": "/əˈbɪləti/",
+        "meaning": "khả năng",
+        "synonyms": "capacity; capability",
+        "example": "From a detailed analysis of the salamanders' family tree, however, it is clear that the other lineages evolved from an ancestor that itself had lost the ability to metamorphose.",
+        "needle": "ability",
+        "sourceForm": "ability"
+      },
+      {
+        "term": "develop",
+        "pos": "v",
+        "ipa": "/dɪˈveləp/",
+        "meaning": "phát triển",
+        "synonyms": "grow; evolve",
+        "example": "Early embryos of many species develop ancestral features.",
+        "needle": "develop",
+        "sourceForm": "develop"
       }
     ],
     "grammar": [

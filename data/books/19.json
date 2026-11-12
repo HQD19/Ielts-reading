@@ -329,6 +329,136 @@
         "example": "They will continually change it depending on various factors including the court surface, climatic conditions, and game styles.",
         "needle": "factors",
         "sourceForm": "factors"
+      },
+      {
+        "term": "consequently",
+        "pos": "adv",
+        "ipa": "/ˈkɒnsɪkwəntli/",
+        "meaning": "do đó",
+        "synonyms": "as a result",
+        "example": "Consequently, the specific rackets used by the world's elite are not actually readily available to the public; rather, each racket is individually made to suit the player who uses it.",
+        "needle": "Consequently",
+        "sourceForm": "Consequently"
+      },
+      {
+        "term": "achievement",
+        "pos": "n",
+        "ipa": "/əˈtʃiːvmənt/",
+        "meaning": "thành tựu",
+        "synonyms": "accomplishment; success",
+        "example": "It was an incredible achievement by any standard — made even more remarkable by the fact that he did this during a period considered to be one of the strongest in the sport's history, competing against the likes of Rafael Nadal, Roger Federer and Novak Djokovic, to name just a few.",
+        "needle": "achievement",
+        "sourceForm": "achievement"
+      },
+      {
+        "term": "competitive",
+        "pos": "adj",
+        "ipa": "/kəmˈpetətɪv/",
+        "meaning": "có tính cạnh tranh",
+        "synonyms": "attractive; rivalrous",
+        "example": "As a result, players and their teams are becoming increasingly creative with the modifications to their rackets as they look to maximise their competitive advantage.",
+        "needle": "competitive",
+        "sourceForm": "competitive"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "Racket customisation and modification have pushed the standards of the game to greater levels that few could have anticipated in the days of natural strings and heavy, wooden frames, and it's exciting to see what further developments there will be in the future.",
+        "needle": "developments",
+        "sourceForm": "developments"
+      },
+      {
+        "term": "importance",
+        "pos": "n",
+        "ipa": "/ɪmˈpɔːtəns/",
+        "meaning": "tầm quan trọng",
+        "synonyms": "significance",
+        "example": "A small change, perhaps, but its importance should not be underestimated.",
+        "needle": "importance",
+        "sourceForm": "importance"
+      },
+      {
+        "term": "individual",
+        "pos": "n/adj",
+        "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+        "meaning": "cá nhân; riêng lẻ",
+        "synonyms": "person; separate",
+        "example": "Players have individual preferences for the shape of the handle and some will have the handle of one racket moulded onto the frame of a different racket.",
+        "needle": "individual",
+        "sourceForm": "individual"
+      },
+      {
+        "term": "particular",
+        "pos": "adj",
+        "ipa": "/pəˈtɪkjələ/",
+        "meaning": "cụ thể, riêng biệt",
+        "synonyms": "specific",
+        "example": "Take the US professional tennis players Mike and Bob Blyan, for example: 'We're very particular with our racket specifications,' they say.",
+        "needle": "particular",
+        "sourceForm": "particular"
+      },
+      {
+        "term": "available",
+        "pos": "adj",
+        "ipa": "/əˈveɪləbl/",
+        "meaning": "có sẵn, có thể sử dụng",
+        "synonyms": "accessible",
+        "example": "Consequently, the specific rackets used by the world's elite are not actually readily available to the public; rather, each racket is individually made to suit the player who uses it.",
+        "needle": "available",
+        "sourceForm": "available"
+      },
+      {
+        "term": "synthetic",
+        "pos": "adj",
+        "ipa": "/sɪnˈθetɪk/",
+        "meaning": "tổng hợp, nhân tạo",
+        "synonyms": "artificial",
+        "example": "Even so, many professional players continue to use a 'hybrid set-up', where a combination of both synthetic and natural strings are used.",
+        "needle": "synthetic",
+        "sourceForm": "synthetic"
+      },
+      {
+        "term": "material",
+        "pos": "n",
+        "ipa": "/məˈtɪəriəl/",
+        "meaning": "vật liệu, chất liệu",
+        "synonyms": "substance; raw material",
+        "example": "They are made from three materials: nylon (relatively durable and affordable), Kevlar (too stiff to be used alone) or co-polyester (polyester combined with additives that enhance its performance).",
+        "needle": "materials",
+        "sourceForm": "materials"
+      },
+      {
+        "term": "original",
+        "pos": "adj",
+        "ipa": "/əˈrɪdʒənəl/",
+        "meaning": "ban đầu; có tính độc đáo",
+        "synonyms": "initial; novel",
+        "example": "The professional Portuguese player Gongalo Oliveira replaced the original grips of his rackets with something thinner because they had previously felt uncomfortable to hold.",
+        "needle": "original",
+        "sourceForm": "original"
+      },
+      {
+        "term": "specific",
+        "pos": "adj",
+        "ipa": "/spəˈsɪfɪk/",
+        "meaning": "cụ thể, xác định rõ",
+        "synonyms": "particular; precise",
+        "example": "Consequently, the specific rackets used by the world's elite are not actually readily available to the public; rather, each racket is individually made to suit the player who uses it.",
+        "needle": "specific",
+        "sourceForm": "specific"
+      },
+      {
+        "term": "valuable",
+        "pos": "adj",
+        "ipa": "/ˈvæljuəbəl/",
+        "meaning": "có giá trị",
+        "synonyms": "precious; useful",
+        "example": "Of the changes that account for this transformation, one was visible and widely publicised: in 201 1, Murray invited former number one player Ivan Lendl onto his coaching team — a valuable addition that had a visible impact on the player's playing style.",
+        "needle": "valuable",
+        "sourceForm": "valuable"
       }
     ],
     "grammar": [
@@ -752,6 +882,126 @@
         "example": "The Greeks' liberal approach towards piracy does not mean they always tolerated it, but attempts to curtail piracy were hampered by the large number of pirates operating in the Mediterranean.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "experience",
+        "pos": "n",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "meaning": "kinh nghiệm; trải nghiệm",
+        "synonyms": "knowledge gained through practice",
+        "example": "The ancient Greek world's experience of piracy was different from that of Egyptian rulers.",
+        "needle": "experience",
+        "sourceForm": "experience"
+      },
+      {
+        "term": "importance",
+        "pos": "n",
+        "ipa": "/ɪmˈpɔːtəns/",
+        "meaning": "tầm quan trọng",
+        "synonyms": "significance",
+        "example": "This is partly due to the great importance the Mediterranean held at this time, and partly due to its geography.",
+        "needle": "importance",
+        "sourceForm": "importance"
+      },
+      {
+        "term": "essential",
+        "pos": "adj",
+        "ipa": "/ɪˈsenʃl/",
+        "meaning": "thiết yếu",
+        "synonyms": "vital; necessary",
+        "example": "Pirate attacks on grain ships, which were essential to Roman citizens, led to angry voices in the Senate, demanding punishment of the culprits.",
+        "needle": "essential",
+        "sourceForm": "essential"
+      },
+      {
+        "term": "existence",
+        "pos": "n",
+        "ipa": "/ɪɡˈzɪstəns/",
+        "meaning": "sự tồn tại",
+        "synonyms": "presence; being",
+        "example": "While piracy was a serious issue for the Republic, Rome profited greatly from its existence.",
+        "needle": "existence",
+        "sourceForm": "existence"
+      },
+      {
+        "term": "knowledge",
+        "pos": "n",
+        "ipa": "/ˈnɒlɪdʒ/",
+        "meaning": "kiến thức, hiểu biết",
+        "synonyms": "understanding; learning",
+        "example": "Most had their own boats, possessed good seafaring skills, and unsurpassed knowledge of the local coastline and sailing routes.",
+        "needle": "knowledge",
+        "sourceForm": "knowledge"
+      },
+      {
+        "term": "activity",
+        "pos": "n",
+        "ipa": "/ækˈtɪvəti/",
+        "meaning": "hoạt động",
+        "synonyms": "action; pursuit",
+        "example": "Even high-ranking members of the state were not beyond engaging in such activities.",
+        "needle": "activities",
+        "sourceForm": "activities"
+      },
+      {
+        "term": "commerce",
+        "pos": "n",
+        "ipa": "/ˈkɒmɜːs/",
+        "meaning": "hoạt động thương mại",
+        "synonyms": "trade; business",
+        "example": "Despite the Egyptian fleet's best efforts, the pirates continued to cause substantial disruption to regional commerce.",
+        "needle": "commerce",
+        "sourceForm": "commerce"
+      },
+      {
+        "term": "merchant",
+        "pos": "n",
+        "ipa": "/ˈmɜːtʃənt/",
+        "meaning": "thương nhân",
+        "synonyms": "trader; dealer",
+        "example": "Yet from the first to the third millennium BCE, thousands of years before these swashbucklers began spreading fear across the Caribbean, pirates prowled the Mediterranean, raiding merchant ships and threatening vital trade routes.",
+        "needle": "merchant",
+        "sourceForm": "merchant"
+      },
+      {
+        "term": "opponent",
+        "pos": "n",
+        "ipa": "/əˈpəʊnənt/",
+        "meaning": "đối thủ trong cuộc thi hoặc tranh luận",
+        "synonyms": "rival; competitor",
+        "example": "One should also add that it was not unknown in the first and second millennia BCE for governments to resort to pirates' services, especially during wartime, employing their skills and numbers against their opponents.",
+        "needle": "opponents",
+        "sourceForm": "opponents"
+      },
+      {
+        "term": "resource",
+        "pos": "n",
+        "ipa": "/rɪˈsɔːs/",
+        "meaning": "nguồn lực, tài nguyên",
+        "synonyms": "supply; asset",
+        "example": "In the ancient times, the inhabitants of these areas relied heavily on marine resources, including fish and salt.",
+        "needle": "resources",
+        "sourceForm": "resources"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "These were extracts of diplomatic correspondence between the pharaoh and his allies, and covered many pressing issues, including piracy.",
+        "needle": "including",
+        "sourceForm": "including"
+      },
+      {
+        "term": "involve",
+        "pos": "v",
+        "ipa": "/ɪnˈvɒlv/",
+        "meaning": "bao hàm, liên quan đến",
+        "synonyms": "include; entail",
+        "example": "The king assured Akhenaten he was prepared to punish any of his subjects involved in piracy.",
+        "needle": "involved",
+        "sourceForm": "involved"
       }
     ],
     "grammar": [
@@ -1257,6 +1507,76 @@
         "example": "In recent decades, empirical evidence from the research teams of Erik Asp of the University of Chicago and Daniel Gilbert at Harvard University, among others, has supported Spinoza 's account: people appear to encode all new information as if it were true, even if only momentarily, and later tag the information as being either true or false, a pattern that seems consistent with the observation that mental resources for skepticism physically reside in a different part of the brain than the resources used in perceiving and encoding.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "communication",
+        "pos": "n",
+        "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+        "meaning": "sự giao tiếp, truyền thông",
+        "synonyms": "exchange of information",
+        "example": "Yet the means to correct misinformation might, over time, be found in those same patterns of mass communication and of the facilitated spread of information.",
+        "needle": "communication",
+        "sourceForm": "communication"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "Future remedies will require not only continued theoretical consideration but also the development and maintenance of consistent monitoring tools — and a recognition among fellow members of society that claims which find prominence in the media that are insufficiently based in scientific consensus and social reality should be countered.",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "At least three observations related to misinformation in the contemporary mass-media environment warrant the attention of researchers, policy makers, and really everyone who watches television, listens to the radio, or reads information online.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "Although it is fairly routine for individuals to come across information that is false, the question of exactly how — and when — we mentally label information as true or false has garnered philosophical debate.",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "recognition",
+        "pos": "n",
+        "ipa": "/ˌrekəɡˈnɪʃən/",
+        "meaning": "sự nhận ra hoặc công nhận",
+        "synonyms": "identification; acknowledgement",
+        "example": "Future remedies will require not only continued theoretical consideration but also the development and maintenance of consistent monitoring tools — and a recognition among fellow members of society that claims which find prominence in the media that are insufficiently based in scientific consensus and social reality should be countered.",
+        "needle": "recognition",
+        "sourceForm": "recognition"
+      },
+      {
+        "term": "theoretical",
+        "pos": "adj",
+        "ipa": "/ˌθɪəˈretɪkəl/",
+        "meaning": "thuộc lý thuyết thay vì thực hành",
+        "synonyms": "conceptual; abstract",
+        "example": "Future remedies will require not only continued theoretical consideration but also the development and maintenance of consistent monitoring tools — and a recognition among fellow members of society that claims which find prominence in the media that are insufficiently based in scientific consensus and social reality should be countered.",
+        "needle": "theoretical",
+        "sourceForm": "theoretical"
+      },
+      {
+        "term": "importance",
+        "pos": "n",
+        "ipa": "/ɪmˈpɔːtəns/",
+        "meaning": "tầm quan trọng",
+        "synonyms": "significance",
+        "example": "Knowing what happens when people initially encounter misinformation holds tremendous importance for estimating the potential for subsequent problems.",
+        "needle": "importance",
+        "sourceForm": "importance"
       }
     ],
     "grammar": [
@@ -1647,6 +1967,136 @@
         "example": "This rapid urbanisation brought significant challenges, as overcrowded cities suffered from pollution and inadequate sanitation.",
         "needle": "significant",
         "sourceForm": "significant"
+      },
+      {
+        "term": "communication",
+        "pos": "n",
+        "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+        "meaning": "sự giao tiếp, truyền thông",
+        "synonyms": "exchange of information",
+        "example": "The latter part of the Industrial Revolution also saw key advances in communication methods, as people increasingly saw the need to communicate efficiently over long distances.",
+        "needle": "communication",
+        "sourceForm": "communication"
+      },
+      {
+        "term": "efficiently",
+        "pos": "adv",
+        "ipa": "/ɪˈfɪʃntli/",
+        "meaning": "một cách hiệu quả, ít lãng phí",
+        "synonyms": "productively",
+        "example": "The latter part of the Industrial Revolution also saw key advances in communication methods, as people increasingly saw the need to communicate efficiently over long distances.",
+        "needle": "efficiently",
+        "sourceForm": "efficiently"
+      },
+      {
+        "term": "manufacture",
+        "pos": "v/n",
+        "ipa": "/ˌmænjuˈfæktʃə/",
+        "meaning": "sản xuất, chế tạo",
+        "synonyms": "produce",
+        "example": "Goods that had once been crafted by hand started to be produced in mass quantities by machines in factories, thanks to the invention of steam power and the introduction of new machines and manufacturing techniques in textiles, iron-making and other industries.",
+        "needle": "manufacturing",
+        "sourceForm": "manufacturing"
+      },
+      {
+        "term": "traditional",
+        "pos": "adj",
+        "ipa": "/trəˈdɪʃənl/",
+        "meaning": "truyền thống",
+        "synonyms": "conventional",
+        "example": "Chief among the new techniques was the smelting of iron ore with coke (a material made by heating coal) instead of the traditional charcoal.",
+        "needle": "traditional",
+        "sourceForm": "traditional"
+      },
+      {
+        "term": "individual",
+        "pos": "n/adj",
+        "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+        "meaning": "cá nhân; riêng lẻ",
+        "synonyms": "person; separate",
+        "example": "Britain had produced textiles like wool, linen and cotton, for hundreds of years, but prior to the Industrial Revolution, the British textile business was a true 'cottage industry', with the work performed in small workshops or even homes by individual spinners, weavers and dyers.",
+        "needle": "individual",
+        "sourceForm": "individual"
+      },
+      {
+        "term": "industrial",
+        "pos": "adj",
+        "ipa": "/ɪnˈdʌstriəl/",
+        "meaning": "thuộc công nghiệp",
+        "synonyms": "manufacturing",
+        "example": "In the early 1800s, the English engineer Richard Trevithick built a steam-powered locomotive, and by 1830 goods and passengers were being transported between the industrial centres of Manchester and Liverpool.",
+        "needle": "industrial",
+        "sourceForm": "industrial"
+      },
+      {
+        "term": "production",
+        "pos": "n",
+        "ipa": "/prəˈdʌkʃən/",
+        "meaning": "sự sản xuất, sản lượng",
+        "synonyms": "manufacturing; output",
+        "example": "This method was cheaper and produced metals that were of a higher quality, enabling Britain's iron and steel production to expand in response to demand created by the Napoleonic Wars (1803—15) and the expansion of the railways from the 1830s.",
+        "needle": "production",
+        "sourceForm": "production"
+      },
+      {
+        "term": "challenge",
+        "pos": "n",
+        "ipa": "/ˈtʃælɪndʒ/",
+        "meaning": "thách thức",
+        "synonyms": "difficulty",
+        "example": "This rapid urbanisation brought significant challenges, as overcrowded cities suffered from pollution and inadequate sanitation.",
+        "needle": "challenges",
+        "sourceForm": "challenges"
+      },
+      {
+        "term": "effective",
+        "pos": "adj",
+        "ipa": "/ɪˈfektɪv/",
+        "meaning": "hiệu quả",
+        "synonyms": "successful",
+        "example": "As the speed of the new locomotives increased, it was essential to have a fast and effective means of avoiding collisions.",
+        "needle": "effective",
+        "sourceForm": "effective"
+      },
+      {
+        "term": "efficient",
+        "pos": "adj",
+        "ipa": "/ɪˈfɪʃnt/",
+        "meaning": "hiệu suất cao, ít lãng phí",
+        "synonyms": "productive",
+        "example": "In the 1760s, the Scottish engineer James Watt started to adapt one of Newcomen's models, and succeeded in making it far more efficient.",
+        "needle": "efficient",
+        "sourceForm": "efficient"
+      },
+      {
+        "term": "essential",
+        "pos": "adj",
+        "ipa": "/ɪˈsenʃl/",
+        "meaning": "thiết yếu",
+        "synonyms": "vital; necessary",
+        "example": "As the speed of the new locomotives increased, it was essential to have a fast and effective means of avoiding collisions.",
+        "needle": "essential",
+        "sourceForm": "essential"
+      },
+      {
+        "term": "pollution",
+        "pos": "n",
+        "ipa": "/pəˈluːʃn/",
+        "meaning": "sự ô nhiễm",
+        "synonyms": "contamination",
+        "example": "This rapid urbanisation brought significant challenges, as overcrowded cities suffered from pollution and inadequate sanitation.",
+        "needle": "pollution",
+        "sourceForm": "pollution"
+      },
+      {
+        "term": "employer",
+        "pos": "n",
+        "ipa": "/ɪmˈplɔɪə/",
+        "meaning": "người sử dụng lao động",
+        "synonyms": "hiring organisation",
+        "example": "The workers wanted employers to stop installing new machinery, but the British government responded to the uprisings by making machine-breaking punishable by death.",
+        "needle": "employers",
+        "sourceForm": "employers"
       }
     ],
     "grammar": [
@@ -2111,6 +2561,86 @@
         "example": "But there are many different factors that dictate just how people's minds and bodies respond to stressful events.",
         "needle": "factors",
         "sourceForm": "factors"
+      },
+      {
+        "term": "psychological",
+        "pos": "adj",
+        "ipa": "/ˌsaɪkəˈlɒdʒɪkəl/",
+        "meaning": "thuộc tâm lý",
+        "synonyms": "mental; relating to the mind",
+        "example": "But during a threat state, cortisol inhibits the positive effect of adrenaline, resulting in tighter blood vessels, higher blood pressure, slower psychological responses, and a faster heart rate.",
+        "needle": "psychological",
+        "sourceForm": "psychological"
+      },
+      {
+        "term": "competitive",
+        "pos": "adj",
+        "ipa": "/kəmˈpetətɪv/",
+        "meaning": "có tính cạnh tranh",
+        "synonyms": "attractive; rivalrous",
+        "example": "Recreating competitive pressure during training can also help athletes learn how to deal with stress.",
+        "needle": "competitive",
+        "sourceForm": "competitive"
+      },
+      {
+        "term": "experience",
+        "pos": "n",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "meaning": "kinh nghiệm; trải nghiệm",
+        "synonyms": "knowledge gained through practice",
+        "example": "That said, anxiety is also a common experience for athletes when they're under pressure.",
+        "needle": "experience",
+        "sourceForm": "experience"
+      },
+      {
+        "term": "production",
+        "pos": "n",
+        "ipa": "/prəˈdʌkʃən/",
+        "meaning": "sự sản xuất, sản lượng",
+        "synonyms": "manufacturing; output",
+        "example": "Our challenge and threat responses essentially influence how our body responds to stressful situations, as both affect the production of adrenaline and cortisol — also known as 'stress hormones'.",
+        "needle": "production",
+        "sourceForm": "production"
+      },
+      {
+        "term": "challenge",
+        "pos": "n",
+        "ipa": "/ˈtʃælɪndʒ/",
+        "meaning": "thách thức",
+        "synonyms": "difficulty",
+        "example": "Our challenge and threat responses essentially influence how our body responds to stressful situations, as both affect the production of adrenaline and cortisol — also known as 'stress hormones'.",
+        "needle": "challenge",
+        "sourceForm": "challenge"
+      },
+      {
+        "term": "audience",
+        "pos": "n",
+        "ipa": "/ˈɔːdiəns/",
+        "meaning": "khán giả, người nghe",
+        "synonyms": "spectators; listeners",
+        "example": "So, in Emma Raducanu's case, a much larger audience, higher expectations and facing a more skilful opponent, may all have led her to feel there were greater demands being placed on her at Wimbledon — but she didn't have the resources to tackle them.",
+        "needle": "audience",
+        "sourceForm": "audience"
+      },
+      {
+        "term": "language",
+        "pos": "n",
+        "ipa": "/ˈlæŋɡwɪdʒ/",
+        "meaning": "ngôn ngữ",
+        "synonyms": "system of communication",
+        "example": "Positive stress responses can be promoted through the language that they and others — such as coaches or parents — use.",
+        "needle": "language",
+        "sourceForm": "language"
+      },
+      {
+        "term": "opponent",
+        "pos": "n",
+        "ipa": "/əˈpəʊnənt/",
+        "meaning": "đối thủ trong cuộc thi hoặc tranh luận",
+        "synonyms": "rival; competitor",
+        "example": "So, in Emma Raducanu's case, a much larger audience, higher expectations and facing a more skilful opponent, may all have led her to feel there were greater demands being placed on her at Wimbledon — but she didn't have the resources to tackle them.",
+        "needle": "opponent",
+        "sourceForm": "opponent"
       }
     ],
     "grammar": [
@@ -2531,6 +3061,146 @@
         "example": "Interviews uncovered strong evidence of an adult or adults in the child's life who valued and supported education, either in the immediate or extended family or in the child's wider community.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "psychological",
+        "pos": "adj",
+        "ipa": "/ˌsaɪkəˈlɒdʒɪkəl/",
+        "meaning": "thuộc tâm lý",
+        "synonyms": "mental; relating to the mind",
+        "example": "According Io my colleague Prof Deborah Eyre, with whom I've collaborated on the book Great Minds and HO\"' to Grove Them, the latest neuroscience and psychological research suggests Inost individuals can reach levels of performance associated in school with the gifted and talented.",
+        "needle": "psychological",
+        "sourceForm": "psychological"
+      },
+      {
+        "term": "intelligence",
+        "pos": "n",
+        "ipa": "/ɪnˈtelɪdʒəns/",
+        "meaning": "trí thông minh",
+        "synonyms": "mental ability",
+        "example": "There has been a considerable amount of research on high perförmance over the last centuw that suggests it goes way beyond tested intelligence.",
+        "needle": "intelligence",
+        "sourceForm": "intelligence"
+      },
+      {
+        "term": "achievement",
+        "pos": "n",
+        "ipa": "/əˈtʃiːvmənt/",
+        "meaning": "thành tựu",
+        "synonyms": "accomplishment; success",
+        "example": "After research going back to 1980 into diverse achievements, from music to memory to sport, he doesn't think unique and innate talents are at the heart of performance.",
+        "needle": "achievements",
+        "sourceForm": "achievements"
+      },
+      {
+        "term": "discipline",
+        "pos": "n",
+        "ipa": "/ˈdɪsəplɪn/",
+        "meaning": "ngành học; sự rèn luyện có quy tắc",
+        "synonyms": "field of study; self-control",
+        "example": "Bloom's team looked at a group of extraordinarily high achieving people in disciplines as varied as ballet, swimming, piano, tennis, maths, sculpture and neurology.",
+        "needle": "disciplines",
+        "sourceForm": "disciplines"
+      },
+      {
+        "term": "eventually",
+        "pos": "adv",
+        "ipa": "/ɪˈventʃuəli/",
+        "meaning": "cuối cùng, sau một thời gian",
+        "synonyms": "ultimately",
+        "example": "He struggled at work initially, but he kept plugging away and eventually rewrote the laws of Newtonian mechanics with his theory of relativity.",
+        "needle": "eventually",
+        "sourceForm": "eventually"
+      },
+      {
+        "term": "individual",
+        "pos": "n/adj",
+        "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+        "meaning": "cá nhân; riêng lẻ",
+        "synonyms": "person; separate",
+        "example": "According Io my colleague Prof Deborah Eyre, with whom I've collaborated on the book Great Minds and HO\"' to Grove Them, the latest neuroscience and psychological research suggests Inost individuals can reach levels of performance associated in school with the gifted and talented.",
+        "needle": "individuals",
+        "sourceForm": "individuals"
+      },
+      {
+        "term": "behaviour",
+        "pos": "n",
+        "ipa": "/bɪˈheɪvjə/",
+        "meaning": "hành vi",
+        "synonyms": "conduct",
+        "example": "While the juty is out on giftedness being innate and other factors potentially making the dillérence, what is certain is that the behaviours associated with high levels of performance are replicable and most can be taught — even traits such as curiosity.",
+        "needle": "behaviours",
+        "sourceForm": "behaviours"
+      },
+      {
+        "term": "community",
+        "pos": "n",
+        "ipa": "/kəˈmjuːnəti/",
+        "meaning": "cộng đồng",
+        "synonyms": "local population",
+        "example": "Interviews uncovered strong evidence of an adult or adults in the child's life who valued and supported education, either in the immediate or extended family or in the child's wider community.",
+        "needle": "community",
+        "sourceForm": "community"
+      },
+      {
+        "term": "curiosity",
+        "pos": "n",
+        "ipa": "/ˌkjʊəriˈɒsəti/",
+        "meaning": "sự tò mò, ham tìm hiểu",
+        "synonyms": "inquisitiveness",
+        "example": "However, they must be taught the right attitudes and approaches to their learning and develop the attributes of high performers — curiosity, persistence and hard work, for example — an approach Eyre calls 'high performance learning'.",
+        "needle": "curiosity",
+        "sourceForm": "curiosity"
+      },
+      {
+        "term": "discovery",
+        "pos": "n",
+        "ipa": "/dɪˈskʌvəri/",
+        "meaning": "sự phát hiện",
+        "synonyms": "finding; revelation",
+        "example": "'Of course, the most rewarding part is the \"Aha\" monient, the excitement of discovery and enjoyment of undetstanding something new ...",
+        "needle": "discovery",
+        "sourceForm": "discovery"
+      },
+      {
+        "term": "education",
+        "pos": "n",
+        "ipa": "/ˌedʒuˈkeɪʃən/",
+        "meaning": "giáo dục",
+        "synonyms": "learning; instruction",
+        "example": "Interviews uncovered strong evidence of an adult or adults in the child's life who valued and supported education, either in the immediate or extended family or in the child's wider community.",
+        "needle": "education",
+        "sourceForm": "education"
+      },
+      {
+        "term": "immediate",
+        "pos": "adj",
+        "ipa": "/ɪˈmiːdiət/",
+        "meaning": "ngay lập tức; trực tiếp",
+        "synonyms": "instant; direct",
+        "example": "Interviews uncovered strong evidence of an adult or adults in the child's life who valued and supported education, either in the immediate or extended family or in the child's wider community.",
+        "needle": "immediate",
+        "sourceForm": "immediate"
+      },
+      {
+        "term": "knowledge",
+        "pos": "n",
+        "ipa": "/ˈnɒlɪdʒ/",
+        "meaning": "kiến thức, hiểu biết",
+        "synonyms": "understanding; learning",
+        "example": "It would be easy to assume that someone as special as Mirzakhani must have been one of those 'gifted' children, those who have an extraordinary ability in a specific sphere of activity or knowledge.",
+        "needle": "knowledge",
+        "sourceForm": "knowledge"
+      },
+      {
+        "term": "sculpture",
+        "pos": "n",
+        "ipa": "/ˈskʌlptʃə/",
+        "meaning": "điêu khắc; tác phẩm điêu khắc",
+        "synonyms": "three-dimensional artwork",
+        "example": "Bloom's team looked at a group of extraordinarily high achieving people in disciplines as varied as ballet, swimming, piano, tennis, maths, sculpture and neurology.",
+        "needle": "sculpture",
+        "sourceForm": "sculpture"
       }
     ],
     "grammar": [
@@ -2920,6 +3590,126 @@
         "example": "But to support this idea, they needed archaeological evidence for humans living in this remote area in the ancient past.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "construction",
+        "pos": "n",
+        "ipa": "/kənˈstrʌkʃn/",
+        "meaning": "sự xây dựng",
+        "synonyms": "building",
+        "example": "As on Gebe, it is highly likely that Obi's axes were used in the construction of canoes, thus allowing these early peoples to maintain connections between communities on neighbouring islands.",
+        "needle": "construction",
+        "sourceForm": "construction"
+      },
+      {
+        "term": "excavation",
+        "pos": "n",
+        "ipa": "/ˌekskəˈveɪʃən/",
+        "meaning": "sự khai quật, đào đất",
+        "synonyms": "digging; archaeological investigation",
+        "example": "Shipton's team's excavation of the shelters at the Kelo site unearthed a volcanic glass substance called obsidian, which must have been brought over from another island, as there is no known source on Obi.",
+        "needle": "excavation",
+        "sourceForm": "excavation"
+      },
+      {
+        "term": "particular",
+        "pos": "adj",
+        "ipa": "/pəˈtɪkjələ/",
+        "meaning": "cụ thể, riêng biệt",
+        "synonyms": "specific",
+        "example": "It also revealed particular types of beads, similar to those previously found on islands in southern Wallacea.",
+        "needle": "particular",
+        "sourceForm": "particular"
+      },
+      {
+        "term": "community",
+        "pos": "n",
+        "ipa": "/kəˈmjuːnəti/",
+        "meaning": "cộng đồng",
+        "synonyms": "local population",
+        "example": "As on Gebe, it is highly likely that Obi's axes were used in the construction of canoes, thus allowing these early peoples to maintain connections between communities on neighbouring islands.",
+        "needle": "communities",
+        "sourceForm": "communities"
+      },
+      {
+        "term": "discovery",
+        "pos": "n",
+        "ipa": "/dɪˈskʌvəri/",
+        "meaning": "sự phát hiện",
+        "synonyms": "finding; revelation",
+        "example": "The research team's discoveries suggest that the prehistoric people who lived on Obi were adept on both land and sea, hunting in the dense rainforest, foraging on the seashore, and possibly even voyaging between islands.",
+        "needle": "discoveries",
+        "sourceForm": "discoveries"
+      },
+      {
+        "term": "cultural",
+        "pos": "adj",
+        "ipa": "/ˈkʌltʃərəl/",
+        "meaning": "thuộc văn hóa",
+        "synonyms": "relating to a society's customs and arts",
+        "example": "The oldest cultural layers from the Kelo site provided the team with the earliest record for human occupation on Obi, dating back around 18,000 years.",
+        "needle": "cultural",
+        "sourceForm": "cultural"
+      },
+      {
+        "term": "maintain",
+        "pos": "v",
+        "ipa": "/meɪnˈteɪn/",
+        "meaning": "duy trì; khẳng định",
+        "synonyms": "preserve; assert",
+        "example": "As on Gebe, it is highly likely that Obi's axes were used in the construction of canoes, thus allowing these early peoples to maintain connections between communities on neighbouring islands.",
+        "needle": "maintain",
+        "sourceForm": "maintain"
+      },
+      {
+        "term": "material",
+        "pos": "n",
+        "ipa": "/məˈtɪəriəl/",
+        "meaning": "vật liệu, chất liệu",
+        "synonyms": "substance; raw material",
+        "example": "While stone takes about twice as long to grind into an axe compared to shell, the harder material keeps its sharp edge for longer.",
+        "needle": "material",
+        "sourceForm": "material"
+      },
+      {
+        "term": "research",
+        "pos": "n",
+        "ipa": "/rɪˈsɜːtʃ/",
+        "meaning": "nghiên cứu",
+        "synonyms": "investigation",
+        "example": "The research team's discoveries suggest that the prehistoric people who lived on Obi were adept on both land and sea, hunting in the dense rainforest, foraging on the seashore, and possibly even voyaging between islands.",
+        "needle": "research",
+        "sourceForm": "research"
+      },
+      {
+        "term": "survival",
+        "pos": "n",
+        "ipa": "/səˈvaɪvl/",
+        "meaning": "sự sống còn",
+        "synonyms": "continued existence",
+        "example": "Perhaps people simply moved to the coast and turned to fishing rather than hunting as a means of survival.",
+        "needle": "survival",
+        "sourceForm": "survival"
+      },
+      {
+        "term": "compare",
+        "pos": "v",
+        "ipa": "/kəmˈpeə/",
+        "meaning": "so sánh",
+        "synonyms": "contrast; assess similarities",
+        "example": "While stone takes about twice as long to grind into an axe compared to shell, the harder material keeps its sharp edge for longer.",
+        "needle": "compared",
+        "sourceForm": "compared"
+      },
+      {
+        "term": "connect",
+        "pos": "v",
+        "ipa": "/kəˈnekt/",
+        "meaning": "kết nối",
+        "synonyms": "link; join",
+        "example": "The excavations were part of a project to learn more about how people first dispersed from mainland Asia, through the Indonesian archipelago and into the prehistoric continent that once connected Australia and New Guinea.",
+        "needle": "connected",
+        "sourceForm": "connected"
       }
     ],
     "grammar": [
@@ -3392,6 +4182,66 @@
         "example": "This approach is supported by IWMI.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "consequently",
+        "pos": "adv",
+        "ipa": "/ˈkɒnsɪkwəntli/",
+        "meaning": "do đó",
+        "synonyms": "as a result",
+        "example": "Consequently, they are of considerable religious, historical and archaeological value to many communities around the world.",
+        "needle": "Consequently",
+        "sourceForm": "Consequently"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "But according to the World Wide Fund for Nature (WWFN), half of the world's wetlands have disappeared since 1990 — converted or destroyed for commercial development, drainage schemes and the extraction of minerals and peat•.",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "historical",
+        "pos": "adj",
+        "ipa": "/hɪˈstɒrɪkəl/",
+        "meaning": "thuộc lịch sử",
+        "synonyms": "relating to past events",
+        "example": "Consequently, they are of considerable religious, historical and archaeological value to many communities around the world.",
+        "needle": "historical",
+        "sourceForm": "historical"
+      },
+      {
+        "term": "importance",
+        "pos": "n",
+        "ipa": "/ɪmˈpɔːtəns/",
+        "meaning": "tầm quan trọng",
+        "synonyms": "significance",
+        "example": "Silvius also acknowledges the importance of income generation.",
+        "needle": "importance",
+        "sourceForm": "importance"
+      },
+      {
+        "term": "industrial",
+        "pos": "adj",
+        "ipa": "/ɪnˈdʌstriəl/",
+        "meaning": "thuộc công nghiệp",
+        "synonyms": "manufacturing",
+        "example": "Many of those that remain have been damaged by agricultural pesticides and fertilisers, industrial pollutants, and constiuction works.",
+        "needle": "industrial",
+        "sourceForm": "industrial"
+      },
+      {
+        "term": "subsidence",
+        "pos": "n",
+        "ipa": "/səbˈsaɪdəns/",
+        "meaning": "sự sụt lún nền đất",
+        "synonyms": "ground sinking",
+        "example": "Meanwhile, the remainder of the solid matter in the peat starts to move downwards, in a process known as subsidence .",
+        "needle": "subsidence",
+        "sourceForm": "subsidence"
       }
     ],
     "grammar": [
@@ -3781,8 +4631,8 @@
         "term": "conduct",
         "pos": "v",
         "ipa": "/kənˈdʌkt/",
-        "meaning": "tiến hành một hoạt động, nghiên cứu",
-        "synonyms": "carry out; perform",
+        "meaning": "điều hành, tổ chức hoặc thực hiện các hoạt động trong cuộc sống",
+        "synonyms": "manage; carry on",
         "example": "Whether it will help people conduct their family lives or relationships is open to question — though one noteworthy possibility is that it could overcome the language barriers that often arise between generations after migration, leaving children and their grandparents without a shared language.",
         "needle": "conduct",
         "sourceForm": "conduct"
@@ -3886,6 +4736,66 @@
         "example": "The efficiency of the translator is less important than the social function.",
         "needle": "social",
         "sourceForm": "social"
+      },
+      {
+        "term": "relationship",
+        "pos": "n",
+        "ipa": "/rɪˈleɪʃnʃɪp/",
+        "meaning": "mối quan hệ",
+        "synonyms": "connection",
+        "example": "Whether it will help people conduct their family lives or relationships is open to question — though one noteworthy possibility is that it could overcome the language barriers that often arise between generations after migration, leaving children and their grandparents without a shared language.",
+        "needle": "relationships",
+        "sourceForm": "relationships"
+      },
+      {
+        "term": "improvement",
+        "pos": "n",
+        "ipa": "/ɪmˈpruːvmənt/",
+        "meaning": "sự cải thiện",
+        "synonyms": "enhancement; progress",
+        "example": "To redress this, Waverly is now preparing a new model for professional applications, which entails performance improvements in speech recognition, translation accuracy and the time it takes to deliver the translated speech.",
+        "needle": "improvements",
+        "sourceForm": "improvements"
+      },
+      {
+        "term": "challenge",
+        "pos": "n",
+        "ipa": "/ˈtʃælɪndʒ/",
+        "meaning": "thách thức",
+        "synonyms": "difficulty",
+        "example": "Systems not only need to cope with physical challenges such as noise, they will also need to be socially aware by addressing people in the right way.",
+        "needle": "challenges",
+        "sourceForm": "challenges"
+      },
+      {
+        "term": "community",
+        "pos": "n",
+        "ipa": "/kəˈmjuːnəti/",
+        "meaning": "cộng đồng",
+        "synonyms": "local population",
+        "example": "Sharing a language can promote a sense of belonging and community, as with the international scientists who use English as a lingua franca, where their predecessors used Latin.",
+        "needle": "community",
+        "sourceForm": "community"
+      },
+      {
+        "term": "knowledge",
+        "pos": "n",
+        "ipa": "/ˈnɒlɪdʒ/",
+        "meaning": "kiến thức, hiểu biết",
+        "synonyms": "understanding; learning",
+        "example": "And software will never be a substitute for the subtle but vital understanding that comes with knowledge of a language.",
+        "needle": "knowledge",
+        "sourceForm": "knowledge"
+      },
+      {
+        "term": "recognise",
+        "pos": "v",
+        "ipa": "/ˈrekəɡnaɪz/",
+        "meaning": "nhận ra, công nhận",
+        "synonyms": "identify; acknowledge",
+        "example": "A device may be able to recognise speech in a laboratory, or a meeting room, but will snuggle to cope with the kind of background noise I can hear in my office surrounding Professor Waibel as he speaks to me from Kyoto station in Japan.",
+        "needle": "recognise",
+        "sourceForm": "recognise"
       }
     ],
     "grammar": [
@@ -4335,6 +5245,76 @@
         "example": "For these species, there was no evidence of any benefit to emerging earlier.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "This provided information on 130 species of butterflies in Great Britain every year for a 20-year period.",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "individual",
+        "pos": "n/adj",
+        "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+        "meaning": "cá nhân; riêng lẻ",
+        "synonyms": "person; separate",
+        "example": "Some species are able to go from caterpillar to butterfly twice or more per year, so that the individual butterflies you see flying in the spring are the grandchildren or great-grandchildren of the individuals seen a year previously.",
+        "needle": "individual",
+        "sourceForm": "individual"
+      },
+      {
+        "term": "population",
+        "pos": "n",
+        "ipa": "/ˌpɒpjuˈleɪʃn/",
+        "meaning": "dân số, quần thể",
+        "synonyms": "inhabitants",
+        "example": "Therefore, as the climate continues to warm, species like the Silver-studded Blue might be able to switch to multiple generations in the UK as well, and so begin to extract benefits from the additional warmth, potentially leading to population increases.",
+        "needle": "population",
+        "sourceForm": "population"
+      },
+      {
+        "term": "challenge",
+        "pos": "n",
+        "ipa": "/ˈtʃælɪndʒ/",
+        "meaning": "thách thức",
+        "synonyms": "difficulty",
+        "example": "Under the conditions of climate change, the temperature at any given time in summer is generally getting warmer, leaving butterflies with the challenge of how to deal with this.",
+        "needle": "challenge",
+        "sourceForm": "challenge"
+      },
+      {
+        "term": "knowledge",
+        "pos": "n",
+        "ipa": "/ˈnɒlɪdʒ/",
+        "meaning": "kiến thức, hiểu biết",
+        "synonyms": "understanding; learning",
+        "example": "More immediately, conservationists can arm themselves with all this knowledge to spot the warning signs of species that may be at risk.",
+        "needle": "knowledge",
+        "sourceForm": "knowledge"
+      },
+      {
+        "term": "limestone",
+        "pos": "n",
+        "ipa": "/ˈlaɪmstəʊn/",
+        "meaning": "đá vôi",
+        "synonyms": "calcium-carbonate rock",
+        "example": "It is found only in coppiced woodland and limestone pavement habitats.",
+        "needle": "limestone",
+        "sourceForm": "limestone"
+      },
+      {
+        "term": "therefore",
+        "pos": "adv",
+        "ipa": "/ˈðeəfɔː/",
+        "meaning": "vì vậy",
+        "synonyms": "consequently",
+        "example": "Therefore, as the climate continues to warm, species like the Silver-studded Blue might be able to switch to multiple generations in the UK as well, and so begin to extract benefits from the additional warmth, potentially leading to population increases.",
+        "needle": "Therefore",
+        "sourceForm": "Therefore"
       }
     ],
     "grammar": [
@@ -4724,6 +5704,136 @@
         "example": "Further tests confirmed that an antibiotic from the sponge bacteria, found living more than 700 metres under the sea at the Rockall trough in the north-east Atlantic, was previously unknown to science, boosting its potential as a life-saving medicine.",
         "needle": "potential",
         "sourceForm": "potential"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "'Extraction methods would produce large sediment plumes and involve the discharge of waste back into the ocean, significantly disturbing seafloor environments,' the paper continues.",
+        "needle": "environments",
+        "sourceForm": "environments"
+      },
+      {
+        "term": "exploration",
+        "pos": "n",
+        "ipa": "/ˌekspləˈreɪʃən/",
+        "meaning": "việc thăm dò, khám phá",
+        "synonyms": "investigation; discovery",
+        "example": "Mining comorations algue that deepsea exploration could help divelsify the supply of metals and point to the fhct that demand for resources such as copper, aluminium, cobalt for electric car batteries and other metals to power technology and smartphones, is soaring.",
+        "needle": "exploration",
+        "sourceForm": "exploration"
+      },
+      {
+        "term": "community",
+        "pos": "n",
+        "ipa": "/kəˈmjuːnəti/",
+        "meaning": "cộng đồng",
+        "synonyms": "local population",
+        "example": "But environmental and legal groups have urged caution, arguing there are potentially massive and unknown ramifications for the environment and for nearby communities, and that the global regulatory framework is not yet drafted.",
+        "needle": "communities",
+        "sourceForm": "communities"
+      },
+      {
+        "term": "knowledge",
+        "pos": "n",
+        "ipa": "/ˈnɒlɪdʒ/",
+        "meaning": "kiến thức, hiểu biết",
+        "synonyms": "understanding; learning",
+        "example": "She argues that active vents must be off-limits for mining to protect the new knowledge and biotechnology spin-offs they can deliver, and that strict controls must be in place elsewhere.",
+        "needle": "knowledge",
+        "sourceForm": "knowledge"
+      },
+      {
+        "term": "discover",
+        "pos": "v",
+        "ipa": "/dɪˈskʌvə/",
+        "meaning": "phát hiện, khám phá",
+        "synonyms": "find; uncover",
+        "example": "Upton estilnates it could take up to a decade for a newly discovered antibiotic to become a medicine — but the race towards commercial mining in the ocean abyss has already begun.",
+        "needle": "discovered",
+        "sourceForm": "discovered"
+      },
+      {
+        "term": "function",
+        "pos": "n",
+        "ipa": "/ˈfʌŋkʃn/",
+        "meaning": "chức năng",
+        "synonyms": "role; purpose",
+        "example": "'It is becoming increasingly clear that deepsea mining poses a grave threat to these vital seabed functions,' the paper says.",
+        "needle": "functions",
+        "sourceForm": "functions"
+      },
+      {
+        "term": "material",
+        "pos": "n",
+        "ipa": "/məˈtɪəriəl/",
+        "meaning": "vật liệu, chất liệu",
+        "synonyms": "substance; raw material",
+        "example": "Different methods of extraction exist, but most involve eluploying some form of converted machinety previously used in terrestrial mining to excavate materials from the sea floor, at depths of up to 6,()()0 metres, then drawing a seawater slur1Y, containing rock and other solid particles, fronl the sea floor to ships on the surlice.",
+        "needle": "materials",
+        "sourceForm": "materials"
+      },
+      {
+        "term": "research",
+        "pos": "n",
+        "ipa": "/rɪˈsɜːtʃ/",
+        "meaning": "nghiên cứu",
+        "synonyms": "investigation",
+        "example": "Scientific research — including a recent paper in Marine Policy journal — has suggested the deep seabed, and hydrothermal vents, which are created when seawater meets volcanic magma, have crucial impacts upon biodiversity and the global climate.",
+        "needle": "research",
+        "sourceForm": "research"
+      },
+      {
+        "term": "resource",
+        "pos": "n",
+        "ipa": "/rɪˈsɔːs/",
+        "meaning": "nguồn lực, tài nguyên",
+        "synonyms": "supply; asset",
+        "example": "'We're looking at the bioactive potential of marine resources, to see if there are any more medicines or drugs down there before we destroy it for ever,' says Upton, a medical microbiologist at the University of Plymouth.",
+        "needle": "resources",
+        "sourceForm": "resources"
+      },
+      {
+        "term": "combine",
+        "pos": "v",
+        "ipa": "/kəmˈbaɪn/",
+        "meaning": "kết hợp",
+        "synonyms": "integrate; bring together",
+        "example": "The deep sea contains more nickel, cobalt and rare ealth Inetals than all land reserves combined, accolding to the US Geological Survey.",
+        "needle": "combined",
+        "sourceForm": "combined"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "Scientific research — including a recent paper in Marine Policy journal — has suggested the deep seabed, and hydrothermal vents, which are created when seawater meets volcanic magma, have crucial impacts upon biodiversity and the global climate.",
+        "needle": "including",
+        "sourceForm": "including"
+      },
+      {
+        "term": "involve",
+        "pos": "v",
+        "ipa": "/ɪnˈvɒlv/",
+        "meaning": "bao hàm, liên quan đến",
+        "synonyms": "include; entail",
+        "example": "'Extraction methods would produce large sediment plumes and involve the discharge of waste back into the ocean, significantly disturbing seafloor environments,' the paper continues.",
+        "needle": "involve",
+        "sourceForm": "involve"
+      },
+      {
+        "term": "protect",
+        "pos": "v",
+        "ipa": "/prəˈtekt/",
+        "meaning": "bảo vệ",
+        "synonyms": "safeguard; preserve",
+        "example": "She argues that active vents must be off-limits for mining to protect the new knowledge and biotechnology spin-offs they can deliver, and that strict controls must be in place elsewhere.",
+        "needle": "protect",
+        "sourceForm": "protect"
       }
     ],
     "grammar": [
@@ -5224,6 +6334,56 @@
         "example": "There is significant evidence to back this notion from contemporary hunter-gatherer groups, who live in the same way as prehistoric humans did.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "psychological",
+        "pos": "adj",
+        "ipa": "/ˌsaɪkəˈlɒdʒɪkəl/",
+        "meaning": "thuộc tâm lý",
+        "synonyms": "mental; relating to the mind",
+        "example": "I believe that the end of the hunter-gatherer lifestyle and the advent of farming was connected to a psychological change that occurred in some groups of people.",
+        "needle": "psychological",
+        "sourceForm": "psychological"
+      },
+      {
+        "term": "competitive",
+        "pos": "adj",
+        "ipa": "/kəmˈpetətɪv/",
+        "meaning": "có tính cạnh tranh",
+        "synonyms": "attractive; rivalrous",
+        "example": "This bleak view of human nature is closely associated with the science writer Richard Dawkins, whose 1976 book The Selfish Gene became popular because it fitted so well with — and helped to justify — the competitive and individualistic ethos that was so prevalent in late 20th-century societies.",
+        "needle": "competitive",
+        "sourceForm": "competitive"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "Many anthropologists believe that societies such as the !Kung were normal until a few thousand years ago, when population growth led to the development of agriculture and a settled lifestyle.",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "individual",
+        "pos": "n/adj",
+        "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+        "meaning": "cá nhân; riêng lẻ",
+        "synonyms": "person; separate",
+        "example": "Knauft has observed that individuals in such groups don't accumulate property or possessions and have an ethical obligation to share everything.",
+        "needle": "individuals",
+        "sourceForm": "individuals"
+      },
+      {
+        "term": "population",
+        "pos": "n",
+        "ipa": "/ˌpɒpjuˈleɪʃn/",
+        "meaning": "dân số, quần thể",
+        "synonyms": "inhabitants",
+        "example": "Many anthropologists believe that societies such as the !Kung were normal until a few thousand years ago, when population growth led to the development of agriculture and a settled lifestyle.",
+        "needle": "population",
+        "sourceForm": "population"
       }
     ],
     "grammar": [

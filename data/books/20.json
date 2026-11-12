@@ -320,8 +320,8 @@
         "term": "stakeholder",
         "pos": "n",
         "ipa": "/ˈsteɪkhəʊldə/",
-        "meaning": "bên có liên quan hoặc lợi ích trong bảo tồn",
-        "synonyms": "interested party",
+        "meaning": "cá nhân hoặc tổ chức có quyền lợi liên quan đến một hoạt động",
+        "synonyms": "interested party; affected party",
         "example": "Its key goals are: minimise the loss of genetic diversity in the kākāpō population, restore or maintain sufficient habitat to accommodate the expected increase in the kākāpō population, and ensure stakeholders continue to be fully engaged in the preservation of the species.",
         "needle": "stakeholders",
         "sourceForm": "stakeholders"
@@ -405,6 +405,26 @@
         "example": "They forage on the ground and climb high into trees.",
         "needle": "forage",
         "sourceForm": "forage"
+      },
+      {
+        "term": "eventually",
+        "pos": "adv",
+        "ipa": "/ɪˈventʃuəli/",
+        "meaning": "cuối cùng, sau một thời gian",
+        "synonyms": "ultimately",
+        "example": "Unfortunately, the island didn't remain predator free - stoats arrived within six years, eventually destroying the kākāpō population.",
+        "needle": "eventually",
+        "sourceForm": "eventually"
+      },
+      {
+        "term": "expedition",
+        "pos": "n",
+        "ipa": "/ˌekspəˈdɪʃən/",
+        "meaning": "chuyến thám hiểm có tổ chức",
+        "synonyms": "exploratory journey",
+        "example": "From 1949 to 1973, the newly formed New Zealand Wildlife Service made over 60 expeditions to find kākāpō, focusing mainly on Fiordland.",
+        "needle": "expeditions",
+        "sourceForm": "expeditions"
       }
     ],
     "grammar": [
@@ -779,8 +799,8 @@
         "term": "reintroduce",
         "pos": "v",
         "ipa": "/ˌriːɪntrəˈdjuːs/",
-        "meaning": "đưa một loài trở lại vùng phân bố cũ",
-        "synonyms": "bring back; restore",
+        "meaning": "đưa trở lại; áp dụng hoặc đưa một loài, đặc điểm trở lại nơi từng có",
+        "synonyms": "bring back; introduce again",
         "example": "However, there's now hope the elm may be reintroduced to the countryside of central and southern England.",
         "needle": "reintroduced",
         "sourceForm": "reintroduced"
@@ -844,6 +864,36 @@
         "example": "'Avoidance, tolerance, resistance?",
         "needle": "resistance",
         "sourceForm": "resistance"
+      },
+      {
+        "term": "nevertheless",
+        "pos": "adv",
+        "ipa": "/ˌnevəðəˈles/",
+        "meaning": "tuy nhiên, dù vậy",
+        "synonyms": "nonetheless",
+        "example": "Nevertheless, opportunities are limited as the number of these mature survivors is relatively small.",
+        "needle": "Nevertheless",
+        "sourceForm": "Nevertheless"
+      },
+      {
+        "term": "significant",
+        "pos": "adj",
+        "ipa": "/sɪɡˈnɪfɪkənt/",
+        "meaning": "đáng kể hoặc có ý nghĩa quan trọng",
+        "synonyms": "substantial; meaningful",
+        "example": "They were significant, large trees ... then they were gone.'",
+        "needle": "significant",
+        "sourceForm": "significant"
+      },
+      {
+        "term": "collection",
+        "pos": "n",
+        "ipa": "/kəˈlekʃən/",
+        "meaning": "bộ sưu tập; việc thu thập",
+        "synonyms": "set of collected objects; gathering",
+        "example": "Amongst them is Peter Bourne of the National Elm Collection in Brighton.",
+        "needle": "Collection",
+        "sourceForm": "Collection"
       }
     ],
     "grammar": [
@@ -1348,11 +1398,21 @@
         "term": "induce",
         "pos": "v",
         "ipa": "/ɪnˈdjuːs/",
-        "meaning": "thúc đẩy, khiến người ta hành động",
-        "synonyms": "prompt; bring about",
+        "meaning": "gây ra hoặc tạo nên một trạng thái, phản ứng",
+        "synonyms": "cause; bring about",
         "example": "The good news, however, is that positive emotions, such as hope, are contagious too, and are powerful in inducing people to act to find solutions.",
         "needle": "inducing",
         "sourceForm": "inducing"
+      },
+      {
+        "term": "circumstance",
+        "pos": "n",
+        "ipa": "/ˈsɜːkəmstəns/",
+        "meaning": "hoàn cảnh, điều kiện xảy ra sự việc",
+        "synonyms": "condition; situation",
+        "example": "But do we become better or worse at processing and using information under such circumstances?",
+        "needle": "circumstances",
+        "sourceForm": "circumstances"
       }
     ],
     "grammar": [
@@ -1794,6 +1854,26 @@
         "example": "They do have pelvic bones, however - a leftover from their evolution from a four-legged to a fully aquatic animal.",
         "needle": "evolution",
         "sourceForm": "evolution"
+      },
+      {
+        "term": "conservation",
+        "pos": "n",
+        "ipa": "/ˌkɒnsəˈveɪʃən/",
+        "meaning": "việc bảo vệ môi trường hoặc tài nguyên",
+        "synonyms": "preservation; protection",
+        "example": "The African manatee and Amazonian manatee are both listed as Vulnerable by the International Union for Conservation of Nature (IUCN).",
+        "needle": "Conservation",
+        "sourceForm": "Conservation"
+      },
+      {
+        "term": "consumption",
+        "pos": "n",
+        "ipa": "/kənˈsʌmpʃən/",
+        "meaning": "sự tiêu thụ hoặc sử dụng",
+        "synonyms": "use; expenditure",
+        "example": "A review of almost 1,800 cases of entanglement in fishing nets and of plastic consumption among marine mammals in US waters from 2009 to 2020 found that at least 700 cases involved manatees.",
+        "needle": "consumption",
+        "sourceForm": "consumption"
       }
     ],
     "grammar": [
@@ -2250,11 +2330,31 @@
         "term": "reinforce",
         "pos": "v",
         "ipa": "/ˌriːɪnˈfɔːs/",
-        "meaning": "củng cố, làm mạnh thêm một xu hướng",
-        "synonyms": "strengthen; intensify",
+        "meaning": "củng cố; làm cho điều gì mạnh hơn hoặc vững chắc hơn",
+        "synonyms": "strengthen; bolster",
         "example": "Afterwards, people tend to be left with a sense of guilt that not only increases their negative mood, but also reinforces their tendency to procrastinate.",
         "needle": "reinforces",
         "sourceForm": "reinforces"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "An important first step is to manage our environment and how we view the task.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "employment",
+        "pos": "n",
+        "ipa": "/ɪmˈplɔɪmənt/",
+        "meaning": "việc làm",
+        "synonyms": "work",
+        "example": "In fact, in one US survey of over 22,000 employees, participants who said they regularly procrastinated had less annual income and less employment stability.",
+        "needle": "employment",
+        "sourceForm": "employment"
       }
     ],
     "grammar": [
@@ -2687,8 +2787,8 @@
         "term": "commission",
         "pos": "v",
         "ipa": "/kəˈmɪʃən/",
-        "meaning": "đặt làm, thuê phát triển hệ thống",
-        "synonyms": "order; authorise production",
+        "meaning": "đặt làm hoặc giao thực hiện một công việc theo yêu cầu",
+        "synonyms": "order; engage someone to produce something",
         "example": "Major League Baseball (MLB), who had commissioned the system, wanted human umpires to announce the calls, just as they would have done in the past.",
         "needle": "commissioned",
         "sourceForm": "commissioned"
@@ -2702,6 +2802,56 @@
         "example": "Some players I have met take a dissenting stance toward the robots too, believing that accuracy is not the answer.",
         "needle": "accuracy",
         "sourceForm": "accuracy"
+      },
+      {
+        "term": "application",
+        "pos": "n",
+        "ipa": "/ˌæplɪˈkeɪʃən/",
+        "meaning": "sự ứng dụng kiến thức hoặc công nghệ",
+        "synonyms": "practical use; implementation",
+        "example": "But these applications deal with something physical: bases, lines, goals.",
+        "needle": "applications",
+        "sourceForm": "applications"
+      },
+      {
+        "term": "consistent",
+        "pos": "adj",
+        "ipa": "/kənˈsɪstənt/",
+        "meaning": "nhất quán, không thay đổi bất thường",
+        "synonyms": "uniform; steady",
+        "example": "In response, MLB decided to tweak the dimensions of the zone, and the following year the consensus was that ABS is profoundly consistent.",
+        "needle": "consistent",
+        "sourceForm": "consistent"
+      },
+      {
+        "term": "experiment",
+        "pos": "n",
+        "ipa": "/ɪkˈsperɪmənt/",
+        "meaning": "thí nghiệm",
+        "synonyms": "trial; test",
+        "example": "The executive tasked with running the experiment for MLB is Morgan Sword, who's in charge of baseball operations.",
+        "needle": "experiment",
+        "sourceForm": "experiment"
+      },
+      {
+        "term": "dimension",
+        "pos": "n",
+        "ipa": "/daɪˈmenʃən/",
+        "meaning": "kích thước hoặc khía cạnh của vấn đề",
+        "synonyms": "measurement; aspect",
+        "example": "In response, MLB decided to tweak the dimensions of the zone, and the following year the consensus was that ABS is profoundly consistent.",
+        "needle": "dimensions",
+        "sourceForm": "dimensions"
+      },
+      {
+        "term": "potential",
+        "pos": "n/adj",
+        "ipa": "/pəˈtenʃəl/",
+        "meaning": "tiềm năng; có khả năng xảy ra",
+        "synonyms": "possibility; prospective",
+        "example": "But while all of these were ruled out as potential fixes, ABS was seen as a perfect vehicle for change.",
+        "needle": "potential",
+        "sourceForm": "potential"
       }
     ],
     "grammar": [
@@ -3149,6 +3299,26 @@
         "example": "But there were still obstacles.",
         "needle": "obstacles",
         "sourceForm": "obstacles"
+      },
+      {
+        "term": "consumption",
+        "pos": "n",
+        "ipa": "/kənˈsʌmpʃən/",
+        "meaning": "sự tiêu thụ hoặc sử dụng",
+        "synonyms": "use; expenditure",
+        "example": "Today, the US frozen food industry has a turnover of over $67 billion annually, with $26.6 billion of that sold to consumers for home consumption.",
+        "needle": "consumption",
+        "sourceForm": "consumption"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "A US perspective on the development of the frozen food industry",
+        "needle": "development",
+        "sourceForm": "development"
       }
     ],
     "grammar": [
@@ -3577,8 +3747,8 @@
         "term": "pinpoint",
         "pos": "v",
         "ipa": "/ˈpɪnpɔɪnt/",
-        "meaning": "xác định chính xác loài thích hợp",
-        "synonyms": "identify precisely",
+        "meaning": "xác định chính xác một yếu tố, vị trí hoặc nguyên nhân",
+        "synonyms": "identify precisely; locate exactly",
         "example": "However, scientists are trying to pinpoint hardy types of coral that could survive our overheated oceans, and some of this research will be carried out at London Zoo.",
         "needle": "pinpoint",
         "sourceForm": "pinpoint"
@@ -3602,6 +3772,36 @@
         "example": "from algae that live within them, which in turn get protection, while their photosynthesising of the sun's rays provides nutrients for the polyps.",
         "needle": "nutrients",
         "sourceForm": "nutrients"
+      },
+      {
+        "term": "conservation",
+        "pos": "n",
+        "ipa": "/ˌkɒnsəˈveɪʃən/",
+        "meaning": "việc bảo vệ môi trường hoặc tài nguyên",
+        "synonyms": "preservation; protection",
+        "example": "'However, we also want to highlight the research and conservation efforts that are now being carried out to try to save them from the threat of global warming.'",
+        "needle": "conservation",
+        "sourceForm": "conservation"
+      },
+      {
+        "term": "relationship",
+        "pos": "n",
+        "ipa": "/rɪˈleɪʃnʃɪp/",
+        "meaning": "mối quan hệ",
+        "synonyms": "connection",
+        "example": "This comfortable symbiotic relationship has led to the growth of coral reefs that cover 0.1% of the planet's ocean bed while providing homes for more than 25% of marine species, including fish, molluscs, sponges and shellfish.",
+        "needle": "relationship",
+        "sourceForm": "relationship"
+      },
+      {
+        "term": "restoration",
+        "pos": "n",
+        "ipa": "/ˌrestəˈreɪʃn/",
+        "meaning": "sự phục hồi, trùng tu",
+        "synonyms": "reconstruction",
+        "example": "'However, aquarium-based research has enabled some corals to spawn artificially, which can assist coral reef restoration efforts.",
+        "needle": "restoration",
+        "sourceForm": "restoration"
       }
     ],
     "grammar": [
@@ -4100,6 +4300,26 @@
         "example": "Critically, the benefits of computers outweigh the damage that computer viruses cause.",
         "needle": "outweigh",
         "sourceForm": "outweigh"
+      },
+      {
+        "term": "sophisticated",
+        "pos": "adj",
+        "ipa": "/səˈfɪstɪkeɪtɪd/",
+        "meaning": "tinh vi, phức tạp và phát triển cao",
+        "synonyms": "advanced; elaborate",
+        "example": "... Should we feel guilty about exploiting [sophisticated robots]?",
+        "needle": "sophisticated",
+        "sourceForm": "sophisticated"
+      },
+      {
+        "term": "intelligence",
+        "pos": "n",
+        "ipa": "/ɪnˈtelɪdʒəns/",
+        "meaning": "trí thông minh",
+        "synonyms": "mental ability",
+        "example": "Richardson's response to this question was this: 'We need to ask why fears of artificial intelligence and robots persist; none have in fact risen up and challenged human supremacy.'",
+        "needle": "intelligence",
+        "sourceForm": "intelligence"
       }
     ],
     "grammar": [
@@ -4533,6 +4753,46 @@
         "example": "By the mid-1920s, O'Keeffe was recognized as one of America's most important and successful artists, widely known for the architectural pictures that dramatically depict the soaring skyscrapers of New York.",
         "needle": "depict",
         "sourceForm": "depict"
+      },
+      {
+        "term": "relationship",
+        "pos": "n",
+        "ipa": "/rɪˈleɪʃnʃɪp/",
+        "meaning": "mối quan hệ",
+        "synonyms": "connection",
+        "example": "The ups and downs of their personal and professional relationship were recorded in Stieglitz's celebrated black-and-white portraits of O'Keeffe, taken over the course of twenty years (1917-37).",
+        "needle": "relationship",
+        "sourceForm": "relationship"
+      },
+      {
+        "term": "composition",
+        "pos": "n",
+        "ipa": "/ˌkɒmpəˈzɪʃən/",
+        "meaning": "bố cục tác phẩm; bản nhạc",
+        "synonyms": "arrangement; musical work",
+        "example": "During this period, O'Keeffe began to experiment with creating abstract compositions in charcoal, and produced a series of innovative drawings that led her art in a new direction.",
+        "needle": "compositions",
+        "sourceForm": "compositions"
+      },
+      {
+        "term": "independent",
+        "pos": "adj",
+        "ipa": "/ˌɪndɪˈpendənt/",
+        "meaning": "độc lập",
+        "synonyms": "autonomous; self-reliant",
+        "example": "Remarkably, she remained independent from shifting art trends and her work stayed true to her own vision, which was based on finding the essential, abstract forms in nature.",
+        "needle": "independent",
+        "sourceForm": "independent"
+      },
+      {
+        "term": "observation",
+        "pos": "n",
+        "ipa": "/ˌɒbzəˈveɪʃən/",
+        "meaning": "sự quan sát hoặc nhận xét từ quan sát",
+        "synonyms": "monitoring; noticing",
+        "example": "With exceptionally keen powers of observation and great finesse with a paintbrush, she recorded subtle nuances of colour, shape, and light that enlivened her paintings and attracted a wide audience.",
+        "needle": "observation",
+        "sourceForm": "observation"
       }
     ],
     "grammar": [
@@ -4933,8 +5193,8 @@
         "term": "exacerbate",
         "pos": "v",
         "ipa": "/ɪɡˈzæsəbeɪt/",
-        "meaning": "làm tình trạng xói lở tệ hơn",
-        "synonyms": "aggravate; worsen",
+        "meaning": "làm cho vấn đề hoặc tình trạng xấu trở nên nghiêm trọng hơn",
+        "synonyms": "worsen; aggravate",
         "example": "Seawalls are a staple strategy for many coastal communities, but on the soft, muddy northern shores of Java, Indonesia, they frequently collapse, further exacerbating coastal erosion.",
         "needle": "exacerbating",
         "sourceForm": "exacerbating"
@@ -4968,6 +5228,36 @@
         "example": "Even if we stopped all CO₂ emissions tomorrow, we would continue to see the impact of the CO₂ already released since industrial times, with scientists forecasting that global warming would continue for around 40 years.",
         "needle": "emissions",
         "sourceForm": "emissions"
+      },
+      {
+        "term": "infrastructure",
+        "pos": "n",
+        "ipa": "/ˈɪnfrəstrʌktʃə/",
+        "meaning": "cơ sở hạ tầng phục vụ một cộng đồng",
+        "synonyms": "basic facilities; support systems",
+        "example": "'Unfortunately, traditional infrastructure is often single-solution focused,' says Tol.",
+        "needle": "infrastructure",
+        "sourceForm": "infrastructure"
+      },
+      {
+        "term": "modification",
+        "pos": "n",
+        "ipa": "/ˌmɒdɪfɪˈkeɪʃən/",
+        "meaning": "sự điều chỉnh hoặc thay đổi",
+        "synonyms": "alteration; adaptation",
+        "example": "The modifications were made by the Buoyant Foundation Project, a not-for-profit organisation that has been researching and retrofitting amphibious houses since 2006.",
+        "needle": "modifications",
+        "sourceForm": "modifications"
+      },
+      {
+        "term": "agriculture",
+        "pos": "n",
+        "ipa": "/ˈæɡrɪkʌltʃə/",
+        "meaning": "nông nghiệp",
+        "synonyms": "farming; cultivation",
+        "example": "Since the project began, farmers trained in saline agriculture have reported increases of two to three more harvests per year.",
+        "needle": "agriculture",
+        "sourceForm": "agriculture"
       }
     ],
     "grammar": [
@@ -5402,8 +5692,8 @@
         "term": "refuge",
         "pos": "n",
         "ipa": "/ˈrefjuːdʒ/",
-        "meaning": "nơi trú ẩn an toàn cho một loài",
-        "synonyms": "sanctuary; safe haven",
+        "meaning": "nơi trú ẩn hoặc sự che chở trước nguy hiểm",
+        "synonyms": "shelter; sanctuary",
         "example": "Indeed, Australian researchers are now using dogs to enhance biodiversity and create refuges for species threatened by predation.",
         "needle": "refuges",
         "sourceForm": "refuges"
@@ -5417,6 +5707,36 @@
         "example": "What's more, it is possible that livestock guard dogs merely displace predators to unprotected neighbouring properties, where their fate isn't recorded.",
         "needle": "displace",
         "sourceForm": "displace"
+      },
+      {
+        "term": "conservation",
+        "pos": "n",
+        "ipa": "/ˌkɒnsəˈveɪʃən/",
+        "meaning": "việc bảo vệ môi trường hoặc tài nguyên",
+        "synonyms": "preservation; protection",
+        "example": "'There is common ground from the livestock perspective and from the conservation perspective,' she says.",
+        "needle": "conservation",
+        "sourceForm": "conservation"
+      },
+      {
+        "term": "consequence",
+        "pos": "n",
+        "ipa": "/ˈkɒnsɪkwəns/",
+        "meaning": "hệ quả của một hành động hoặc sự kiện",
+        "synonyms": "outcome; result",
+        "example": "The evidence so far, however, indicates that these consequences aren't always negative.",
+        "needle": "consequences",
+        "sourceForm": "consequences"
+      },
+      {
+        "term": "eventually",
+        "pos": "adv",
+        "ipa": "/ɪˈventʃuəli/",
+        "meaning": "cuối cùng, sau một thời gian",
+        "synonyms": "ultimately",
+        "example": "These dogs are raised from an early age with the animals they will be watching and eventually these animals become the dog's family.",
+        "needle": "eventually",
+        "sourceForm": "eventually"
       }
     ],
     "grammar": [

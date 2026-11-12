@@ -345,6 +345,106 @@
         "example": "It was built just below street level using a technique known as 'cut and cover'.",
         "needle": "technique",
         "sourceForm": "technique"
+      },
+      {
+        "term": "construction",
+        "pos": "n",
+        "ipa": "/kənˈstrʌkʃn/",
+        "meaning": "sự xây dựng",
+        "synonyms": "building",
+        "example": "Originally scheduled to be completed in 21 months, the construction of the underground line took three years.",
+        "needle": "construction",
+        "sourceForm": "construction"
+      },
+      {
+        "term": "achievement",
+        "pos": "n",
+        "ipa": "/əˈtʃiːvmənt/",
+        "meaning": "thành tựu",
+        "synonyms": "accomplishment; success",
+        "example": "Although the City & South London Railway was a great technical achievement, it did not make a profit.",
+        "needle": "achievement",
+        "sourceForm": "achievement"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "It wasn't until the development of a reliable electric motor, and a means of transferring power from the generator to a moving train, that the world's first deep-level electric railway, the City & South London, became possible.",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "commission",
+        "pos": "n",
+        "ipa": "/kəˈmɪʃən/",
+        "meaning": "ủy ban được giao nhiệm vụ điều tra hoặc đánh giá",
+        "synonyms": "committee; inquiry panel",
+        "example": "However, in 1846, a Royal Commission decided that the railways should not be allowed to enter the City, the capital's historic and business centre.",
+        "needle": "Commission",
+        "sourceForm": "Commission"
+      },
+      {
+        "term": "eventually",
+        "pos": "adv",
+        "ipa": "/ɪˈventʃuəli/",
+        "meaning": "cuối cùng, sau một thời gian",
+        "synonyms": "ultimately",
+        "example": "Eventually, over a five-year period, Elm was raised.",
+        "needle": "Eventually",
+        "sourceForm": "Eventually"
+      },
+      {
+        "term": "population",
+        "pos": "n",
+        "ipa": "/ˌpɒpjuˈleɪʃn/",
+        "meaning": "dân số, quần thể",
+        "synonyms": "inhabitants",
+        "example": "In the first half of the 1800s, London's population grew at an astonishing rate, and the central area became increasingly congested.",
+        "needle": "population",
+        "sourceForm": "population"
+      },
+      {
+        "term": "introduce",
+        "pos": "v",
+        "ipa": "/ˌɪntrəˈdjuːs/",
+        "meaning": "giới thiệu, đưa vào sử dụng",
+        "synonyms": "present; bring in",
+        "example": "The original plan was to pull the trains with steam locomotives, using firebricks in the boilers to provide steam, but these engines were never introduced.",
+        "needle": "introduced",
+        "sourceForm": "introduced"
+      },
+      {
+        "term": "original",
+        "pos": "adj",
+        "ipa": "/əˈrɪdʒənəl/",
+        "meaning": "ban đầu; có tính độc đáo",
+        "synonyms": "initial; novel",
+        "example": "The original plan was to pull the trains with steam locomotives, using firebricks in the boilers to provide steam, but these engines were never introduced.",
+        "needle": "original",
+        "sourceForm": "original"
+      },
+      {
+        "term": "provide",
+        "pos": "v",
+        "ipa": "/prəˈvaɪd/",
+        "meaning": "cung cấp",
+        "synonyms": "supply; furnish",
+        "example": "His idea was to relocate the poor workers who lived in the inner-city slums to newly constructed suburbs, and to provide cheap rail travel for them to get to work.",
+        "needle": "provide",
+        "sourceForm": "provide"
+      },
+      {
+        "term": "create",
+        "pos": "v",
+        "ipa": "/kriˈeɪt/",
+        "meaning": "tạo ra",
+        "synonyms": "produce; bring into existence",
+        "example": "Although the technology to create these tunnels existed, steam locomotives could not be used in such a confined space.",
+        "needle": "create",
+        "sourceForm": "create"
       }
     ],
     "grammar": [
@@ -757,8 +857,8 @@
         "term": "reinforce",
         "pos": "v",
         "ipa": "/ˌriːɪnˈfɔːs/",
-        "meaning": "củng cố, làm mạnh thêm một xu hướng",
-        "synonyms": "strengthen; intensify",
+        "meaning": "củng cố; làm cho điều gì mạnh hơn hoặc vững chắc hơn",
+        "synonyms": "strengthen; bolster",
         "needle": "reinforces",
         "example": "Creating mixed-use developments such as this reinforces compactness and multi-functionality, making more efficient use of land and helping to regenerate urban spaces.",
         "sourceForm": "reinforces"
@@ -862,6 +962,56 @@
         "example": "These factors mean that they may not be as accessible to the general public, require more energy to run and contribute to urban heat.",
         "needle": "factors",
         "sourceForm": "factors"
+      },
+      {
+        "term": "communication",
+        "pos": "n",
+        "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+        "meaning": "sự giao tiếp, truyền thông",
+        "synonyms": "exchange of information",
+        "example": "The phenomenon of stadiums as power stations has arisen from the idea that energy problems can be overcome by integrating interconnected buildings by means of a smart grid, which is an electricity supply network that uses digital communications technology to detect and react to local changes in usage, without significant energy losses.",
+        "needle": "communications",
+        "sourceForm": "communications"
+      },
+      {
+        "term": "construction",
+        "pos": "n",
+        "ipa": "/kənˈstrʌkʃn/",
+        "meaning": "sự xây dựng",
+        "synonyms": "building",
+        "example": "Construction costs can soar above El billion, and stadiums finished for major events such as the Olympic Games or the FIFA World Cup have notably fallen into disuse and disrepair.",
+        "needle": "Construction",
+        "sourceForm": "Construction"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "Creating mixed-use developments such as this reinforces compactness and multi-functionality, making more efficient use of land and helping to regenerate urban spaces.",
+        "needle": "developments",
+        "sourceForm": "developments"
+      },
+      {
+        "term": "engineering",
+        "pos": "n",
+        "ipa": "/ˌendʒɪˈnɪərɪŋ/",
+        "meaning": "kỹ thuật, ngành thiết kế và chế tạo",
+        "synonyms": "technical design and construction",
+        "example": "In every era, the stadium has acquired new value and uses: from military fortress to residential village, public space to theatre and most recently a field for experimentation in advanced engineering.",
+        "needle": "engineering",
+        "sourceForm": "engineering"
+      },
+      {
+        "term": "contribute",
+        "pos": "v",
+        "ipa": "/kənˈtrɪbjuːt/",
+        "meaning": "đóng góp; góp phần gây ra",
+        "synonyms": "add to",
+        "example": "These factors mean that they may not be as accessible to the general public, require more energy to run and contribute to urban heat.",
+        "needle": "contribute",
+        "sourceForm": "contribute"
       }
     ],
     "grammar": [
@@ -1215,8 +1365,8 @@
         "term": "commission",
         "pos": "v",
         "ipa": "/kəˈmɪʃən/",
-        "meaning": "đặt làm, thuê phát triển hệ thống",
-        "synonyms": "order; authorise production",
+        "meaning": "đặt làm hoặc giao thực hiện một công việc theo yêu cầu",
+        "synonyms": "order; engage someone to produce something",
         "needle": "commissioned",
         "example": "In 1660, Charles II commissioned the artist John Michael Wright to paint a flying squadron of cherubs* carrying an oak tree to the heavens on the ceiling of his bedchamber.",
         "sourceForm": "commissioned"
@@ -1250,6 +1400,176 @@
         "example": "Spencer draws out both the humour — such as the preposterous refusal of Charles's friend Henry Wilmot to adopt disguise on the grounds that it was beneath his dignity — and the emotional tension when the secret of the king's presence was cautiously revealed to his supporters.",
         "needle": "revealed",
         "sourceForm": "revealed"
+      },
+      {
+        "term": "preposterous",
+        "pos": "adj",
+        "ipa": "/prɪˈpɒstərəs/",
+        "meaning": "hết sức vô lý; lố bịch",
+        "synonyms": "absurd; ridiculous",
+        "example": "Spencer draws out both the humour — such as the preposterous refusal of Charles's friend Henry Wilmot to adopt disguise on the grounds that it was beneath his dignity — and the emotional tension when the secret of the king's presence was cautiously revealed to his supporters.",
+        "needle": "preposterous",
+        "sourceForm": "preposterous"
+      },
+      {
+        "term": "recollection",
+        "pos": "n",
+        "ipa": "/ˌrekəˈlekʃən/",
+        "meaning": "ký ức; điều được nhớ lại",
+        "synonyms": "memory; remembrance",
+        "example": "Over two three-hour sittings, the king related to him in great detail his personal recollections of the six weeks he had spent as a fugitive.",
+        "needle": "recollections",
+        "sourceForm": "recollections"
+      },
+      {
+        "term": "ineffective",
+        "pos": "adj",
+        "ipa": "/ˌɪnɪˈfektɪv/",
+        "meaning": "không hiệu quả; không tạo ra kết quả mong muốn",
+        "synonyms": "unsuccessful; ineffectual",
+        "example": "Instead its depiction of Charles II in his final years as an ineffective, pleasure-loving monarch doesn't do justice to the man (neither is it accurate), or to the complexity of his character.",
+        "needle": "ineffective",
+        "sourceForm": "ineffective"
+      },
+      {
+        "term": "restoration",
+        "pos": "n",
+        "ipa": "/ˌrestəˈreɪʃn/",
+        "meaning": "sự phục hồi, trùng tu",
+        "synonyms": "reconstruction",
+        "example": "Years later, after his restoration as king, the 50-year-old Charles II requested a meeting with the writer and diarist Samuel Pepys.",
+        "needle": "restoration",
+        "sourceForm": "restoration"
+      },
+      {
+        "term": "subterfuge",
+        "pos": "n",
+        "ipa": "/ˈsʌbtəfjuːdʒ/",
+        "meaning": "mưu mẹo nhằm che giấu ý định hoặc tránh bị phát hiện",
+        "synonyms": "deception; trickery",
+        "example": "Did the need to assume disguises, to survive on wit and charm alone, to use trickery and subterfuge to escape from tight corners help form him?",
+        "needle": "subterfuge",
+        "sourceForm": "subterfuge"
+      },
+      {
+        "term": "narrative",
+        "pos": "n",
+        "ipa": "/ˈnærətɪv/",
+        "meaning": "câu chuyện hoặc bản tường thuật các sự kiện",
+        "synonyms": "account; story",
+        "example": "One of the joys of Spencer's book, a result not least of its use of Charles II's own narrative as well as those of his supporters, is just how close the reader gets to the action.",
+        "needle": "narrative",
+        "sourceForm": "narrative"
+      },
+      {
+        "term": "sacrifice",
+        "pos": "v",
+        "ipa": "/ˈsækrɪfaɪs/",
+        "meaning": "hy sinh; từ bỏ điều có giá trị để đạt mục đích khác",
+        "synonyms": "give up; relinquish",
+        "example": "After his father was executed by the Parliamentarians in 1649, the young Charles II sacrificed one of the very principles his father had died for and did a deal with the Scots, thereby accepting Presbyterianism* as the national religion in return for being crowned King of Scots.",
+        "needle": "sacrificed",
+        "sourceForm": "sacrificed"
+      },
+      {
+        "term": "accurate",
+        "pos": "adj",
+        "ipa": "/ˈækjərət/",
+        "meaning": "chính xác",
+        "synonyms": "precise",
+        "example": "Instead its depiction of Charles II in his final years as an ineffective, pleasure-loving monarch doesn't do justice to the man (neither is it accurate), or to the complexity of his character.",
+        "needle": "accurate",
+        "sourceForm": "accurate"
+      },
+      {
+        "term": "fugitive",
+        "pos": "n",
+        "ipa": "/ˈfjuːdʒətɪv/",
+        "meaning": "người chạy trốn sự truy bắt",
+        "synonyms": "escapee; runaway",
+        "example": "Over two three-hour sittings, the king related to him in great detail his personal recollections of the six weeks he had spent as a fugitive.",
+        "needle": "fugitive",
+        "sourceForm": "fugitive"
+      },
+      {
+        "term": "previous",
+        "pos": "adj",
+        "ipa": "/ˈpriːviəs/",
+        "meaning": "trước đó",
+        "synonyms": "earlier",
+        "example": "He has even-handed sympathy for both the fugitive king and the fierce republican regime that hunted him, and he succeeds in his desire to explore far more of the background of the story than previous books on the subject have done.",
+        "needle": "previous",
+        "sourceForm": "previous"
+      },
+      {
+        "term": "dignity",
+        "pos": "n",
+        "ipa": "/ˈdɪɡnəti/",
+        "meaning": "phẩm giá; sự tự trọng hoặc vẻ tôn nghiêm",
+        "synonyms": "self-respect; honour",
+        "example": "Spencer draws out both the humour — such as the preposterous refusal of Charles's friend Henry Wilmot to adopt disguise on the grounds that it was beneath his dignity — and the emotional tension when the secret of the king's presence was cautiously revealed to his supporters.",
+        "needle": "dignity",
+        "sourceForm": "dignity"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "A series of enormous oil paintings depicting the episode were produced, including a two-metre-wide canvas of Boscobel Wood and a set of six similarly enormous paintings of the king on the run.",
+        "needle": "including",
+        "sourceForm": "including"
+      },
+      {
+        "term": "monarch",
+        "pos": "n",
+        "ipa": "/ˈmɒnək/",
+        "meaning": "quốc vương; người đứng đầu một chế độ quân chủ",
+        "synonyms": "sovereign; ruler",
+        "example": "Instead its depiction of Charles II in his final years as an ineffective, pleasure-loving monarch doesn't do justice to the man (neither is it accurate), or to the complexity of his character.",
+        "needle": "monarch",
+        "sourceForm": "monarch"
+      },
+      {
+        "term": "provide",
+        "pos": "v",
+        "ipa": "/prəˈvaɪd/",
+        "meaning": "cung cấp",
+        "synonyms": "supply; furnish",
+        "example": "The day-byday retelling of the fugitives' doings provides delicious details: the cutting of the king's long hair with agricultural shears, the use of walnut leaves to dye his pale skin, and the day Charles spent lying on a branch of the great oak tree in Boscobel Wood as the Parliamentary soldiers scoured the forest floor below.",
+        "needle": "provides",
+        "sourceForm": "provides"
+      },
+      {
+        "term": "defeat",
+        "pos": "n",
+        "ipa": "/dɪˈfiːt/",
+        "meaning": "sự thất bại; trận thua",
+        "synonyms": "loss; setback",
+        "example": "Charles Spencer's latest book, To Catch a King, tells us the story of the hunt for King Charles II in the six weeks after his resounding defeat at the Battle of Worcester in September 1651.",
+        "needle": "defeat",
+        "sourceForm": "defeat"
+      },
+      {
+        "term": "invade",
+        "pos": "v",
+        "ipa": "/ɪnˈveɪd/",
+        "meaning": "xâm lược; đưa quân tiến vào lãnh thổ khác",
+        "synonyms": "occupy; enter by force",
+        "example": "His arrival in Edinburgh prompted the English Parliamentary army to invade Scotland in a pre-emptive strike.",
+        "needle": "invade",
+        "sourceForm": "invade"
+      },
+      {
+        "term": "refuge",
+        "pos": "n",
+        "ipa": "/ˈrefjuːdʒ/",
+        "meaning": "nơi trú ẩn hoặc sự che chở trước nguy hiểm",
+        "synonyms": "shelter; sanctuary",
+        "example": "Over the following six weeks he managed, through a series of heart-poundingly close escapes, to evade the Parliamentarians before seeking refuge in France.",
+        "needle": "refuge",
+        "sourceForm": "refuge"
       }
     ],
     "grammar": [
@@ -1594,6 +1914,166 @@
         "example": "In late 1946 or early 1947, three Bedouin teenagers were tending their goats and sheep near the ancient settlement of Qumran, located on the northwest shore of the Dead Sea in what is now known as the West Bank.",
         "needle": "ancient",
         "sourceForm": "ancient"
+      },
+      {
+        "term": "institution",
+        "pos": "n",
+        "ipa": "/ˌɪnstɪˈtjuːʃən/",
+        "meaning": "cơ sở, tổ chức được thành lập cho một mục đích",
+        "synonyms": "establishment; organisation",
+        "example": "This would be an ideal gift to an educational or religious institution by an individual or group.'",
+        "needle": "institution",
+        "sourceForm": "institution"
+      },
+      {
+        "term": "collection",
+        "pos": "n",
+        "ipa": "/kəˈlekʃən/",
+        "meaning": "bộ sưu tập; việc thu thập",
+        "synonyms": "set of collected objects; gathering",
+        "example": "He and his companions later entered the cave and stumbled across a collection of large clay jars, seven of which contained scrolls with writing on them.",
+        "needle": "collection",
+        "sourceForm": "collection"
+      },
+      {
+        "term": "eventually",
+        "pos": "adv",
+        "ipa": "/ɪˈventʃuəli/",
+        "meaning": "cuối cùng, sau một thời gian",
+        "synonyms": "ultimately",
+        "example": "Word of the find spread, and Bedouins and archaeologists eventually unearthed tens of thousands of additional scroll fragments from 10 nearby caves; together they make up between 800 and 900 manuscripts.",
+        "needle": "eventually",
+        "sourceForm": "eventually"
+      },
+      {
+        "term": "individual",
+        "pos": "n/adj",
+        "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+        "meaning": "cá nhân; riêng lẻ",
+        "synonyms": "person; separate",
+        "example": "This would be an ideal gift to an educational or religious institution by an individual or group.'",
+        "needle": "individual",
+        "sourceForm": "individual"
+      },
+      {
+        "term": "population",
+        "pos": "n",
+        "ipa": "/ˌpɒpjuˈleɪʃn/",
+        "meaning": "dân số, quần thể",
+        "synonyms": "inhabitants",
+        "example": "According to the prevailing theory, they are the work of a population that inhabited the area until Roman troops destroyed the settlement around 70 CE.",
+        "needle": "population",
+        "sourceForm": "population"
+      },
+      {
+        "term": "regulation",
+        "pos": "n",
+        "ipa": "/ˌreɡjuˈleɪʃn/",
+        "meaning": "quy định; sự điều chỉnh",
+        "synonyms": "rule; control",
+        "example": "Along with biblical texts, the scrolls include documents about sectarian regulations and religious writings that do not appear in the Old Testament.",
+        "needle": "regulations",
+        "sourceForm": "regulations"
+      },
+      {
+        "term": "vocabulary",
+        "pos": "n",
+        "ipa": "/vəˈkæbjələri/",
+        "meaning": "vốn từ vựng",
+        "synonyms": "word stock; lexicon",
+        "example": "Using an unconventional vocabulary and odd spelling, it describes 64 underground hiding places that supposedly contain riches buried for safekeeping.",
+        "needle": "vocabulary",
+        "sourceForm": "vocabulary"
+      },
+      {
+        "term": "community",
+        "pos": "n",
+        "ipa": "/kəˈmjuːnəti/",
+        "meaning": "cộng đồng",
+        "synonyms": "local population",
+        "example": "Deciphered from a band of coded text on parchment, the find provides insight into the community of people who wrote it and the 364-day calendar they would have used.",
+        "needle": "community",
+        "sourceForm": "community"
+      },
+      {
+        "term": "discovery",
+        "pos": "n",
+        "ipa": "/dɪˈskʌvəri/",
+        "meaning": "sự phát hiện",
+        "synonyms": "finding; revelation",
+        "example": "It soon became clear that this was one of the greatest archaeological discoveries ever made.",
+        "needle": "discoveries",
+        "sourceForm": "discoveries"
+      },
+      {
+        "term": "existence",
+        "pos": "n",
+        "ipa": "/ɪɡˈzɪstəns/",
+        "meaning": "sự tồn tại",
+        "synonyms": "presence; being",
+        "example": "The only entire book of the Hebrew Bible preserved among the manuscripts from Qumran is Isaiah; this copy, dated to the first century BCE, is considered the earliest biblical manuscript still in existence.",
+        "needle": "existence",
+        "sourceForm": "existence"
+      },
+      {
+        "term": "religious",
+        "pos": "adj",
+        "ipa": "/rɪˈlɪdʒəs/",
+        "meaning": "thuộc tôn giáo",
+        "synonyms": "faith-related",
+        "example": "Along with biblical texts, the scrolls include documents about sectarian regulations and religious writings that do not appear in the Old Testament.",
+        "needle": "religious",
+        "sourceForm": "religious"
+      },
+      {
+        "term": "language",
+        "pos": "n",
+        "ipa": "/ˈlæŋɡwɪdʒ/",
+        "meaning": "ngôn ngữ",
+        "synonyms": "system of communication",
+        "example": "Some scrolls are in Aramaic, the language spoken by many inhabitants of the region from the sixth century BCE to the siege of Jerusalem in 70 CE.",
+        "needle": "language",
+        "sourceForm": "language"
+      },
+      {
+        "term": "original",
+        "pos": "adj",
+        "ipa": "/əˈrɪdʒənəl/",
+        "meaning": "ban đầu; có tính độc đáo",
+        "synonyms": "initial; novel",
+        "example": "In 1948, a Syrian Orthodox archbishop known as Mar Samuel acquired four of the original seven scrolls from a Jerusalem shoemaker and part-time antiquity dealer, paying less than $100 for them.",
+        "needle": "original",
+        "sourceForm": "original"
+      },
+      {
+        "term": "purchase",
+        "pos": "n/v",
+        "ipa": "/ˈpɜːtʃəs/",
+        "meaning": "sự mua; mua",
+        "synonyms": "buy",
+        "example": "Fortunately, Israeli archaeologist and statesman Yigael Yadin negotiated their purchase and brought the scrolls back to Jerusalem, where they remain to this day.",
+        "needle": "purchase",
+        "sourceForm": "purchase"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "Along with biblical texts, the scrolls include documents about sectarian regulations and religious writings that do not appear in the Old Testament.",
+        "needle": "include",
+        "sourceForm": "include"
+      },
+      {
+        "term": "provide",
+        "pos": "v",
+        "ipa": "/prəˈvaɪd/",
+        "meaning": "cung cấp",
+        "synonyms": "supply; furnish",
+        "example": "Deciphered from a band of coded text on parchment, the find provides insight into the community of people who wrote it and the 364-day calendar they would have used.",
+        "needle": "provides",
+        "sourceForm": "provides"
       }
     ],
     "grammar": [
@@ -2057,6 +2537,106 @@
         "example": "This approach relies on the revolutionary CRISPR genome editing technique, in which changes are deliberately made to the DNA of a living cell, allowing genetic material to be added, removed or altered.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "reintroduce",
+        "pos": "v",
+        "ipa": "/ˌriːɪntrəˈdjuːs/",
+        "meaning": "đưa trở lại; áp dụng hoặc đưa một loài, đặc điểm trở lại nơi từng có",
+        "synonyms": "bring back; introduce again",
+        "example": "The teams in Brazil and China have now used this knowledge to reintroduce these changes from scratch while maintaining or even enhancing the desirable traits of wild strains.",
+        "needle": "reintroduce",
+        "sourceForm": "reintroduce"
+      },
+      {
+        "term": "historical",
+        "pos": "adj",
+        "ipa": "/hɪˈstɒrɪkəl/",
+        "meaning": "thuộc lịch sử",
+        "synonyms": "relating to past events",
+        "example": "While the historical domestication of tomatoes reduced levels of the red pigment lycopene — thought to have potential health benefits — the team in Brazil managed to boost it instead.",
+        "needle": "historical",
+        "sourceForm": "historical"
+      },
+      {
+        "term": "population",
+        "pos": "n",
+        "ipa": "/ˌpɒpjuˈleɪʃn/",
+        "meaning": "dân số, quần thể",
+        "synonyms": "inhabitants",
+        "example": "But every time a single plant with a mutation is taken from a larger population for breeding, much genetic diversity is lost.",
+        "needle": "population",
+        "sourceForm": "population"
+      },
+      {
+        "term": "knowledge",
+        "pos": "n",
+        "ipa": "/ˈnɒlɪdʒ/",
+        "meaning": "kiến thức, hiểu biết",
+        "synonyms": "understanding; learning",
+        "example": "The teams in Brazil and China have now used this knowledge to reintroduce these changes from scratch while maintaining or even enhancing the desirable traits of wild strains.",
+        "needle": "knowledge",
+        "sourceForm": "knowledge"
+      },
+      {
+        "term": "structure",
+        "pos": "n",
+        "ipa": "/ˈstrʌktʃə/",
+        "meaning": "cấu trúc; công trình",
+        "synonyms": "framework",
+        "example": "Over many generations, peoples such as the Aztecs and Incas transformed the plant by selecting and breeding plants with mutations* in their genetic structure, which resulted in desirable traits such as larger fruit.",
+        "needle": "structure",
+        "sourceForm": "structure"
+      },
+      {
+        "term": "maintain",
+        "pos": "v",
+        "ipa": "/meɪnˈteɪn/",
+        "meaning": "duy trì; khẳng định",
+        "synonyms": "preserve; assert",
+        "example": "The teams in Brazil and China have now used this knowledge to reintroduce these changes from scratch while maintaining or even enhancing the desirable traits of wild strains.",
+        "needle": "maintaining",
+        "sourceForm": "maintaining"
+      },
+      {
+        "term": "material",
+        "pos": "n",
+        "ipa": "/məˈtɪəriəl/",
+        "meaning": "vật liệu, chất liệu",
+        "synonyms": "substance; raw material",
+        "example": "This approach relies on the revolutionary CRISPR genome editing technique, in which changes are deliberately made to the DNA of a living cell, allowing genetic material to be added, removed or altered.",
+        "needle": "material",
+        "sourceForm": "material"
+      },
+      {
+        "term": "benefit",
+        "pos": "n/v",
+        "ipa": "/ˈbenɪfɪt/",
+        "meaning": "lợi ích; có lợi cho",
+        "synonyms": "advantage",
+        "example": "While the historical domestication of tomatoes reduced levels of the red pigment lycopene — thought to have potential health benefits — the team in Brazil managed to boost it instead.",
+        "needle": "benefits",
+        "sourceForm": "benefits"
+      },
+      {
+        "term": "compare",
+        "pos": "v",
+        "ipa": "/kəmˈpeə/",
+        "meaning": "so sánh",
+        "synonyms": "contrast; assess similarities",
+        "example": "By comparing the genomes of modern plants to those of their wild relatives, biologists have been working out what genetic changes occurred as plants were domesticated.",
+        "needle": "comparing",
+        "sourceForm": "comparing"
+      },
+      {
+        "term": "genetic",
+        "pos": "adj",
+        "ipa": "/dʒəˈnetɪk/",
+        "meaning": "thuộc di truyền",
+        "synonyms": "hereditary",
+        "example": "This approach relies on the revolutionary CRISPR genome editing technique, in which changes are deliberately made to the DNA of a living cell, allowing genetic material to be added, removed or altered.",
+        "needle": "genetic",
+        "sourceForm": "genetic"
       }
     ],
     "grammar": [
@@ -2604,6 +3184,26 @@
         "example": "We need another approach, and there is a promising candidate.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "investigation",
+        "pos": "n",
+        "ipa": "/ɪnˌvestɪˈɡeɪʃn/",
+        "meaning": "sự điều tra, nghiên cứu",
+        "synonyms": "inquiry; research",
+        "example": "Had Westrope conducted methodical investigations or examined extensive film records in a shrewd plan to outrun his rivals?",
+        "needle": "investigations",
+        "sourceForm": "investigations"
+      },
+      {
+        "term": "contribution",
+        "pos": "n",
+        "ipa": "/ˌkɒntrɪˈbjuːʃən/",
+        "meaning": "sự đóng góp",
+        "synonyms": "input; assistance",
+        "example": "Our view of such unique contributions to science often disregards the person's prior experience and the efforts of their lesser-known predecessors.",
+        "needle": "contributions",
+        "sourceForm": "contributions"
       }
     ],
     "grammar": [
@@ -3069,6 +3669,56 @@
         "example": "There have been numerous expeditions and searches for the thylacine over the years, none of which has produced definitive evidence that thylacines still exist.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "contribute",
+        "pos": "v",
+        "ipa": "/kənˈtrɪbjuːt/",
+        "meaning": "đóng góp; góp phần gây ra",
+        "synonyms": "add to",
+        "example": "While this determined campaign undoubtedly played a large part, it is likely that various other factors also contributed to the decline and eventual extinction of the species.",
+        "needle": "contributed",
+        "sourceForm": "contributed"
+      },
+      {
+        "term": "expedition",
+        "pos": "n",
+        "ipa": "/ˌekspəˈdɪʃən/",
+        "meaning": "chuyến thám hiểm có tổ chức",
+        "synonyms": "exploratory journey",
+        "example": "There have been numerous expeditions and searches for the thylacine over the years, none of which has produced definitive evidence that thylacines still exist.",
+        "needle": "expeditions",
+        "sourceForm": "expeditions"
+      },
+      {
+        "term": "individual",
+        "pos": "n/adj",
+        "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+        "meaning": "cá nhân; riêng lẻ",
+        "synonyms": "person; separate",
+        "example": "Official protection of the species by the Tasmanian government was introduced in July 1936, 59 days before the last known individual died in Hobart Zoo on 7th September, 1936.",
+        "needle": "individual",
+        "sourceForm": "individual"
+      },
+      {
+        "term": "successful",
+        "pos": "adj",
+        "ipa": "/səkˈsesfəl/",
+        "meaning": "thành công",
+        "synonyms": "effective; achieving its aim",
+        "example": "There was only one successful attempt to breed a thylacine in captivity, at Melbourne Zoo in 1899.",
+        "needle": "successful",
+        "sourceForm": "successful"
+      },
+      {
+        "term": "captivity",
+        "pos": "n",
+        "ipa": "/kæpˈtɪvəti/",
+        "meaning": "tình trạng bị nuôi nhốt",
+        "synonyms": "confinement",
+        "example": "There was only one successful attempt to breed a thylacine in captivity, at Melbourne Zoo in 1899.",
+        "needle": "captivity",
+        "sourceForm": "captivity"
       }
     ],
     "grammar": [
@@ -3590,6 +4240,26 @@
         "example": "How best to strike a utilitarian balance between these competing factors has become a serious bone of contention.",
         "needle": "factors",
         "sourceForm": "factors"
+      },
+      {
+        "term": "reintroduce",
+        "pos": "v",
+        "ipa": "/ˌriːɪntrəˈdjuːs/",
+        "meaning": "đưa trở lại; áp dụng hoặc đưa một loài, đặc điểm trở lại nơi từng có",
+        "synonyms": "bring back; introduce again",
+        "example": "Ellwood believes that reintroducing the bird's nest fern into oil palm plantations could potentially allow these areas to recover their biodiversity, providing a home for all manner of species, from fungi and bacteria, to invertebrates such as insects, amphibians, reptiles and even mammals.",
+        "needle": "reintroducing",
+        "sourceForm": "reintroducing"
+      },
+      {
+        "term": "requirement",
+        "pos": "n",
+        "ipa": "/rɪˈkwaɪəmənt/",
+        "meaning": "yêu cầu, điều kiện cần",
+        "synonyms": "condition",
+        "example": "Only once these requirements are fully satisfied is the oil allowed to be sold as certified sustainable palm oil (CSPO).",
+        "needle": "requirements",
+        "sourceForm": "requirements"
       }
     ],
     "grammar": [
@@ -4050,6 +4720,116 @@
         "example": "Later in the book, Barr makes the claim that the depth of bedrock ** was not a limiting factor for developers, as foundation costs were a small fraction of the cost of development.",
         "needle": "factor",
         "sourceForm": "factor"
+      },
+      {
+        "term": "construction",
+        "pos": "n",
+        "ipa": "/kənˈstrʌkʃn/",
+        "meaning": "sự xây dựng",
+        "synonyms": "building",
+        "example": "Chapter six then presents data on building height throughout the 20th century and uses regression analysis to 'predict' building construction.",
+        "needle": "construction",
+        "sourceForm": "construction"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "Later in the book, Barr makes the claim that the depth of bedrock ** was not a limiting factor for developers, as foundation costs were a small fraction of the cost of development.",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "distinguish",
+        "pos": "v",
+        "ipa": "/dɪˈstɪŋɡwɪʃ/",
+        "meaning": "nhận ra sự khác biệt",
+        "synonyms": "differentiate; tell apart",
+        "example": "In chapter five, Barr distinguishes between engineering height, economic height, and developer height — where engineering height is the tallest building that can be safely made at a given time, economic height is the height that is most efficient from society's point of view, and developer height is the actual height chosen by the developer, who is attempting to maximize return on investment.",
+        "needle": "distinguishes",
+        "sourceForm": "distinguishes"
+      },
+      {
+        "term": "engineering",
+        "pos": "n",
+        "ipa": "/ˌendʒɪˈnɪərɪŋ/",
+        "meaning": "kỹ thuật, ngành thiết kế và chế tạo",
+        "synonyms": "technical design and construction",
+        "example": "In chapter five, Barr distinguishes between engineering height, economic height, and developer height — where engineering height is the tallest building that can be safely made at a given time, economic height is the height that is most efficient from society's point of view, and developer height is the actual height chosen by the developer, who is attempting to maximize return on investment.",
+        "needle": "engineering",
+        "sourceForm": "engineering"
+      },
+      {
+        "term": "historical",
+        "pos": "adj",
+        "ipa": "/hɪˈstɒrɪkəl/",
+        "meaning": "thuộc lịch sử",
+        "synonyms": "relating to past events",
+        "example": "The first is primarily historical and addresses New York's settlement and growth from 1609 to 1900; the second deals primarily with the 20th century and is a compilation of chapters commenting on different aspects of New York's urban development.",
+        "needle": "historical",
+        "sourceForm": "historical"
+      },
+      {
+        "term": "available",
+        "pos": "adj",
+        "ipa": "/əˈveɪləbl/",
+        "meaning": "có sẵn, có thể sử dụng",
+        "synonyms": "accessible",
+        "example": "Barr identifies four primary immigrant enclaves and analyzes their locations in terms of the amenities available in the area.",
+        "needle": "available",
+        "sourceForm": "available"
+      },
+      {
+        "term": "efficient",
+        "pos": "adj",
+        "ipa": "/ɪˈfɪʃnt/",
+        "meaning": "hiệu suất cao, ít lãng phí",
+        "synonyms": "productive",
+        "example": "In chapter five, Barr distinguishes between engineering height, economic height, and developer height — where engineering height is the tallest building that can be safely made at a given time, economic height is the height that is most efficient from society's point of view, and developer height is the actual height chosen by the developer, who is attempting to maximize return on investment.",
+        "needle": "efficient",
+        "sourceForm": "efficient"
+      },
+      {
+        "term": "audience",
+        "pos": "n",
+        "ipa": "/ˈɔːdiəns/",
+        "meaning": "khán giả, người nghe",
+        "synonyms": "spectators; listeners",
+        "example": "While less technical than the research paper on which the chapter is based, it is probably more technical than would be preferred by a general audience.",
+        "needle": "audience",
+        "sourceForm": "audience"
+      },
+      {
+        "term": "research",
+        "pos": "n",
+        "ipa": "/rɪˈsɜːtʃ/",
+        "meaning": "nghiên cứu",
+        "synonyms": "investigation",
+        "example": "The tone and organization of the book changes somewhat between the first and second parts, as the latter chapters incorporate aspects of Barr's related research papers.",
+        "needle": "research",
+        "sourceForm": "research"
+      },
+      {
+        "term": "valuable",
+        "pos": "adj",
+        "ipa": "/ˈvæljuəbəl/",
+        "meaning": "có giá trị",
+        "synonyms": "precious; useful",
+        "example": "Most of these enclaves were located on the least valuable land, between the industries located on the waterfront and the wealthy neighborhoods bordering Central Park.",
+        "needle": "valuable",
+        "sourceForm": "valuable"
+      },
+      {
+        "term": "compare",
+        "pos": "v",
+        "ipa": "/kəmˈpeə/",
+        "meaning": "so sánh",
+        "synonyms": "contrast; assess similarities",
+        "example": "Rather, Barr argues that while deeper bedrock does increase foundation costs, these costs were neither prohibitively high nor were they large compared to the overall cost of building a skyscraper.",
+        "needle": "compared",
+        "sourceForm": "compared"
       }
     ],
     "grammar": [
@@ -4543,6 +5323,36 @@
         "example": "While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats feed not just on crop pests but also on mosquitoes — carriers of malaria, Rift Valley fever virus and elephantiasis — as well as blackflies, which spread river blindness.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "contribution",
+        "pos": "n",
+        "ipa": "/ˌkɒntrɪˈbjuːʃən/",
+        "meaning": "sự đóng góp",
+        "synonyms": "input; assistance",
+        "example": "The team is now calling for further research to quantify this contribution.",
+        "needle": "contribution",
+        "sourceForm": "contribution"
+      },
+      {
+        "term": "relationship",
+        "pos": "n",
+        "ipa": "/rɪˈleɪʃnʃɪp/",
+        "meaning": "mối quan hệ",
+        "synonyms": "connection",
+        "example": "Rocha says, 'With the right help, we hope that farmers can promote this mutually beneficial relationship by installing bat houses.'",
+        "needle": "relationship",
+        "sourceForm": "relationship"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "The study, now published in the journal Agriculture, Ecosystems and Environment, set out to investigate the feeding activity of insectivorous bats in the farmland bordering the Ranomafana National Park in the southeast of the country.",
+        "needle": "Environment",
+        "sourceForm": "Environment"
       }
     ],
     "grammar": [
@@ -4990,6 +5800,106 @@
         "example": "Ogilvie, who discovered the inventories in the archives oftwo German communities 30 years ago, believes they may hold the answer to a conundrum that has long puzzled economists: the lack of evidence for a causal link between education and a country's economic growth.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "relationship",
+        "pos": "n",
+        "ipa": "/rɪˈleɪʃnʃɪp/",
+        "meaning": "mối quan hệ",
+        "synonyms": "connection",
+        "example": "One thing is already clear, she says: the relationship between education and economic growth is far from straightforward.",
+        "needle": "relationship",
+        "sourceForm": "relationship"
+      },
+      {
+        "term": "institution",
+        "pos": "n",
+        "ipa": "/ˌɪnstɪˈtjuːʃən/",
+        "meaning": "cơ sở, tổ chức được thành lập cho một mục đích",
+        "synonyms": "establishment; organisation",
+        "example": "If economic institutions are poorly set up, for instance, education can't lead to growth.'",
+        "needle": "institutions",
+        "sourceForm": "institutions"
+      },
+      {
+        "term": "individual",
+        "pos": "n/adj",
+        "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+        "meaning": "cá nhân; riêng lẻ",
+        "synonyms": "person; separate",
+        "example": "According to Ogilvie, the database provides multiple indicators for the same individuals, making it possible to analyse links between literacy, numeracy, wealth, and industriousness, for individual women and men over the long term.",
+        "needle": "individuals",
+        "sourceForm": "individuals"
+      },
+      {
+        "term": "industrial",
+        "pos": "adj",
+        "ipa": "/ɪnˈdʌstriəl/",
+        "meaning": "thuộc công nghiệp",
+        "synonyms": "manufacturing",
+        "example": "If wealth is constant, it is possible to discover whether education was, for example, linked to the cultivation of new crops, or to the adoption of industrial innovations like sewing machines.",
+        "needle": "industrial",
+        "sourceForm": "industrial"
+      },
+      {
+        "term": "community",
+        "pos": "n",
+        "ipa": "/kəˈmjuːnəti/",
+        "meaning": "cộng đồng",
+        "synonyms": "local population",
+        "example": "Ogilvie and her team have been building the vast database of material possessions on top of their full demographic reconstruction of the people who lived in these two German communities.",
+        "needle": "communities",
+        "sourceForm": "communities"
+      },
+      {
+        "term": "education",
+        "pos": "n",
+        "ipa": "/ˌedʒuˈkeɪʃən/",
+        "meaning": "giáo dục",
+        "synonyms": "learning; instruction",
+        "example": "If wealth is constant, it is possible to discover whether education was, for example, linked to the cultivation of new crops, or to the adoption of industrial innovations like sewing machines.",
+        "needle": "education",
+        "sourceForm": "education"
+      },
+      {
+        "term": "equipment",
+        "pos": "n",
+        "ipa": "/ɪˈkwɪpmənt/",
+        "meaning": "thiết bị",
+        "synonyms": "apparatus",
+        "example": "Inventories of agricultural equipment and craft tools reveal economic activities; ownership of books and educationrelated objects like pens and slates suggests how people learned.",
+        "needle": "equipment",
+        "sourceForm": "equipment"
+      },
+      {
+        "term": "ownership",
+        "pos": "n",
+        "ipa": "/ˈəʊnəʃɪp/",
+        "meaning": "quyền sở hữu",
+        "synonyms": "possession",
+        "example": "Inventories of agricultural equipment and craft tools reveal economic activities; ownership of books and educationrelated objects like pens and slates suggests how people learned.",
+        "needle": "ownership",
+        "sourceForm": "ownership"
+      },
+      {
+        "term": "activity",
+        "pos": "n",
+        "ipa": "/ækˈtɪvəti/",
+        "meaning": "hoạt động",
+        "synonyms": "action; pursuit",
+        "example": "Inventories of agricultural equipment and craft tools reveal economic activities; ownership of books and educationrelated objects like pens and slates suggests how people learned.",
+        "needle": "activities",
+        "sourceForm": "activities"
+      },
+      {
+        "term": "discover",
+        "pos": "v",
+        "ipa": "/dɪˈskʌvə/",
+        "meaning": "phát hiện, khám phá",
+        "synonyms": "find; uncover",
+        "example": "If wealth is constant, it is possible to discover whether education was, for example, linked to the cultivation of new crops, or to the adoption of industrial innovations like sewing machines.",
+        "needle": "discover",
+        "sourceForm": "discover"
       }
     ],
     "grammar": [
@@ -5342,6 +6252,176 @@
         "example": "'But the thing that's so remarkable about Timur and a few other individuals is the number of games they can keep active at once.",
         "needle": "remarkable",
         "sourceForm": "remarkable"
+      },
+      {
+        "term": "communication",
+        "pos": "n",
+        "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+        "meaning": "sự giao tiếp, truyền thông",
+        "synonyms": "exchange of information",
+        "example": "Though the results are tentative and as yet unpublished, the scans found much greater than average communication between parts of Gareyev's brain that make up what is called the frontoparietal control network.",
+        "needle": "communication",
+        "sourceForm": "communication"
+      },
+      {
+        "term": "accomplished",
+        "pos": "adj",
+        "ipa": "/əˈkʌmplɪʃt/",
+        "meaning": "thành thạo; có kỹ năng cao nhờ rèn luyện",
+        "synonyms": "skilled; proficient",
+        "example": "'The ability to play a game of chess with your eyes closed is not a far reach for most accomplished players,' said Jesse Rissman, who runs a memory lab at UCLA.",
+        "needle": "accomplished",
+        "sourceForm": "accomplished"
+      },
+      {
+        "term": "exceptional",
+        "pos": "adj",
+        "ipa": "/ɪkˈsepʃənəl/",
+        "meaning": "xuất sắc; khác thường so với mức thông thường",
+        "synonyms": "outstanding; extraordinary",
+        "example": "'He was not exceptional on any of these standard tests,' said Rissman.",
+        "needle": "exceptional",
+        "sourceForm": "exceptional"
+      },
+      {
+        "term": "exhaustion",
+        "pos": "n",
+        "ipa": "/ɪɡˈzɔːstʃən/",
+        "meaning": "sự kiệt sức; trạng thái cực kỳ mệt mỏi",
+        "synonyms": "extreme fatigue; weariness",
+        "example": "But the ends of games are taxing too, as exhaustion sets in.",
+        "needle": "exhaustion",
+        "sourceForm": "exhaustion"
+      },
+      {
+        "term": "fragmented",
+        "pos": "adj",
+        "ipa": "/fræɡˈmentɪd/",
+        "meaning": "rời rạc; bị chia thành các phần không liền mạch",
+        "synonyms": "disjointed; incomplete",
+        "example": "He sometimes makes moves based on only a fragmented memory of the pieces' positions.",
+        "needle": "fragmented",
+        "sourceForm": "fragmented"
+      },
+      {
+        "term": "individual",
+        "pos": "n/adj",
+        "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+        "meaning": "cá nhân; riêng lẻ",
+        "synonyms": "person; separate",
+        "example": "'But the thing that's so remarkable about Timur and a few other individuals is the number of games they can keep active at once.",
+        "needle": "individuals",
+        "sourceForm": "individuals"
+      },
+      {
+        "term": "attention",
+        "pos": "n",
+        "ipa": "/əˈtenʃən/",
+        "meaning": "sự chú ý",
+        "synonyms": "concentration; notice",
+        "example": "It helps you to allocate attention, keep rules in mind, and work out whether you should be responding or not,' said Rissman.",
+        "needle": "attention",
+        "sourceForm": "attention"
+      },
+      {
+        "term": "challenge",
+        "pos": "n",
+        "ipa": "/ˈtʃælɪndʒ/",
+        "meaning": "thách thức",
+        "synonyms": "difficulty",
+        "example": "The real mental challenge comes from playing multiple games at once in the head.",
+        "needle": "challenge",
+        "sourceForm": "challenge"
+      },
+      {
+        "term": "community",
+        "pos": "n",
+        "ipa": "/kəˈmjuːnəti/",
+        "meaning": "cộng đồng",
+        "synonyms": "local population",
+        "example": "But Gareyev's prowess has drawn interest from beyond the chess-playing community.",
+        "needle": "community",
+        "sourceForm": "community"
+      },
+      {
+        "term": "tentative",
+        "pos": "adj",
+        "ipa": "/ˈtentətɪv/",
+        "meaning": "tạm thời; chưa được xác nhận chắc chắn",
+        "synonyms": "provisional; preliminary",
+        "example": "Though the results are tentative and as yet unpublished, the scans found much greater than average communication between parts of Gareyev's brain that make up what is called the frontoparietal control network.",
+        "needle": "tentative",
+        "sourceForm": "tentative"
+      },
+      {
+        "term": "memorise",
+        "pos": "v",
+        "ipa": "/ˈmeməraɪz/",
+        "meaning": "ghi nhớ; học thuộc để có thể nhớ lại chính xác",
+        "synonyms": "learn by heart; commit to memory",
+        "example": "Not only must the positions of each piece on every board be memorised, they must be recalled faithfully when needed, updated with each player's moves, and then reliably stored again, so the brain can move on to the next board.",
+        "needle": "memorised",
+        "sourceForm": "memorised"
+      },
+      {
+        "term": "opponent",
+        "pos": "n",
+        "ipa": "/əˈpəʊnənt/",
+        "meaning": "đối thủ trong cuộc thi hoặc tranh luận",
+        "synonyms": "rival; competitor",
+        "example": "Next month, a chess player named Timur Gareyev will take on nearly 50 opponents at once.",
+        "needle": "opponents",
+        "sourceForm": "opponents"
+      },
+      {
+        "term": "ability",
+        "pos": "n",
+        "ipa": "/əˈbɪləti/",
+        "meaning": "khả năng",
+        "synonyms": "capacity; capability",
+        "example": "'The ability to play a game of chess with your eyes closed is not a far reach for most accomplished players,' said Jesse Rissman, who runs a memory lab at UCLA.",
+        "needle": "ability",
+        "sourceForm": "ability"
+      },
+      {
+        "term": "complex",
+        "pos": "adj",
+        "ipa": "/ˈkɒmpleks/",
+        "meaning": "phức tạp",
+        "synonyms": "complicated",
+        "example": "'You use this network in almost any complex task.",
+        "needle": "complex",
+        "sourceForm": "complex"
+      },
+      {
+        "term": "connect",
+        "pos": "v",
+        "ipa": "/kəˈnekt/",
+        "meaning": "kết nối",
+        "synonyms": "link; join",
+        "example": "With Gareyev lying down in the machine, Rissman looked at how well connected the various regions of the chess player's brain were.",
+        "needle": "connected",
+        "sourceForm": "connected"
+      },
+      {
+        "term": "develop",
+        "pos": "v",
+        "ipa": "/dɪˈveləp/",
+        "meaning": "phát triển",
+        "synonyms": "grow; evolve",
+        "example": "From this, regular players develop a memory for the patterns the pieces make, the defences and attacks.",
+        "needle": "develop",
+        "sourceForm": "develop"
+      },
+      {
+        "term": "process",
+        "pos": "n",
+        "ipa": "/ˈprəʊses/",
+        "meaning": "quá trình",
+        "synonyms": "procedure",
+        "example": "Initial results suggest that the areas of his brain that process visual images — such as chess boards — may have stronger links to other brain regions, and so be more powerful than normal.",
+        "needle": "process",
+        "sourceForm": "process"
       }
     ],
     "grammar": [

@@ -272,6 +272,156 @@
         "example": "A key feature of the campaign was the website www.newzealand.com, which provided potential visitors to New Zealand with a single gateway to everything the destination had to offer.",
         "needle": "potential",
         "sourceForm": "potential"
+      },
+      {
+        "term": "accommodation",
+        "pos": "n",
+        "ipa": "/əˌkɒməˈdeɪʃn/",
+        "meaning": "chỗ ở",
+        "synonyms": "lodging",
+        "example": "This is important as research shows that activities are the key driver of visitor satisfaction, contributing 74% to visitor satisfaction, while transport and accommodation account for the remaining 26%.",
+        "needle": "accommodation",
+        "sourceForm": "accommodation"
+      },
+      {
+        "term": "achievement",
+        "pos": "n",
+        "ipa": "/əˈtʃiːvmənt/",
+        "meaning": "thành tựu",
+        "synonyms": "accomplishment; success",
+        "example": "The Tourism New Zealand website won two Webby awards for online achievement and innovation.",
+        "needle": "achievement",
+        "sourceForm": "achievement"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "As part of this, the effect of each business on the environment was considered.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "independent",
+        "pos": "adj",
+        "ipa": "/ˌɪndɪˈpendənt/",
+        "meaning": "độc lập",
+        "synonyms": "autonomous; self-reliant",
+        "example": "And to maintain and improve standards, Tourism New Zealand organised a scheme whereby organisations appearing on the website underwent an independent evaluation against a set of agreed national standards of quality.",
+        "needle": "independent",
+        "sourceForm": "independent"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "In addition, because participating businesses were able to update the details they gave on a regular basis, the information provided remained accurate.",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "traditional",
+        "pos": "adj",
+        "ipa": "/trəˈdɪʃənl/",
+        "meaning": "truyền thống",
+        "synonyms": "conventional",
+        "example": "It has also been found that visitors enjoy cuttural activities most when they are interactive, such as visiting a marae (meeting ground) to learn about traditional Maori life.",
+        "needle": "traditional",
+        "sourceForm": "traditional"
+      },
+      {
+        "term": "contribute",
+        "pos": "v",
+        "ipa": "/kənˈtrɪbjuːt/",
+        "meaning": "đóng góp; góp phần gây ra",
+        "synonyms": "add to",
+        "example": "This is important as research shows that activities are the key driver of visitor satisfaction, contributing 74% to visitor satisfaction, while transport and accommodation account for the remaining 26%.",
+        "needle": "contributing",
+        "sourceForm": "contributing"
+      },
+      {
+        "term": "experience",
+        "pos": "n",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "meaning": "kinh nghiệm; trải nghiệm",
+        "synonyms": "knowledge gained through practice",
+        "example": "However, the underlying lessons apply anywhere – the effectiveness of a strong brand, a strategy based on unique experiences and a comprehensive and user-friendly website.",
+        "needle": "experiences",
+        "sourceForm": "experiences"
+      },
+      {
+        "term": "individual",
+        "pos": "n/adj",
+        "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+        "meaning": "cá nhân; riêng lẻ",
+        "synonyms": "person; separate",
+        "example": "The website was set up to allow both individuals and travel organisations to create itineraries and travel packages to suit their own needs and interests.",
+        "needle": "individuals",
+        "sourceForm": "individuals"
+      },
+      {
+        "term": "particular",
+        "pos": "adj",
+        "ipa": "/pəˈtɪkjələ/",
+        "meaning": "cụ thể, riêng biệt",
+        "synonyms": "specific",
+        "example": "On the website, visitors can search for activities not solely by geographical location, but also by the particular nature of the activity.",
+        "needle": "particular",
+        "sourceForm": "particular"
+      },
+      {
+        "term": "attention",
+        "pos": "n",
+        "ipa": "/əˈtenʃən/",
+        "meaning": "sự chú ý",
+        "synonyms": "concentration; notice",
+        "example": "Another feature that attracted a lot of attention was an interactive journey through a number of the locations chosen for blockbuster films which had made use of New Zealand's stunning scenery as a backdrop.",
+        "needle": "attention",
+        "sourceForm": "attention"
+      },
+      {
+        "term": "transport",
+        "pos": "n",
+        "ipa": "/ˈtrænspɔːt/",
+        "meaning": "sự vận chuyển; giao thông",
+        "synonyms": "transportation",
+        "example": "The Travel Planner offered suggested routes and public transport options between the chosen locations.",
+        "needle": "transport",
+        "sourceForm": "transport"
+      },
+      {
+        "term": "activity",
+        "pos": "n",
+        "ipa": "/ækˈtɪvəti/",
+        "meaning": "hoạt động",
+        "synonyms": "action; pursuit",
+        "example": "The campaign focused on New Zealand's scenic beauty, exhilarating outdoor activities and authentic Maori culture, and it made New Zealand one of the strongest national brands in the world.",
+        "needle": "activities",
+        "sourceForm": "activities"
+      },
+      {
+        "term": "audience",
+        "pos": "n",
+        "ipa": "/ˈɔːdiəns/",
+        "meaning": "khán giả, người nghe",
+        "synonyms": "spectators; listeners",
+        "example": "This meant that even the smallest bed and breakfast address or specialist activity provider could gain a web presence with access to an audience of long-haul visitors.",
+        "needle": "audience",
+        "sourceForm": "audience"
+      },
+      {
+        "term": "domestic",
+        "pos": "adj",
+        "ipa": "/dəˈmestɪk/",
+        "meaning": "thuộc gia đình hoặc trong nước",
+        "synonyms": "household; local",
+        "example": "Tourism currently makes up 9% of the country's gross domestic product, and is the country's largest export sector.",
+        "needle": "domestic",
+        "sourceForm": "domestic"
       }
     ],
     "grammar": [
@@ -674,6 +824,106 @@
         "example": "More evidence that boredom has detrimental effects comes from studies of people who are more or less prone to boredom.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "experience",
+        "pos": "n",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "meaning": "kinh nghiệm; trải nghiệm",
+        "synonyms": "knowledge gained through practice",
+        "example": "By asking people about their experiences of boredom, Thomas Goetz and his team at the University of Konstanz in Germany have recently identified five distinct types: indifferent, calibrating, searching, reactant and apathetic.",
+        "needle": "experiences",
+        "sourceForm": "experiences"
+      },
+      {
+        "term": "experiment",
+        "pos": "n",
+        "ipa": "/ɪkˈsperɪmənt/",
+        "meaning": "thí nghiệm",
+        "synonyms": "trial; test",
+        "example": "In experiments published last year, Mann found that people who had been made to feel bored by copying numbers out of the phone book for 15 minutes came up with more creative ideas about how to use a polystyrene cup than a control group.",
+        "needle": "experiments",
+        "sourceForm": "experiments"
+      },
+      {
+        "term": "successful",
+        "pos": "adj",
+        "ipa": "/səkˈsesfəl/",
+        "meaning": "thành công",
+        "synonyms": "effective; achieving its aim",
+        "example": "People try to connect with the world and if they are not successful there's that frustration and irritability,' he says.",
+        "needle": "successful",
+        "sourceForm": "successful"
+      },
+      {
+        "term": "attention",
+        "pos": "n",
+        "ipa": "/əˈtenʃən/",
+        "meaning": "sự chú ý",
+        "synonyms": "concentration; notice",
+        "example": "Perhaps most worryingly, says Eastwood, repeatedly failing to engage attention can lead to a state where we don't know what to do any more, and no longer care.",
+        "needle": "attention",
+        "sourceForm": "attention"
+      },
+      {
+        "term": "curiosity",
+        "pos": "n",
+        "ipa": "/ˌkjʊəriˈɒsəti/",
+        "meaning": "sự tò mò, ham tìm hiểu",
+        "synonyms": "inquisitiveness",
+        "example": "Other personality traits, such as curiosity, are associated with a high boredom threshold.",
+        "needle": "curiosity",
+        "sourceForm": "curiosity"
+      },
+      {
+        "term": "education",
+        "pos": "n",
+        "ipa": "/ˌedʒuˈkeɪʃən/",
+        "meaning": "giáo dục",
+        "synonyms": "learning; instruction",
+        "example": "It seems those who bore easily face poorer prospects in education, their career and even life in general.",
+        "needle": "education",
+        "sourceForm": "education"
+      },
+      {
+        "term": "activity",
+        "pos": "n",
+        "ipa": "/ækˈtɪvəti/",
+        "meaning": "hoạt động",
+        "synonyms": "action; pursuit",
+        "example": "Mann concluded that a passive, boring activity is best for creativity because it allows the mind to wander.",
+        "needle": "activity",
+        "sourceForm": "activity"
+      },
+      {
+        "term": "compare",
+        "pos": "v",
+        "ipa": "/kəmˈpeə/",
+        "meaning": "so sánh",
+        "synonyms": "contrast; assess similarities",
+        "example": "In his book, Bondom: A Lively Histoty, Peter Toohey at the University of Calgary, Canada, compares it to disgust – an emotion that motivates us to stay away from certain situations.",
+        "needle": "compares",
+        "sourceForm": "compares"
+      },
+      {
+        "term": "connect",
+        "pos": "v",
+        "ipa": "/kəˈnekt/",
+        "meaning": "kết nối",
+        "synonyms": "link; join",
+        "example": "People try to connect with the world and if they are not successful there's that frustration and irritability,' he says.",
+        "needle": "connect",
+        "sourceForm": "connect"
+      },
+      {
+        "term": "emotion",
+        "pos": "n",
+        "ipa": "/ɪˈməʊʃn/",
+        "meaning": "cảm xúc",
+        "synonyms": "feeling",
+        "example": "In his book, Bondom: A Lively Histoty, Peter Toohey at the University of Calgary, Canada, compares it to disgust – an emotion that motivates us to stay away from certain situations.",
+        "needle": "emotion",
+        "sourceForm": "emotion"
       }
     ],
     "grammar": [
@@ -1072,6 +1322,146 @@
         "example": "The softuare runs its own web searches and trawls through social media sites.",
         "needle": "social",
         "sourceForm": "social"
+      },
+      {
+        "term": "intelligence",
+        "pos": "n",
+        "ipa": "/ɪnˈtelɪdʒəns/",
+        "meaning": "trí thông minh",
+        "synonyms": "mental ability",
+        "example": "Composer David Cope invented a program called Experiments in Musical Intelligence, or EMI.",
+        "needle": "Intelligence",
+        "sourceForm": "Intelligence"
+      },
+      {
+        "term": "composition",
+        "pos": "n",
+        "ipa": "/ˌkɒmpəˈzɪʃən/",
+        "meaning": "bố cục tác phẩm; bản nhạc",
+        "synonyms": "arrangement; musical work",
+        "example": "Not only did EMI create compositions in Cope's style, but also that of the most revered classical composers, including Bach, Chopin and Mozart.",
+        "needle": "compositions",
+        "sourceForm": "compositions"
+      },
+      {
+        "term": "experiment",
+        "pos": "n",
+        "ipa": "/ɪkˈsperɪmənt/",
+        "meaning": "thí nghiệm",
+        "synonyms": "trial; test",
+        "example": "Meanwhile, experiments by Justin Kruger of New York University have shown that people's enjoyment of an artwork increases if they think more time and effort was needed to create it.",
+        "needle": "experiments",
+        "sourceForm": "experiments"
+      },
+      {
+        "term": "mechanical",
+        "pos": "adj",
+        "ipa": "/məˈkænɪkəl/",
+        "meaning": "thuộc máy móc hoặc cơ học",
+        "synonyms": "machine-operated",
+        "example": "While some might say they have a mechanical look, Colton argues that such reactions arise from people's double standards towards software-produced and human-produced art.",
+        "needle": "mechanical",
+        "sourceForm": "mechanical"
+      },
+      {
+        "term": "objective",
+        "pos": "n/adj",
+        "ipa": "/əbˈdʒektɪv/",
+        "meaning": "mục tiêu; khách quan",
+        "synonyms": "aim; impartial",
+        "example": "This was true even among the experts, who might have been expected to be more objective in their analyses.",
+        "needle": "objective",
+        "sourceForm": "objective"
+      },
+      {
+        "term": "therefore",
+        "pos": "adv",
+        "ipa": "/ˈðeəfɔː/",
+        "meaning": "vì vậy",
+        "synonyms": "consequently",
+        "example": "It seems obvious, therefore, that with computers producing art, this speculation is cut short– there's nothing to explore.",
+        "needle": "therefore",
+        "sourceForm": "therefore"
+      },
+      {
+        "term": "audience",
+        "pos": "n",
+        "ipa": "/ˈɔːdiəns/",
+        "meaning": "khán giả, người nghe",
+        "synonyms": "spectators; listeners",
+        "example": "Classical music by an artificial composer has had audiences enraptured, and even tricked them into believing a human was behind the score.",
+        "needle": "audiences",
+        "sourceForm": "audiences"
+      },
+      {
+        "term": "discover",
+        "pos": "v",
+        "ipa": "/dɪˈskʌvə/",
+        "meaning": "phát hiện, khám phá",
+        "synonyms": "find; uncover",
+        "example": "But why did so many people love the music, yet recoil when they discovered how it was composed?",
+        "needle": "discovered",
+        "sourceForm": "discovered"
+      },
+      {
+        "term": "material",
+        "pos": "n",
+        "ipa": "/məˈtɪəriəl/",
+        "meaning": "tư liệu, nội dung dùng để hình thành ý tưởng sáng tác",
+        "synonyms": "source content; creative input",
+        "example": "Unlike earlier 'artists' such as Aaron, the Painting Fool only needs minimal direction and can come up with its own concepts by going online for material.",
+        "needle": "material",
+        "sourceForm": "material"
+      },
+      {
+        "term": "original",
+        "pos": "adj",
+        "ipa": "/əˈrɪdʒənəl/",
+        "meaning": "ban đầu; có tính độc đáo",
+        "synonyms": "initial; novel",
+        "example": "Meanwhile, Douglas Hofstadter of Indiana University said EMI created replicas which still rely completely on the original artist's creative impulses.",
+        "needle": "original",
+        "sourceForm": "original"
+      },
+      {
+        "term": "complex",
+        "pos": "adj",
+        "ipa": "/ˈkɒmpleks/",
+        "meaning": "phức tạp",
+        "synonyms": "complicated",
+        "example": "But as technology becomes increasingly complex, finding those greater depths in computer art could become possible.",
+        "needle": "complex",
+        "sourceForm": "complex"
+      },
+      {
+        "term": "develop",
+        "pos": "v",
+        "ipa": "/dɪˈveləp/",
+        "meaning": "phát triển",
+        "synonyms": "grow; evolve",
+        "example": "Researchers like Colton don't believe it is right to measure machine creativity directly to that of humans who 'have had millennia to develop our skills'.",
+        "needle": "develop",
+        "sourceForm": "develop"
+      },
+      {
+        "term": "gallery",
+        "pos": "n",
+        "ipa": "/ˈɡæləri/",
+        "meaning": "phòng trưng bày nghệ thuật",
+        "synonyms": "exhibition space",
+        "example": "Artworks painted by a robot have sold for thousands of dollars and been hung in prestigious galleries.",
+        "needle": "galleries",
+        "sourceForm": "galleries"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "Not only did EMI create compositions in Cope's style, but also that of the most revered classical composers, including Bach, Chopin and Mozart.",
+        "needle": "including",
+        "sourceForm": "including"
       }
     ],
     "grammar": [
@@ -1398,6 +1788,166 @@
         "example": "At that time, cinnamon was transported by Arab merchants, who closely guarded the secret of the source of the spice from potential rivals.",
         "needle": "potential",
         "sourceForm": "potential"
+      },
+      {
+        "term": "eventually",
+        "pos": "adv",
+        "ipa": "/ɪˈventʃuəli/",
+        "meaning": "cuối cùng, sau một thời gian",
+        "synonyms": "ultimately",
+        "example": "Not only was a monopoly of cinnamon becoming impossible, but the spice trade overall was diminishing in economic potential, and was eventually superseded by the rise of trade in coffee, tea, chocolate, and suger.",
+        "needle": "eventually",
+        "sourceForm": "eventually"
+      },
+      {
+        "term": "population",
+        "pos": "n",
+        "ipa": "/ˌpɒpjuˈleɪʃn/",
+        "meaning": "dân số, quần thể",
+        "synonyms": "inhabitants",
+        "example": "The Salagama then gave the finished product to production significantly, and so enslaved many other members of the Ceylonese native population, forcing them to work in cinnamon harvesting.",
+        "needle": "population",
+        "sourceForm": "population"
+      },
+      {
+        "term": "production",
+        "pos": "n",
+        "ipa": "/prəˈdʌkʃən/",
+        "meaning": "sự sản xuất, sản lượng",
+        "synonyms": "manufacturing; output",
+        "example": "The Salagama then gave the finished product to production significantly, and so enslaved many other members of the Ceylonese native population, forcing them to work in cinnamon harvesting.",
+        "needle": "production",
+        "sourceForm": "production"
+      },
+      {
+        "term": "available",
+        "pos": "adj",
+        "ipa": "/əˈveɪləbl/",
+        "meaning": "có sẵn, có thể sử dụng",
+        "synonyms": "accessible",
+        "example": "Eventually, the Dutch began cultivating their own cinnamon trees to supplement the diminishing number of wild trees available for use.",
+        "needle": "available",
+        "sourceForm": "available"
+      },
+      {
+        "term": "supersede",
+        "pos": "v",
+        "ipa": "/ˌsuːpəˈsiːd/",
+        "meaning": "thay thế một phương pháp hoặc thứ cũ hơn",
+        "synonyms": "replace; take the place of",
+        "example": "Not only was a monopoly of cinnamon becoming impossible, but the spice trade overall was diminishing in economic potential, and was eventually superseded by the rise of trade in coffee, tea, chocolate, and suger.",
+        "needle": "superseded",
+        "sourceForm": "superseded"
+      },
+      {
+        "term": "merchant",
+        "pos": "n",
+        "ipa": "/ˈmɜːtʃənt/",
+        "meaning": "thương nhân",
+        "synonyms": "trader; dealer",
+        "example": "At that time, cinnamon was transported by Arab merchants, who closely guarded the secret of the source of the spice from potential rivals.",
+        "needle": "merchants",
+        "sourceForm": "merchants"
+      },
+      {
+        "term": "ability",
+        "pos": "n",
+        "ipa": "/əˈbɪləti/",
+        "meaning": "khả năng",
+        "synonyms": "capacity; capability",
+        "example": "In the Middle Ages, Europeans who could afford the spice used it to flavour food, particularly meat, and to impress those around them with their ability to purchase an expensive condiment from the 'exotic' East.",
+        "needle": "ability",
+        "sourceForm": "ability"
+      },
+      {
+        "term": "benefit",
+        "pos": "n/v",
+        "ipa": "/ˈbenɪfɪt/",
+        "meaning": "lợi ích; có lợi cho",
+        "synonyms": "advantage",
+        "example": "Cinnamon was also reported to have health benefits, and was thought to cure various ailments, such as indigestion.",
+        "needle": "benefits",
+        "sourceForm": "benefits"
+      },
+      {
+        "term": "develop",
+        "pos": "v",
+        "ipa": "/dɪˈveləp/",
+        "meaning": "phát triển",
+        "synonyms": "grow; evolve",
+        "example": "which enables them to protect the island, so helping them to develop a monopoly in the cinnamon trade and generate very high profits.",
+        "needle": "develop",
+        "sourceForm": "develop"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "Toward the end of the Middle Ages, the European middle classes began to desire the lifestyle of the elite, including their consumption of spices.",
+        "needle": "including",
+        "sourceForm": "including"
+      },
+      {
+        "term": "payment",
+        "pos": "n",
+        "ipa": "/ˈpeɪmənt/",
+        "meaning": "khoản thanh toán",
+        "synonyms": "remittance",
+        "example": "In return for payments of elephants and cinnamon, they protected the native king from the Portuguese.",
+        "needle": "payments",
+        "sourceForm": "payments"
+      },
+      {
+        "term": "process",
+        "pos": "n",
+        "ipa": "/ˈprəʊses/",
+        "meaning": "quá trình",
+        "synonyms": "procedure",
+        "example": "During the peeling process, they curled the bark into the 'stick' shape still associated with the spice today.",
+        "needle": "process",
+        "sourceForm": "process"
+      },
+      {
+        "term": "protect",
+        "pos": "v",
+        "ipa": "/prəˈtekt/",
+        "meaning": "bảo vệ",
+        "synonyms": "safeguard; preserve",
+        "example": "which enables them to protect the island, so helping them to develop a monopoly in the cinnamon trade and generate very high profits.",
+        "needle": "protect",
+        "sourceForm": "protect"
+      },
+      {
+        "term": "create",
+        "pos": "v",
+        "ipa": "/kriˈeɪt/",
+        "meaning": "tạo ra",
+        "synonyms": "produce; bring into existence",
+        "example": "In ancient Rome, mourners attending funerals burnt cinnamon to create a pleasant scent.",
+        "needle": "create",
+        "sourceForm": "create"
+      },
+      {
+        "term": "profit",
+        "pos": "n",
+        "ipa": "/ˈprɒfɪt/",
+        "meaning": "lợi nhuận",
+        "synonyms": "financial gain; earnings",
+        "example": "Seeking the high profits promised by the cinnamon market, Portuguese traders arrived on the island of Ceylon in the Indian Ocean toward the end of the 15th century.",
+        "needle": "profits",
+        "sourceForm": "profits"
+      },
+      {
+        "term": "secret",
+        "pos": "n",
+        "ipa": "/ˈsiːkrət/",
+        "meaning": "bí mật, thông tin được giữ kín",
+        "synonyms": "concealed information",
+        "example": "At that time, cinnamon was transported by Arab merchants, who closely guarded the secret of the source of the spice from potential rivals.",
+        "needle": "secret",
+        "sourceForm": "secret"
       }
     ],
     "grammar": [
@@ -1690,8 +2240,8 @@
         "term": "pinpoint",
         "pos": "v",
         "ipa": "/ˈpɪnpɔɪnt/",
-        "meaning": "xác định chính xác loài thích hợp",
-        "synonyms": "identify precisely",
+        "meaning": "xác định chính xác một yếu tố, vị trí hoặc nguyên nhân",
+        "synonyms": "identify precisely; locate exactly",
         "needle": "pinpointing",
         "example": "To Bartz, the key to understanding what the hormone does lies in pinpointing its core function rather than in cataloguing its seemingly endless effects.",
         "sourceForm": "pinpointing"
@@ -1795,6 +2345,106 @@
         "example": "This would explain why it makes us more likely to look others in the eye and improves our ability to identify emotions.",
         "needle": "identify",
         "sourceForm": "identify"
+      },
+      {
+        "term": "investigation",
+        "pos": "n",
+        "ipa": "/ɪnˌvestɪˈɡeɪʃn/",
+        "meaning": "sự điều tra, nghiên cứu",
+        "synonyms": "inquiry; research",
+        "example": "Where once researchers took no notice of such findings, now a more nuanced understanding of oxytocin's effects is propelling investigations down new lines.",
+        "needle": "investigations",
+        "sourceForm": "investigations"
+      },
+      {
+        "term": "competitive",
+        "pos": "adj",
+        "ipa": "/kəmˈpetətɪv/",
+        "meaning": "có tính cạnh tranh",
+        "synonyms": "attractive; rivalrous",
+        "example": "Simone Shamay- Tsoory at the University of Haifa, Israel, found that when volunteers played a competitive game, those who inhaled the hormone showed more pleasure when they beat other players, and felt more envy when others won.",
+        "needle": "competitive",
+        "sourceForm": "competitive"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "She believes that oxytocin acts as a chemical spotlight that shines on social clues – a shift in posture, a flicker of the eyes, a dip in the voice – making people more attuned to their social environment.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "experiment",
+        "pos": "n",
+        "ipa": "/ɪkˈsperɪmənt/",
+        "meaning": "thí nghiệm",
+        "synonyms": "trial; test",
+        "example": "In a groundbreaking experiment, Markus Heinrichs and his colleagues at the University of Freiburg, Germany, asked volunteers to do an activity in which they could invest money with an anonymous person who was not guaranteed to be honest.",
+        "needle": "experiment",
+        "sourceForm": "experiment"
+      },
+      {
+        "term": "individual",
+        "pos": "n/adj",
+        "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+        "meaning": "cá nhân; riêng lẻ",
+        "synonyms": "person; separate",
+        "example": "'Oxytocin probably does some very basic things, but once you add our higher-order thinking and social situations, these basic processes could manifest in different ways depending on individual differences and context.'",
+        "needle": "individual",
+        "sourceForm": "individual"
+      },
+      {
+        "term": "behaviour",
+        "pos": "n",
+        "ipa": "/bɪˈheɪvjə/",
+        "meaning": "hành vi",
+        "synonyms": "conduct",
+        "example": "They discovered that it helps reinforce the bonds between prairie voles, which mate for life, and triggers the motherly behaviour that sheep show towards their newbom lambs.",
+        "needle": "behaviour",
+        "sourceForm": "behaviour"
+      },
+      {
+        "term": "discovery",
+        "pos": "n",
+        "ipa": "/dɪˈskʌvəri/",
+        "meaning": "sự phát hiện",
+        "synonyms": "finding; revelation",
+        "example": "Another discovery is that oxytocin's effects vary depending on who we are interacting with.",
+        "needle": "discovery",
+        "sourceForm": "discovery"
+      },
+      {
+        "term": "reinforce",
+        "pos": "v",
+        "ipa": "/ˌriːɪnˈfɔːs/",
+        "meaning": "củng cố; làm cho điều gì mạnh hơn hoặc vững chắc hơn",
+        "synonyms": "strengthen; bolster",
+        "example": "They discovered that it helps reinforce the bonds between prairie voles, which mate for life, and triggers the motherly behaviour that sheep show towards their newbom lambs.",
+        "needle": "reinforce",
+        "sourceForm": "reinforce"
+      },
+      {
+        "term": "activity",
+        "pos": "n",
+        "ipa": "/ækˈtɪvəti/",
+        "meaning": "hoạt động",
+        "synonyms": "action; pursuit",
+        "example": "In a groundbreaking experiment, Markus Heinrichs and his colleagues at the University of Freiburg, Germany, asked volunteers to do an activity in which they could invest money with an anonymous person who was not guaranteed to be honest.",
+        "needle": "activity",
+        "sourceForm": "activity"
+      },
+      {
+        "term": "chemical",
+        "pos": "n/adj",
+        "ipa": "/ˈkemɪkl/",
+        "meaning": "hóa chất; thuộc hóa học",
+        "synonyms": "substance",
+        "example": "She believes that oxytocin acts as a chemical spotlight that shines on social clues – a shift in posture, a flicker of the eyes, a dip in the voice – making people more attuned to their social environment.",
+        "needle": "chemical",
+        "sourceForm": "chemical"
       }
     ],
     "grammar": [
@@ -2280,6 +2930,66 @@
         "example": "Many ignore trends in their ümovation strategies or adopt a wait-and-see approach and let competitors take the lead.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "ne purpose of this article is twofold: to spur managers to think more expansively about how trends could engender new value propositions in their core markets, and to provide some high-level advice on how to make market research and product development personnel more adept at analyzing and exploiting trends.",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "With that in mind, Tesco, one of the world's top five retailers, introduced its Greener Living program, which demonsu•ates the company's commitment to protecting the environment by involving consumers in ways that produce tangible results.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "traditional",
+        "pos": "adj",
+        "ipa": "/trəˈdɪʃənl/",
+        "meaning": "truyền thống",
+        "synonyms": "conventional",
+        "example": "Tesco has not abandoned its traditional retail offerings but augnented its business with these innovations, thereby infusing its value proposition with a green surak.",
+        "needle": "traditional",
+        "sourceForm": "traditional"
+      },
+      {
+        "term": "experience",
+        "pos": "n",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "meaning": "kinh nghiệm; trải nghiệm",
+        "synonyms": "knowledge gained through practice",
+        "example": "This entails combininig aspect of the produst's existing value proposition with attributes addressing changes arising from a trend, to create a novel experience - one that may land the company in an entirely new market space.",
+        "needle": "experience",
+        "sourceForm": "experience"
+      },
+      {
+        "term": "determine",
+        "pos": "v",
+        "ipa": "/dɪˈtɜːmɪn/",
+        "meaning": "xác định, quyết định",
+        "synonyms": "establish",
+        "example": "Once you have gained perspective on how trend-related changes in consumer opinions and behaviors impact on your category, you can determine which of you three innovation strstegies to pursue.",
+        "needle": "determine",
+        "sourceForm": "determine"
+      },
+      {
+        "term": "introduce",
+        "pos": "v",
+        "ipa": "/ˌɪntrəˈdjuːs/",
+        "meaning": "giới thiệu, đưa vào sử dụng",
+        "synonyms": "present; bring in",
+        "example": "The ME2, introduced in mid- 2008, catered to kids' huge desire to play video games while counering the nagatives, such as associations with lack of exercise and obesity.",
+        "needle": "introduced",
+        "sourceForm": "introduced"
       }
     ],
     "grammar": [
@@ -2649,6 +3359,126 @@
         "example": "In Asia, there is a large degree of coconut dWersity and evidence of millennia of human use – but there are no relatives growing in the wild.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "construction",
+        "pos": "n",
+        "ipa": "/kənˈstrʌkʃn/",
+        "meaning": "sự xây dựng",
+        "synonyms": "building",
+        "example": "This is an important source of timber for building houses, and is increasingly being used as a replacement for endangered hardwoods in the furniture construction industry.",
+        "needle": "construction",
+        "sourceForm": "construction"
+      },
+      {
+        "term": "manufacture",
+        "pos": "v/n",
+        "ipa": "/ˌmænjuˈfæktʃə/",
+        "meaning": "sản xuất, chế tạo",
+        "synonyms": "produce",
+        "example": "The thick fibrous middle layer produces coconut fibre, 'coir', which has numerous uses and is particularly important in manufacturing ropes.",
+        "needle": "manufacturing",
+        "sourceForm": "manufacturing"
+      },
+      {
+        "term": "introduce",
+        "pos": "v",
+        "ipa": "/ˌɪntrəˈdjuːs/",
+        "meaning": "giới thiệu, đưa vào sử dụng",
+        "synonyms": "present; bring in",
+        "example": "Dried coconut flesh, 'copra', is made into coconut oil and coconut milk, which are widely used in cooking in different parts of the mportance in a quite different sphere, as Alfred Nobel introduced the world to his nitroglycerine-based invention: dynamite.",
+        "needle": "introduced",
+        "sourceForm": "introduced"
+      },
+      {
+        "term": "discover",
+        "pos": "v",
+        "ipa": "/dɪˈskʌvə/",
+        "meaning": "phát hiện, khám phá",
+        "synonyms": "find; uncover",
+        "example": "But the origin of coconuts discovered along the west coast of America by 16th century sailors has been the subject of centuries of discussion.",
+        "needle": "discovered",
+        "sourceForm": "discovered"
+      },
+      {
+        "term": "envisage",
+        "pos": "v",
+        "ipa": "/ɪnˈvɪzɪdʒ/",
+        "meaning": "hình dung một tương lai có thể xảy ra",
+        "synonyms": "imagine; foresee",
+        "example": "Typically, we envisage coconuts as brown cannonballs that, when opened, provide sweet white flesh.",
+        "needle": "envisage",
+        "sourceForm": "envisage"
+      },
+      {
+        "term": "merchant",
+        "pos": "n",
+        "ipa": "/ˈmɜːtʃənt/",
+        "meaning": "thương nhân",
+        "synonyms": "trader; dealer",
+        "example": "The Italian merchant traveller Marco Polo apparently saw coconuts in South Asia in the late 13th century, and among the mid-14th-century travel writings of Sir John Mandeville there is mention of 'great Notes of Ynde' (great Nuts of India).",
+        "needle": "merchant",
+        "sourceForm": "merchant"
+      },
+      {
+        "term": "develop",
+        "pos": "v",
+        "ipa": "/dɪˈveləp/",
+        "meaning": "phát triển",
+        "synonyms": "grow; evolve",
+        "example": "Inside the shell are the nutrients (endosperm) needed by the developing seed.",
+        "needle": "developing",
+        "sourceForm": "developing"
+      },
+      {
+        "term": "protect",
+        "pos": "v",
+        "ipa": "/prəˈtekt/",
+        "meaning": "bảo vệ",
+        "synonyms": "safeguard; preserve",
+        "example": "The air pocket in the seed, created as the endosperm solidifies, protects the embryo.",
+        "needle": "protects",
+        "sourceForm": "protects"
+      },
+      {
+        "term": "provide",
+        "pos": "v",
+        "ipa": "/prəˈvaɪd/",
+        "meaning": "cung cấp",
+        "synonyms": "supply; furnish",
+        "example": "Initially, the endosperm is a sweetish liquid, coconut water, which is enjoyed as a drink, but also provides the hormones which encourage other plants to grow more rapidly and produce higher yields.",
+        "needle": "provides",
+        "sourceForm": "provides"
+      },
+      {
+        "term": "suggest",
+        "pos": "v",
+        "ipa": "/səˈdʒest/",
+        "meaning": "đề xuất; gợi cho thấy",
+        "synonyms": "propose; indicate",
+        "example": "The large, energy-rich fruits are able to float in water and tolerate salt, but cannot remain viable indefinitely; studies suggest after about 110 days at sea they are no longer able to geminate.",
+        "needle": "suggest",
+        "sourceForm": "suggest"
+      },
+      {
+        "term": "appear",
+        "pos": "v",
+        "ipa": "/əˈpɪə/",
+        "meaning": "xuất hiện; có vẻ",
+        "synonyms": "emerge; seem",
+        "example": "Their biology would appear to make coconuts the great maritime voyagers and coastal colonizers of the plant world.",
+        "needle": "appear",
+        "sourceForm": "appear"
+      },
+      {
+        "term": "create",
+        "pos": "v",
+        "ipa": "/kriˈeɪt/",
+        "meaning": "tạo ra",
+        "synonyms": "produce; bring into existence",
+        "example": "The air pocket in the seed, created as the endosperm solidifies, protects the embryo.",
+        "needle": "created",
+        "sourceForm": "created"
       }
     ],
     "grammar": [
@@ -2986,6 +3816,176 @@
         "example": "'Finding activation in motor areas of the brain when infants are simply listening is significant, because it means the baby brain is engaged in trying to talk back right from the start, and suggests that seven-month-olds' brains are already trying to figure out how to make the right movements that will produce words,' says co-author Patricia Kuhl.",
         "needle": "significant",
         "sourceForm": "significant"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "So how does the sweet if sometimes absurd sound of infantdirected speech influence a baby's development?",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "Early language exposure seems to have benefits to the brain – for instance, studies suggest that babies raised in bilingual homes are better at leaming how to mentally prioritize information.",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "particular",
+        "pos": "adj",
+        "ipa": "/pəˈtɪkjələ/",
+        "meaning": "cụ thể, riêng biệt",
+        "synonyms": "specific",
+        "example": "'Or maybe they are really interested in that particular type of sound because they are starting to focus on their own ability to make sounds.",
+        "needle": "particular",
+        "sourceForm": "particular"
+      },
+      {
+        "term": "attention",
+        "pos": "n",
+        "ipa": "/əˈtenʃən/",
+        "meaning": "sự chú ý",
+        "synonyms": "concentration; notice",
+        "example": "We are speculating here but it might catch their attention because they recognize it as a sound they could possibly make.'",
+        "needle": "attention",
+        "sourceForm": "attention"
+      },
+      {
+        "term": "activity",
+        "pos": "n",
+        "ipa": "/ækˈtɪvəti/",
+        "meaning": "hoạt động",
+        "synonyms": "action; pursuit",
+        "example": "The infants were placed in a brainactivation scanner that recorded activity in a brain region known to guide the motor movements that produce speech.",
+        "needle": "activity",
+        "sourceForm": "activity"
+      },
+      {
+        "term": "language",
+        "pos": "n",
+        "ipa": "/ˈlæŋɡwɪdʒ/",
+        "meaning": "ngôn ngữ",
+        "synonyms": "system of communication",
+        "example": "Early language exposure seems to have benefits to the brain – for instance, studies suggest that babies raised in bilingual homes are better at leaming how to mentally prioritize information.",
+        "needle": "language",
+        "sourceForm": "language"
+      },
+      {
+        "term": "research",
+        "pos": "n",
+        "ipa": "/rɪˈsɜːtʃ/",
+        "meaning": "nghiên cứu",
+        "synonyms": "investigation",
+        "example": "Some research even suggests that infants are listening to adult speech as early as IO weeks before being born, gathering the basic building blocks of their family's native tongue.",
+        "needle": "research",
+        "sourceForm": "research"
+      },
+      {
+        "term": "ability",
+        "pos": "n",
+        "ipa": "/əˈbɪləti/",
+        "meaning": "khả năng",
+        "synonyms": "capacity; capability",
+        "example": "'Or maybe they are really interested in that particular type of sound because they are starting to focus on their own ability to make sounds.",
+        "needle": "ability",
+        "sourceForm": "ability"
+      },
+      {
+        "term": "benefit",
+        "pos": "n/v",
+        "ipa": "/ˈbenɪfɪt/",
+        "meaning": "lợi ích; có lợi cho",
+        "synonyms": "advantage",
+        "example": "Early language exposure seems to have benefits to the brain – for instance, studies suggest that babies raised in bilingual homes are better at leaming how to mentally prioritize information.",
+        "needle": "benefits",
+        "sourceForm": "benefits"
+      },
+      {
+        "term": "compare",
+        "pos": "v",
+        "ipa": "/kəmˈpeə/",
+        "meaning": "so sánh",
+        "synonyms": "contrast; assess similarities",
+        "example": "Another interesting finding was that while the seven-month-olds responded to all speech sounds regardless of language, the brains of the older infants worked harder at the motor activations of non-native sounds compared to native sounds.",
+        "needle": "compared",
+        "sourceForm": "compared"
+      },
+      {
+        "term": "context",
+        "pos": "n",
+        "ipa": "/ˈkɒntekst/",
+        "meaning": "bối cảnh, ngữ cảnh",
+        "synonyms": "setting",
+        "example": "'We also found that it really matters whether you use baby talk in a one-on-one context,' she adds.",
+        "needle": "context",
+        "sourceForm": "context"
+      },
+      {
+        "term": "develop",
+        "pos": "v",
+        "ipa": "/dɪˈveləp/",
+        "meaning": "phát triển",
+        "synonyms": "grow; evolve",
+        "example": "Most babies start developing their hearing while still in the womb, prompting some hopeful parents to play classical music to their pregnant bellies.",
+        "needle": "developing",
+        "sourceForm": "developing"
+      },
+      {
+        "term": "process",
+        "pos": "n",
+        "ipa": "/ˈprəʊses/",
+        "meaning": "quá trình",
+        "synonyms": "procedure",
+        "example": "The study may have also uncovered a process by which babies recognize differences between their native language and other tongues.",
+        "needle": "process",
+        "sourceForm": "process"
+      },
+      {
+        "term": "provide",
+        "pos": "v",
+        "ipa": "/prəˈvaɪd/",
+        "meaning": "cung cấp",
+        "synonyms": "supply; furnish",
+        "example": "It suggests that fathers use less familial language to provide their children with a bridge to the kind of speech they'll hear in public.",
+        "needle": "provide",
+        "sourceForm": "provide"
+      },
+      {
+        "term": "suggest",
+        "pos": "v",
+        "ipa": "/səˈdʒest/",
+        "meaning": "đề xuất; gợi cho thấy",
+        "synonyms": "propose; indicate",
+        "example": "Early language exposure seems to have benefits to the brain – for instance, studies suggest that babies raised in bilingual homes are better at leaming how to mentally prioritize information.",
+        "needle": "suggest",
+        "sourceForm": "suggest"
+      },
+      {
+        "term": "induce",
+        "pos": "v",
+        "ipa": "/ɪnˈdjuːs/",
+        "meaning": "gây ra hoặc tạo nên một trạng thái, phản ứng",
+        "synonyms": "cause; bring about",
+        "example": "The baby noises also induced more reactions in the listening infants, like smiling or lip moving, which approximates sound making.",
+        "needle": "induced",
+        "sourceForm": "induced"
+      },
+      {
+        "term": "infant",
+        "pos": "n",
+        "ipa": "/ˈɪnfənt/",
+        "meaning": "trẻ sơ sinh, trẻ rất nhỏ",
+        "synonyms": "baby",
+        "example": "Some research even suggests that infants are listening to adult speech as early as IO weeks before being born, gathering the basic building blocks of their family's native tongue.",
+        "needle": "infants",
+        "sourceForm": "infants"
       }
     ],
     "grammar": [
@@ -3439,6 +4439,76 @@
         "example": "'There is plenty of archaeological evidence to tell us about the rise of the Harappan Civilisation, but relatively little about its fall,' explains archaeologist Dr Cameron Petrie of the University of Cambridge.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "archaeologist",
+        "pos": "n",
+        "ipa": "/ˌɑːkiˈɒlədʒɪst/",
+        "meaning": "nhà khảo cổ học",
+        "synonyms": "researcher of ancient remains",
+        "example": "Petrie believes that archaeologists are in a unique position to investigate how past societies responded to environmental and climatic change.",
+        "needle": "archaeologists",
+        "sourceForm": "archaeologists"
+      },
+      {
+        "term": "investigation",
+        "pos": "n",
+        "ipa": "/ɪnˌvestɪˈɡeɪʃn/",
+        "meaning": "sự điều tra, nghiên cứu",
+        "synonyms": "inquiry; research",
+        "example": "A research team led by Petrie, together with Dr Ravindanath Singh of Banaras Hindu University in India, found early in their investigations that many of the archaeological sites were not where they were supposed to be, completely altering understanding of the way that this region was inhabited in the past.",
+        "needle": "investigations",
+        "sourceForm": "investigations"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "'By investigating responses to environmental pressures and threats, we can learn from the past to engage with the public, and the relevant governmental and administrative bodies, to be more proactive in issues such as the management and administration of water supply, the balance of urban and rural development, and the importance of preserving cultural heritage in the future.'",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "While it is possible that these local-scale processes were linked, the real archaeological interest lies in understanding the impact of these larger-scale events on different environments and different populations.",
+        "needle": "environments",
+        "sourceForm": "environments"
+      },
+      {
+        "term": "importance",
+        "pos": "n",
+        "ipa": "/ɪmˈpɔːtəns/",
+        "meaning": "tầm quan trọng",
+        "synonyms": "significance",
+        "example": "'By investigating responses to environmental pressures and threats, we can learn from the past to engage with the public, and the relevant governmental and administrative bodies, to be more proactive in issues such as the management and administration of water supply, the balance of urban and rural development, and the importance of preserving cultural heritage in the future.'",
+        "needle": "importance",
+        "sourceForm": "importance"
+      },
+      {
+        "term": "population",
+        "pos": "n",
+        "ipa": "/ˌpɒpjuˈleɪʃn/",
+        "meaning": "dân số, quần thể",
+        "synonyms": "inhabitants",
+        "example": "While it is possible that these local-scale processes were linked, the real archaeological interest lies in understanding the impact of these larger-scale events on different environments and different populations.",
+        "needle": "populations",
+        "sourceForm": "populations"
+      },
+      {
+        "term": "essential",
+        "pos": "adj",
+        "ipa": "/ɪˈsenʃl/",
+        "meaning": "thiết yếu",
+        "synonyms": "vital; necessary",
+        "example": "'Considering the vast area of the Harappan Civilisation with its variable weather systems, ' explains Singh, 'it is essential that we obtain more climate data from areas close to the two great cities at Mohenjodaro and Harappa and also from the Indian Punjab.'",
+        "needle": "essential",
+        "sourceForm": "essential"
       }
     ],
     "grammar": [
@@ -3790,6 +4860,146 @@
         "example": "The fastest commercial sailing vessels of all time were clippers, three-masted ships built to transport goods around the world, although some also took passengers.",
         "needle": "commercial",
         "sourceForm": "commercial"
+      },
+      {
+        "term": "construction",
+        "pos": "n",
+        "ipa": "/kənˈstrʌkʃn/",
+        "meaning": "sự xây dựng",
+        "synonyms": "building",
+        "example": "To carry out construction, Willis chose a new shipbuilding firm, Scott & Linton, and ensured that the contract with them put him in a very strong position.",
+        "needle": "construction",
+        "sourceForm": "construction"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "The nineteenth century was a period of great technological development in Britain, and for shipping the major changes were from wind to steam power, and from wood to iron and steel.",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "successful",
+        "pos": "adj",
+        "ipa": "/səkˈsesfəl/",
+        "meaning": "thành công",
+        "synonyms": "effective; achieving its aim",
+        "example": "This madcd a turnaround and the beginning of the most successful period in Cutty Sark's working life, transporting wool from Australia to Britain.",
+        "needle": "successful",
+        "sourceForm": "successful"
+      },
+      {
+        "term": "recognise",
+        "pos": "v",
+        "ipa": "/ˈrekəɡnaɪz/",
+        "meaning": "nhận ra, công nhận",
+        "synonyms": "identify; acknowledge",
+        "example": "Wilfred Dowman, a retired sea captain who owned a u•aining vessel, recognised her and tried to buy her, but without success.",
+        "needle": "recognised",
+        "sourceForm": "recognised"
+      },
+      {
+        "term": "original",
+        "pos": "adj",
+        "ipa": "/əˈrɪdʒənəl/",
+        "meaning": "ban đầu; có tính độc đáo",
+        "synonyms": "initial; novel",
+        "example": "Dowman was deterrnined, however, and offered a high price: this was accepted, and the ship retumed to Falmouth the following year and had her original name restored.",
+        "needle": "original",
+        "sourceForm": "original"
+      },
+      {
+        "term": "previous",
+        "pos": "adj",
+        "ipa": "/ˈpriːviəs/",
+        "meaning": "trước đó",
+        "synonyms": "earlier",
+        "example": "Cutty depended on the trade winds Of the southem hemisphere, and Woodget took her further south than any previous captain, bringing her dangerously close to icebergs off the southem tip of South America.",
+        "needle": "previous",
+        "sourceForm": "previous"
+      },
+      {
+        "term": "require",
+        "pos": "v",
+        "ipa": "/rɪˈkwaɪə/",
+        "meaning": "đòi hỏi, yêu cầu",
+        "synonyms": "need",
+        "example": "When she was no longer required, in 1954, she was transferred to dry dock at Greenwich to go on public display.",
+        "needle": "required",
+        "sourceForm": "required"
+      },
+      {
+        "term": "serious",
+        "pos": "adj",
+        "ipa": "/ˈsɪəriəs/",
+        "meaning": "nghiêm trọng; cần được quan tâm",
+        "synonyms": "grave; significant",
+        "example": "In addition, the opening of the Suez Canal in 1869, the same year that Cutty Sark was launched, had a serious impact.",
+        "needle": "serious",
+        "sourceForm": "serious"
+      },
+      {
+        "term": "suspend",
+        "pos": "v",
+        "ipa": "/səˈspend/",
+        "meaning": "đình chỉ công tác; tạm thời không cho làm nhiệm vụ",
+        "synonyms": "temporarily remove from duty; bar from service",
+        "example": "He was suspended from service, and a new captain appointed.",
+        "needle": "suspended",
+        "sourceForm": "suspended"
+      },
+      {
+        "term": "legend",
+        "pos": "n",
+        "ipa": "/ˈledʒənd/",
+        "meaning": "truyền thuyết",
+        "synonyms": "traditional story",
+        "example": "In legend, and in Bums's poem.",
+        "needle": "legend",
+        "sourceForm": "legend"
+      },
+      {
+        "term": "profit",
+        "pos": "n",
+        "ipa": "/ˈprɒfɪt/",
+        "meaning": "lợi nhuận",
+        "synonyms": "financial gain; earnings",
+        "example": "Willis's company u as active in the tea trade between China and Britain, wher speed could bring shipowners both profits and prestige, so Cutty Sark was designed to make the joumey more quickly than any other ship.",
+        "needle": "profits",
+        "sourceForm": "profits"
+      },
+      {
+        "term": "reduce",
+        "pos": "v",
+        "ipa": "/rɪˈdjuːs/",
+        "meaning": "giảm",
+        "synonyms": "decrease",
+        "example": "Steam ships reduced the joumey time between Britain and China by approximately two months.",
+        "needle": "reduced",
+        "sourceForm": "reduced"
+      },
+      {
+        "term": "threat",
+        "pos": "n",
+        "ipa": "/θret/",
+        "meaning": "mối đe dọa",
+        "synonyms": "danger",
+        "example": "Steam ships posed a growing threat to clippers, as their speed and cargo capacity increßed.",
+        "needle": "threat",
+        "sourceForm": "threat"
+      },
+      {
+        "term": "vessel",
+        "pos": "n",
+        "ipa": "/ˈvesəl/",
+        "meaning": "tàu thuyền; vật chứa",
+        "synonyms": "ship; container",
+        "example": "The fastest commercial sailing vessels of all time were clippers, three-masted ships built to transport goods around the world, although some also took passengers.",
+        "needle": "vessels",
+        "sourceForm": "vessels"
       }
     ],
     "grammar": [
@@ -4176,6 +5386,116 @@
         "example": "In an attempt to unify the different approaches, the UN has created the Global Soil Map project.",
         "needle": "approaches",
         "sourceForm": "approaches"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "We need ways of presenting the problem that bring it home to govemments and the wider public, says Pamela Chasek at the International Institute for Sustainable Development, in Winnipeg, Canada.",
+        "needle": "Development",
+        "sourceForm": "Development"
+      },
+      {
+        "term": "manufacture",
+        "pos": "v/n",
+        "ipa": "/ˌmænjuˈfæktʃə/",
+        "meaning": "sản xuất, chế tạo",
+        "synonyms": "produce",
+        "example": "A solution came in the early 20th century with the Harber-Bosch process for manufacturing ammonium nitrate.Farmers have been But over the past few decades, it has become clear this wasn't such a bright idea.",
+        "needle": "manufacturing",
+        "sourceForm": "manufacturing"
+      },
+      {
+        "term": "traditional",
+        "pos": "adj",
+        "ipa": "/trəˈdɪʃənl/",
+        "meaning": "truyền thống",
+        "synonyms": "conventional",
+        "example": "The few plants that grew in the control plots, fed with traditional fertilisers, were small and weak.",
+        "needle": "traditional",
+        "sourceForm": "traditional"
+      },
+      {
+        "term": "importance",
+        "pos": "n",
+        "ipa": "/ɪmˈpɔːtəns/",
+        "meaning": "tầm quan trọng",
+        "synonyms": "significance",
+        "example": "Peter Groffman, from the Cary Institute of Ecosystem Studies in New York, points out that soil scientists have been warning about the degradation of the world's soil for decades.At the same time, our understanding of its importance to humans has grown.",
+        "needle": "importance",
+        "sourceForm": "importance"
+      },
+      {
+        "term": "population",
+        "pos": "n",
+        "ipa": "/ˌpɒpjuˈleɪʃn/",
+        "meaning": "dân số, quần thể",
+        "synonyms": "inhabitants",
+        "example": "But these practices became inconvenient as populations grew and agriculture had to be run on more commercial lines.",
+        "needle": "populations",
+        "sourceForm": "populations"
+      },
+      {
+        "term": "immediate",
+        "pos": "adj",
+        "ipa": "/ɪˈmiːdiət/",
+        "meaning": "ngay lập tức; trực tiếp",
+        "synonyms": "instant; direct",
+        "example": "Several researchers are agitating for the immediate creation of protected zones for endangered soils.",
+        "needle": "immediate",
+        "sourceForm": "immediate"
+      },
+      {
+        "term": "accurate",
+        "pos": "adj",
+        "ipa": "/ˈækjərət/",
+        "meaning": "chính xác",
+        "synonyms": "precise",
+        "example": "To assess our options on a global scale we first need an accurate picture of what types of soil are out there, and the problems they face.",
+        "needle": "accurate",
+        "sourceForm": "accurate"
+      },
+      {
+        "term": "chemical",
+        "pos": "n/adj",
+        "ipa": "/ˈkemɪkl/",
+        "meaning": "hóa chất; thuộc hóa học",
+        "synonyms": "substance",
+        "example": "Chemical fertilisers can release polluting nitrous oxide into the atmosphere and excess is often washed away with the rain, releasing nitrogen into rivers.",
+        "needle": "Chemical",
+        "sourceForm": "Chemical"
+      },
+      {
+        "term": "function",
+        "pos": "n",
+        "ipa": "/ˈfʌŋkʃn/",
+        "meaning": "chức năng",
+        "synonyms": "role; purpose",
+        "example": "If the soil loses its ability to perform these functions, the human race could be in big trouble.",
+        "needle": "functions",
+        "sourceForm": "functions"
+      },
+      {
+        "term": "ability",
+        "pos": "n",
+        "ipa": "/əˈbɪləti/",
+        "meaning": "khả năng",
+        "synonyms": "capacity; capability",
+        "example": "If the soil loses its ability to perform these functions, the human race could be in big trouble.",
+        "needle": "ability",
+        "sourceForm": "ability"
+      },
+      {
+        "term": "develop",
+        "pos": "v",
+        "ipa": "/dɪˈveləp/",
+        "meaning": "phát triển",
+        "synonyms": "grow; evolve",
+        "example": "He came to realise that the best way to ensure his trees flourished was to take care of the soil, and has developed a cocktail of beneficial bacteria, fungi and human* to do this.",
+        "needle": "developed",
+        "sourceForm": "developed"
       }
     ],
     "grammar": [
@@ -4561,6 +5881,136 @@
         "example": "The Greek philosopher Aristotle may have identified happiness with self-realisation in the 4th century BC, and thinkers throughout the ages may have struggled to reconcile the pursuit of happiness with Odier human values, but for Bentham all this was mere metaphysics or fiction.",
         "needle": "identified",
         "sourceForm": "identified"
+      },
+      {
+        "term": "psychological",
+        "pos": "adj",
+        "ipa": "/ˌsaɪkəˈlɒdʒɪkəl/",
+        "meaning": "thuộc tâm lý",
+        "synonyms": "mental; relating to the mind",
+        "example": "Bentham was more attracted by the latter measure, By associating money so closely to inner experience, Davies wrutes, Bentham 'set the stage for the entangling of psychological research and capitalism that would shape the business practices of the twentieth century'.",
+        "needle": "psychological",
+        "sourceForm": "psychological"
+      },
+      {
+        "term": "intellectual",
+        "pos": "adj",
+        "ipa": "/ˌɪntəˈlektʃuəl/",
+        "meaning": "thuộc trí tuệ",
+        "synonyms": "mental; cognitive",
+        "example": "But whatever its intellectual pedigree, the idea that govemments should be responsible for promoting happiness is always a threat to human freedom.",
+        "needle": "intellectual",
+        "sourceForm": "intellectual"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "It was the philosopher Jeremy Bentham ( 1748–1832) who more than anyone else responsible for the development of this way of thinking.",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "experience",
+        "pos": "n",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "meaning": "kinh nghiệm; trải nghiệm",
+        "synonyms": "knowledge gained through practice",
+        "example": "Bentham was more attracted by the latter measure, By associating money so closely to inner experience, Davies wrutes, Bentham 'set the stage for the entangling of psychological research and capitalism that would shape the business practices of the twentieth century'.",
+        "needle": "experience",
+        "sourceForm": "experience"
+      },
+      {
+        "term": "experiment",
+        "pos": "n",
+        "ipa": "/ɪkˈsperɪmənt/",
+        "meaning": "thí nghiệm",
+        "synonyms": "trial; test",
+        "example": "When he beceme president of the American Psychological Association in 1915, he* had never even studied a single human being': his research had been confined to experiments on white rate.",
+        "needle": "experiments",
+        "sourceForm": "experiments"
+      },
+      {
+        "term": "historical",
+        "pos": "adj",
+        "ipa": "/hɪˈstɒrɪkəl/",
+        "meaning": "thuộc lịch sử",
+        "synonyms": "relating to past events",
+        "example": "One of the vitues of this rich, lucid and arresting book is that it places the current cult of happiness in a well-defined historical framework.",
+        "needle": "historical",
+        "sourceForm": "historical"
+      },
+      {
+        "term": "importance",
+        "pos": "n",
+        "ipa": "/ɪmˈpɔːtəns/",
+        "meaning": "tầm quan trọng",
+        "synonyms": "significance",
+        "example": "Those who think in this way are oblivious to the vast philosophical literature in which the meaning and value of happiness have been exploæd and questioned, and write as if nothing of any importance had been thought on the subject until it came to their attention.",
+        "needle": "importance",
+        "sourceForm": "importance"
+      },
+      {
+        "term": "industrial",
+        "pos": "adj",
+        "ipa": "/ɪnˈdʌstriəl/",
+        "meaning": "thuộc công nghiệp",
+        "synonyms": "manufacturing",
+        "example": "Modem industrial societies appear to need the possibility of ever- increasing happiness to motivate them in their labours.",
+        "needle": "industrial",
+        "sourceForm": "industrial"
+      },
+      {
+        "term": "psychology",
+        "pos": "n",
+        "ipa": "/saɪˈkɒlədʒi/",
+        "meaning": "tâm lý học",
+        "synonyms": "study of the mind and behaviour",
+        "example": "The only question is how to achieve it, and here positive psychology – a supposed science that not only identifies what makes people happy but also allows their happiness to be measured – can show the way.",
+        "needle": "psychology",
+        "sourceForm": "psychology"
+      },
+      {
+        "term": "attention",
+        "pos": "n",
+        "ipa": "/əˈtenʃən/",
+        "meaning": "sự chú ý",
+        "synonyms": "concentration; notice",
+        "example": "Those who think in this way are oblivious to the vast philosophical literature in which the meaning and value of happiness have been exploæd and questioned, and write as if nothing of any importance had been thought on the subject until it came to their attention.",
+        "needle": "attention",
+        "sourceForm": "attention"
+      },
+      {
+        "term": "education",
+        "pos": "n",
+        "ipa": "/ˌedʒuˈkeɪʃən/",
+        "meaning": "giáo dục",
+        "synonyms": "learning; instruction",
+        "example": "Without knowing anything much of him or the school of moral theory he established – since they are by education and intellectual conviction illiterate in the history of ideas – our advocates of positive psychology follow in his tracks in rejecting as outmoded and irrelevant pretty much the entirety of ethical reflection on human happiness to date.",
+        "needle": "education",
+        "sourceForm": "education"
+      },
+      {
+        "term": "activity",
+        "pos": "n",
+        "ipa": "/ækˈtɪvəti/",
+        "meaning": "hoạt động",
+        "synonyms": "action; pursuit",
+        "example": "Davies writes, 'Bentham's activities were those which we might now associate with a public sector management consultant'.",
+        "needle": "activities",
+        "sourceForm": "activities"
+      },
+      {
+        "term": "research",
+        "pos": "n",
+        "ipa": "/rɪˈsɜːtʃ/",
+        "meaning": "nghiên cứu",
+        "synonyms": "investigation",
+        "example": "When he beceme president of the American Psychological Association in 1915, he* had never even studied a single human being': his research had been confined to experiments on white rate.",
+        "needle": "research",
+        "sourceForm": "research"
       }
     ],
     "grammar": [

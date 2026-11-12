@@ -11,7 +11,8 @@ def build():
     passages = []
     for book in books:
         source = ROOT / f'data/books/{book["book"]}.json'
-        rows = json.loads(source.read_text(encoding='utf-8'))
+        rows = [p for p in json.loads(source.read_text(encoding='utf-8'))
+                if p.get('track', 'academic') == 'academic']
         for passage in rows:
             for figure in passage.get('sourceFigures', []):
                 path = (ROOT / figure.pop('path')).resolve()
@@ -25,7 +26,6 @@ def build():
     replacements = {
         '/*__PASSAGE_DATA__*/': json.dumps(passages, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/'),
         '/*__BOOK_DATA__*/': json.dumps(books, ensure_ascii=False),
-        '/*__PHRASAL_DATA__*/': (ROOT / 'data/phrasal-verbs.json').read_text(encoding='utf-8'),
     }
     for marker, value in replacements.items():
         assert template.count(marker) == 1, f'Missing or duplicated marker: {marker}'

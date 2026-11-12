@@ -360,6 +360,96 @@
         "example": "'In the urban environment you're working with very significant practical constraints, clearly, on what you can do and where.",
         "needle": "significant",
         "sourceForm": "significant"
+      },
+      {
+        "term": "nevertheless",
+        "pos": "adv",
+        "ipa": "/ˌnevəðəˈles/",
+        "meaning": "tuy nhiên, dù vậy",
+        "synonyms": "nonetheless",
+        "example": "Nevertheless, urban farming of the kind being practised in Paris is one part of a bigger and fast-changing picture that is bringing food production closer to our lives.",
+        "needle": "Nevertheless",
+        "sourceForm": "Nevertheless"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "Pascal Hardy, an engineer and sustainable development consultant, began experimenting with vertical farming and aeroponic growing towers — as the soil-free plastic tubes are known — on his Paris apartment block roof five years ago.",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "'In the urban environment you're working with very significant practical constraints, clearly, on what you can do and where.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "eventually",
+        "pos": "adv",
+        "ipa": "/ɪˈventʃuəli/",
+        "meaning": "cuối cùng, sau một thời gian",
+        "synonyms": "ultimately",
+        "example": "But if enough unused space can be developed like this, there's no reason why you shouldn't eventually target maybe between 5% and 10% of consumption. '",
+        "needle": "eventually",
+        "sourceForm": "eventually"
+      },
+      {
+        "term": "exhibition",
+        "pos": "n",
+        "ipa": "/ˌeksɪˈbɪʃən/",
+        "meaning": "cuộc trưng bày, triển lãm",
+        "synonyms": "display; show",
+        "example": "The urban rooftop space above the exhibition hall is somewhat bigger: 14,000 square metres and almost exactly the size ofa couple of football pitches.",
+        "needle": "exhibition",
+        "sourceForm": "exhibition"
+      },
+      {
+        "term": "production",
+        "pos": "n",
+        "ipa": "/prəˈdʌkʃən/",
+        "meaning": "sự sản xuất, sản lượng",
+        "synonyms": "manufacturing; output",
+        "example": "When the remaining two thirds of the vast open area are in production, 20 staff will harvest up to 1,000 kg of perhaps 35 different varieties of fruit and vegetables, every day.",
+        "needle": "production",
+        "sourceForm": "production"
+      },
+      {
+        "term": "equipment",
+        "pos": "n",
+        "ipa": "/ɪˈkwɪpmənt/",
+        "meaning": "thiết bị",
+        "synonyms": "apparatus",
+        "example": "The equipment weighs little, can be installed on almost any flat surface and is cheap to buy: roughly €100 to €150 per square metre.",
+        "needle": "equipment",
+        "sourceForm": "equipment"
+      },
+      {
+        "term": "transport",
+        "pos": "n",
+        "ipa": "/ˈtrænspɔːt/",
+        "meaning": "sự vận chuyển; giao thông",
+        "synonyms": "transportation",
+        "example": "'You can select crop varieties for their flavour, not their resistance to the transport and storage chain, and you can pick them when they're really at their best, and not before. '",
+        "needle": "transport",
+        "sourceForm": "transport"
+      },
+      {
+        "term": "consume",
+        "pos": "v",
+        "ipa": "/kənˈsjuːm/",
+        "meaning": "tiêu thụ",
+        "synonyms": "use up",
+        "example": "It is cheap to run, too, consuming a tiny fraction of the electricity used by some techniques.",
+        "needle": "consuming",
+        "sourceForm": "consuming"
       }
     ],
     "grammar": [
@@ -732,6 +822,156 @@
         "example": "One such approach is called a Timber Stand Improvement (TSI) Cut.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "The stems that are left behind might then grow in size and develop more foliage and larger crowns or tops that produce more coverage for wildlife; they have a better chance to regenerate in a less crowded environment.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "improvement",
+        "pos": "n",
+        "ipa": "/ɪmˈpruːvmənt/",
+        "meaning": "sự cải thiện",
+        "synonyms": "enhancement; progress",
+        "example": "One such approach is called a Timber Stand Improvement (TSI) Cut.",
+        "needle": "Improvement",
+        "sourceForm": "Improvement"
+      },
+      {
+        "term": "traditional",
+        "pos": "adj",
+        "ipa": "/trəˈdɪʃənl/",
+        "meaning": "truyền thống",
+        "synonyms": "conventional",
+        "example": "These trees have lower economic value for traditional timber markets, compete for growth with higher-value trees, shade out desirable regeneration and decrease the health of a stand* leaving it more vulnerable to poor weather and disease.",
+        "needle": "traditional",
+        "sourceForm": "traditional"
+      },
+      {
+        "term": "production",
+        "pos": "n",
+        "ipa": "/prəˈdʌkʃən/",
+        "meaning": "sự sản xuất, sản lượng",
+        "synonyms": "manufacturing; output",
+        "example": "Thinnings and dense and dead wood removal for fire prevention also center on the production of low-use wood.",
+        "needle": "production",
+        "sourceForm": "production"
+      },
+      {
+        "term": "resilience",
+        "pos": "n",
+        "ipa": "/rɪˈzɪliəns/",
+        "meaning": "khả năng chống chịu và phục hồi trước tác động bất lợi",
+        "synonyms": "resistance; capacity to recover",
+        "example": "They help control problem insects and increase the health and resilience of the forest.",
+        "needle": "resilience",
+        "sourceForm": "resilience"
+      },
+      {
+        "term": "function",
+        "pos": "n",
+        "ipa": "/ˈfʌŋkʃn/",
+        "meaning": "chức năng",
+        "synonyms": "role; purpose",
+        "example": "A tree's 'value' depends on several factors including its species, size, form, condition, quality, function, and accessibility, and depends on the management goals for a given forest.",
+        "needle": "function",
+        "sourceForm": "function"
+      },
+      {
+        "term": "material",
+        "pos": "n",
+        "ipa": "/məˈtɪəriəl/",
+        "meaning": "vật liệu, chất liệu",
+        "synonyms": "substance; raw material",
+        "example": "In a TSI Cut, really poor-quality tree and plant material is cut down to allow more space, light, and other resources to the highest-valued stems that remain.",
+        "needle": "material",
+        "sourceForm": "material"
+      },
+      {
+        "term": "resource",
+        "pos": "n",
+        "ipa": "/rɪˈsɔːs/",
+        "meaning": "nguồn lực, tài nguyên",
+        "synonyms": "supply; asset",
+        "example": "In a TSI Cut, really poor-quality tree and plant material is cut down to allow more space, light, and other resources to the highest-valued stems that remain.",
+        "needle": "resources",
+        "sourceForm": "resources"
+      },
+      {
+        "term": "specific",
+        "pos": "adj",
+        "ipa": "/spəˈsɪfɪk/",
+        "meaning": "cụ thể, xác định rõ",
+        "synonyms": "particular; precise",
+        "example": "TSI Cuts can be tailored to one farmer's specific management goals for his or her land.",
+        "needle": "specific",
+        "sourceForm": "specific"
+      },
+      {
+        "term": "develop",
+        "pos": "v",
+        "ipa": "/dɪˈveləp/",
+        "meaning": "phát triển",
+        "synonyms": "grow; evolve",
+        "example": "The stems that are left behind might then grow in size and develop more foliage and larger crowns or tops that produce more coverage for wildlife; they have a better chance to regenerate in a less crowded environment.",
+        "needle": "develop",
+        "sourceForm": "develop"
+      },
+      {
+        "term": "improve",
+        "pos": "v",
+        "ipa": "/ɪmˈpruːv/",
+        "meaning": "cải thiện",
+        "synonyms": "enhance",
+        "example": "Several tree- and plant-cutting approaches, which could greatly improve the long-term quality of a forest, focus strongly or solely on the use of wood for those markets.",
+        "needle": "improve",
+        "sourceForm": "improve"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "A tree's 'value' depends on several factors including its species, size, form, condition, quality, function, and accessibility, and depends on the management goals for a given forest.",
+        "needle": "including",
+        "sourceForm": "including"
+      },
+      {
+        "term": "involve",
+        "pos": "v",
+        "ipa": "/ɪnˈvɒlv/",
+        "meaning": "bao hàm, liên quan đến",
+        "synonyms": "include; entail",
+        "example": "A Shelterwood Cut, which only takes place in a mature forest that has already been thinned several times, involves removing all the mature trees when other seedlings have become established.",
+        "needle": "involves",
+        "sourceForm": "involves"
+      },
+      {
+        "term": "provide",
+        "pos": "v",
+        "ipa": "/prəˈvaɪd/",
+        "meaning": "cung cấp",
+        "synonyms": "supply; furnish",
+        "example": "A large, straight black cherry tree has high value as timber to be cut into logs or made into furniture, but for a landowner more interested in wildlife habitat, the real value of that stem (or trunk) may be the food it provides to animals.",
+        "needle": "provides",
+        "sourceForm": "provides"
+      },
+      {
+        "term": "similar",
+        "pos": "adj",
+        "ipa": "/ˈsɪmɪlə/",
+        "meaning": "tương tự",
+        "synonyms": "alike; comparable",
+        "example": "It leaves a young forest where all trees are at a similar point in their growth.",
+        "needle": "similar",
+        "sourceForm": "similar"
       }
     ],
     "grammar": [
@@ -1124,6 +1364,156 @@
         "example": "And satellite operators can't steer away from every potential crash, because each move consumes time and fuel that could otherwise be used for the spacecraft's main job.",
         "needle": "potential",
         "sourceForm": "potential"
+      },
+      {
+        "term": "communication",
+        "pos": "n",
+        "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+        "meaning": "sự giao tiếp, truyền thông",
+        "synonyms": "exchange of information",
+        "example": "Ten years ago, a US commercial Iridium satellite smashed into an inactive Russian communications satellite called Cosmos-2251 , creating thousands of new pieces of space shrapnel that now threaten other satellites in low Earth orbit — the zone stretching up to 2,000 kilometres in altitude.",
+        "needle": "communications",
+        "sourceForm": "communications"
+      },
+      {
+        "term": "efficiently",
+        "pos": "adv",
+        "ipa": "/ɪˈfɪʃntli/",
+        "meaning": "một cách hiệu quả, ít lãng phí",
+        "synonyms": "productively",
+        "example": "Several teams are trying to improve methods for assessing what is in orbit, so that satellite operators can work more efficiently in ever-more-crowded space.",
+        "needle": "efficiently",
+        "sourceForm": "efficiently"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "Some researchers are now starting to compile a massive data set that includes the best possible information on where everything is in orbit.",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "particular",
+        "pos": "adj",
+        "ipa": "/pəˈtɪkjələ/",
+        "meaning": "cụ thể, riêng biệt",
+        "synonyms": "specific",
+        "example": "When he types in an identifier for a particular space object, the database draws a purple line to designate its orbit.",
+        "needle": "particular",
+        "sourceForm": "particular"
+      },
+      {
+        "term": "community",
+        "pos": "n",
+        "ipa": "/kəˈmjuːnəti/",
+        "meaning": "cộng đồng",
+        "synonyms": "local population",
+        "example": "Until that happens, he argues, the space community will continue devolving into a tragedy in which all spaceflight operators are polluting a common resource.",
+        "needle": "community",
+        "sourceForm": "community"
+      },
+      {
+        "term": "guideline",
+        "pos": "n",
+        "ipa": "/ˈɡaɪdlaɪn/",
+        "meaning": "hướng dẫn",
+        "synonyms": "recommendation",
+        "example": "International groups such as the Inter-Agency Space Debris Coordination Committee have developed guidelines on space sustainability.",
+        "needle": "guidelines",
+        "sourceForm": "guidelines"
+      },
+      {
+        "term": "maintain",
+        "pos": "v",
+        "ipa": "/meɪnˈteɪn/",
+        "meaning": "duy trì; khẳng định",
+        "synonyms": "preserve; assert",
+        "example": "It draws on several sources, such as catalogues maintained by the US and Russian governments, to visualise where objects are in space.",
+        "needle": "maintained",
+        "sourceForm": "maintained"
+      },
+      {
+        "term": "material",
+        "pos": "n",
+        "ipa": "/məˈtɪəriəl/",
+        "meaning": "vật liệu, chất liệu",
+        "synonyms": "substance; raw material",
+        "example": "Those include inactivating satellites at the end of their useful life by venting pressurised materials or leftover fuel that might lead to explosions.",
+        "needle": "materials",
+        "sourceForm": "materials"
+      },
+      {
+        "term": "previous",
+        "pos": "adj",
+        "ipa": "/ˈpriːviəs/",
+        "meaning": "trước đó",
+        "synonyms": "earlier",
+        "example": "Last year, commercial companies, military and civil departments end amateurs sent more than 400 satellites into orbit, over four times the yearly average in the previous decade.",
+        "needle": "previous",
+        "sourceForm": "previous"
+      },
+      {
+        "term": "resource",
+        "pos": "n",
+        "ipa": "/rɪˈsɔːs/",
+        "meaning": "nguồn lực, tài nguyên",
+        "synonyms": "supply; asset",
+        "example": "Until that happens, he argues, the space community will continue devolving into a tragedy in which all spaceflight operators are polluting a common resource.",
+        "needle": "resource",
+        "sourceForm": "resource"
+      },
+      {
+        "term": "ability",
+        "pos": "n",
+        "ipa": "/əˈbɪləti/",
+        "meaning": "khả năng",
+        "synonyms": "capacity; capability",
+        "example": "Even as our ability to monitor space objects increases, so too does the total number of items in orbit.",
+        "needle": "ability",
+        "sourceForm": "ability"
+      },
+      {
+        "term": "consume",
+        "pos": "v",
+        "ipa": "/kənˈsjuːm/",
+        "meaning": "tiêu thụ",
+        "synonyms": "use up",
+        "example": "And satellite operators can't steer away from every potential crash, because each move consumes time and fuel that could otherwise be used for the spacecraft's main job.",
+        "needle": "consumes",
+        "sourceForm": "consumes"
+      },
+      {
+        "term": "develop",
+        "pos": "v",
+        "ipa": "/dɪˈveləp/",
+        "meaning": "phát triển",
+        "synonyms": "grow; evolve",
+        "example": "Others are developing taxonomies of space debris — working on measuring properties such as the shape and size of an object, so that satellite operators know how much to worry about what's coming their way.",
+        "needle": "developing",
+        "sourceForm": "developing"
+      },
+      {
+        "term": "improve",
+        "pos": "v",
+        "ipa": "/ɪmˈpruːv/",
+        "meaning": "cải thiện",
+        "synonyms": "enhance",
+        "example": "Several teams are trying to improve methods for assessing what is in orbit, so that satellite operators can work more efficiently in ever-more-crowded space.",
+        "needle": "improve",
+        "sourceForm": "improve"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "Those include inactivating satellites at the end of their useful life by venting pressurised materials or leftover fuel that might lead to explosions.",
+        "needle": "include",
+        "sourceForm": "include"
       }
     ],
     "grammar": [
@@ -1568,6 +1958,86 @@
         "example": "Even today, people who identify as modern druids continue to gather at Stonehenge for the summer solstice.",
         "needle": "identify",
         "sourceForm": "identify"
+      },
+      {
+        "term": "construction",
+        "pos": "n",
+        "ipa": "/kənˈstrʌkʃn/",
+        "meaning": "sự xây dựng",
+        "synonyms": "building",
+        "example": "• Neolithic — The era, also known as the New Stone Age, which began around 12,000 years ago and ended around 3500 BCE The third phase of construction took place around 2000 BCE.",
+        "needle": "construction",
+        "sourceForm": "construction"
+      },
+      {
+        "term": "engineering",
+        "pos": "n",
+        "ipa": "/ˌendʒɪˈnɪərɪŋ/",
+        "meaning": "kỹ thuật, ngành thiết kế và chế tạo",
+        "synonyms": "technical design and construction",
+        "example": "How, then, did prehistoric builders without sophisticated tools or engineering haul these boulders, which weigh up to four tons, over such a great distance?",
+        "needle": "engineering",
+        "sourceForm": "engineering"
+      },
+      {
+        "term": "contribute",
+        "pos": "v",
+        "ipa": "/kənˈtrɪbjuːt/",
+        "meaning": "đóng góp; góp phần gây ra",
+        "synonyms": "add to",
+        "example": "Many modern historians and archaeologists now agree that several distinct tribes of people contributed to Stonehenge, each undertaking a different phase of its construction.",
+        "needle": "contributed",
+        "sourceForm": "contributed"
+      },
+      {
+        "term": "particular",
+        "pos": "adj",
+        "ipa": "/pəˈtɪkjələ/",
+        "meaning": "cụ thể, riêng biệt",
+        "synonyms": "specific",
+        "example": "Radiocarbon dating has revealed that work continued at Stonehenge until roughly 1600 BCE, with the bluestones in particular being repositioned multiple times.",
+        "needle": "particular",
+        "sourceForm": "particular"
+      },
+      {
+        "term": "attention",
+        "pos": "n",
+        "ipa": "/əˈtenʃən/",
+        "meaning": "sự chú ý",
+        "synonyms": "concentration; notice",
+        "example": "While his theory has received a considerable amount of attention over the decades, critics maintain that Stonehenge's builders probably lacked the knowledge necessary to predict such events or that England's dense cloud cover would have obscured their view of the skies.",
+        "needle": "attention",
+        "sourceForm": "attention"
+      },
+      {
+        "term": "determine",
+        "pos": "v",
+        "ipa": "/dɪˈtɜːmɪn/",
+        "meaning": "xác định, quyết định",
+        "synonyms": "establish",
+        "example": "While there is consensus among the majority of modern scholars that Stonehenge once served the function of burial ground, they have yet to determine what other purposes it had.",
+        "needle": "determine",
+        "sourceForm": "determine"
+      },
+      {
+        "term": "knowledge",
+        "pos": "n",
+        "ipa": "/ˈnɒlɪdʒ/",
+        "meaning": "kiến thức, hiểu biết",
+        "synonyms": "understanding; learning",
+        "example": "While his theory has received a considerable amount of attention over the decades, critics maintain that Stonehenge's builders probably lacked the knowledge necessary to predict such events or that England's dense cloud cover would have obscured their view of the skies.",
+        "needle": "knowledge",
+        "sourceForm": "knowledge"
+      },
+      {
+        "term": "political",
+        "pos": "adj",
+        "ipa": "/pəˈlɪtɪkəl/",
+        "meaning": "thuộc chính trị",
+        "synonyms": "government-related",
+        "example": "In the 17th century, archaeologist John Aubrey made the claim that Stonehenge was the work of druids, who had important religious, judicial and political roles in Celtic\" society.",
+        "needle": "political",
+        "sourceForm": "political"
       }
     ],
     "grammar": [
@@ -2038,6 +2508,106 @@
         "example": "Both general intelligence and moral reasoning are often thought to be uniquely human capacities.",
         "needle": "capacities",
         "sourceForm": "capacities"
+      },
+      {
+        "term": "intelligence",
+        "pos": "n",
+        "ipa": "/ɪnˈtelɪdʒəns/",
+        "meaning": "trí thông minh",
+        "synonyms": "mental ability",
+        "example": "By mid-century, we may have artificial general intelligence (AGI) — machines that can achieve human-level performance on the full range of tasks that we ourselves can tackle.",
+        "needle": "intelligence",
+        "sourceForm": "intelligence"
+      },
+      {
+        "term": "efficiently",
+        "pos": "adv",
+        "ipa": "/ɪˈfɪʃntli/",
+        "meaning": "một cách hiệu quả, ít lãng phí",
+        "synonyms": "productively",
+        "example": "If it was given a greater role, it might do so much more efficiently than humans can manage, and act in the interests of taxpayers and those who use the health system.",
+        "needle": "efficiently",
+        "sourceForm": "efficiently"
+      },
+      {
+        "term": "contribute",
+        "pos": "v",
+        "ipa": "/kənˈtrɪbjuːt/",
+        "meaning": "đóng góp; góp phần gây ra",
+        "synonyms": "add to",
+        "example": "We often ignore the suffering of strangers, and even contribute to it, at least indirectly.",
+        "needle": "contribute",
+        "sourceForm": "contribute"
+      },
+      {
+        "term": "community",
+        "pos": "n",
+        "ipa": "/kəˈmjuːnəti/",
+        "meaning": "cộng đồng",
+        "synonyms": "local population",
+        "example": "We might lose our freedom to discriminate in favour of our own communities, for example.",
+        "needle": "communities",
+        "sourceForm": "communities"
+      },
+      {
+        "term": "sacrifice",
+        "pos": "v",
+        "ipa": "/ˈsækrɪfaɪs/",
+        "meaning": "hy sinh; từ bỏ điều có giá trị để đạt mục đích khác",
+        "synonyms": "give up; relinquish",
+        "example": "As for the 'destination' problem, we might, by putting ourselves in the hands of these moral guides and gatekeepers, be sacrificing our own autonomy — an important part of what makes us human.",
+        "needle": "sacrificing",
+        "sourceForm": "sacrificing"
+      },
+      {
+        "term": "previous",
+        "pos": "adj",
+        "ipa": "/ˈpriːviəs/",
+        "meaning": "trước đó",
+        "synonyms": "earlier",
+        "example": "A chessplaying Al that can defeat not only all human chess players, but also all previous human-programmed chess machines, after learning the game in just four hours?",
+        "needle": "previous",
+        "sourceForm": "previous"
+      },
+      {
+        "term": "resource",
+        "pos": "n",
+        "ipa": "/rɪˈsɔːs/",
+        "meaning": "nguồn lực, tài nguyên",
+        "synonyms": "supply; asset",
+        "example": "Al already has some input into how resources are used in our National Health Service (NHS) here in the IJK, for example.",
+        "needle": "resources",
+        "sourceForm": "resources"
+      },
+      {
+        "term": "achieve",
+        "pos": "v",
+        "ipa": "/əˈtʃiːv/",
+        "meaning": "đạt được",
+        "synonyms": "accomplish",
+        "example": "By mid-century, we may have artificial general intelligence (AGI) — machines that can achieve human-level performance on the full range of tasks that we ourselves can tackle.",
+        "needle": "achieve",
+        "sourceForm": "achieve"
+      },
+      {
+        "term": "ethical",
+        "pos": "adj",
+        "ipa": "/ˈeθɪkəl/",
+        "meaning": "thuộc đạo đức, phù hợp chuẩn mực đạo đức",
+        "synonyms": "moral; principled",
+        "example": "But are we ready for ethical silicon police limiting our options?",
+        "needle": "ethical",
+        "sourceForm": "ethical"
+      },
+      {
+        "term": "require",
+        "pos": "v",
+        "ipa": "/rɪˈkwaɪə/",
+        "meaning": "đòi hỏi, yêu cầu",
+        "synonyms": "need",
+        "example": "But safety seems to require that we think of them as a package: if we are to give general intelligence to machines, we'll need to give them moral authority, too.",
+        "needle": "require",
+        "sourceForm": "require"
       }
     ],
     "grammar": [
@@ -2523,6 +3093,46 @@
         "example": "It is not easy to identify a coordinated vision of Leonardo's ideal city because of his disordered way of working with notes and sketches.",
         "needle": "identify",
         "sourceForm": "identify"
+      },
+      {
+        "term": "engineering",
+        "pos": "n",
+        "ipa": "/ˌendʒɪˈnɪərɪŋ/",
+        "meaning": "kỹ thuật, ngành thiết kế và chế tạo",
+        "synonyms": "technical design and construction",
+        "example": "But the true originality of Leonardo's vision was its fusion of architecture and engineering.",
+        "needle": "engineering",
+        "sourceForm": "engineering"
+      },
+      {
+        "term": "collection",
+        "pos": "n",
+        "ipa": "/kəˈlekʃən/",
+        "meaning": "bộ sưu tập; việc thu thập",
+        "synonyms": "set of collected objects; gathering",
+        "example": "But from the largest collection of Leonardo's papers ever assembled, a series of innovative thoughts can be reconstructed regarding the foundation of a new city along the Ticino River, which runs from Switzerland into Italy and is 248 kilometres long.",
+        "needle": "collection",
+        "sourceForm": "collection"
+      },
+      {
+        "term": "discipline",
+        "pos": "n",
+        "ipa": "/ˈdɪsəplɪn/",
+        "meaning": "ngành học; sự rèn luyện có quy tắc",
+        "synonyms": "field of study; self-control",
+        "example": "Although the Renaissance is renowned as an era of incredible progress in art and architecture, it is rarely noted that the 15th century also marked the birth of urbanism as a true academic discipline.",
+        "needle": "discipline",
+        "sourceForm": "discipline"
+      },
+      {
+        "term": "population",
+        "pos": "n",
+        "ipa": "/ˌpɒpjuˈleɪʃn/",
+        "meaning": "dân số, quần thể",
+        "synonyms": "inhabitants",
+        "example": "Around 1486 — after a pestilence that killed half the population in Milan, Italy — Leonardo turned his thoughts to urban planning problems.",
+        "needle": "population",
+        "sourceForm": "population"
       }
     ],
     "grammar": [
@@ -3001,6 +3611,66 @@
         "example": "According to Cheeseman, all these factors together make concrete hard to beat.",
         "needle": "factors",
         "sourceForm": "factors"
+      },
+      {
+        "term": "construction",
+        "pos": "n",
+        "ipa": "/kənˈstrʌkʃn/",
+        "meaning": "sự xây dựng",
+        "synonyms": "building",
+        "example": "But even treated wood has its limitations and only when a wider range of construction projects has been proven in practice will it be possible to see wood as a real alternative to concrete in constructing tall buildings.",
+        "needle": "construction",
+        "sourceForm": "construction"
+      },
+      {
+        "term": "engineering",
+        "pos": "n",
+        "ipa": "/ˌendʒɪˈnɪərɪŋ/",
+        "meaning": "kỹ thuật, ngành thiết kế và chế tạo",
+        "synonyms": "technical design and construction",
+        "example": "Chris Cheeseman, an engineering professor at Imperial College London, says the key thing to consider is the extent to which concrete is used around the world, and is likely to continue to be used.",
+        "needle": "engineering",
+        "sourceForm": "engineering"
+      },
+      {
+        "term": "commodity",
+        "pos": "n",
+        "ipa": "/kəˈmɒdəti/",
+        "meaning": "hàng hóa",
+        "synonyms": "product",
+        "example": "And so scientists have started innovating with other materials, in a scramble for alternatives to a universal commodity that has underpinned our modern life for many years.",
+        "needle": "commodity",
+        "sourceForm": "commodity"
+      },
+      {
+        "term": "community",
+        "pos": "n",
+        "ipa": "/kəˈmjuːnəti/",
+        "meaning": "cộng đồng",
+        "synonyms": "local population",
+        "example": "In their overview of innovation in the concrete industry, Felix Preston and Johanna Lehne of the UK's Royal Institute of Intemational Affairs reached the conclusion that, 'Some novel cements have been discussed for more than a decade within the research community, without breaking through.",
+        "needle": "community",
+        "sourceForm": "community"
+      },
+      {
+        "term": "reinforce",
+        "pos": "v",
+        "ipa": "/ˌriːɪnˈfɔːs/",
+        "meaning": "củng cố; làm cho điều gì mạnh hơn hoặc vững chắc hơn",
+        "synonyms": "strengthen; bolster",
+        "example": "Cheeseman also notes another advantage: concrete and steel have similar thermal expansion properties, so steel can be used to reinforce concrete, making it far stronger and more flexible as a building material than it could be on its own.",
+        "needle": "reinforce",
+        "sourceForm": "reinforce"
+      },
+      {
+        "term": "chemical",
+        "pos": "n/adj",
+        "ipa": "/ˈkemɪkl/",
+        "meaning": "hóa chất; thuộc hóa học",
+        "synonyms": "substance",
+        "example": "The chemical process by which cement, the key ingredient of concrete, is created results in large quantities of carbon dioxide.",
+        "needle": "chemical",
+        "sourceForm": "chemical"
       }
     ],
     "grammar": [
@@ -3417,6 +4087,136 @@
         "example": "Given the evidence, he may have been right.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "engineering",
+        "pos": "n",
+        "ipa": "/ˌendʒɪˈnɪərɪŋ/",
+        "meaning": "kỹ thuật, ngành thiết kế và chế tạo",
+        "synonyms": "technical design and construction",
+        "example": "The following year Abner Doble drove the Model B from Massachusetts to Detroit in order to seek investment in his automobile design, which he used to open the General Engineering Company.",
+        "needle": "Engineering",
+        "sourceForm": "Engineering"
+      },
+      {
+        "term": "furthermore",
+        "pos": "adv",
+        "ipa": "/ˌfɜːðəˈmɔː/",
+        "meaning": "hơn nữa",
+        "synonyms": "moreover",
+        "example": "Furthermore, their water reservoirs only lasted for about thirty miles before needing replenishment.",
+        "needle": "Furthermore",
+        "sourceForm": "Furthermore"
+      },
+      {
+        "term": "improvement",
+        "pos": "n",
+        "ipa": "/ɪmˈpruːvmənt/",
+        "meaning": "sự cải thiện",
+        "synonyms": "enhancement; progress",
+        "example": "Though the Doble boys' third prototype, nicknamed the Model B, still lacked the convenience of an internal combustion engine, it drew the attention of automobile trade magazines due to its numerous improvements over previous steam cars.",
+        "needle": "improvements",
+        "sourceForm": "improvements"
+      },
+      {
+        "term": "successful",
+        "pos": "adj",
+        "ipa": "/səkˈsesfəl/",
+        "meaning": "thành công",
+        "synonyms": "effective; achieving its aim",
+        "example": "Steam had already enjoyed a long and successful career in the railways, so it was only natural that the technology evolved into a miniaturized version which was separate from the trains.",
+        "needle": "successful",
+        "sourceForm": "successful"
+      },
+      {
+        "term": "attention",
+        "pos": "n",
+        "ipa": "/əˈtenʃən/",
+        "meaning": "sự chú ý",
+        "synonyms": "concentration; notice",
+        "example": "Though the Doble boys' third prototype, nicknamed the Model B, still lacked the convenience of an internal combustion engine, it drew the attention of automobile trade magazines due to its numerous improvements over previous steam cars.",
+        "needle": "attention",
+        "sourceForm": "attention"
+      },
+      {
+        "term": "financial",
+        "pos": "adj",
+        "ipa": "/faɪˈnænʃl/",
+        "meaning": "thuộc tài chính",
+        "synonyms": "monetary",
+        "example": "Sadly, the Dobles' brilliant steam car never was a financial success.",
+        "needle": "financial",
+        "sourceForm": "financial"
+      },
+      {
+        "term": "introduce",
+        "pos": "v",
+        "ipa": "/ˌɪntrəˈdjuːs/",
+        "meaning": "giới thiệu, đưa vào sử dụng",
+        "synonyms": "present; bring in",
+        "example": "But in 1912 General Motors introduced the electric starter, and over the following few years steam power was gradually phased out.",
+        "needle": "introduced",
+        "sourceForm": "introduced"
+      },
+      {
+        "term": "contrast",
+        "pos": "n",
+        "ipa": "/ˈkɒntrɑːst/",
+        "meaning": "sự tương phản",
+        "synonyms": "difference",
+        "example": "Its high-pressure steam drove the engine pistons in virtual silence, in contrast to clattering gas engines which emitted the aroma of burned hydrocarbons.",
+        "needle": "contrast",
+        "sourceForm": "contrast"
+      },
+      {
+        "term": "material",
+        "pos": "n",
+        "ipa": "/məˈtɪəriəl/",
+        "meaning": "vật liệu, chất liệu",
+        "synonyms": "substance; raw material",
+        "example": "It is true that the technology poses some difficult problems, but you cannot help but wonder how effcient a steam car might be with the benefit of modern materials and computers.",
+        "needle": "materials",
+        "sourceForm": "materials"
+      },
+      {
+        "term": "previous",
+        "pos": "adj",
+        "ipa": "/ˈpriːviəs/",
+        "meaning": "trước đó",
+        "synonyms": "earlier",
+        "example": "Though the Doble boys' third prototype, nicknamed the Model B, still lacked the convenience of an internal combustion engine, it drew the attention of automobile trade magazines due to its numerous improvements over previous steam cars.",
+        "needle": "previous",
+        "sourceForm": "previous"
+      },
+      {
+        "term": "ability",
+        "pos": "n",
+        "ipa": "/əˈbɪləti/",
+        "meaning": "khả năng",
+        "synonyms": "capacity; capability",
+        "example": "A new technology called the Internal Combustion Engine soon appeared, which offered the ability to drive down the road just moments after starting up.",
+        "needle": "ability",
+        "sourceForm": "ability"
+      },
+      {
+        "term": "achieve",
+        "pos": "v",
+        "ipa": "/əˈtʃiːv/",
+        "meaning": "đạt được",
+        "synonyms": "accomplish",
+        "example": "As the new Doble steamer was further developed and tested, its maximum speed was pushed to over a hundred miles per hour, and it achieved about fifteen miles per gallon of kerosene with negligible emissions.",
+        "needle": "achieved",
+        "sourceForm": "achieved"
+      },
+      {
+        "term": "benefit",
+        "pos": "n/v",
+        "ipa": "/ˈbenɪfɪt/",
+        "meaning": "lợi ích; có lợi cho",
+        "synonyms": "advantage",
+        "example": "It is true that the technology poses some difficult problems, but you cannot help but wonder how effcient a steam car might be with the benefit of modern materials and computers.",
+        "needle": "benefit",
+        "sourceForm": "benefit"
       }
     ],
     "grammar": [
@@ -3920,6 +4720,76 @@
         "example": "He can ask most of the class about character development, and five of them might be able to support their statements with textual evidence.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "communication",
+        "pos": "n",
+        "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+        "meaning": "sự giao tiếp, truyền thông",
+        "synonyms": "exchange of information",
+        "example": "Having a variety of different abilities in a collaborative learning environment provides valuable resources for helping students meet their learning needs, not to mention improving their communication and social skills.",
+        "needle": "communication",
+        "sourceForm": "communication"
+      },
+      {
+        "term": "construction",
+        "pos": "n",
+        "ipa": "/kənˈstrʌkʃn/",
+        "meaning": "sự xây dựng",
+        "synonyms": "building",
+        "example": "A crucial aspect of constructivist theory is the role of the MKO — 'moreknowledgeable other' — in knowledge construction.",
+        "needle": "construction",
+        "sourceForm": "construction"
+      },
+      {
+        "term": "achievement",
+        "pos": "n",
+        "ipa": "/əˈtʃiːvmənt/",
+        "meaning": "thành tựu",
+        "synonyms": "accomplishment; success",
+        "example": "In the latest update of Hattie's influential meta-analysis of factors influencing student achievement, one of the most significant factors is the teachers' estimate of achievement.",
+        "needle": "achievement",
+        "sourceForm": "achievement"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "He can ask most of the class about character development, and five of them might be able to support their statements with textual evidence.",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "Having a variety of different abilities in a collaborative learning environment provides valuable resources for helping students meet their learning needs, not to mention improving their communication and social skills.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "stakeholder",
+        "pos": "n",
+        "ipa": "/ˈsteɪkhəʊldə/",
+        "meaning": "cá nhân hoặc tổ chức có quyền lợi liên quan đến một hoạt động",
+        "synonyms": "interested party; affected party",
+        "example": "The practice is intuitively appealing to almost every stakeholder.",
+        "needle": "stakeholder",
+        "sourceForm": "stakeholder"
+      },
+      {
+        "term": "importance",
+        "pos": "n",
+        "ipa": "/ɪmˈpɔːtəns/",
+        "meaning": "tầm quan trọng",
+        "synonyms": "significance",
+        "example": "In the 1930s, Vygotsky emphasised the importance of targeting a student's specific 'zone of proximal development' (ZPD).",
+        "needle": "importance",
+        "sourceForm": "importance"
       }
     ],
     "grammar": [
@@ -4399,6 +5269,66 @@
         "example": "There is also evidence to demonstrate the social value of green roofs.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "These increasingly radical urban designs can help cities adapt to the monumental problems they face, such as access to resources and a lack of green space due to development.",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "Research also indicates that green roofs can be integrated with drainage systems on the ground, such as street trees, so that the water is managed better and the built environment is made more sustainable.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "improvement",
+        "pos": "n",
+        "ipa": "/ɪmˈpruːvmənt/",
+        "meaning": "sự cải thiện",
+        "synonyms": "enhancement; progress",
+        "example": "Improvements in the science and technology underpinning green roof development have also led to new variations in the concept.",
+        "needle": "Improvements",
+        "sourceForm": "Improvements"
+      },
+      {
+        "term": "institution",
+        "pos": "n",
+        "ipa": "/ˌɪnstɪˈtjuːʃən/",
+        "meaning": "cơ sở, tổ chức được thành lập cho một mục đích",
+        "synonyms": "establishment; organisation",
+        "example": "But the involvement of city authorities, businesses and other institutions is crucial to ensuring their success — as is research investigating different options to suit the variety of rooftop spaces found in cities.",
+        "needle": "institutions",
+        "sourceForm": "institutions"
+      },
+      {
+        "term": "requirement",
+        "pos": "n",
+        "ipa": "/rɪˈkwaɪəmənt/",
+        "meaning": "yêu cầu, điều kiện cần",
+        "synonyms": "condition",
+        "example": "Other considerations include installing drainage paths, meeting health and safety requirements and perhaps allowing access for the public, as well as planning restrictions and disruption from regular activities in and around the buildings during installation.",
+        "needle": "requirements",
+        "sourceForm": "requirements"
+      },
+      {
+        "term": "pollution",
+        "pos": "n",
+        "ipa": "/pəˈluːʃn/",
+        "meaning": "sự ô nhiễm",
+        "synonyms": "contamination",
+        "example": "Among the benefits are saving on energy costs, mitigating the risk of floods, making habitats for urban wildlife, tackling air pollution and even growing food.",
+        "needle": "pollution",
+        "sourceForm": "pollution"
       }
     ],
     "grammar": [
@@ -4839,6 +5769,96 @@
         "example": "There is a strong correlation between self-perception and achievement, but there is evidence to suggest that the actual effect of achievement on self-perception is stronger than the other way round.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "intelligence",
+        "pos": "n",
+        "ipa": "/ɪnˈtelɪdʒəns/",
+        "meaning": "trí thông minh",
+        "synonyms": "mental ability",
+        "example": "The concept of intelligence as something innate has been supplanted by the idea that intelligence is not fixed, and that, with the right training, we can be the authors of our own cognitive capabilities.",
+        "needle": "intelligence",
+        "sourceForm": "intelligence"
+      },
+      {
+        "term": "achievement",
+        "pos": "n",
+        "ipa": "/əˈtʃiːvmənt/",
+        "meaning": "thành tựu",
+        "synonyms": "accomplishment; success",
+        "example": "There is a strong correlation between self-perception and achievement, but there is evidence to suggest that the actual effect of achievement on self-perception is stronger than the other way round.",
+        "needle": "achievement",
+        "sourceForm": "achievement"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "Instead, educators such as John Dewey argued that every child's intelligence could be developed, given the right environment.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "improvement",
+        "pos": "n",
+        "ipa": "/ɪmˈpruːvmənt/",
+        "meaning": "sự cải thiện",
+        "synonyms": "enhancement; progress",
+        "example": "She has also expressed concerns that her theories are being misappropriated in schools by being conflated with the self-esteem movement: 'For me the growth mindset is a tool for learning and improvement.",
+        "needle": "improvement",
+        "sourceForm": "improvement"
+      },
+      {
+        "term": "experiment",
+        "pos": "n",
+        "ipa": "/ɪkˈsperɪmənt/",
+        "meaning": "thí nghiệm",
+        "synonyms": "trial; test",
+        "example": "In one key experiment, Dweck divided a group of 10- to 12-year-olds into two groups.",
+        "needle": "experiment",
+        "sourceForm": "experiment"
+      },
+      {
+        "term": "psychology",
+        "pos": "n",
+        "ipa": "/saɪˈkɒlədʒi/",
+        "meaning": "tâm lý học",
+        "synonyms": "study of the mind and behaviour",
+        "example": "Professor of Psychology Timothy Bates, who has been trying to replicate Dweck's work, is finding that the results are repeatedly null.",
+        "needle": "Psychology",
+        "sourceForm": "Psychology"
+      },
+      {
+        "term": "education",
+        "pos": "n",
+        "ipa": "/ˌedʒuˈkeɪʃən/",
+        "meaning": "giáo dục",
+        "synonyms": "learning; instruction",
+        "example": "One of the greatest impediments to successfully implementing a growth mindset, however, is the education system itself: in many parts of the world, the school climate is obsessed with performance in the form of constant testing, analysing and ranking of students — a key characteristic of the fixed mindset.",
+        "needle": "education",
+        "sourceForm": "education"
+      },
+      {
+        "term": "effective",
+        "pos": "adj",
+        "ipa": "/ɪˈfektɪv/",
+        "meaning": "hiệu quả",
+        "synonyms": "successful",
+        "example": "Teaching concrete skills such as how to write an effective introduction to an essay then praising students' effort in getting there is probably a far better way of improving confidence than telling them how unique they are, or indeed how capable they are of changing their own brains.",
+        "needle": "effective",
+        "sourceForm": "effective"
+      },
+      {
+        "term": "original",
+        "pos": "adj",
+        "ipa": "/əˈrɪdʒənəl/",
+        "meaning": "ban đầu; có tính độc đáo",
+        "synonyms": "initial; novel",
+        "example": "Aside from the implementation problem, the original growth mindset research has also received harsh criticism.",
+        "needle": "original",
+        "sourceForm": "original"
       }
     ],
     "grammar": [
@@ -5281,6 +6301,126 @@
         "example": "Wegener showed in great detail how such continental movements were plausible and how they worked, using evidence from a large number of sciences including geology, geophysics, paleontology, and climatology.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "controversial",
+        "pos": "adj",
+        "ipa": "/ˌkɒntrəˈvɜːʃl/",
+        "meaning": "gây tranh cãi",
+        "synonyms": "disputed",
+        "example": "My treatment of his other scientific work is no less detailed, though I certainly have devoted more attention to the reception of his ideas on continental displacement, as they were much more controversial than his other work.",
+        "needle": "controversial",
+        "sourceForm": "controversial"
+      },
+      {
+        "term": "investigation",
+        "pos": "n",
+        "ipa": "/ɪnˌvestɪˈɡeɪʃn/",
+        "meaning": "sự điều tra, nghiên cứu",
+        "synonyms": "inquiry; research",
+        "example": "Readers interested in the specific detail of Wegener's career will see that he often stopped pursuing a given line of investigation (sometimes for years on end), only to pick it up later.",
+        "needle": "investigation",
+        "sourceForm": "investigation"
+      },
+      {
+        "term": "expedition",
+        "pos": "n",
+        "ipa": "/ˌekspəˈdɪʃən/",
+        "meaning": "chuyến thám hiểm có tổ chức",
+        "synonyms": "exploratory journey",
+        "example": "Between 1906 and 1908 he had taken part in a highly publicized and extremely dangerous expedition to the coast of northeast Greenland.",
+        "needle": "expedition",
+        "sourceForm": "expedition"
+      },
+      {
+        "term": "particular",
+        "pos": "adj",
+        "ipa": "/pəˈtɪkjələ/",
+        "meaning": "cụ thể, riêng biệt",
+        "synonyms": "specific",
+        "example": "Thus, the index should be a sufficient guide for those interested in a particular aspect of Wegener's life but perhaps not all of it.",
+        "needle": "particular",
+        "sourceForm": "particular"
+      },
+      {
+        "term": "scientific",
+        "pos": "adj",
+        "ipa": "/ˌsaɪənˈtɪfɪk/",
+        "meaning": "thuộc khoa học",
+        "synonyms": "research-based",
+        "example": "This is a book about the life and scientific work of Alfred Wegener, whose reputation today rests with his theory of continental displacements, better known as 'continental drift'.",
+        "needle": "scientific",
+        "sourceForm": "scientific"
+      },
+      {
+        "term": "attention",
+        "pos": "n",
+        "ipa": "/əˈtenʃən/",
+        "meaning": "sự chú ý",
+        "synonyms": "concentration; notice",
+        "example": "My treatment of his other scientific work is no less detailed, though I certainly have devoted more attention to the reception of his ideas on continental displacement, as they were much more controversial than his other work.",
+        "needle": "attention",
+        "sourceForm": "attention"
+      },
+      {
+        "term": "narrative",
+        "pos": "n",
+        "ipa": "/ˈnærətɪv/",
+        "meaning": "câu chuyện hoặc bản tường thuật các sự kiện",
+        "synonyms": "account; story",
+        "example": "We plan, think, and act, often with apparent freedom, but most of the time our lives 'happen to us', and we only retrospectively turn this happenstance into a coherent narrative of fulfilled intentions.",
+        "needle": "narrative",
+        "sourceForm": "narrative"
+      },
+      {
+        "term": "therefore",
+        "pos": "adv",
+        "ipa": "/ˈðeəfɔː/",
+        "meaning": "vì vậy",
+        "synonyms": "consequently",
+        "example": "This book, therefore, is a story both of the life and scientific work that Alfred Wegener planned and intended and of the life and scientific work that actually 'happened to him'.",
+        "needle": "therefore",
+        "sourceForm": "therefore"
+      },
+      {
+        "term": "accurate",
+        "pos": "adj",
+        "ipa": "/ˈækjərət/",
+        "meaning": "chính xác",
+        "synonyms": "precise",
+        "example": "The more such material a scientist leaves behind, the better chance a biographer has of forming an accurate picture of how a scientist's ideas took shape and evolved.",
+        "needle": "accurate",
+        "sourceForm": "accurate"
+      },
+      {
+        "term": "activity",
+        "pos": "n",
+        "ipa": "/ækˈtɪvəti/",
+        "meaning": "hoạt động",
+        "synonyms": "action; pursuit",
+        "example": "Only a few hundred of the many thousands of letters he wrote and received in his lifetime have survived end he didn't keep notebooks or diaries that recorded his life and activities.",
+        "needle": "activities",
+        "sourceForm": "activities"
+      },
+      {
+        "term": "material",
+        "pos": "n",
+        "ipa": "/məˈtɪəriəl/",
+        "meaning": "tài liệu, nội dung được ghi chép",
+        "synonyms": "documents; written content",
+        "example": "Some famous scientists, such as Newton, Darwin, and Einstein, left mountains of written material behind, hundreds of notebooks and letters numbering in the tens of thousands.",
+        "needle": "material",
+        "sourceForm": "material"
+      },
+      {
+        "term": "specific",
+        "pos": "adj",
+        "ipa": "/spəˈsɪfɪk/",
+        "meaning": "cụ thể, xác định rõ",
+        "synonyms": "particular; precise",
+        "example": "Readers interested in the specific detail of Wegener's career will see that he often stopped pursuing a given line of investigation (sometimes for years on end), only to pick it up later.",
+        "needle": "specific",
+        "sourceForm": "specific"
       }
     ],
     "grammar": [

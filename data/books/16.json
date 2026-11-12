@@ -793,6 +793,166 @@
         "example": "Egyptologist Miroslav Verner writes, 'Few monuments hold a place in human history as significant as that of the Step Pyramid in Saqqara .",
         "needle": "significant",
         "sourceForm": "significant"
+      },
+      {
+        "term": "archaeologist",
+        "pos": "n",
+        "ipa": "/ˌɑːkiˈɒlədʒɪst/",
+        "meaning": "nhà khảo cổ học",
+        "synonyms": "researcher of ancient remains",
+        "example": "Djoser's grave goods, and even his body, were stolen at some point in the past and all archaeologists found were a small number of his valuables overlooked by the thieves.",
+        "needle": "archaeologists",
+        "sourceForm": "archaeologists"
+      },
+      {
+        "term": "construction",
+        "pos": "n",
+        "ipa": "/kənˈstrʌkʃn/",
+        "meaning": "sự xây dựng",
+        "synonyms": "building",
+        "example": "Historian Marc Van de Mieroop comments on this, writing 'Much experimentation was involved, which is especially clear in the construction of the pyramid in the center of the complex.",
+        "needle": "construction",
+        "sourceForm": "construction"
+      },
+      {
+        "term": "challenge",
+        "pos": "n",
+        "ipa": "/ˈtʃælɪndʒ/",
+        "meaning": "thách thức",
+        "synonyms": "difficulty",
+        "example": "The weight of the enormous mass was a challenge for the builders, who placed the stones at an inward incline in order to prevent the monument breaking up.'",
+        "needle": "challenge",
+        "sourceForm": "challenge"
+      },
+      {
+        "term": "discovery",
+        "pos": "n",
+        "ipa": "/dɪˈskʌvəri/",
+        "meaning": "sự phát hiện",
+        "synonyms": "finding; revelation",
+        "example": "One of the most mysterious discoveries found inside the pyramid was a large number of stone vessels.",
+        "needle": "discoveries",
+        "sourceForm": "discoveries"
+      },
+      {
+        "term": "structure",
+        "pos": "n",
+        "ipa": "/ˈstrʌktʃə/",
+        "meaning": "cấu trúc; công trình",
+        "synonyms": "framework",
+        "example": "When finally completed, the Step Pyramid rose 62 meters high and was the tallest structure of its time.",
+        "needle": "structure",
+        "sourceForm": "structure"
+      },
+      {
+        "term": "discover",
+        "pos": "v",
+        "ipa": "/dɪˈskʌvə/",
+        "meaning": "phát hiện, khám phá",
+        "synonyms": "find; uncover",
+        "example": "Over 40,000 of these vessels, of various forms and shapes, were discovered in storerooms off the pyramid's underground passages.",
+        "needle": "discovered",
+        "sourceForm": "discovered"
+      },
+      {
+        "term": "monument",
+        "pos": "n",
+        "ipa": "/ˈmɒnjumənt/",
+        "meaning": "công trình tưởng niệm hoặc di tích",
+        "synonyms": "memorial; historic structure",
+        "example": "However, there is no question that, as far as Egypt is concerned, it began with one monument to one king designed by one brilliant architect: the Step Pyramid of Djoser at Saqqara.",
+        "needle": "monument",
+        "sourceForm": "monument"
+      },
+      {
+        "term": "chamber",
+        "pos": "n",
+        "ipa": "/ˈtʃeɪmbə/",
+        "meaning": "khoang, gian phòng kín",
+        "synonyms": "enclosed room; compartment",
+        "example": "The burial chamber of the tomb, where the king's body was laid to rest, was dug beneath the base of the pyramid, surrounded by a vast maze of long tunnels that had rooms off them to discourage robbers.",
+        "needle": "chamber",
+        "sourceForm": "chamber"
+      },
+      {
+        "term": "complex",
+        "pos": "adj",
+        "ipa": "/ˈkɒmpleks/",
+        "meaning": "phức tạp",
+        "synonyms": "complicated",
+        "example": "The archaeologist Jean-Philippe Lauer, who excavated most of the pyramid and complex, believes they were originally stored and then given a 'proper burial' by Djoser in his pyramid to honor his predecessors.",
+        "needle": "complex",
+        "sourceForm": "complex"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "The complex in which it was built was the size of a city in ancient Egypt and included a temple, courtyards, shrines, and living quarters for the priests.",
+        "needle": "included",
+        "sourceForm": "included"
+      },
+      {
+        "term": "involve",
+        "pos": "v",
+        "ipa": "/ɪnˈvɒlv/",
+        "meaning": "bao hàm, liên quan đến",
+        "synonyms": "include; entail",
+        "example": "Historian Marc Van de Mieroop comments on this, writing 'Much experimentation was involved, which is especially clear in the construction of the pyramid in the center of the complex.",
+        "needle": "involved",
+        "sourceForm": "involved"
+      },
+      {
+        "term": "process",
+        "pos": "n",
+        "ipa": "/ˈprəʊses/",
+        "meaning": "quá trình",
+        "synonyms": "procedure",
+        "example": "The Step Pyramid has been thoroughly examined and investigated over the last century, and it is now known that the building process went through many different stages.",
+        "needle": "process",
+        "sourceForm": "process"
+      },
+      {
+        "term": "design",
+        "pos": "n",
+        "ipa": "/dɪˈzaɪn/",
+        "meaning": "thiết kế, phương án bố trí",
+        "synonyms": "plan; arrangement",
+        "example": "Unfortunately, all of the precautions and intricate design of the underground network did not prevent ancient robbers from finding a way in.",
+        "needle": "design",
+        "sourceForm": "design"
+      },
+      {
+        "term": "remain",
+        "pos": "v",
+        "ipa": "/rɪˈmeɪn/",
+        "meaning": "vẫn ở trạng thái; còn lại",
+        "synonyms": "stay; continue to be",
+        "example": "For reasons which remain unclear, Djoser's main official, whose name was Imhotep, conceived of building a taller, more impressive tomb for his king by stacking stone slabs on top of one another, progressively making them smaller, to form the shape now known as the Step Pyramid.",
+        "needle": "remain",
+        "sourceForm": "remain"
+      },
+      {
+        "term": "vessel",
+        "pos": "n",
+        "ipa": "/ˈvesəl/",
+        "meaning": "tàu thuyền; vật chứa",
+        "synonyms": "ship; container",
+        "example": "There are other historians, however, who claim the vessels were dumped into the shafts as yet another attempt to prevent grave robbers from getting to the king's burial chamber.",
+        "needle": "vessels",
+        "sourceForm": "vessels"
+      },
+      {
+        "term": "weight",
+        "pos": "n",
+        "ipa": "/weɪt/",
+        "meaning": "trọng lượng",
+        "synonyms": "heaviness; load",
+        "example": "The weight of the enormous mass was a challenge for the builders, who placed the stones at an inward incline in order to prevent the monument breaking up.'",
+        "needle": "weight",
+        "sourceForm": "weight"
       }
     ],
     "grammar": [
@@ -1278,6 +1438,86 @@
         "example": "But social policies can tackle this through retraining and redeployment.'",
         "needle": "social",
         "sourceForm": "social"
+      },
+      {
+        "term": "intelligence",
+        "pos": "n",
+        "ipa": "/ɪnˈtelɪdʒəns/",
+        "meaning": "trí thông minh",
+        "synonyms": "mental ability",
+        "example": "Algorithms are capable of learning from data to undertake tasks that previously needed human judgement, such as reading legal contracts, analysing medical scans and gathering market intelligence.",
+        "needle": "intelligence",
+        "sourceForm": "intelligence"
+      },
+      {
+        "term": "exploration",
+        "pos": "n",
+        "ipa": "/ˌekspləˈreɪʃən/",
+        "meaning": "việc thăm dò, khám phá",
+        "synonyms": "investigation; discovery",
+        "example": "Alternative explorations – where experimentation and human instinct lead to progress and new ideas – are effectively discouraged.",
+        "needle": "explorations",
+        "sourceForm": "explorations"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "'Organisations are attracted to using algorithms because they want to make choices based on what they consider is \"perfect information\", as well as to reduce costs and enhance productivity.'",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "traditional",
+        "pos": "adj",
+        "ipa": "/trəˈdɪʃənl/",
+        "meaning": "truyền thống",
+        "synonyms": "conventional",
+        "example": "Economist Professor Hamish Low believes that the future of work will involve major transitions across the whole life course for everyone: 'The traditional trajectory of full-time education followed by full-time work followed by a pensioned retirement is a thing of the past,' says Low.",
+        "needle": "traditional",
+        "sourceForm": "traditional"
+      },
+      {
+        "term": "employment",
+        "pos": "n",
+        "ipa": "/ɪmˈplɔɪmənt/",
+        "meaning": "việc làm",
+        "synonyms": "work",
+        "example": "Instead, he envisages a multistage employment life: one where retraining happens across the life course, and where multiple jobs and no job happen by choice at different stages.",
+        "needle": "employment",
+        "sourceForm": "employment"
+      },
+      {
+        "term": "experience",
+        "pos": "n",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "meaning": "kinh nghiệm; trải nghiệm",
+        "synonyms": "knowledge gained through practice",
+        "example": "'The way telecoms salespeople work is through personal and frequent contact with clients, using the benefit of experience to assess a situation and reach a decision.",
+        "needle": "experience",
+        "sourceForm": "experience"
+      },
+      {
+        "term": "individual",
+        "pos": "n/adj",
+        "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+        "meaning": "cá nhân; riêng lẻ",
+        "synonyms": "person; separate",
+        "example": "Their objective is to make AI technologies more trustworthy and transparent, so that organisations and individuals understand how AI decisions are made.",
+        "needle": "individuals",
+        "sourceForm": "individuals"
+      },
+      {
+        "term": "industrial",
+        "pos": "adj",
+        "ipa": "/ɪnˈdʌstriəl/",
+        "meaning": "thuộc công nghiệp",
+        "synonyms": "manufacturing",
+        "example": "'Just as the industrial revolution brought people past subsistence agriculture, and the corporate revolution enabled mass production, a third revolution has been pronounced.",
+        "needle": "industrial",
+        "sourceForm": "industrial"
       }
     ],
     "grammar": [
@@ -1648,6 +1888,126 @@
         "example": "The earliest evidence of a horse at Uffington is from the 1070s CE when 'White Horse Hill' is mentioned in documents from the nearby Abbey of Abingdon, and the first reference to the horse itself is soon after, in 1190 CE.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "controversial",
+        "pos": "adj",
+        "ipa": "/ˌkɒntrəˈvɜːʃl/",
+        "meaning": "gây tranh cãi",
+        "synonyms": "disputed",
+        "example": "More controversial is the date of the enigmatic Long Man of Wilmington in Sussex.",
+        "needle": "controversial",
+        "sourceForm": "controversial"
+      },
+      {
+        "term": "construction",
+        "pos": "n",
+        "ipa": "/kənˈstrʌkʃn/",
+        "meaning": "sự xây dựng",
+        "synonyms": "building",
+        "example": "The result was a date for the horse's construction somewhere between 1400 and 600 BCE – in other words, it had a Late Bronze Age or Early Iron Age origin.",
+        "needle": "construction",
+        "sourceForm": "construction"
+      },
+      {
+        "term": "nevertheless",
+        "pos": "adv",
+        "ipa": "/ˌnevəðəˈles/",
+        "meaning": "tuy nhiên, dù vậy",
+        "synonyms": "nonetheless",
+        "example": "Nevertheless, there are certain areas of the Vale of the White Horse, the valley containing and named after the enigmatic creature, from which an adequate impression may be gained.",
+        "needle": "Nevertheless",
+        "sourceForm": "Nevertheless"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "*Bronze Age: a period (in Britain c. 2,500 BCE – 800 BCE) that is characterised by the development Of bronze tools \"Neolithic: a period (in Britain c. 4,000 BCE – c. 2,500 BCE) that is significant for the spread of agricultural practices, and the use of stone tools *Celtic: an ancient people who migrated from Europe to Britain before the Romans",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "furthermore",
+        "pos": "adv",
+        "ipa": "/ˌfɜːðəˈmɔː/",
+        "meaning": "hơn nữa",
+        "synonyms": "moreover",
+        "example": "Furthermore, over hundreds of years the outlines would sometimes change due to people not always cutting in exactly the same place, thus creating a different shape to the original geoglyph.",
+        "needle": "Furthermore",
+        "sourceForm": "Furthermore"
+      },
+      {
+        "term": "importance",
+        "pos": "n",
+        "ipa": "/ɪmˈpɔːtəns/",
+        "meaning": "tầm quan trọng",
+        "synonyms": "significance",
+        "example": "But this does not lessen their importance.",
+        "needle": "importance",
+        "sourceForm": "importance"
+      },
+      {
+        "term": "original",
+        "pos": "adj",
+        "ipa": "/əˈrɪdʒənəl/",
+        "meaning": "ban đầu; có tính độc đáo",
+        "synonyms": "initial; novel",
+        "example": "Furthermore, over hundreds of years the outlines would sometimes change due to people not always cutting in exactly the same place, thus creating a different shape to the original geoglyph.",
+        "needle": "original",
+        "sourceForm": "original"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "The figures include giants, horses, crosses and regimental badges.",
+        "needle": "include",
+        "sourceForm": "include"
+      },
+      {
+        "term": "create",
+        "pos": "v",
+        "ipa": "/kriˈeɪt/",
+        "meaning": "tạo ra",
+        "synonyms": "produce; bring into existence",
+        "example": "While many historians are convinced the figure is prehistoric, others believe that it was the work of an artistic monk from a nearby priory and was created between the 11th and 15th centuries.",
+        "needle": "created",
+        "sourceForm": "created"
+      },
+      {
+        "term": "method",
+        "pos": "n",
+        "ipa": "/ˈmeθəd/",
+        "meaning": "phương pháp",
+        "synonyms": "technique",
+        "example": "The method of cutting these huge figures was simply to remove the overlying grass to reveal the gleaming white chalk below.",
+        "needle": "method",
+        "sourceForm": "method"
+      },
+      {
+        "term": "origin",
+        "pos": "n",
+        "ipa": "/ˈɒrɪdʒɪn/",
+        "meaning": "nguồn gốc",
+        "synonyms": "source",
+        "example": "The result was a date for the horse's construction somewhere between 1400 and 600 BCE – in other words, it had a Late Bronze Age or Early Iron Age origin.",
+        "needle": "origin",
+        "sourceForm": "origin"
+      },
+      {
+        "term": "unique",
+        "pos": "adj",
+        "ipa": "/juˈniːk/",
+        "meaning": "độc nhất, riêng biệt",
+        "synonyms": "one of a kind; distinctive",
+        "example": "*Iron Age: a period (in Britain 800 BCE – 43 CE) that is Characterised by the use Of iron tools The Uffington White Horse is a unique, stylised representation of a horse consisting of a long, sleek back, thin disjointed legs, a streaming tail, and a bird-like beaked head.",
+        "needle": "unique",
+        "sourceForm": "unique"
       }
     ],
     "grammar": [
@@ -2031,6 +2391,146 @@
         "example": "It wasn't until nearly two hundred years later that the research of French biologist Louis Pasteur indicated that some microbes caused disease.",
         "needle": "indicated",
         "sourceForm": "indicated"
+      },
+      {
+        "term": "investigation",
+        "pos": "n",
+        "ipa": "/ɪnˌvestɪˈɡeɪʃn/",
+        "meaning": "sự điều tra, nghiên cứu",
+        "synonyms": "inquiry; research",
+        "example": "However, if you can overcome your distaste for some of the investigations, the reasons for Yong's enthusiasm become clear.",
+        "needle": "investigations",
+        "sourceForm": "investigations"
+      },
+      {
+        "term": "relationship",
+        "pos": "n",
+        "ipa": "/rɪˈleɪʃnʃɪp/",
+        "meaning": "mối quan hệ",
+        "synonyms": "connection",
+        "example": "Instead we should realise we have a symbiotic relationship, that can be mutually beneficial or mutually destructive.",
+        "needle": "relationship",
+        "sourceForm": "relationship"
+      },
+      {
+        "term": "individual",
+        "pos": "n/adj",
+        "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+        "meaning": "cá nhân; riêng lẻ",
+        "synonyms": "person; separate",
+        "example": "Every species has its own colony of microbes, called a 'microbiome', and these microbes vary not only between species but also between individuals and within different parts of each individual.",
+        "needle": "individuals",
+        "sourceForm": "individuals"
+      },
+      {
+        "term": "population",
+        "pos": "n",
+        "ipa": "/ˌpɒpjuˈleɪʃn/",
+        "meaning": "dân số, quần thể",
+        "synonyms": "inhabitants",
+        "example": "Among the less appealing case studies is one about a fungus that is wiping out entire populations of frogs and that can be halted by a rare microbial bacterium.",
+        "needle": "populations",
+        "sourceForm": "populations"
+      },
+      {
+        "term": "behaviour",
+        "pos": "n",
+        "ipa": "/bɪˈheɪvjə/",
+        "meaning": "hành vi",
+        "synonyms": "conduct",
+        "example": "New research is now unravelling the ways in which bacteria aid digestion, regulate our immune systems, eliminate toxins, produce vitamins, affect our behaviour and even combat obesity.",
+        "needle": "behaviour",
+        "sourceForm": "behaviour"
+      },
+      {
+        "term": "community",
+        "pos": "n",
+        "ipa": "/kəˈmjuːnəti/",
+        "meaning": "cộng đồng",
+        "synonyms": "local population",
+        "example": "These communities are constantly changing too.",
+        "needle": "communities",
+        "sourceForm": "communities"
+      },
+      {
+        "term": "maintain",
+        "pos": "v",
+        "ipa": "/meɪnˈteɪn/",
+        "meaning": "duy trì; khẳng định",
+        "synonyms": "preserve; assert",
+        "example": "Yong's book is in many ways a plea for microbial tolerance, pointing out that while fewer than one hundred species of bacteria bring disease, many thousands more play a vital role in maintaining our health.",
+        "needle": "maintaining",
+        "sourceForm": "maintaining"
+      },
+      {
+        "term": "research",
+        "pos": "n",
+        "ipa": "/rɪˈsɜːtʃ/",
+        "meaning": "nghiên cứu",
+        "synonyms": "investigation",
+        "example": "New research is now unravelling the ways in which bacteria aid digestion, regulate our immune systems, eliminate toxins, produce vitamins, affect our behaviour and even combat obesity.",
+        "needle": "research",
+        "sourceForm": "research"
+      },
+      {
+        "term": "ability",
+        "pos": "n",
+        "ipa": "/əˈbɪləti/",
+        "meaning": "khả năng",
+        "synonyms": "capacity; capability",
+        "example": "In the future, our ability to manipulate microbes means we could construct buildings with useful microbes built into their walls to fight off infections.",
+        "needle": "ability",
+        "sourceForm": "ability"
+      },
+      {
+        "term": "complex",
+        "pos": "adj",
+        "ipa": "/ˈkɒmpleks/",
+        "meaning": "phức tạp",
+        "synonyms": "complicated",
+        "example": "Writing with lightness and panache, he has a knack of explaining complex science in terms that are both easy to understand and totally enthralling.",
+        "needle": "complex",
+        "sourceForm": "complex"
+      },
+      {
+        "term": "context",
+        "pos": "n",
+        "ipa": "/ˈkɒntekst/",
+        "meaning": "bối cảnh, ngữ cảnh",
+        "synonyms": "setting",
+        "example": "So 'bad' microbes are just microbes out of context.",
+        "needle": "context",
+        "sourceForm": "context"
+      },
+      {
+        "term": "develop",
+        "pos": "v",
+        "ipa": "/dɪˈveləp/",
+        "meaning": "phát triển",
+        "synonyms": "grow; evolve",
+        "example": "Microbes, most of them bacteria, have populated this planet since long before animal life developed and they will outlive us.",
+        "needle": "developed",
+        "sourceForm": "developed"
+      },
+      {
+        "term": "protect",
+        "pos": "v",
+        "ipa": "/prəˈtekt/",
+        "meaning": "bảo vệ",
+        "synonyms": "safeguard; preserve",
+        "example": "Other studies show that keeping a dog as a pet gives children early exposure to a diverse range of bacteria, which may help protect them against allergies later.",
+        "needle": "protect",
+        "sourceForm": "protect"
+      },
+      {
+        "term": "species",
+        "pos": "n",
+        "ipa": "/ˈspiːʃiːz/",
+        "meaning": "loài",
+        "synonyms": "type of organism",
+        "example": "Yong's book is in many ways a plea for microbial tolerance, pointing out that while fewer than one hundred species of bacteria bring disease, many thousands more play a vital role in maintaining our health.",
+        "needle": "species",
+        "sourceForm": "species"
       }
     ],
     "grammar": [
@@ -2526,6 +3026,56 @@
         "example": "'It appears that experiential, situational, and cultural factors are even more powerful in shaping wisdom than previously imagined,' says Associate Professor Igor Grossmann of the University of Waterloo in Ontario, Canada.",
         "needle": "factors",
         "sourceForm": "factors"
+      },
+      {
+        "term": "intellectual",
+        "pos": "adj",
+        "ipa": "/ˌɪntəˈlektʃuəl/",
+        "meaning": "thuộc trí tuệ",
+        "synonyms": "mental; cognitive",
+        "example": "Participants in the group assigned to the 'distant observer' role displayed more wisdom-related reasoning (intellectual humility and recognition of change) than did participants in the control group.",
+        "needle": "intellectual",
+        "sourceForm": "intellectual"
+      },
+      {
+        "term": "intelligence",
+        "pos": "n",
+        "ipa": "/ɪnˈtelɪdʒəns/",
+        "meaning": "trí thông minh",
+        "synonyms": "mental ability",
+        "example": "We might associate wisdom with intelligence or particular personality traits, but research shows only a small positive relationship between wise thinking and crystallized intelligence and the personality traits of openness and agreeableness.",
+        "needle": "intelligence",
+        "sourceForm": "intelligence"
+      },
+      {
+        "term": "relationship",
+        "pos": "n",
+        "ipa": "/rɪˈleɪʃnʃɪp/",
+        "meaning": "mối quan hệ",
+        "synonyms": "connection",
+        "example": "In another study, couples in long-term romantic relationships were instructed to visualize an unresolved relationship conflict either through the eyes of an outsider or from their own perspective.",
+        "needle": "relationships",
+        "sourceForm": "relationships"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "Research suggests that when adopting a first-person viewpoint we focus on 'the focal features of the environment' and when we adopt a third-person, 'observer' viewpoint we reason more broadly and focus more on interpersonal and moral ideals such as justice and impartiality.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "exceptional",
+        "pos": "adj",
+        "ipa": "/ɪkˈsepʃənəl/",
+        "meaning": "xuất sắc; khác thường so với mức thông thường",
+        "synonyms": "outstanding; extraordinary",
+        "example": "Although the truly wise may seem few and far between, empirical research examining wisdom suggests that it isn't an exceptional trait possessed by a small handful of bearded philosophers after all – in fact, the latest studies suggest that most of us have the ability to make wise decisions, given the right context.",
+        "needle": "exceptional",
+        "sourceForm": "exceptional"
       }
     ],
     "grammar": [
@@ -2924,6 +3474,96 @@
         "example": "Shipbuilding in ancient Rome, however, was more of an art relying on estimation, inherited techniques and personal experience.",
         "needle": "techniques",
         "sourceForm": "techniques"
+      },
+      {
+        "term": "construction",
+        "pos": "n",
+        "ipa": "/kənˈstrʌkʃn/",
+        "meaning": "sự xây dựng",
+        "synonyms": "building",
+        "example": "This method was more systematic and dramatically shortened ship construction times.",
+        "needle": "construction",
+        "sourceForm": "construction"
+      },
+      {
+        "term": "eventually",
+        "pos": "adv",
+        "ipa": "/ɪˈventʃuəli/",
+        "meaning": "cuối cùng, sau một thời gian",
+        "synonyms": "ultimately",
+        "example": "Eventually, Rome's navy became the largest and most powerful in the Mediterranean, and the Romans had control over what they therefore called Mare Nostrum meaning 'our sea'.",
+        "needle": "Eventually",
+        "sourceForm": "Eventually"
+      },
+      {
+        "term": "experience",
+        "pos": "n",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "meaning": "kinh nghiệm; trải nghiệm",
+        "synonyms": "knowledge gained through practice",
+        "example": "Navigation in ancient Rome did not rely on sophisticated instruments such as compasses but on experience, local knowledge and observation of natural phenomena.",
+        "needle": "experience",
+        "sourceForm": "experience"
+      },
+      {
+        "term": "navigation",
+        "pos": "n",
+        "ipa": "/ˌnævɪˈɡeɪʃn/",
+        "meaning": "sự định hướng, dẫn đường",
+        "synonyms": "wayfinding",
+        "example": "Navigation in ancient Rome did not rely on sophisticated instruments such as compasses but on experience, local knowledge and observation of natural phenomena.",
+        "needle": "Navigation",
+        "sourceForm": "Navigation"
+      },
+      {
+        "term": "knowledge",
+        "pos": "n",
+        "ipa": "/ˈnɒlɪdʒ/",
+        "meaning": "kiến thức, hiểu biết",
+        "synonyms": "understanding; learning",
+        "example": "Navigation in ancient Rome did not rely on sophisticated instruments such as compasses but on experience, local knowledge and observation of natural phenomena.",
+        "needle": "knowledge",
+        "sourceForm": "knowledge"
+      },
+      {
+        "term": "supersede",
+        "pos": "v",
+        "ipa": "/ˌsuːpəˈsiːd/",
+        "meaning": "thay thế một phương pháp hoặc thứ cũ hơn",
+        "synonyms": "replace; take the place of",
+        "example": "The trireme was superseded by larger ships with even more rowers.",
+        "needle": "superseded",
+        "sourceForm": "superseded"
+      },
+      {
+        "term": "therefore",
+        "pos": "adv",
+        "ipa": "/ˈðeəfɔː/",
+        "meaning": "vì vậy",
+        "synonyms": "consequently",
+        "example": "Warships used both wind (sails) and human power (oarsmen) and were therefore very fast.",
+        "needle": "therefore",
+        "sourceForm": "therefore"
+      },
+      {
+        "term": "material",
+        "pos": "n",
+        "ipa": "/məˈtɪəriəl/",
+        "meaning": "vật liệu, chất liệu",
+        "synonyms": "substance; raw material",
+        "example": "The cargo on merchant ships included raw materials (e.g.",
+        "needle": "materials",
+        "sourceForm": "materials"
+      },
+      {
+        "term": "merchant",
+        "pos": "n",
+        "ipa": "/ˈmɜːtʃənt/",
+        "meaning": "thương nhân",
+        "synonyms": "trader; dealer",
+        "example": "Large merchant ships would approach the destination port and, just like today, be intercepted by a number of towboats that would drag them to the quay.",
+        "needle": "merchant",
+        "sourceForm": "merchant"
       }
     ],
     "grammar": [
@@ -3391,6 +4031,66 @@
         "example": "The unpredictability means that glacial archaeologists have to be systematic in their approach to fieldwork.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "archaeology",
+        "pos": "n",
+        "ipa": "/ˌɑːkiˈɒlədʒi/",
+        "meaning": "khảo cổ học",
+        "synonyms": "study of ancient material remains",
+        "example": "You're rescuing the archaeology, bringing the melting ice to wider attention, discovering a unique environmental history and really connecting with the natural environment,' says Barrett.",
+        "needle": "archaeology",
+        "sourceForm": "archaeology"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "You're rescuing the archaeology, bringing the melting ice to wider attention, discovering a unique environmental history and really connecting with the natural environment,' says Barrett.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "importance",
+        "pos": "n",
+        "ipa": "/ɪmˈpɔːtəns/",
+        "meaning": "tầm quan trọng",
+        "synonyms": "significance",
+        "example": "'Remarkably, though, the finds from the ice may have continued through this period, perhaps suggesting that the importance of mountain hunting increased to supplement failing agricultural harvests in times of low temperatures,' says Barrett.",
+        "needle": "importance",
+        "sourceForm": "importance"
+      },
+      {
+        "term": "stationary",
+        "pos": "adj",
+        "ipa": "/ˈsteɪʃənəri/",
+        "meaning": "đứng yên; không di chuyển",
+        "synonyms": "motionless; fixed in position",
+        "example": "The slow but steady movement of glaciers tends to destroy anything at their bases, so the team focused on stationary patches of ice, mostly above 1 ,400 metres.",
+        "needle": "stationary",
+        "sourceForm": "stationary"
+      },
+      {
+        "term": "attention",
+        "pos": "n",
+        "ipa": "/əˈtenʃən/",
+        "meaning": "sự chú ý",
+        "synonyms": "concentration; notice",
+        "example": "You're rescuing the archaeology, bringing the melting ice to wider attention, discovering a unique environmental history and really connecting with the natural environment,' says Barrett.",
+        "needle": "attention",
+        "sourceForm": "attention"
+      },
+      {
+        "term": "discovery",
+        "pos": "n",
+        "ipa": "/dɪˈskʌvəri/",
+        "meaning": "sự phát hiện",
+        "synonyms": "finding; revelation",
+        "example": "Although we usually think of ships when we think of Scandinavian expansion, these recent discoveries show that plenty of goods travelled on overland routes, like the mountain passes of Oppland.",
+        "needle": "discoveries",
+        "sourceForm": "discoveries"
       }
     ],
     "grammar": [
@@ -3858,6 +4558,66 @@
         "example": "'Discovering the molecules that allow plants to sense temperature has the potential to accelerate the breeding of crops resilient to thermal stress and climate change.'",
         "needle": "potential",
         "sourceForm": "potential"
+      },
+      {
+        "term": "consequently",
+        "pos": "adv",
+        "ipa": "/ˈkɒnsɪkwəntli/",
+        "meaning": "do đó",
+        "synonyms": "as a result",
+        "example": "A warmer spring, and consequently a higher likeliness of a hot summer, will result in oak leafing before ash.",
+        "needle": "consequently",
+        "sourceForm": "consequently"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "Wigge explains: 'Oak trees rely much more on temperature, likely using phytochromes as thermometers to dictate development, whereas ash trees rely on measuring day length to determine their seasonal timing.",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "determine",
+        "pos": "v",
+        "ipa": "/dɪˈtɜːmɪn/",
+        "meaning": "xác định, quyết định",
+        "synonyms": "establish",
+        "example": "Wigge explains: 'Oak trees rely much more on temperature, likely using phytochromes as thermometers to dictate development, whereas ash trees rely on measuring day length to determine their seasonal timing.",
+        "needle": "determine",
+        "sourceForm": "determine"
+      },
+      {
+        "term": "discovery",
+        "pos": "n",
+        "ipa": "/dɪˈskʌvəri/",
+        "meaning": "sự phát hiện",
+        "synonyms": "finding; revelation",
+        "example": "In fact, the discovery of the dual role of phytochromes provides the science behind a well-known rhyme long used to predict the coming season: oak before ash we'll have a splash, ash before oak we're in for a soak.",
+        "needle": "discovery",
+        "sourceForm": "discovery"
+      },
+      {
+        "term": "knowledge",
+        "pos": "n",
+        "ipa": "/ˈnɒlɪdʒ/",
+        "meaning": "kiến thức, hiểu biết",
+        "synonyms": "understanding; learning",
+        "example": "'Cambridge is uniquely well-positioned to do this kind of research as we have outstanding collaborators nearby who work on more applied aspects of plant biology, and can help us transfer this new knowledge into the field.'",
+        "needle": "knowledge",
+        "sourceForm": "knowledge"
+      },
+      {
+        "term": "activity",
+        "pos": "n",
+        "ipa": "/ækˈtɪvəti/",
+        "meaning": "hoạt động",
+        "synonyms": "action; pursuit",
+        "example": "'Recent advances in plant genetics now mean that scientists are able to rapidly identify the genes controlling these processes in crop plants, and even alter their activity using precise molecular \"scalpels\",' adds Wigge.",
+        "needle": "activity",
+        "sourceForm": "activity"
       }
     ],
     "grammar": [
@@ -4211,6 +4971,146 @@
         "example": "When the rock was hard, the Romans employed a technique called fire quenching which consisted of heating the rock with fire, and then suddenly cooling it with cold water so that it would crack.",
         "needle": "technique",
         "sourceForm": "technique"
+      },
+      {
+        "term": "construction",
+        "pos": "n",
+        "ipa": "/kənˈstrʌkʃn/",
+        "meaning": "sự xây dựng",
+        "synonyms": "building",
+        "example": "By the 6th century BCE, a second method of tunnel construction appeared called the counterexcavation method, in which the tunnel was constructed from both ends.",
+        "needle": "construction",
+        "sourceForm": "construction"
+      },
+      {
+        "term": "determine",
+        "pos": "v",
+        "ipa": "/dɪˈtɜːmɪn/",
+        "meaning": "xác định, quyết định",
+        "synonyms": "establish",
+        "example": "When the sole purpose of a tunnel was mineral extraction, construction required less planning, as the tunnel route was determined by the mineral vein.",
+        "needle": "determined",
+        "sourceForm": "determined"
+      },
+      {
+        "term": "introduce",
+        "pos": "v",
+        "ipa": "/ˌɪntrəˈdjuːs/",
+        "meaning": "giới thiệu, đưa vào sử dụng",
+        "synonyms": "present; bring in",
+        "example": "In the early first millennium BCE, they introduced the qanat method of tunnel construction, which consisted of placing posts over a hill in a straight line, to ensure that the tunnel kept to its route, and then digging vertical shafts down into the ground at regular intervals.",
+        "needle": "introduced",
+        "sourceForm": "introduced"
+      },
+      {
+        "term": "knowledge",
+        "pos": "n",
+        "ipa": "/ˈnɒlɪdʒ/",
+        "meaning": "kiến thức, hiểu biết",
+        "synonyms": "understanding; learning",
+        "example": "This method required greater planning and advanced knowledge of surveying, mathematics and geometry as both ends of a tunnel had to meet correctly at the center of the mountain.",
+        "needle": "knowledge",
+        "sourceForm": "knowledge"
+      },
+      {
+        "term": "contrast",
+        "pos": "n",
+        "ipa": "/ˈkɒntrɑːst/",
+        "meaning": "sự tương phản",
+        "synonyms": "difference",
+        "example": "In contrast, the rate of advance of the Claudius tunnel can be calculated at 1.4 meters per day.",
+        "needle": "contrast",
+        "sourceForm": "contrast"
+      },
+      {
+        "term": "involve",
+        "pos": "v",
+        "ipa": "/ɪnˈvɒlv/",
+        "meaning": "bao hàm, liên quan đến",
+        "synonyms": "include; entail",
+        "example": "The 5.6-kilometer-long Claudius tunnel, built in 41 CE to drain the Fucine Lake in central Italy, had shafts that were up to 122 meters deep, took 1 1 years to build and involved approximately 30,000 workers.",
+        "needle": "involved",
+        "sourceForm": "involved"
+      },
+      {
+        "term": "project",
+        "pos": "n",
+        "ipa": "/ˈprɒdʒekt/",
+        "meaning": "dự án, công việc có kế hoạch",
+        "synonyms": "planned undertaking",
+        "example": "Roman tunnel projects were carefully planned and carried out.",
+        "needle": "projects",
+        "sourceForm": "projects"
+      },
+      {
+        "term": "provide",
+        "pos": "v",
+        "ipa": "/prəˈvaɪd/",
+        "meaning": "cung cấp",
+        "synonyms": "supply; furnish",
+        "example": "The Persians, who lived in present-day Iran, were one of the first civilizations to build tunnels that provided a reliable supply of water to human settlements in dry areas.",
+        "needle": "provided",
+        "sourceForm": "provided"
+      },
+      {
+        "term": "purpose",
+        "pos": "n",
+        "ipa": "/ˈpɜːpəs/",
+        "meaning": "mục đích",
+        "synonyms": "aim; objective",
+        "example": "When the sole purpose of a tunnel was mineral extraction, construction required less planning, as the tunnel route was determined by the mineral vein.",
+        "needle": "purpose",
+        "sourceForm": "purpose"
+      },
+      {
+        "term": "require",
+        "pos": "v",
+        "ipa": "/rɪˈkwaɪə/",
+        "meaning": "đòi hỏi, yêu cầu",
+        "synonyms": "need",
+        "example": "This method required greater planning and advanced knowledge of surveying, mathematics and geometry as both ends of a tunnel had to meet correctly at the center of the mountain.",
+        "needle": "required",
+        "sourceForm": "required"
+      },
+      {
+        "term": "appear",
+        "pos": "v",
+        "ipa": "/əˈpɪə/",
+        "meaning": "xuất hiện; có vẻ",
+        "synonyms": "emerge; seem",
+        "example": "By the 6th century BCE, a second method of tunnel construction appeared called the counterexcavation method, in which the tunnel was constructed from both ends.",
+        "needle": "appeared",
+        "sourceForm": "appeared"
+      },
+      {
+        "term": "create",
+        "pos": "v",
+        "ipa": "/kriˈeɪt/",
+        "meaning": "tạo ra",
+        "synonyms": "produce; bring into existence",
+        "example": "Underground, workers removed the earth from between the ends of the shafts, creating a tunnel.",
+        "needle": "creating",
+        "sourceForm": "creating"
+      },
+      {
+        "term": "method",
+        "pos": "n",
+        "ipa": "/ˈmeθəd/",
+        "meaning": "phương pháp",
+        "synonyms": "technique",
+        "example": "The Romans dug tunnels for their roads using the counter-excavation method, whenever they encountered obstacles such as hills or mountains that were too high for roads to pass over.",
+        "needle": "method",
+        "sourceForm": "method"
+      },
+      {
+        "term": "system",
+        "pos": "n",
+        "ipa": "/ˈsɪstəm/",
+        "meaning": "hệ thống",
+        "synonyms": "organised set of parts",
+        "example": "An inscription written on the side of a 428-meter tunnel, built by the Romans as part of the Saldae aqueduct system in modern-day Algeria, describes how the two teams of builders missed each other in the mountain and how the later construction of a lateral link between both corridors corrected the initial error.",
+        "needle": "system",
+        "sourceForm": "system"
       }
     ],
     "grammar": [
@@ -4688,6 +5588,56 @@
         "example": "We should be less concerned with students' 'cognitive impatience' , however, than by what may underlie it: the potential inability of large numbers of students to read with a level of critical analysis sumcient to comprehend the complexity of thought and argument found in more demanding texts.",
         "needle": "potential",
         "sourceForm": "potential"
+      },
+      {
+        "term": "intellectual",
+        "pos": "adj",
+        "ipa": "/ˌɪntəˈlektʃuəl/",
+        "meaning": "thuộc trí tuệ",
+        "synonyms": "mental; cognitive",
+        "example": "My research depicts how the present reading brain enables the development of some of our most important intellectual and affective processes: internalized knowledge, analogical reasoning, and inference; perspective-taking and empathy; critical analysis and the generation of insight.",
+        "needle": "intellectual",
+        "sourceForm": "intellectual"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "My research depicts how the present reading brain enables the development of some of our most important intellectual and affective processes: internalized knowledge, analogical reasoning, and inference; perspective-taking and empathy; critical analysis and the generation of insight.",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "We know from research that the reading circuit is not given to human beings through a genetic blueprint like vision or language; it needs an environment to develop.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "If the dominant medium advantages processes that are fast, multi-task oriented and well-suited for large volumes of information, like the current digital medium, so will the reading circuit.",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "requirement",
+        "pos": "n",
+        "ipa": "/rɪˈkwaɪəmənt/",
+        "meaning": "yêu cầu, điều kiện cần",
+        "synonyms": "condition",
+        "example": "Further, it will adapt to that environment's requirements – from different writing systems to the characteristics of whatever medium is used.",
+        "needle": "requirements",
+        "sourceForm": "requirements"
       }
     ],
     "grammar": [
@@ -5146,6 +6096,76 @@
         "example": "This suggests people use relevant evidence about AI in a biased manner to support their existing attitudes, a deep-rooted human tendency known as \"confirmation bias\".",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "responsibility",
+        "pos": "n",
+        "ipa": "/rɪˌspɒnsəˈbɪləti/",
+        "meaning": "trách nhiệm",
+        "synonyms": "duty",
+        "example": "We don't need to understand the intricate inner workings of AI systems, but if people are given a degree of responsibility for how they are implemented, they will be more willing to accept AI into their lives.",
+        "needle": "responsibility",
+        "sourceForm": "responsibility"
+      },
+      {
+        "term": "psychological",
+        "pos": "adj",
+        "ipa": "/ˌsaɪkəˈlɒdʒɪkəl/",
+        "meaning": "thuộc tâm lý",
+        "synonyms": "mental; relating to the mind",
+        "example": "This helps create a psychological feeling of safety.",
+        "needle": "psychological",
+        "sourceForm": "psychological"
+      },
+      {
+        "term": "consequently",
+        "pos": "adv",
+        "ipa": "/ˈkɒnsɪkwəntli/",
+        "meaning": "do đó",
+        "synonyms": "as a result",
+        "example": "Consequently, this has caused even more suspicion and disbelief, leading many doctors to ignore the seemingly outlandish AI recommendations and stick to their own expertise.",
+        "needle": "Consequently",
+        "sourceForm": "Consequently"
+      },
+      {
+        "term": "intelligence",
+        "pos": "n",
+        "ipa": "/ɪnˈtelɪdʒəns/",
+        "meaning": "trí thông minh",
+        "synonyms": "mental ability",
+        "example": "Artificial intelligence (AI) can already predict the future.",
+        "needle": "intelligence",
+        "sourceForm": "intelligence"
+      },
+      {
+        "term": "experience",
+        "pos": "n",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "meaning": "kinh nghiệm; trải nghiệm",
+        "synonyms": "knowledge gained through practice",
+        "example": "Simply having previous experience with AI can significantly improve people's opinions about the technology, as was found in the study mentioned above.",
+        "needle": "experience",
+        "sourceForm": "experience"
+      },
+      {
+        "term": "experiment",
+        "pos": "n",
+        "ipa": "/ɪkˈsperɪmənt/",
+        "meaning": "thí nghiệm",
+        "synonyms": "trial; test",
+        "example": "In a recent experiment, people from a range of backgrounds were given various sci-fi films about AI to watch and then asked questions about automation in everyday life.",
+        "needle": "experiment",
+        "sourceForm": "experiment"
+      },
+      {
+        "term": "attention",
+        "pos": "n",
+        "ipa": "/əˈtenʃən/",
+        "meaning": "sự chú ý",
+        "synonyms": "concentration; notice",
+        "example": "Embarrassing AI failures receive a disproportionate amount of media attention, emphasising the message that we cannot rely on technology.",
+        "needle": "attention",
+        "sourceForm": "attention"
       }
     ],
     "grammar": [

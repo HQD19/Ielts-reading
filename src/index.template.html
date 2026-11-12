@@ -2362,6 +2362,20 @@ dialog::backdrop {
 
 #figure-dialog{width:min(1160px,94vw);max-width:94vw}#figure-dialog .dialog-body{padding:17px}#figure-image{width:100%;height:auto;display:block}.source-preview img{cursor:zoom-in}
 .source-form{font-size:11px;color:#7890b5;margin:8px 0}.source-form b{color:#4f6e9e;font-weight:600}.usage-note{font-size:11px;line-height:1.7;color:#6c83a7;padding:9px 11px;background:#f1f5fd;border-radius:6px;margin-bottom:10px}
+
+html.dark{color-scheme:dark;--ink:#e2e8f4;--muted:#a6b2c8;--line:#34425b;--bg:#111827;--blue:#8baaff;--blue-light:#243655}
+html.dark body,html.dark .app{background:#111827;color:#e2e8f4}
+html.dark .topbar,html.dark .sessionbar,html.dark .pane-bar,html.dark .passage-pane,html.dark .footer,html.dark dialog,html.dark .lookup{background:#182235;color:#e2e8f4}
+html.dark .questions-pane,html.dark .overlay-pause{background:#111b2c}
+html.dark .question-card,html.dark .study-card,html.dark .flash-card,html.dark .flash-stat,html.dark .secondary,html.dark .test-select,html.dark .search-box,html.dark .nav-q,html.dark .option,html.dark .match-select{background:#1d2a40;color:#d8e3f7;border-color:#3b4c68}
+html.dark .article h1,html.dark .reading-body,html.dark .question-text,html.dark .gap-line,html.dark .meaning,html.dark h2,html.dark h3,html.dark .vocab-term,html.dark .brand-name,html.dark .course-label b{color:#e1e9f7}
+html.dark .example,html.dark .article-subtitle,html.dark .group-instruction,html.dark .grammar-effect,html.dark .synonyms,html.dark .word-meta{color:#b3c2dc}
+html.dark .usage-note,html.dark .study-banner,html.dark .formula,html.dark .gap-input,html.dark .option-bank,html.dark .study-switch,html.dark .timer-control,html.dark .chip-option span{background:#263650;color:#c6d7f7;border-color:#405573}
+html.dark .highlight{background:#665820;color:#fff5c8}html.dark .highlight.noted{background:#294b76;color:#e2efff}
+html.dark .primary,html.dark .nav-q.active{background:#496eda;border-color:#496eda;color:#fff}
+html.dark input,html.dark textarea{color:#e1e9f7;background:transparent}html.dark .search-box input{color:#e1e9f7}
+html.dark .source-preview,html.dark .map-table{background:#1d2a40}html.dark .pill,html.dark .topic,html.dark .q-number,html.dark .p-circle,html.dark .word-pos{background:#2a3b59;color:#c9d9f7}
+
 </style>
 </head>
 <body>
@@ -2370,9 +2384,9 @@ dialog::backdrop {
     <div class="brand"><span class="brand-mark" data-icon="book"></span><div><div class="brand-name">Reading Room<span style="color:#7095ed">.</span></div><div class="brand-sub">A LITTLE PRACTICE. A BIGGER WORLD.</div></div></div>
     <div class="course-label"><b id="course-name">Cambridge 20</b><span>/</span><span>Reading</span><span class="pill" id="course-track">ACADEMIC</span></div>
     <div class="top-actions">
-      <label class="screenreader" for="book-select">Chọn sách Cambridge</label><select class="test-select book-select" id="book-select"></select><label class="screenreader" for="track-select">Chọn loại đề</label><select class="test-select track-select" id="track-select" hidden></select><label class="screenreader" for="test-select">Chọn test</label><select class="test-select" id="test-select"><option value="1">Test 01</option><option value="2">Test 02</option><option value="3">Test 03</option><option value="4">Test 04</option></select>
+      <label class="screenreader" for="book-select">Chọn sách Cambridge</label><select class="test-select book-select" id="book-select"></select><label class="screenreader" for="test-select">Chọn test</label><select class="test-select" id="test-select"><option value="1">Test 01</option><option value="2">Test 02</option><option value="3">Test 03</option><option value="4">Test 04</option></select>
       <button class="study-switch" id="study-toggle" aria-pressed="false" title="Bật/tắt chế độ học tập (Alt+S)"><span class="switch-track"></span>Chế độ học tập</button>
-      <button class="icon-btn" id="settings-open" aria-label="Cài đặt, sao lưu và nguồn dữ liệu" data-icon="settings"></button>
+      <button class="icon-btn" id="theme-toggle" aria-label="Đổi chế độ sáng tối" title="Sáng / Tối">☾</button><button class="icon-btn" id="settings-open" aria-label="Cài đặt, sao lưu và nguồn dữ liệu" data-icon="settings"></button>
     </div>
   </header>
   <div class="sessionbar">
@@ -2397,7 +2411,7 @@ dialog::backdrop {
 <aside class="lookup" id="lookup" aria-label="Tra từ nhanh" hidden></aside>
 <dialog id="note-dialog"><div class="dialog-body"><div class="dialog-top"><h2>Ghim một ghi chú</h2><button class="icon-btn" data-close="note-dialog" aria-label="Đóng" data-icon="close"></button></div><blockquote class="note-quote" id="note-quote"></blockquote><label class="screenreader" for="note-text">Nội dung ghi chú</label><textarea id="note-text" placeholder="Ý chính, nghĩa của từ, hoặc điều bạn muốn nhớ…" maxlength="3000"></textarea><div class="dialog-actions"><button class="secondary danger" id="delete-note" hidden>Xóa highlight / ghi chú</button><button class="primary" id="save-note">Lưu ghi chú</button></div></div></dialog>
 <dialog id="submit-dialog"><div class="dialog-body" id="submit-dialog-content"></div></dialog>
-<dialog id="settings-dialog"><div class="dialog-body"><div class="dialog-top"><h2>Góc học tập của bạn</h2><button class="icon-btn" data-close="settings-dialog" aria-label="Đóng" data-icon="close"></button></div><p>Tiến độ, highlight, ghi chú và flashcard được lưu trong trình duyệt này. Xuất bản sao lưu để chuyển sang một máy hoặc trình duyệt khác.</p><div class="settings-row"><span>Sao lưu toàn bộ dữ liệu học</span><button class="secondary" id="export-data">Xuất JSON</button></div><div class="settings-row"><span>Đối chiếu nghĩa flashcard đã lưu<br><small class="subtle">Xem thay đổi trước khi cập nhật; giữ lịch ôn.</small></span><button class="secondary" id="sync-study">Xem cập nhật</button></div><div class="settings-row"><span>Khôi phục từ bản sao lưu</span><button class="secondary" id="import-data">Chọn file</button><input type="file" accept="application/json,.json" id="import-file" hidden></div><div class="settings-row"><span>Làm lại passage hiện tại<br><small class="subtle">Giữ highlight, ghi chú và flashcard.</small></span><button class="secondary" id="reset-passage">Làm lại</button></div><p><b>Nguồn nội dung</b><br><span id="library-summary"></span> Các phần Reading được chuyển đổi từ PDF gốc. Số câu giữ theo từng bộ đề; Academic và General Training được tách trong bộ chọn loại đề khi sách có cả hai.</p><div class="source-list" id="source-list"></div><div class="credit"><span id="library-study-summary"></span> Nguồn đáp án được ghi riêng trong tab Đáp án: khóa trong PDF khi tìm thấy, hoặc lời giải biên soạn cho Cambridge 20. Giải thích và nội dung học tập là phần bổ sung của ứng dụng.<br><br>Bài đọc, câu hỏi và bộ từ vựng có sẵn ngoại tuyến. Từ chưa có trong bộ từ vựng có thể được tra qua Free Dictionary API (định nghĩa tiếng Anh, cần mạng), hoặc tự bổ sung nghĩa trước khi lưu flashcard.<br><br>Phím tắt: Alt+S — chế độ học · Alt+P — đồng hồ · Alt+R — đánh dấu câu hiện tại · Esc — đóng bảng nổi.</div></div></dialog>
+<dialog id="settings-dialog"><div class="dialog-body"><div class="dialog-top"><h2>Góc học tập của bạn</h2><button class="icon-btn" data-close="settings-dialog" aria-label="Đóng" data-icon="close"></button></div><p>Tiến độ, highlight, ghi chú và flashcard được lưu trong trình duyệt này. Xuất bản sao lưu để chuyển sang một máy hoặc trình duyệt khác.</p><div class="settings-row"><span>Sao lưu toàn bộ dữ liệu học</span><button class="secondary" id="export-data">Xuất JSON</button></div><div class="settings-row"><span>Đối chiếu nghĩa flashcard đã lưu<br><small class="subtle">Xem thay đổi trước khi cập nhật; giữ lịch ôn.</small></span><button class="secondary" id="sync-study">Xem cập nhật</button></div><div class="settings-row"><span>Khôi phục từ bản sao lưu</span><button class="secondary" id="import-data">Chọn file</button><input type="file" accept="application/json,.json" id="import-file" hidden></div><div class="settings-row"><span>Làm lại passage hiện tại<br><small class="subtle">Giữ highlight, ghi chú và flashcard.</small></span><button class="secondary" id="reset-passage">Làm lại</button></div><p><b>Nguồn nội dung</b><br><span id="library-summary"></span> Các phần Reading được chuyển đổi từ PDF gốc. Số câu giữ theo từng bộ đề; Thư viện chỉ gồm các bài Academic Reading.</p><div class="source-list" id="source-list"></div><div class="credit"><span id="library-study-summary"></span> Nguồn đáp án được ghi riêng trong tab Đáp án: khóa trong PDF khi tìm thấy, hoặc lời giải biên soạn cho Cambridge 20. Giải thích và nội dung học tập là phần bổ sung của ứng dụng.<br><br>Bài đọc, câu hỏi và bộ từ vựng có sẵn ngoại tuyến. Từ chưa có trong bộ từ vựng có thể được tra qua Free Dictionary API (định nghĩa tiếng Anh, cần mạng), hoặc tự bổ sung nghĩa trước khi lưu flashcard.<br><br>Phím tắt: Alt+S — chế độ học · Alt+P — đồng hồ · Alt+R — đánh dấu câu hiện tại · Esc — đóng bảng nổi.</div></div></dialog>
 <dialog id="figure-dialog"><div class="dialog-body"><div class="dialog-top"><h2 id="figure-caption">Bản scan câu hỏi</h2><button class="icon-btn" data-close="figure-dialog" aria-label="Đóng">×</button></div><img id="figure-image" alt=""></div></dialog>
 <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
 <noscript>Ứng dụng cần bật JavaScript trong trình duyệt. Mọi dữ liệu bài học đã được nhúng trong file này.</noscript>
@@ -2406,7 +2420,7 @@ dialog::backdrop {
 // The entire source corpus and all study material are embedded here; no build step is needed.
 const PASSAGES = /*__PASSAGE_DATA__*/;
 const BOOKS = /*__BOOK_DATA__*/;
-const PHRASAL_VERBS = /*__PHRASAL_DATA__*/;
+
 // Keep the original Cambridge 20 IDs and storage key, preserving existing learning progress.
 for (const p of PASSAGES) {p.book ||= 20;p.track ||= 'academic';p.vocab ||= [];p.grammar ||= [];p.groups ||= [];p.paragraphs ||= [];}
 
@@ -2539,7 +2553,7 @@ function sanitizeStore(raw) {
     pos: String(c.pos || '').slice(0, 100),
     example: String(c.example || '').slice(0, 3000),
     synonyms: String(c.synonyms || '').slice(0, 1000),
-    source: PASSAGES.some(p => p.id === c.source) ? c.source : 't1p1',
+    source: typeof c.source === 'string' ? c.source.slice(0, 150) : 't1p1',
     online: !!c.online,
     sourceUrl: safeWebUrl(c.sourceUrl),
     licenseName: String(c.licenseName || '').slice(0, 100),
@@ -2698,7 +2712,6 @@ function renderTabs() {
     ['questions', 'Câu hỏi', 'note', questions().length],
     ['vocab', 'Từ vựng', 'book', current.vocab.length],
     ['grammar', 'Cấu trúc', 'layers', null],
-    ['verbs', 'Phrasal Verbs', 'book', PHRASAL_VERBS.length],
     ['flashcards', 'Flashcards', 'cards', null],
     ['answers', 'Đáp án', 'check', null]
   ];
@@ -2708,30 +2721,28 @@ function renderTabs() {
 }
 
 
-function sameBook(p){return p.book===current.book&&p.track===current.track;}
-function testName(p){return p.track==='general'?`Test ${String.fromCharCode(64+p.test)}`:`Test ${String(p.test).padStart(2,'0')}`;}
+function sameBook(p){return p.book===current.book;}
+function testName(p){return `Test ${String(p.test).padStart(2,'0')}`;}
 function acceptedAnswers(q){return [...new Set([q.answer,...(Array.isArray(q.accept)?q.accept:[]),...(q.answer==='colour'?['color']:[])].filter(x=>typeof x==='string'&&x.trim()).map(answerNorm))];}
 function scorableQuestions(){return questions().filter(q=>acceptedAnswers(q).length);}
 function answerSourceText(){return current.answerProvenance==='pdf-key'?'Đáp án được chép từ bảng khóa Reading trong PDF gốc. Phần học tập và đoạn gợi ý được bổ sung từ văn bản OCR; nên đối chiếu cả đoạn và bản scan khi phân tích ý nghĩa.':current.answerProvenance==='unavailable'?'Bản PDF này thiếu khóa đáp án đã xác minh cho một số câu. Ứng dụng chỉ chấm những câu có đáp án; các câu còn lại vẫn được lưu để bạn đối chiếu bản gốc.':'Lời giải được biên soạn từ bài đọc, không phải bảng đáp án chính thức của Cambridge.';}
 function renderSourceFigures(){const figs=current.sourceFigures||[];return figs.length?`<details class="source-preview" ${current.hasDiagram?'open':''}><summary>${icon('note')} Bản scan câu hỏi · hình, bảng và bố cục gốc (${figs.length} trang)</summary>${figs.map(f=>`<figure><img src="${f.src}" alt="Câu hỏi gốc Cambridge ${current.book}, ${testName(current)}, Passage ${current.number}, trang PDF ${f.page}" loading="lazy"><figcaption>PDF ${current.book}.pdf · Trang ${f.page}</figcaption></figure>`).join('')}</details>`:'';}
 function renderLibrarySources(){
  const qs=PASSAGES.reduce((n,p)=>n+p.groups.reduce((m,g)=>m+g.questions.length,0),0),v=PASSAGES.reduce((n,p)=>n+p.vocab.length,0),gr=PASSAGES.reduce((n,p)=>n+p.grammar.length,0);
- $('#library-summary').textContent=`${BOOKS.length} sách Cambridge · ${PASSAGES.length} bài/section · ${qs.toLocaleString('vi-VN')} câu hỏi.`;
+ $('#library-summary').textContent=`${BOOKS.length} sách Cambridge · ${PASSAGES.length} bài Academic · ${qs.toLocaleString('vi-VN')} câu hỏi.`;
  $('#library-study-summary').textContent=`${v.toLocaleString('vi-VN')} mục từ/cụm từ và ${gr.toLocaleString('vi-VN')} cấu trúc theo ngữ cảnh. `;
- $('#source-list').innerHTML=BOOKS.map(b=>{const ps=PASSAGES.filter(p=>p.book===b.book),tracks=[...new Set(ps.map(p=>p.track))];return `<details ${b.book===current.book?'open':''}><summary>Cambridge ${b.book} <span class="book-count">· ${ps.length} bài · ${b.pages} trang PDF</span></summary><div class="source-status">${esc(b.filename)} · ${tracks.map(t=>t==='general'?'General Training':'Academic').join(' + ')}</div>${ps.map(p=>`<div class="source-entry">${testName(p)} · P${p.number} · ${esc(p.title)}<br><small>Trang PDF ${esc(p.sourcePages)}</small></div>`).join('')}</details>`;}).join('');
+ $('#source-list').innerHTML=BOOKS.map(b=>{const ps=PASSAGES.filter(p=>p.book===b.book);return `<details ${b.book===current.book?'open':''}><summary>Cambridge ${b.book} <span class="book-count">· ${ps.length} bài · ${b.pages} trang PDF</span></summary><div class="source-status">${esc(b.filename)} · Academic</div>${ps.map(p=>`<div class="source-entry">${testName(p)} · P${p.number} · ${esc(p.title)}<br><small>Trang PDF ${esc(p.sourcePages)}</small></div>`).join('')}</details>`;}).join('');
 }
 
 function renderHeader(){
  $('#book-select').innerHTML=BOOKS.map(b=>`<option value="${b.book}" ${current.book===b.book?'selected':''}>Cambridge ${String(b.book).padStart(2,'0')}</option>`).join('');
- const tracks=[...new Set(PASSAGES.filter(p=>p.book===current.book).map(p=>p.track))];
- $('#track-select').hidden=tracks.length<2;$('#track-select').innerHTML=tracks.map(t=>`<option value="${t}" ${t===current.track?'selected':''}>${t==='general'?'General':'Academic'}</option>`).join('');
  const tests=[...new Set(PASSAGES.filter(sameBook).map(p=>p.test))].sort((a,b)=>a-b);
  $('#test-select').innerHTML=tests.map(t=>`<option value="${t}" ${current.test===t?'selected':''}>${testName({...current,test:t})}</option>`).join('');
- $('#course-name').textContent=`Cambridge ${current.book}`;$('#course-track').textContent=current.track==='general'?'GENERAL TRAINING':'ACADEMIC';
+ $('#course-name').textContent=`Cambridge ${current.book}`;$('#course-track').textContent='ACADEMIC';
  $('#study-toggle').setAttribute('aria-pressed',String(db.study));
- $('#passage-tabs').innerHTML=PASSAGES.filter(p=>sameBook(p)&&p.test===current.test).map(p=>`<button class="passage-tab ${p.id===current.id?'active':''}" data-passage="${p.id}" aria-current="${p.id===current.id?'page':'false'}" title="${esc(p.title)}"><span class="p-circle">${p.number}</span>${current.track==='general'?'Section':'Passage'} ${p.number}</button>`).join('');
- $('#passage-caption').textContent=`${current.track==='general'?'READING SECTION':'READING PASSAGE'} ${String(current.number).padStart(2,'0')}`;
- $('#footer-caption').textContent=`CÂU HỎI · ${current.track==='general'?'SECTION':'PASSAGE'} ${String(current.number).padStart(2,'0')}`;
+ $('#passage-tabs').innerHTML=PASSAGES.filter(p=>sameBook(p)&&p.test===current.test).map(p=>`<button class="passage-tab ${p.id===current.id?'active':''}" data-passage="${p.id}" aria-current="${p.id===current.id?'page':'false'}" title="${esc(p.title)}"><span class="p-circle">${p.number}</span>Passage ${p.number}</button>`).join('');
+ $('#passage-caption').textContent=`READING PASSAGE ${String(current.number).padStart(2,'0')}`;
+ $('#footer-caption').textContent=`CÂU HỎI · PASSAGE ${String(current.number).padStart(2,'0')}`;
  $('#submit-button').innerHTML=icon('check')+`<span>${state().graded?'Xem kết quả':'Nộp bài'}</span>`;
  $('#prev-passage').disabled=PASSAGES.indexOf(current)===0;$('#next-passage').disabled=PASSAGES.indexOf(current)===PASSAGES.length-1;
  document.documentElement.style.setProperty('--passage-size',`${db.font}px`);renderTabs();updateProgress();updateTimer();
@@ -2759,7 +2770,7 @@ function markedText(text, pid) {
 
 function renderArticle() {
   $('#article').innerHTML =
-    `<div class="article-meta"><span>CAM ${current.book} / ${testName(current).toUpperCase()} / ${current.track==='general'?'SECTION':'PASSAGE'} ${String(current.number).padStart(2,'0')}</span><span class="topic">${esc(current.topic)}</span></div><h1 data-pid="title">${markedText(current.title,'title')}</h1>${current.subtitle?`<p class="article-subtitle" data-pid="lead">${markedText(current.subtitle,'lead')}</p>`:''}<div class="reading-instruction">You should spend about 20 minutes on Questions ${questions()[0].n}–${questions().at(-1).n}, which are based on the Reading Passage below.</div><div class="reading-body">${current.paragraphs.map((p,i)=>`<p>${p.label?`<span class="label" aria-label="Section ${p.label}">${p.label}</span>`:''}<span data-pid="${i}">${markedText(p.text,String(i))}</span></p>`).join('')}</div><div class="source-footnote">${(current.footnotes||[]).map(f=>`<p>${esc(f)}</p>`).join('')}Cambridge ${current.book} · ${current.track==='general'?'General Training':'Academic'} · ${testName(current)} · Passage ${current.number} · Trang PDF ${current.sourcePages}</div><div class="selection-hint">${icon('highlight')}Chọn văn bản để tra từ, highlight hoặc ghim ghi chú.</div>`;
+    `<div class="article-meta"><span>CAM ${current.book} / ${testName(current).toUpperCase()} / PASSAGE ${String(current.number).padStart(2,'0')}</span><span class="topic">${esc(current.topic)}</span></div><h1 data-pid="title">${markedText(current.title,'title')}</h1>${current.subtitle?`<p class="article-subtitle" data-pid="lead">${markedText(current.subtitle,'lead')}</p>`:''}<div class="reading-instruction">You should spend about 20 minutes on Questions ${questions()[0].n}–${questions().at(-1).n}, which are based on the Reading Passage below.</div><div class="reading-body">${current.paragraphs.map((p,i)=>`<p>${p.label?`<span class="label" aria-label="Section ${p.label}">${p.label}</span>`:''}<span data-pid="${i}">${markedText(p.text,String(i))}</span></p>`).join('')}</div><div class="source-footnote">${(current.footnotes||[]).map(f=>`<p>${esc(f)}</p>`).join('')}Cambridge ${current.book} · Academic · ${testName(current)} · Passage ${current.number} · Trang PDF ${current.sourcePages}</div><div class="selection-hint">${icon('highlight')}Chọn văn bản để tra từ, highlight hoặc ghim ghi chú.</div>`;
 }
 const TYPE_NAMES = {
   tf: 'True / False / Not Given',
@@ -3011,14 +3022,6 @@ function renderGrammar() {
     ).join('');
 }
 
-function renderPhrasalVerbs() {
- const escapeRegex=s=>s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
- const items=PHRASAL_VERBS.map(v=>{const rest=v.term.split(' ').slice(1).map(escapeRegex).join('\\s+');const rx=new RegExp('\\b(?:'+v.forms.map(escapeRegex).join('|')+')\\s+'+rest+'\\b','i');const para=current.paragraphs.map(p=>p.text).find(t=>rx.test(t));const m=para?.match(rx);return {...v,context:para?para.slice(Math.max(0,m.index-90),Math.min(para.length,m.index+230)):'',sourceForm:m?.[0]||''};});
- $('#right-content').innerHTML=panelIntro('Phrasal verbs you can use.','Cụm động từ thông dụng · nghĩa, cách đặt tân ngữ và ví dụ minh họa.')+`<div class="study-banner">${icon('bulb')}<span>Ví dụ bên dưới được tự soạn để minh họa. Các mục có dạng chữ xuất hiện trong bài được đánh dấu riêng. Động từ đi với giới từ và cụm ba thành phần được phân loại rõ.</span></div><label class="search-box">${icon('search')}<input id="verbs-search" placeholder="Tìm cụm từ hoặc nghĩa tiếng Việt…"></label><div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:17px"><select id="verbs-kind" class="flash-filter" aria-label="Loại cụm động từ"><option value="all">Tất cả các loại</option><option value="phrasal">Phrasal verbs</option><option value="preposition">Prepositional verbs</option><option value="three">Cụm ba thành phần</option><option value="fixed">Cụm cố định</option></select><label class="subtle"><input type="checkbox" id="verbs-in-passage"> Có dạng chữ trong bài</label></div><div id="verbs-list"></div>`;
- const render=()=>{const query=norm($('#verbs-search').value),kind=$('#verbs-kind').value,local=$('#verbs-in-passage').checked;const list=items.filter(v=>norm(v.term+' '+v.meaning).includes(query)&&(kind==='all'||v.kind===kind)&&(!local||v.context));$('#verbs-list').innerHTML=list.length?list.map(v=>`<div class="study-card"><div class="vocab-head"><div><div class="vocab-term">${esc(v.term)}</div><div class="word-meta"><span class="word-pos">${esc(v.pos)}</span>${esc(v.ipa)}</div></div><button class="save-word ${isSaved(v)?'saved':''}" data-save-verb="${PHRASAL_VERBS.findIndex(x=>x.term===v.term)}">${icon(isSaved(v)?'check':'plus')}${isSaved(v)?'Đã lưu':'Flashcard'}</button></div><p class="meaning">${esc(v.meaning)}</p><div class="usage-note">${esc(v.usage)}</div><div class="source-form">Ví dụ minh họa · tự soạn</div><blockquote class="example">${esc(v.example)}</blockquote><div class="synonyms"><b>Cách diễn đạt gần nghĩa</b>${esc(v.synonyms)}</div>${v.context?`<div class="source-form" style="margin-top:13px">Dạng chữ trong bài: <b>${esc(v.sourceForm)}</b> · đối chiếu nghĩa theo ngữ cảnh</div><blockquote class="example">…${esc(v.context)}…</blockquote>`:''}</div>`).join(''):'<div class="empty-state">Không có cụm phù hợp với bộ lọc. Bỏ chọn bộ lọc để xem thư viện chung.</div>';$$('[data-save-verb]').forEach(b=>b.onclick=()=>{addCard(PHRASAL_VERBS[Number(b.dataset.saveVerb)]);render();});};
- render();$('#verbs-search').oninput=render;$('#verbs-kind').onchange=render;$('#verbs-in-passage').onchange=render;
-}
-
 function renderAnswers() {
   let html = panelIntro('Understand every answer.', 'Đối chiếu đáp án với dẫn chứng, rồi phân tích cách diễn đạt trong bài.') +
     `<div class="study-banner">${icon('bulb')}<span>${esc(answerSourceText())} ${state().graded?`Kết quả của bạn: <b>${score()}/${scorableQuestions().length}</b>.`:'Chưa nộp bài; xem đáp án sẽ làm mất tính độc lập của lượt luyện này.'}</span></div>`;
@@ -3140,7 +3143,6 @@ function renderRight() {
     questions: renderQuestions,
     vocab: renderVocab,
     grammar: renderGrammar,
-    verbs: renderPhrasalVerbs,
     flashcards: renderFlashcards,
     answers: renderAnswers
   } [activeTab] || renderQuestions)();
@@ -3797,7 +3799,6 @@ document.addEventListener('click', e => {
 });
 // Bind static controls once; dynamic panels use scoped listeners after rendering.
 $('#book-select').onchange=e=>switchPassage(PASSAGES.find(p=>p.book===Number(e.target.value)&&p.track==='academic')?.id||PASSAGES.find(p=>p.book===Number(e.target.value))?.id);
-$('#track-select').onchange=e=>switchPassage(PASSAGES.find(p=>p.book===current.book&&p.track===e.target.value)?.id);
 $('#test-select').onchange=e=>switchPassage(PASSAGES.find(p=>sameBook(p)&&p.test===Number(e.target.value))?.id);
 $('#passage-tabs').onclick = e => {
   const b = e.target.closest('[data-passage]');
@@ -3909,6 +3910,11 @@ setInterval(updateTimer, 250);
 setInterval(() => {
   if (state().running) persist();
 }, 5000);
+
+function applyTheme(dark){document.documentElement.classList.toggle('dark',dark);document.querySelector('#theme-toggle').textContent=dark?'☀':'☾';document.querySelector('#theme-toggle').setAttribute('aria-pressed',String(dark));try{localStorage.setItem('reading-room:theme',dark?'dark':'light');}catch{}}
+document.querySelector('#theme-toggle').onclick=()=>applyTheme(!document.documentElement.classList.contains('dark'));
+try{applyTheme(localStorage.getItem('reading-room:theme')==='dark');}catch{}
+
 renderAll();
 persist();
 </script>

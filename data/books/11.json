@@ -353,6 +353,76 @@
         "example": "Many believe an entirely new approach to indoor farming is required, employing cutting-edge technologies.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "transportation",
+        "pos": "n",
+        "ipa": "/ˌtrænspɔːˈteɪʃən/",
+        "meaning": "việc vận chuyển người hoặc hàng hóa",
+        "synonyms": "conveyance; transport",
+        "example": "Situated in the heart of urban centres, they would drastically reduce the amount of transportation required to bring food to consumers.",
+        "needle": "transportation",
+        "sourceForm": "transportation"
+      },
+      {
+        "term": "demographic",
+        "pos": "adj",
+        "ipa": "/ˌdeməˈɡræfɪk/",
+        "meaning": "thuộc đặc điểm dân số",
+        "synonyms": "population-related",
+        "example": "Applying the most conservative estimates to current demographic trends, the human population will increase by about three billion people by then.",
+        "needle": "demographic",
+        "sourceForm": "demographic"
+      },
+      {
+        "term": "sustainable",
+        "pos": "adj",
+        "ipa": "/səˈsteɪnəbəl/",
+        "meaning": "có thể duy trì lâu dài mà không làm cạn nguồn lực",
+        "synonyms": "viable long-term; environmentally sound",
+        "example": "If successfully implemented, proponents claim, vertical farms offer the promise of urban renewal, sustainable production of a safe and varied food supply (through year-round production of all crops), and the eventual repair of ecosystems that have been sacrificed för horizontal farming.",
+        "needle": "sustainable",
+        "sourceForm": "sustainable"
+      },
+      {
+        "term": "artificial",
+        "pos": "adj",
+        "ipa": "/ˌɑːtɪˈfɪʃəl/",
+        "meaning": "do con người tạo ra, không tự nhiên",
+        "synonyms": "man-made; synthetic",
+        "example": "Singlestorey greenhouses have the benefit of natural overhead light: even so, many still need artificial lighting.",
+        "needle": "artificial",
+        "sourceForm": "artificial"
+      },
+      {
+        "term": "production",
+        "pos": "n",
+        "ipa": "/prəˈdʌkʃən/",
+        "meaning": "sự sản xuất, sản lượng",
+        "synonyms": "manufacturing; output",
+        "example": "The concept of indoor farming is not new, since hothouse production of tomatoes and other produce has been in vogue for some time.",
+        "needle": "production",
+        "sourceForm": "production"
+      },
+      {
+        "term": "ecosystem",
+        "pos": "n",
+        "ipa": "/ˈiːkəʊsɪstəm/",
+        "meaning": "hệ sinh thái",
+        "synonyms": "ecological community",
+        "example": "If successfully implemented, proponents claim, vertical farms offer the promise of urban renewal, sustainable production of a safe and varied food supply (through year-round production of all crops), and the eventual repair of ecosystems that have been sacrificed för horizontal farming.",
+        "needle": "ecosystems",
+        "sourceForm": "ecosystems"
+      },
+      {
+        "term": "renewable",
+        "pos": "adj",
+        "ipa": "/rɪˈnjuːəbəl/",
+        "meaning": "có khả năng được tái tạo tự nhiên",
+        "synonyms": "replenishable; sustainable",
+        "example": "Generating enough light could be prohibitively expensive, unless cheap, renewable energy is available, and this appears to be rather a future aspiration than a likelihood for the near future.",
+        "needle": "renewable",
+        "sourceForm": "renewable"
       }
     ],
     "grammar": [
@@ -701,6 +771,126 @@
         "example": "Two diametrically opposed water-filled gondolas', each with a capacity of 360,000 litres, are fitted between the ends of the arms.",
         "needle": "capacity",
         "sourceForm": "capacity"
+      },
+      {
+        "term": "engineering",
+        "pos": "n",
+        "ipa": "/ˌendʒɪˈnɪərɪŋ/",
+        "meaning": "kỹ thuật, ngành thiết kế và chế tạo",
+        "synonyms": "technical design and construction",
+        "example": "The various parts of The Falkirk Wheel were all constructed and assembled, like one giant toy building set, at Butterley Engineering's Steelworks in Derbyshire, some 400 km from Falkirk A team there carefully assembled the 1,200 tonnes of steel, painstakingly fitting the pieces together to an accuracy of just IO mm to ensure a perfect final fit.",
+        "needle": "Engineering",
+        "sourceForm": "Engineering"
+      },
+      {
+        "term": "hydraulic",
+        "pos": "adj",
+        "ipa": "/haɪˈdrɔːlɪk/",
+        "meaning": "hoạt động nhờ áp lực chất lỏng",
+        "synonyms": "operated by liquid pressure",
+        "example": "The water between the gates is then pumped out A hydraulic clamp, which prevents the arms of the Wheel moving while the gondola is docked, is removed, allowing the Wheel to turn.",
+        "needle": "hydraulic",
+        "sourceForm": "hydraulic"
+      },
+      {
+        "term": "enormous",
+        "pos": "adj",
+        "ipa": "/ɪˈnɔːməs/",
+        "meaning": "rất lớn về quy mô",
+        "synonyms": "immense; vast",
+        "example": "This keeps the Wheel balanced and so, despite its enormous mass, it rotates through 1800 in five and a half minutes while using very little power.",
+        "needle": "enormous",
+        "sourceForm": "enormous"
+      },
+      {
+        "term": "numerous",
+        "pos": "adj",
+        "ipa": "/ˈnjuːmərəs/",
+        "meaning": "có số lượng lớn",
+        "synonyms": "many; plentiful",
+        "example": "Numerous ideas were submitted for the project, including concepts ranging from rolling eggs to tilting tanks, from giant seesaws to overhead monorails.",
+        "needle": "Numerous",
+        "sourceForm": "Numerous"
+      },
+      {
+        "term": "sequence",
+        "pos": "n",
+        "ipa": "/ˈsiːkwəns/",
+        "meaning": "chuỗi sự kiện hoặc thứ tự diễn ra",
+        "synonyms": "series; order",
+        "example": "Historically, the two canals had been joined near the town of Falkirk by a sequence of I I locks — enclosed sections of canalin which the water level could be raised or lowered — that stepped down across a distance of 1.5 km.",
+        "needle": "sequence",
+        "sourceForm": "sequence"
+      },
+      {
+        "term": "waterway",
+        "pos": "n",
+        "ipa": "/ˈwɔːtəweɪ/",
+        "meaning": "tuyến giao thông đường thủy",
+        "synonyms": "navigable channel",
+        "example": "Opened in 2002, it is central to the ambitious f84.5m Millennium Link project to restore navigability across Scotland by reconnecting the historic waterways of the Forth & Clyde and Union Canals.",
+        "needle": "waterways",
+        "sourceForm": "waterways"
+      },
+      {
+        "term": "connect",
+        "pos": "v",
+        "ipa": "/kəˈnekt/",
+        "meaning": "kết nối",
+        "synonyms": "link; join",
+        "example": "Two eight-metre-wide cogs orbit a fixed inner cog of the same width, connected by two smaller cogs travelling in the opposite direction to the outer cogs — so ensuring that the gondolas always remain level.",
+        "needle": "connected",
+        "sourceForm": "connected"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "Numerous ideas were submitted for the project, including concepts ranging from rolling eggs to tilting tanks, from giant seesaws to overhead monorails.",
+        "needle": "including",
+        "sourceForm": "including"
+      },
+      {
+        "term": "project",
+        "pos": "n",
+        "ipa": "/ˈprɒdʒekt/",
+        "meaning": "dự án, công việc có kế hoạch",
+        "synonyms": "planned undertaking",
+        "example": "Opened in 2002, it is central to the ambitious f84.5m Millennium Link project to restore navigability across Scotland by reconnecting the historic waterways of the Forth & Clyde and Union Canals.",
+        "needle": "project",
+        "sourceForm": "project"
+      },
+      {
+        "term": "create",
+        "pos": "v",
+        "ipa": "/kriˈeɪt/",
+        "meaning": "tạo ra",
+        "synonyms": "produce; bring into existence",
+        "example": "When the project was launched in 1994, the British Waterways authority were keen to create a dramatic twenty-firstcentury landmark which would not only be a fitting commemoration of the Millennium, but also a lasting symbol of the economic regeneration of the region.",
+        "needle": "create",
+        "sourceForm": "create"
+      },
+      {
+        "term": "remain",
+        "pos": "v",
+        "ipa": "/rɪˈmeɪn/",
+        "meaning": "vẫn ở trạng thái; còn lại",
+        "synonyms": "stay; continue to be",
+        "example": "Two eight-metre-wide cogs orbit a fixed inner cog of the same width, connected by two smaller cogs travelling in the opposite direction to the outer cogs — so ensuring that the gondolas always remain level.",
+        "needle": "remain",
+        "sourceForm": "remain"
+      },
+      {
+        "term": "system",
+        "pos": "n",
+        "ipa": "/ˈsɪstəm/",
+        "meaning": "hệ thống",
+        "synonyms": "organised set of parts",
+        "example": "As the wheel rotates, the gondolas are kept in the upright position by a simple gearing system.",
+        "needle": "system",
+        "sourceForm": "system"
       }
     ],
     "grammar": [
@@ -1164,6 +1354,46 @@
         "example": "Even leading conservation organisations see the value of investigating the potential of geo-engineering.",
         "needle": "potential",
         "sourceForm": "potential"
+      },
+      {
+        "term": "consequently",
+        "pos": "adv",
+        "ipa": "/ˈkɒnsɪkwəntli/",
+        "meaning": "do đó",
+        "synonyms": "as a result",
+        "example": "Consequently, an increasing number of scientists are beginning to explore the alternative of geo-engineering — a term which generally refers to the intentional large-scale manipulation of the environment.",
+        "needle": "Consequently",
+        "sourceForm": "Consequently"
+      },
+      {
+        "term": "distribution",
+        "pos": "n",
+        "ipa": "/ˌdɪstrɪˈbjuːʃən/",
+        "meaning": "sự phân bố hoặc phân phối",
+        "synonyms": "spread; allocation",
+        "example": "'But all the models suggest some impact on the distribution of precipitation.'",
+        "needle": "distribution",
+        "sourceForm": "distribution"
+      },
+      {
+        "term": "atmosphere",
+        "pos": "n",
+        "ipa": "/ˈætməsfɪə/",
+        "meaning": "khí quyển; bầu không khí",
+        "synonyms": "surrounding air; gaseous envelope",
+        "example": "The US National Center for Atmospheric Research has already suggested that the proposal to inject sulphur into the atmosphere might affect rainfall patterns across the tropics and the Southern Ocean.",
+        "needle": "atmosphere",
+        "sourceForm": "atmosphere"
+      },
+      {
+        "term": "equivalent",
+        "pos": "adj",
+        "ipa": "/ɪˈkwɪvələnt/",
+        "meaning": "tương đương về giá trị hoặc ý nghĩa",
+        "synonyms": "comparable; equal",
+        "example": "According to its proponents, geo-engineering is the equivalent ofa backup generator: if Plan A — reducing our dependency on fossil Kjels — fails, we require a Plan B, employing grand schemes to slow down or reverse the process of global warming.",
+        "needle": "equivalent",
+        "sourceForm": "equivalent"
       }
     ],
     "grammar": [
@@ -1553,6 +1783,116 @@
         "example": "An important factor in trying to salvage the Mary Rose was that the remaining hull was an open shell.",
         "needle": "factor",
         "sourceForm": "factor"
+      },
+      {
+        "term": "archaeological",
+        "pos": "adj",
+        "ipa": "/ˌɑːkiəˈlɒdʒɪkəl/",
+        "meaning": "thuộc khảo cổ học",
+        "synonyms": "related to ancient material remains",
+        "example": "The lifting cradle was designed to fit the hull using archaeological survey drawings, and was fitted with air bags to provide additional cushioning for the hull's delicate timber framework.",
+        "needle": "archaeological",
+        "sourceForm": "archaeological"
+      },
+      {
+        "term": "engineering",
+        "pos": "n",
+        "ipa": "/ˌendʒɪˈnɪərɪŋ/",
+        "meaning": "kỹ thuật, ngành thiết kế và chế tạo",
+        "synonyms": "technical design and construction",
+        "example": "Ordinary search techniques proved unsatisfactory, so McKee entered into collaboration with Harold E. Edgerton, professor of electrical engineering at the Massachusetts Institute of Technology.",
+        "needle": "engineering",
+        "sourceForm": "engineering"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "While the original aim was to raise the hull if at all feasible, the operation was not given the go-ahead until January 1982, when ali the necessary information was available.",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "excavation",
+        "pos": "n",
+        "ipa": "/ˌekskəˈveɪʃən/",
+        "meaning": "sự khai quật, đào đất",
+        "synonyms": "digging; archaeological investigation",
+        "example": "The decision whether or not to salvage the wreck was not an easy one, although an excavation in 1978 had shown that it might be possible to raise the hull.",
+        "needle": "excavation",
+        "sourceForm": "excavation"
+      },
+      {
+        "term": "mechanical",
+        "pos": "adj",
+        "ipa": "/məˈkænɪkəl/",
+        "meaning": "thuộc máy móc hoặc cơ học",
+        "synonyms": "machine-operated",
+        "example": "As a result, the starboard side filled rapidly, leaving the exposed port (left) side to be eroded by marine organisms and mechanical degradation.",
+        "needle": "mechanical",
+        "sourceForm": "mechanical"
+      },
+      {
+        "term": "successful",
+        "pos": "adj",
+        "ipa": "/səkˈsesfəl/",
+        "meaning": "thành công",
+        "synonyms": "effective; achieving its aim",
+        "example": "Built in Portsmouth some 35 years earlier, she had had a long and successful fighting career, and was a favourite of King Henry VIII.",
+        "needle": "successful",
+        "sourceForm": "successful"
+      },
+      {
+        "term": "hydraulic",
+        "pos": "adj",
+        "ipa": "/haɪˈdrɔːlɪk/",
+        "meaning": "hoạt động nhờ áp lực chất lỏng",
+        "synonyms": "operated by liquid pressure",
+        "example": "The problem of the hull being sucked back downwards into the mud was overcome by using 12 hydraulic jacks.",
+        "needle": "hydraulic",
+        "sourceForm": "hydraulic"
+      },
+      {
+        "term": "minimise",
+        "pos": "v",
+        "ipa": "/ˈmɪnɪmaɪz/",
+        "meaning": "giảm xuống mức thấp nhất có thể",
+        "synonyms": "reduce; limit",
+        "example": "During the seventeenth and eighteenth centuries, the entire site became covered with a layer of hard grey clay, which minimised further erosion.",
+        "needle": "minimised",
+        "sourceForm": "minimised"
+      },
+      {
+        "term": "original",
+        "pos": "adj",
+        "ipa": "/əˈrɪdʒənəl/",
+        "meaning": "ban đầu; có tính độc đáo",
+        "synonyms": "initial; novel",
+        "example": "While the original aim was to raise the hull if at all feasible, the operation was not given the go-ahead until January 1982, when ali the necessary information was available.",
+        "needle": "original",
+        "sourceForm": "original"
+      },
+      {
+        "term": "project",
+        "pos": "n",
+        "ipa": "/ˈprɒdʒekt/",
+        "meaning": "dự án, công việc có kế hoạch",
+        "synonyms": "planned undertaking",
+        "example": "Interest in the project grew, and in 1979, The Mary Rose Trust was formed, with Prince Charles as its President and Dr Margaret Rule its Archaeological Director.",
+        "needle": "project",
+        "sourceForm": "project"
+      },
+      {
+        "term": "provide",
+        "pos": "v",
+        "ipa": "/prəˈvaɪd/",
+        "meaning": "cung cấp",
+        "synonyms": "supply; furnish",
+        "example": "The lifting cradle was designed to fit the hull using archaeological survey drawings, and was fitted with air bags to provide additional cushioning for the hull's delicate timber framework.",
+        "needle": "provide",
+        "sourceForm": "provide"
       }
     ],
     "grammar": [
@@ -1956,6 +2296,106 @@
         "example": "Modern science — linguistic, archaeological and genetic evidence — has definitively proved the moai builders were Polynesians, but not how they moved their creations.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "archaeological",
+        "pos": "adj",
+        "ipa": "/ˌɑːkiəˈlɒdʒɪkəl/",
+        "meaning": "thuộc khảo cổ học",
+        "synonyms": "related to ancient material remains",
+        "example": "Modern science — linguistic, archaeological and genetic evidence — has definitively proved the moai builders were Polynesians, but not how they moved their creations.",
+        "needle": "archaeological",
+        "sourceForm": "archaeological"
+      },
+      {
+        "term": "archaeologist",
+        "pos": "n",
+        "ipa": "/ˌɑːkiˈɒlədʒɪst/",
+        "meaning": "nhà khảo cổ học",
+        "synonyms": "researcher of ancient remains",
+        "example": "Archaeologists Terry Hunt of the University of Hawaii and Carl Lipo of California State IJniversity agree that Easter Island lost its lush forests and that it was an 'ecological catastrophe' — but they believe the islanders themselves weren't to blame.",
+        "needle": "Archaeologists",
+        "sourceForm": "Archaeologists"
+      },
+      {
+        "term": "sustainable",
+        "pos": "adj",
+        "ipa": "/səˈsteɪnəbəl/",
+        "meaning": "có thể duy trì lâu dài mà không làm cạn nguồn lực",
+        "synonyms": "viable long-term; environmentally sound",
+        "example": "Hunt and Lipo argue, the prehistoric Rapanui were pioneers of sustainable farming.",
+        "needle": "sustainable",
+        "sourceForm": "sustainable"
+      },
+      {
+        "term": "excavation",
+        "pos": "n",
+        "ipa": "/ˌekskəˈveɪʃən/",
+        "meaning": "sự khai quật, đào đất",
+        "synonyms": "digging; archaeological investigation",
+        "example": "Archaeological excavations indicate that the Rapanui went to heroic efforts to protect the resources of their wind-lashed, infertile fields.",
+        "needle": "excavations",
+        "sourceForm": "excavations"
+      },
+      {
+        "term": "linguistic",
+        "pos": "adj",
+        "ipa": "/lɪŋˈɡwɪstɪk/",
+        "meaning": "thuộc ngôn ngữ hoặc ngôn ngữ học",
+        "synonyms": "language-related",
+        "example": "Modern science — linguistic, archaeological and genetic evidence — has definitively proved the moai builders were Polynesians, but not how they moved their creations.",
+        "needle": "linguistic",
+        "sourceForm": "linguistic"
+      },
+      {
+        "term": "ingenious",
+        "pos": "adj",
+        "ipa": "/ɪnˈdʒiːniəs/",
+        "meaning": "tài tình, khéo léo",
+        "synonyms": "clever; inventive",
+        "example": "Hunt and Lipo's vision, therefore, is one of an island populated by peaceful and ingenious moai builders and careful stewards of the land, rather than by reckless destroyers ruining their own environment and society.",
+        "needle": "ingenious",
+        "sourceForm": "ingenious"
+      },
+      {
+        "term": "introduce",
+        "pos": "v",
+        "ipa": "/ˌɪntrəˈdjuːs/",
+        "meaning": "giới thiệu, đưa vào sử dụng",
+        "synonyms": "present; bring in",
+        "example": "They think its population grew rapidly and then remained more or less stable until the arrival of the Europeans, who introduced deadly diseases to which islanders had no immunity.",
+        "needle": "introduced",
+        "sourceForm": "introduced"
+      },
+      {
+        "term": "therefore",
+        "pos": "adv",
+        "ipa": "/ˈðeəfɔː/",
+        "meaning": "vì vậy",
+        "synonyms": "consequently",
+        "example": "Hunt and Lipo's vision, therefore, is one of an island populated by peaceful and ingenious moai builders and careful stewards of the land, rather than by reckless destroyers ruining their own environment and society.",
+        "needle": "therefore",
+        "sourceForm": "therefore"
+      },
+      {
+        "term": "activity",
+        "pos": "n",
+        "ipa": "/ækˈtɪvəti/",
+        "meaning": "hoạt động",
+        "synonyms": "action; pursuit",
+        "example": "Hunt and Lipo contend that moai-building was an activity that helped keep the peace between islanders.",
+        "needle": "activity",
+        "sourceForm": "activity"
+      },
+      {
+        "term": "indicate",
+        "pos": "v",
+        "ipa": "/ˈɪndɪkeɪt/",
+        "meaning": "chỉ ra hoặc là dấu hiệu của",
+        "synonyms": "suggest; demonstrate",
+        "example": "Recent experiments indicate that as few as 18 people could, with three strong ropes and a bit of practice, easily manoeuvre a 1 ,OOO kg moai replica a few hundred metres.",
+        "needle": "indicate",
+        "sourceForm": "indicate"
       }
     ],
     "grammar": [
@@ -2404,6 +2844,106 @@
         "example": "Could the same approach also shed light on abstract twentieth-century pieces, from Mondrian's geometrical blocks of colour, to Pollock's seemingly haphazard arrangements of splashed paint on canvas?",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "composition",
+        "pos": "n",
+        "ipa": "/ˌkɒmpəˈzɪʃən/",
+        "meaning": "bố cục tác phẩm; bản nhạc",
+        "synonyms": "arrangement; musical work",
+        "example": "Vartanian also found that changing the composition of paintings reduced activation in those brain areas linked with meaning and interpretation.",
+        "needle": "composition",
+        "sourceForm": "composition"
+      },
+      {
+        "term": "exclusively",
+        "pos": "adv",
+        "ipa": "/ɪkˈskluːsɪvli/",
+        "meaning": "chỉ dành cho hoặc chỉ bao gồm",
+        "synonyms": "solely; only",
+        "example": "And what about artists such as Mondrian, whose paintings consist exclusively of horizontal and vertical lines encasing blocks of colour?",
+        "needle": "exclusively",
+        "sourceForm": "exclusively"
+      },
+      {
+        "term": "recognition",
+        "pos": "n",
+        "ipa": "/ˌrekəɡˈnɪʃən/",
+        "meaning": "sự nhận ra hoặc công nhận",
+        "synonyms": "identification; acknowledgement",
+        "example": "It would seem that the brain sees these images as puzzles, and the harder it is to decipher the meaning, the more rewarding is the moment of recognition.",
+        "needle": "recognition",
+        "sourceForm": "recognition"
+      },
+      {
+        "term": "reconstruct",
+        "pos": "v",
+        "ipa": "/ˌriːkənˈstrʌkt/",
+        "meaning": "tái dựng một vật hoặc sự kiện trong quá khứ",
+        "synonyms": "rebuild; recreate",
+        "example": "This has led some to wonder whether Pollock's works feel so dynamic because the brain reconstructs the energetic actions the artist used as he painted.",
+        "needle": "reconstructs",
+        "sourceForm": "reconstructs"
+      },
+      {
+        "term": "discipline",
+        "pos": "n",
+        "ipa": "/ˈdɪsəplɪn/",
+        "meaning": "ngành học; sự rèn luyện có quy tắc",
+        "synonyms": "field of study; self-control",
+        "example": "An emerging discipline called neuroaesthetics is seeking to bring scientific objectivity to the study of art, and has already given us a better understanding of many masterpieces.",
+        "needle": "discipline",
+        "sourceForm": "discipline"
+      },
+      {
+        "term": "hypothesis",
+        "pos": "n",
+        "ipa": "/haɪˈpɒθəsɪs/",
+        "meaning": "giả thuyết có thể được kiểm chứng",
+        "synonyms": "testable explanation; proposition",
+        "example": "The hypothesis will need to be thoroughly tested, however.",
+        "needle": "hypothesis",
+        "sourceForm": "hypothesis"
+      },
+      {
+        "term": "importance",
+        "pos": "n",
+        "ipa": "/ɪmˈpɔːtəns/",
+        "meaning": "tầm quan trọng",
+        "synonyms": "significance",
+        "example": "We shouldnt underestimate the importance of the style of a particular artist, their place in history and the artistic environment of their time.",
+        "needle": "importance",
+        "sourceForm": "importance"
+      },
+      {
+        "term": "scientific",
+        "pos": "adj",
+        "ipa": "/ˌsaɪənˈtɪfɪk/",
+        "meaning": "thuộc khoa học",
+        "synonyms": "research-based",
+        "example": "An emerging discipline called neuroaesthetics is seeking to bring scientific objectivity to the study of art, and has already given us a better understanding of many masterpieces.",
+        "needle": "scientific",
+        "sourceForm": "scientific"
+      },
+      {
+        "term": "stimulate",
+        "pos": "v",
+        "ipa": "/ˈstɪmjəleɪt/",
+        "meaning": "kích thích sự phát triển hoặc phản ứng",
+        "synonyms": "encourage; trigger",
+        "example": "The blurred imagery of Impressionist paintings seems to stimulate the brain's amygdala, for instance.",
+        "needle": "stimulate",
+        "sourceForm": "stimulate"
+      },
+      {
+        "term": "original",
+        "pos": "adj",
+        "ipa": "/əˈrɪdʒənəl/",
+        "meaning": "ban đầu; có tính độc đáo",
+        "synonyms": "initial; novel",
+        "example": "In a similar study, Oshin Vartanian of Toronto University asked volunteers to compare original paintings with ones which he had altered by moving objects around within the frame.",
+        "needle": "original",
+        "sourceForm": "original"
       }
     ],
     "grammar": [
@@ -2711,6 +3251,166 @@
         "example": "The earliest indication of silk paper being used was discovered in the tomb of a noble who is estimated to have died around 168 AD.",
         "needle": "estimated",
         "sourceForm": "estimated"
+      },
+      {
+        "term": "production",
+        "pos": "n",
+        "ipa": "/prəˈdʌkʃən/",
+        "meaning": "sự sản xuất, sản lượng",
+        "synonyms": "manufacturing; output",
+        "example": "Today, around 125,000 metric tons of silk are produced in the world, and almost two thirds of that production takes place in China.",
+        "needle": "production",
+        "sourceForm": "production"
+      },
+      {
+        "term": "currency",
+        "pos": "n",
+        "ipa": "/ˈkʌrənsi/",
+        "meaning": "tiền tệ dùng trong trao đổi",
+        "synonyms": "money in circulation",
+        "example": "Sometime during the Han Dynasty (206 BC-220 AD), silk so prized that it also used a unit of currency.",
+        "needle": "currency",
+        "sourceForm": "currency"
+      },
+      {
+        "term": "discover",
+        "pos": "v",
+        "ipa": "/dɪˈskʌvə/",
+        "meaning": "phát hiện, khám phá",
+        "synonyms": "find; uncover",
+        "example": "One account of the story goes that she taking a walk in her husband's gardens, she discovered that silkworms were responsible for the destruction of several mulberry trees.",
+        "needle": "discovered",
+        "sourceForm": "discovered"
+      },
+      {
+        "term": "material",
+        "pos": "n",
+        "ipa": "/məˈtɪəriəl/",
+        "meaning": "vật liệu, chất liệu",
+        "synonyms": "substance; raw material",
+        "example": "Silk is a fine, smooth material produced from the cocoons — soft protective shells — that are made by mulberry silkworms (insect larvae).",
+        "needle": "material",
+        "sourceForm": "material"
+      },
+      {
+        "term": "merchant",
+        "pos": "n",
+        "ipa": "/ˈmɜːtʃənt/",
+        "meaning": "thương nhân",
+        "synonyms": "trader; dealer",
+        "example": "Prom there, the merchandise was shipped across the Mediterranean Sea Few merchants travelled the entire route; goods were handled mostly by a series of middlemen.",
+        "needle": "merchants",
+        "sourceForm": "merchants"
+      },
+      {
+        "term": "emperor",
+        "pos": "n",
+        "ipa": "/ˈempərə/",
+        "meaning": "hoàng đế",
+        "synonyms": "imperial ruler",
+        "example": "Legend has it that it was Lei Tzu, wife of the Yellow Emperor, ruler of China in about 3000 BC, who discovered silkworms.",
+        "needle": "Emperor",
+        "sourceForm": "Emperor"
+      },
+      {
+        "term": "peasant",
+        "pos": "n",
+        "ipa": "/ˈpezənt/",
+        "meaning": "nông dân trong xã hội truyền thống",
+        "synonyms": "rural farm worker",
+        "example": "The rules were gradually relaxed over the years until finally during the Qing Dynasty (1644—1911 AD), even peasants, the lowest caste, were also entitled to wear silk.",
+        "needle": "peasants",
+        "sourceForm": "peasants"
+      },
+      {
+        "term": "cocoon",
+        "pos": "n",
+        "ipa": "/kəˈkuːn/",
+        "meaning": "kén tằm hoặc kén côn trùng",
+        "synonyms": "protective casing",
+        "example": "It just so happened that while she was sipping some tea, one of the cocoons that she had collected landed in the hot tea and started to unravel into a fine thread.",
+        "needle": "cocoons",
+        "sourceForm": "cocoons"
+      },
+      {
+        "term": "create",
+        "pos": "v",
+        "ipa": "/kriˈeɪt/",
+        "meaning": "tạo ra",
+        "synonyms": "produce; bring into existence",
+        "example": "Demand for this exotic fabric eventually created the lucraåve trade route now Imown as the Silk Road, taking silk westward and bringing gold, silver and wool to the East.",
+        "needle": "created",
+        "sourceForm": "created"
+      },
+      {
+        "term": "empire",
+        "pos": "n",
+        "ipa": "/ˈempaɪə/",
+        "meaning": "đế chế",
+        "synonyms": "imperial territory",
+        "example": "\"Ihe secret of silk-making eventually reached the rest of the world via the Byzantine Empire, which ruled over the Mediterranean region of southern Europe, North Africa and the Middle East during the period 330-1453 AD.",
+        "needle": "Empire",
+        "sourceForm": "Empire"
+      },
+      {
+        "term": "fabric",
+        "pos": "n",
+        "ipa": "/ˈfæbrɪk/",
+        "meaning": "vải, vật liệu dệt",
+        "synonyms": "textile; cloth",
+        "example": "Demand for this exotic fabric eventually created the lucraåve trade route now Imown as the Silk Road, taking silk westward and bringing gold, silver and wool to the East.",
+        "needle": "fabric",
+        "sourceForm": "fabric"
+      },
+      {
+        "term": "legend",
+        "pos": "n",
+        "ipa": "/ˈledʒənd/",
+        "meaning": "truyền thuyết",
+        "synonyms": "traditional story",
+        "example": "Legend has it that it was Lei Tzu, wife of the Yellow Emperor, ruler of China in about 3000 BC, who discovered silkworms.",
+        "needle": "Legend",
+        "sourceForm": "Legend"
+      },
+      {
+        "term": "remain",
+        "pos": "v",
+        "ipa": "/rɪˈmeɪn/",
+        "meaning": "vẫn ở trạng thái; còn lại",
+        "synonyms": "stay; continue to be",
+        "example": "Japan was to remain the world's biggest producer of raw silk, and practically the only rnRior exporter of raw silk, until the 1970s.",
+        "needle": "remain",
+        "sourceForm": "remain"
+      },
+      {
+        "term": "secret",
+        "pos": "n",
+        "ipa": "/ˈsiːkrət/",
+        "meaning": "bí mật, thông tin được giữ kín",
+        "synonyms": "concealed information",
+        "example": "\"Ihe secret of silk-making eventually reached the rest of the world via the Byzantine Empire, which ruled over the Mediterranean region of southern Europe, North Africa and the Middle East during the period 330-1453 AD.",
+        "needle": "secret",
+        "sourceForm": "secret"
+      },
+      {
+        "term": "thread",
+        "pos": "n",
+        "ipa": "/θred/",
+        "meaning": "sợi chỉ, sợi tơ",
+        "synonyms": "strand; filament",
+        "example": "It just so happened that while she was sipping some tea, one of the cocoons that she had collected landed in the hot tea and started to unravel into a fine thread.",
+        "needle": "thread",
+        "sourceForm": "thread"
+      },
+      {
+        "term": "canal",
+        "pos": "n",
+        "ipa": "/kəˈnæl/",
+        "meaning": "kênh đào",
+        "synonyms": "artificial waterway",
+        "example": "Cheaper Japanese silk, trade in which was greatly facilitated by the opening of the Suez Canal, was one of the many factozs driving the trend.",
+        "needle": "Canal",
+        "sourceForm": "Canal"
       }
     ],
     "grammar": [
@@ -3118,6 +3818,86 @@
         "example": "We will require wisdom and resoluteness to ensure that migrating species can continue their journeying a while longer.",
         "needle": "require",
         "sourceForm": "require"
+      },
+      {
+        "term": "circumstance",
+        "pos": "n",
+        "ipa": "/ˈsɜːkəmstəns/",
+        "meaning": "hoàn cảnh, điều kiện xảy ra sự việc",
+        "synonyms": "condition; situation",
+        "example": "finding a place, a time, and a set of circumstances in which it can successfully hatch and rear offspring.",
+        "needle": "circumstances",
+        "sourceForm": "circumstances"
+      },
+      {
+        "term": "conservation",
+        "pos": "n",
+        "ipa": "/ˌkɒnsəˈveɪʃən/",
+        "meaning": "việc bảo vệ môi trường hoặc tài nguyên",
+        "synonyms": "preservation; protection",
+        "example": "Conservation scientists, along with some biologists and land managers within the USA's National Park Service and other agencies, are now working to preserve migrational behaviours, not just species and habitats.",
+        "needle": "Conservation",
+        "sourceForm": "Conservation"
+      },
+      {
+        "term": "evolutionary",
+        "pos": "adj",
+        "ipa": "/ˌiːvəˈluːʃənəri/",
+        "meaning": "thuộc quá trình tiến hóa",
+        "synonyms": "related to evolutionary development",
+        "example": "Dingle is an evolutionary biologist who studies insects.",
+        "needle": "evolutionary",
+        "sourceForm": "evolutionary"
+      },
+      {
+        "term": "phenomenon",
+        "pos": "n",
+        "ipa": "/fəˈnɒmɪnən/",
+        "meaning": "hiện tượng có thể quan sát",
+        "synonyms": "observable occurrence",
+        "example": "The value of his definition, Dingle argues, is that it focuses attention on what the phenomenon of wildebeest migration shares with the phenomenon of the aphids, and therefore helps guide researchers towards understanding how evolution has produced them all.",
+        "needle": "phenomenon",
+        "sourceForm": "phenomenon"
+      },
+      {
+        "term": "attention",
+        "pos": "n",
+        "ipa": "/əˈtenʃən/",
+        "meaning": "sự chú ý",
+        "synonyms": "concentration; notice",
+        "example": "The value of his definition, Dingle argues, is that it focuses attention on what the phenomenon of wildebeest migration shares with the phenomenon of the aphids, and therefore helps guide researchers towards understanding how evolution has produced them all.",
+        "needle": "attention",
+        "sourceForm": "attention"
+      },
+      {
+        "term": "behaviour",
+        "pos": "n",
+        "ipa": "/bɪˈheɪvjə/",
+        "meaning": "hành vi",
+        "synonyms": "conduct",
+        "example": "Conservation scientists, along with some biologists and land managers within the USA's National Park Service and other agencies, are now working to preserve migrational behaviours, not just species and habitats.",
+        "needle": "behaviours",
+        "sourceForm": "behaviours"
+      },
+      {
+        "term": "challenge",
+        "pos": "n",
+        "ipa": "/ˈtʃælɪndʒ/",
+        "meaning": "thách thức",
+        "synonyms": "difficulty",
+        "example": "And with certain other migrating species, the challenge is complicated further — by vastly greater distances traversed, more jurisdictions, more borders, more dangers along the way.",
+        "needle": "challenge",
+        "sourceForm": "challenge"
+      },
+      {
+        "term": "intricate",
+        "pos": "adj",
+        "ipa": "/ˈɪntrɪkət/",
+        "meaning": "phức tạp với nhiều chi tiết liên kết",
+        "synonyms": "elaborate; complex",
+        "example": "His definition is more intricate than Berger's, citing those five features that distinguish migration from other forms of movement.",
+        "needle": "intricate",
+        "sourceForm": "intricate"
       }
     ],
     "grammar": [
@@ -3541,6 +4321,96 @@
         "example": "To illustrate our human potential, I cite a structural engineer who is an artist, an electrical engineer who is an opera singer, an opera singer who published mathematical research, and a mathematician who publishes short stories.",
         "needle": "potential",
         "sourceForm": "potential"
+      },
+      {
+        "term": "composition",
+        "pos": "n",
+        "ipa": "/ˌkɒmpəˈzɪʃən/",
+        "meaning": "bố cục tác phẩm; bản nhạc",
+        "synonyms": "arrangement; musical work",
+        "example": "A Occasionally, in some difficult musical compositions, there are beautiful, but easy parts — parts so simple a beginner could play them.",
+        "needle": "compositions",
+        "sourceForm": "compositions"
+      },
+      {
+        "term": "theoretical",
+        "pos": "adj",
+        "ipa": "/ˌθɪəˈretɪkəl/",
+        "meaning": "thuộc lý thuyết thay vì thực hành",
+        "synonyms": "conceptual; abstract",
+        "example": "I hope you will share my delight in watching as simple, even naive, questions lead to remarkable solutions and purely theoretical discoveries find unanticipated applications.",
+        "needle": "theoretical",
+        "sourceForm": "theoretical"
+      },
+      {
+        "term": "discipline",
+        "pos": "n",
+        "ipa": "/ˈdɪsəplɪn/",
+        "meaning": "ngành học; sự rèn luyện có quy tắc",
+        "synonyms": "field of study; self-control",
+        "example": "G A physician wrote, 'The discipline of analytical thought processes (in mathematics] prepared me extremely well for medical school.",
+        "needle": "discipline",
+        "sourceForm": "discipline"
+      },
+      {
+        "term": "experience",
+        "pos": "n",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "meaning": "kinh nghiệm; trải nghiệm",
+        "synonyms": "knowledge gained through practice",
+        "example": "Thus all readers will have the chance to participate in a mathematical experience, to appreciate the beauty of mathematics, and to become familiar with its logical, yet intuitive, style of thinking.",
+        "needle": "experience",
+        "sourceForm": "experience"
+      },
+      {
+        "term": "foundation",
+        "pos": "n",
+        "ipa": "/faʊnˈdeɪʃən/",
+        "meaning": "nền tảng hoặc móng của công trình",
+        "synonyms": "basis; underlying support",
+        "example": "D Other scientists have written books to explain their fields to non-scientists, but have necessarily had to omit the mathematics, although it provides the foundation of their theories.",
+        "needle": "foundation",
+        "sourceForm": "foundation"
+      },
+      {
+        "term": "scientific",
+        "pos": "adj",
+        "ipa": "/ˌsaɪənˈtɪfɪk/",
+        "meaning": "thuộc khoa học",
+        "synonyms": "research-based",
+        "example": "Though the broad outline of a scientific theory can be sketched intuitively, when a part of the physical universe is finally understood, its description often looks like a page in a mathematics text.",
+        "needle": "scientific",
+        "sourceForm": "scientific"
+      },
+      {
+        "term": "attribute",
+        "pos": "v",
+        "ipa": "/əˈtrɪbjuːt/",
+        "meaning": "quy một kết quả hoặc đặc điểm cho nguyên nhân nào đó",
+        "synonyms": "ascribe; credit",
+        "example": "I attribute much of my success there to having learned, through the study of mathematics, and, in particular, theorems, how to analyze complicated principles.",
+        "needle": "attribute",
+        "sourceForm": "attribute"
+      },
+      {
+        "term": "discovery",
+        "pos": "n",
+        "ipa": "/dɪˈskʌvəri/",
+        "meaning": "sự phát hiện",
+        "synonyms": "finding; revelation",
+        "example": "I hope you will share my delight in watching as simple, even naive, questions lead to remarkable solutions and purely theoretical discoveries find unanticipated applications.",
+        "needle": "discoveries",
+        "sourceForm": "discoveries"
+      },
+      {
+        "term": "intuition",
+        "pos": "n",
+        "ipa": "/ˌɪntjuˈɪʃən/",
+        "meaning": "trực giác",
+        "synonyms": "instinctive understanding",
+        "example": "As the chapters will illustrate, mathematics is not restricted to the analytical and numerical; intuition plays a significant role.",
+        "needle": "intuition",
+        "sourceForm": "intuition"
       }
     ],
     "grammar": [
@@ -3839,8 +4709,8 @@
         "term": "pinpoint",
         "pos": "v",
         "ipa": "/ˈpɪnpɔɪnt/",
-        "meaning": "xác định chính xác loài thích hợp",
-        "synonyms": "identify precisely",
+        "meaning": "xác định chính xác một yếu tố, vị trí hoặc nguyên nhân",
+        "synonyms": "identify precisely; locate exactly",
         "example": "These two lines of research — studying the differences between identical twins to pinpoint the influence of environment, and comparing identical twins with fraternal ones to measure the role of inheritance — have been crucial to understanding the interplay of nature and nurture in determining our personalities, behavior, and vulnerability to disease.",
         "needle": "pinpoint",
         "sourceForm": "pinpoint"
@@ -3974,6 +4844,76 @@
         "example": "The idea of using twins to measure the influence of heredity dates back to 1875, when the English scientist Francis Galton first suggested the approach (and coined the phrase 'nature and nurture').",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "experience",
+        "pos": "n",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "meaning": "kinh nghiệm; trải nghiệm",
+        "synonyms": "knowledge gained through practice",
+        "example": "Alternatively, by comparing the experiences of identical twins with those of fraternal twins, who come from separate eggs and share on average half their DNA, researchers can quantify the extent to which our genes affect our lives.",
+        "needle": "experiences",
+        "sourceForm": "experiences"
+      },
+      {
+        "term": "component",
+        "pos": "n",
+        "ipa": "/kəmˈpəʊnənt/",
+        "meaning": "thành phần cấu tạo",
+        "synonyms": "constituent; element",
+        "example": "Epigenetic processes are chemical reactions tied to neither nature nor nurture but representing what researchers have called a 'third component'.",
+        "needle": "component",
+        "sourceForm": "component"
+      },
+      {
+        "term": "mechanism",
+        "pos": "n",
+        "ipa": "/ˈmekənɪzəm/",
+        "meaning": "cơ chế mà một quá trình hoạt động",
+        "synonyms": "process; operating system",
+        "example": "One way the study of epigenetics is revdutionizing our understanding of biology is by revealing a mechanism by which the environment directly impacts on genes.",
+        "needle": "mechanism",
+        "sourceForm": "mechanism"
+      },
+      {
+        "term": "numerous",
+        "pos": "adj",
+        "ipa": "/ˈnjuːmərəs/",
+        "meaning": "có số lượng lớn",
+        "synonyms": "many; plentiful",
+        "example": "Numerous tests were carried out on the twins, and they were each asked more than 15,000 questions.",
+        "needle": "Numerous",
+        "sourceForm": "Numerous"
+      },
+      {
+        "term": "combine",
+        "pos": "v",
+        "ipa": "/kəmˈbaɪn/",
+        "meaning": "kết hợp",
+        "synonyms": "integrate; bring together",
+        "example": "If you think of our DNA as an immense piano keyboard and our genes as the keys — each key symbolizing a segment of DNA responsible for a particular note, or trait, and all the keys combining to make us who we are — then epigenetic processes determine when and how each key can be struck, changing the tune being played.",
+        "needle": "combining",
+        "sourceForm": "combining"
+      },
+      {
+        "term": "compare",
+        "pos": "v",
+        "ipa": "/kəmˈpeə/",
+        "meaning": "so sánh",
+        "synonyms": "contrast; assess similarities",
+        "example": "Alternatively, by comparing the experiences of identical twins with those of fraternal twins, who come from separate eggs and share on average half their DNA, researchers can quantify the extent to which our genes affect our lives.",
+        "needle": "comparing",
+        "sourceForm": "comparing"
+      },
+      {
+        "term": "concept",
+        "pos": "n",
+        "ipa": "/ˈkɒnsept/",
+        "meaning": "khái niệm hoặc ý tưởng",
+        "synonyms": "notion; idea",
+        "example": "The key to their approach was a statistical concept called heritability.",
+        "needle": "concept",
+        "sourceForm": "concept"
       }
     ],
     "grammar": [
@@ -4397,6 +5337,106 @@
         "example": "For example, dissonant music may be used in film to indicate an approaching (but not yet visible) menace or disaster.",
         "needle": "approaching",
         "sourceForm": "approaching"
+      },
+      {
+        "term": "experience",
+        "pos": "n",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "meaning": "kinh nghiệm; trải nghiệm",
+        "synonyms": "knowledge gained through practice",
+        "example": "Though we might think of film as an essentially visual experience, we really cannot afford to underestimate the importance of film sound.",
+        "needle": "experience",
+        "sourceForm": "experience"
+      },
+      {
+        "term": "importance",
+        "pos": "n",
+        "ipa": "/ɪmˈpɔːtəns/",
+        "meaning": "tầm quan trọng",
+        "synonyms": "significance",
+        "example": "Though we might think of film as an essentially visual experience, we really cannot afford to underestimate the importance of film sound.",
+        "needle": "importance",
+        "sourceForm": "importance"
+      },
+      {
+        "term": "successful",
+        "pos": "adj",
+        "ipa": "/səkˈsesfəl/",
+        "meaning": "thành công",
+        "synonyms": "effective; achieving its aim",
+        "example": "For example, in the highly successful science-fiction film 2001, little dialogue was evident, and most of it was banal and of little intrinsic interest.",
+        "needle": "successful",
+        "sourceForm": "successful"
+      },
+      {
+        "term": "attention",
+        "pos": "n",
+        "ipa": "/əˈtenʃən/",
+        "meaning": "sự chú ý",
+        "synonyms": "concentration; notice",
+        "example": "However, if the 'click' of an opening door is part of an ominous action such as a burglary, the sound mixer may call attention to the 'click' with an increase in volume; this helps to engage the audience in a moment of suspense.",
+        "needle": "attention",
+        "sourceForm": "attention"
+      },
+      {
+        "term": "activity",
+        "pos": "n",
+        "ipa": "/ækˈtɪvəti/",
+        "meaning": "hoạt động",
+        "synonyms": "action; pursuit",
+        "example": "The audience is caught up in a whirlwind of activity in simply managing to follow the plot.",
+        "needle": "activity",
+        "sourceForm": "activity"
+      },
+      {
+        "term": "audience",
+        "pos": "n",
+        "ipa": "/ˈɔːdiəns/",
+        "meaning": "khán giả, người nghe",
+        "synonyms": "spectators; listeners",
+        "example": "For example, a particular musical theme associated with an individual character or situation may be repeated at various points in a film in order to remind the audience of salient motifs or ideas.",
+        "needle": "audience",
+        "sourceForm": "audience"
+      },
+      {
+        "term": "dialogue",
+        "pos": "n",
+        "ipa": "/ˈdaɪəlɒɡ/",
+        "meaning": "lời thoại, cuộc đối thoại",
+        "synonyms": "conversation; spoken exchange",
+        "example": "This use of dialogue underscores not only the dizzy quality of the character played by Katherine Hepburn, but also the absurdity of the film itself and thus its humor.",
+        "needle": "dialogue",
+        "sourceForm": "dialogue"
+      },
+      {
+        "term": "perceive",
+        "pos": "v",
+        "ipa": "/pəˈsiːv/",
+        "meaning": "cảm nhận hoặc nhận thức",
+        "synonyms": "sense; recognise",
+        "example": "Often with film charaeterization the audience perceives little or no difference between the character and the actor.",
+        "needle": "perceives",
+        "sourceForm": "perceives"
+      },
+      {
+        "term": "compare",
+        "pos": "v",
+        "ipa": "/kəmˈpeə/",
+        "meaning": "so sánh",
+        "synonyms": "contrast; assess similarities",
+        "example": "In this way the film-maker was able to portray what Thomas Sobochack and Vivian Sobochack call, in An Introduction to Film, the 'inadequacy of human responses when compared with the magnificent technology created by man and the visual beauties of the universe'.",
+        "needle": "compared",
+        "sourceForm": "compared"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "For example, a film-maker might opt to include the background sound of an ambulance's siren while the foreground sound and image portrays an arguing couple.",
+        "needle": "include",
+        "sourceForm": "include"
       }
     ],
     "grammar": [
@@ -4785,6 +5825,116 @@
         "example": "The word is made up of different slots, each corresponding to a particular portion of meaning.",
         "needle": "particular",
         "sourceForm": "particular"
+      },
+      {
+        "term": "achievement",
+        "pos": "n",
+        "ipa": "/əˈtʃiːvmənt/",
+        "meaning": "thành tựu",
+        "synonyms": "accomplishment; success",
+        "example": "This was how, in 1660, the renowned French grammarians of the Port-Royal abbey near Versailles distilled the essence of language, and no one since has celebrated more eloquently the magnitude of its achievement.",
+        "needle": "achievement",
+        "sourceForm": "achievement"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "This sleek design allows single sounds to convey useful information, and in fact even the absence of a sound has been enlisted to express something specific.",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "existence",
+        "pos": "n",
+        "ipa": "/ɪɡˈzɪstəns/",
+        "meaning": "sự tồn tại",
+        "synonyms": "presence; being",
+        "example": "Other inventions — the wheel, agriculture, sliced bread — may have transformed our material existence, but the advent of language is what made us human.",
+        "needle": "existence",
+        "sourceForm": "existence"
+      },
+      {
+        "term": "language",
+        "pos": "n",
+        "ipa": "/ˈlæŋɡwɪdʒ/",
+        "meaning": "ngôn ngữ",
+        "synonyms": "system of communication",
+        "example": "One of the showiest stunts that some languages can pull offis an ability to build up words of breath-breaking length, and thus express in one word what English takes a whole sentence to say.",
+        "needle": "languages",
+        "sourceForm": "languages"
+      },
+      {
+        "term": "material",
+        "pos": "adj",
+        "ipa": "/məˈtɪəriəl/",
+        "meaning": "thuộc đời sống vật chất, các điều kiện hữu hình",
+        "synonyms": "physical; tangible",
+        "example": "Other inventions — the wheel, agriculture, sliced bread — may have transformed our material existence, but the advent of language is what made us human.",
+        "needle": "material",
+        "sourceForm": "material"
+      },
+      {
+        "term": "specific",
+        "pos": "adj",
+        "ipa": "/spəˈsɪfɪk/",
+        "meaning": "cụ thể, xác định rõ",
+        "synonyms": "particular; precise",
+        "example": "This sleek design allows single sounds to convey useful information, and in fact even the absence of a sound has been enlisted to express something specific.",
+        "needle": "specific",
+        "sourceForm": "specific"
+      },
+      {
+        "term": "ability",
+        "pos": "n",
+        "ipa": "/əˈbɪləti/",
+        "meaning": "khả năng",
+        "synonyms": "capacity; capability",
+        "example": "In themselves, these configurations of mouth — and so on — amount to nothing more than a few haphazard spits and splutters, random noises with no meaning, no ability to express, no power to explain.",
+        "needle": "ability",
+        "sourceForm": "ability"
+      },
+      {
+        "term": "compare",
+        "pos": "v",
+        "ipa": "/kəmˈpeə/",
+        "meaning": "so sánh",
+        "synonyms": "contrast; assess similarities",
+        "example": "Compared to language, all other inventions pale in significance, since everything we have ever achieved depends on language and originates from it.",
+        "needle": "Compared",
+        "sourceForm": "Compared"
+      },
+      {
+        "term": "design",
+        "pos": "n",
+        "ipa": "/dɪˈzaɪn/",
+        "meaning": "thiết kế, phương án bố trí",
+        "synonyms": "plan; arrangement",
+        "example": "This sleek design allows single sounds to convey useful information, and in fact even the absence of a sound has been enlisted to express something specific.",
+        "needle": "design",
+        "sourceForm": "design"
+      },
+      {
+        "term": "secret",
+        "pos": "n",
+        "ipa": "/ˈsiːkrət/",
+        "meaning": "bí mật, thông tin được giữ kín",
+        "synonyms": "concealed information",
+        "example": "Ihis apparent paradox is at the core of our fascination with language, and it holds many of its secrets.",
+        "needle": "secrets",
+        "sourceForm": "secrets"
+      },
+      {
+        "term": "unique",
+        "pos": "adj",
+        "ipa": "/juˈniːk/",
+        "meaning": "độc nhất, riêng biệt",
+        "synonyms": "one of a kind; distinctive",
+        "example": "Even so, there is just one flaw in all these hymns of praise, for the homage to languag& unique accomplishment conceals a simple yet criticalincongruity.",
+        "needle": "unique",
+        "sourceForm": "unique"
       }
     ],
     "grammar": [

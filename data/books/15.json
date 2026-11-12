@@ -284,6 +284,146 @@
         "example": "They sold nutmeg for high prices to merchants based in Venice, but they never revealed the exact location of the source of this extremely valuable commodity.",
         "needle": "revealed",
         "sourceForm": "revealed"
+      },
+      {
+        "term": "concentrate",
+        "pos": "v",
+        "ipa": "/ˈkɒnsntreɪt/",
+        "meaning": "tập trung",
+        "synonyms": "focus",
+        "example": "They concentrated all nutmeg production into a few easily guarded areas, uprooting and destroying any trees outside the plantation zones.",
+        "needle": "concentrated",
+        "sourceForm": "concentrated"
+      },
+      {
+        "term": "production",
+        "pos": "n",
+        "ipa": "/prəˈdʌkʃən/",
+        "meaning": "sự sản xuất, sản lượng",
+        "synonyms": "manufacturing; output",
+        "example": "Today, nutmeg is grown in Indonesia, the Caribbean, India, Malaysia, Papua New Guinea and Sri Lanka, and world nutmeg production is estimated to average between 10,000 and 12,000 tonnes per year.",
+        "needle": "production",
+        "sourceForm": "production"
+      },
+      {
+        "term": "commodity",
+        "pos": "n",
+        "ipa": "/kəˈmɒdəti/",
+        "meaning": "hàng hóa",
+        "synonyms": "product",
+        "example": "They sold nutmeg for high prices to merchants based in Venice, but they never revealed the exact location of the source of this extremely valuable commodity.",
+        "needle": "commodity",
+        "sourceForm": "commodity"
+      },
+      {
+        "term": "employee",
+        "pos": "n",
+        "ipa": "/ɪmˈplɔɪiː/",
+        "meaning": "nhân viên",
+        "synonyms": "worker",
+        "example": "The company had 50,000 employees worldwide, with a private army of 30,000 men and a fleet of 200 ships.",
+        "needle": "employees",
+        "sourceForm": "employees"
+      },
+      {
+        "term": "maintain",
+        "pos": "v",
+        "ipa": "/meɪnˈteɪn/",
+        "meaning": "duy trì; khẳng định",
+        "synonyms": "preserve; assert",
+        "example": "The Banda Islands were ruled by local sultans who insisted on maintaining a neutral trading policy towards foreign powers.",
+        "needle": "maintaining",
+        "sourceForm": "maintaining"
+      },
+      {
+        "term": "merchant",
+        "pos": "n",
+        "ipa": "/ˈmɜːtʃənt/",
+        "meaning": "thương nhân",
+        "synonyms": "trader; dealer",
+        "example": "They sold nutmeg for high prices to merchants based in Venice, but they never revealed the exact location of the source of this extremely valuable commodity.",
+        "needle": "merchants",
+        "sourceForm": "merchants"
+      },
+      {
+        "term": "original",
+        "pos": "adj",
+        "ipa": "/əˈrɪdʒənəl/",
+        "meaning": "ban đầu; có tính độc đáo",
+        "synonyms": "initial; novel",
+        "example": "Nutmeg bought for a few pennies in Indonesia could be sold for 68,000 times its original cost on the streets of London.",
+        "needle": "original",
+        "sourceForm": "original"
+      },
+      {
+        "term": "precious",
+        "pos": "adj",
+        "ipa": "/ˈpreʃəs/",
+        "meaning": "quý giá",
+        "synonyms": "valuable",
+        "example": "The Arab-Venetian dominance of the trade finally ended in 1512, when the Portuguese reached the Banda Islands and began exploiting its precious resources.",
+        "needle": "precious",
+        "sourceForm": "precious"
+      },
+      {
+        "term": "resource",
+        "pos": "n",
+        "ipa": "/rɪˈsɔːs/",
+        "meaning": "nguồn lực, tài nguyên",
+        "synonyms": "supply; asset",
+        "example": "The Arab-Venetian dominance of the trade finally ended in 1512, when the Portuguese reached the Banda Islands and began exploiting its precious resources.",
+        "needle": "resources",
+        "sourceForm": "resources"
+      },
+      {
+        "term": "valuable",
+        "pos": "adj",
+        "ipa": "/ˈvæljuəbəl/",
+        "meaning": "có giá trị",
+        "synonyms": "precious; useful",
+        "example": "Intent on securing their hold over every nutmeg-producing island, the Dutch offered a trade: if the British would give them the island of Run, they would in turn give Britain a distant and much less valuable island in North America.",
+        "needle": "valuable",
+        "sourceForm": "valuable"
+      },
+      {
+        "term": "protect",
+        "pos": "v",
+        "ipa": "/prəˈtekt/",
+        "meaning": "bảo vệ",
+        "synonyms": "safeguard; preserve",
+        "example": "Once securely in control of the Bandas, the Dutch went to work protecting their new investment.",
+        "needle": "protecting",
+        "sourceForm": "protecting"
+      },
+      {
+        "term": "policy",
+        "pos": "n",
+        "ipa": "/ˈpɒləsi/",
+        "meaning": "chính sách; hợp đồng bảo hiểm",
+        "synonyms": "rule; insurance contract",
+        "example": "The Banda Islands were ruled by local sultans who insisted on maintaining a neutral trading policy towards foreign powers.",
+        "needle": "policy",
+        "sourceForm": "policy"
+      },
+      {
+        "term": "profit",
+        "pos": "n",
+        "ipa": "/ˈprɒfɪt/",
+        "meaning": "lợi nhuận",
+        "synonyms": "financial gain; earnings",
+        "example": "Profits began to flow into the Netherlands, and the Dutch commercial fleet swiftly grew into one of the largest in the world.",
+        "needle": "Profits",
+        "sourceForm": "Profits"
+      },
+      {
+        "term": "trade",
+        "pos": "n",
+        "ipa": "/treɪd/",
+        "meaning": "thương mại, việc trao đổi hàng hóa",
+        "synonyms": "commerce; exchange",
+        "example": "Intent on securing their hold over every nutmeg-producing island, the Dutch offered a trade: if the British would give them the island of Run, they would in turn give Britain a distant and much less valuable island in North America.",
+        "needle": "trade",
+        "sourceForm": "trade"
       }
     ],
     "grammar": [
@@ -743,6 +883,76 @@
         "example": "One frequently cited motive is safety; indeed, research at the UK's Transport Research Laboratory has demonstrated that more than 90 percent of road collisions involve human error as a contributory factor, and it is the primary cause in the vast majority.",
         "needle": "factor",
         "sourceForm": "factor"
+      },
+      {
+        "term": "responsibility",
+        "pos": "n",
+        "ipa": "/rɪˌspɒnsəˈbɪləti/",
+        "meaning": "trách nhiệm",
+        "synonyms": "duty",
+        "example": "If the vehicle can do some or all of the driving, it may be possible to be productive, to socialise or simply to relax while automation systems have responsibility for safe control of the vehicle.",
+        "needle": "responsibility",
+        "sourceForm": "responsibility"
+      },
+      {
+        "term": "contribution",
+        "pos": "n",
+        "ipa": "/ˌkɒntrɪˈbjuːʃən/",
+        "meaning": "sự đóng góp",
+        "synonyms": "input; assistance",
+        "example": "Vehicles with limited selfdriving capabilities have been around for more than 50 years, resulting in significant contributions towards driver assistance systems.",
+        "needle": "contributions",
+        "sourceForm": "contributions"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "Mobility will change in such potentially significant ways and in association with so many other technological developments, such as telepresence and virtual reality, that it is hard to make concrete predictions about the future.",
+        "needle": "developments",
+        "sourceForm": "developments"
+      },
+      {
+        "term": "exceptional",
+        "pos": "adj",
+        "ipa": "/ɪkˈsepʃənəl/",
+        "meaning": "xuất sắc; khác thường so với mức thông thường",
+        "synonyms": "outstanding; extraordinary",
+        "example": "Specialised vehicles may then be available for exceptional journeys, such as going on a family camping trip or helping a son or daughter move to university.",
+        "needle": "exceptional",
+        "sourceForm": "exceptional"
+      },
+      {
+        "term": "improvement",
+        "pos": "n",
+        "ipa": "/ɪmˈpruːvmənt/",
+        "meaning": "sự cải thiện",
+        "synonyms": "enhancement; progress",
+        "example": "The implementation of robotic car manufacture from the 1970s onwards led to significant cost savings and improvements in the reliability and flexibility of vehicle mass production.",
+        "needle": "improvements",
+        "sourceForm": "improvements"
+      },
+      {
+        "term": "manufacture",
+        "pos": "v/n",
+        "ipa": "/ˌmænjuˈfæktʃə/",
+        "meaning": "sản xuất, chế tạo",
+        "synonyms": "produce",
+        "example": "However, one thing is certain: change is coming, and the need to be flexible in response to this will be vital for those involved in manufacturing the vehicles that will deliver future mobility.",
+        "needle": "manufacturing",
+        "sourceForm": "manufacturing"
+      },
+      {
+        "term": "requirement",
+        "pos": "n",
+        "ipa": "/rɪˈkwaɪəmənt/",
+        "meaning": "yêu cầu, điều kiện cần",
+        "synonyms": "condition",
+        "example": "If we move to a model where consumers are tending not to own a single vehicle but to purchase access to a range of vehicles through a mobility provider, drivers will have the freedom to select one that best suits their needs for a particular journey, rather than making a compromise across all their requirements.",
+        "needle": "requirements",
+        "sourceForm": "requirements"
       }
     ],
     "grammar": [
@@ -1132,6 +1342,166 @@
         "example": "They each set their own particular criteria; the common factor in their approach being that they all had, unlike many of us who simply enjoy travel or discovering new things, both a very definite objective from the outset and also a desire to record their findings.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "interpretation",
+        "pos": "n",
+        "ipa": "/ɪnˌtɜːprəˈteɪʃn/",
+        "meaning": "cách giải thích, diễn giải",
+        "synonyms": "explanation",
+        "example": "However, this is to disregard the role the human mind has in conveying remote places; and this is what interests me: how a fresh interpretation, even of a well-travelled route, can give its readers new insights.",
+        "needle": "interpretation",
+        "sourceForm": "interpretation"
+      },
+      {
+        "term": "exploration",
+        "pos": "n",
+        "ipa": "/ˌekspləˈreɪʃən/",
+        "meaning": "việc thăm dò, khám phá",
+        "synonyms": "investigation; discovery",
+        "example": "In this book about the exploration of the earth's surface, I have confined myself to those whose travels were real and who also aimed at more than personal discovery.",
+        "needle": "exploration",
+        "sourceForm": "exploration"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "Then Robin Hanbury-Tenison, a campaigner on behalf of remote so-called 'tribal' peoples, saict 'A traveller simply records information about some far-off world, and reports back; but an explorer changes the world.'",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "expedition",
+        "pos": "n",
+        "ipa": "/ˌekspəˈdɪʃən/",
+        "meaning": "chuyến thám hiểm có tổ chức",
+        "synonyms": "exploratory journey",
+        "example": "I've done a great many expeditions and each one was unique.",
+        "needle": "expeditions",
+        "sourceForm": "expeditions"
+      },
+      {
+        "term": "particular",
+        "pos": "adj",
+        "ipa": "/pəˈtɪkjələ/",
+        "meaning": "cụ thể, riêng biệt",
+        "synonyms": "specific",
+        "example": "They each set their own particular criteria; the common factor in their approach being that they all had, unlike many of us who simply enjoy travel or discovering new things, both a very definite objective from the outset and also a desire to record their findings.",
+        "needle": "particular",
+        "sourceForm": "particular"
+      },
+      {
+        "term": "behaviour",
+        "pos": "n",
+        "ipa": "/bɪˈheɪvjə/",
+        "meaning": "hành vi",
+        "synonyms": "conduct",
+        "example": "We know how the land surface of our planet lies; exploration of it is now down to the details – the habits ofmicrobes, say, or the grazing behaviour of buffalo.",
+        "needle": "behaviour",
+        "sourceForm": "behaviour"
+      },
+      {
+        "term": "discovery",
+        "pos": "n",
+        "ipa": "/dɪˈskʌvəri/",
+        "meaning": "sự phát hiện",
+        "synonyms": "finding; revelation",
+        "example": "In this book about the exploration of the earth's surface, I have confined myself to those whose travels were real and who also aimed at more than personal discovery.",
+        "needle": "discovery",
+        "sourceForm": "discovery"
+      },
+      {
+        "term": "existence",
+        "pos": "n",
+        "ipa": "/ɪɡˈzɪstəns/",
+        "meaning": "sự tồn tại",
+        "synonyms": "presence; being",
+        "example": "This questing nature of ours undoubtedly helped our species spread around the globe, just as it nowadays no doubt helps the last nomadic Penan maintain their existence in the depleted forests of Borneo, and a visitor negotiate the subways of New York.",
+        "needle": "existence",
+        "sourceForm": "existence"
+      },
+      {
+        "term": "objective",
+        "pos": "n/adj",
+        "ipa": "/əbˈdʒektɪv/",
+        "meaning": "mục tiêu; khách quan",
+        "synonyms": "aim; impartial",
+        "example": "They each set their own particular criteria; the common factor in their approach being that they all had, unlike many of us who simply enjoy travel or discovering new things, both a very definite objective from the outset and also a desire to record their findings.",
+        "needle": "objective",
+        "sourceForm": "objective"
+      },
+      {
+        "term": "recognise",
+        "pos": "v",
+        "ipa": "/ˈrekəɡnaɪz/",
+        "meaning": "nhận ra, công nhận",
+        "synonyms": "identify; acknowledge",
+        "example": "He is delving into matters we all recognise because they are common to humanity.",
+        "needle": "recognise",
+        "sourceForm": "recognise"
+      },
+      {
+        "term": "ancestor",
+        "pos": "n",
+        "ipa": "/ˈænsestə/",
+        "meaning": "tổ tiên",
+        "synonyms": "forebear",
+        "example": "Long before the first caveman slumped down beside the fire and grunted news that there were plenty of wildebeest over yonder, our ancestors had learnt the value of sending out scouts to investigate the unknown.",
+        "needle": "ancestors",
+        "sourceForm": "ancestors"
+      },
+      {
+        "term": "discover",
+        "pos": "v",
+        "ipa": "/dɪˈskʌvə/",
+        "meaning": "phát hiện, khám phá",
+        "synonyms": "find; uncover",
+        "example": "Our desire to discover, and then share that new-found Imowledge, is part of what makes us human indeed, this has played an important part in our success as a species.",
+        "needle": "discover",
+        "sourceForm": "discover"
+      },
+      {
+        "term": "isolated",
+        "pos": "adj",
+        "ipa": "/ˈaɪsəleɪtɪd/",
+        "meaning": "bị cô lập, biệt lập",
+        "synonyms": "remote; separated",
+        "example": "I've lived for months alone with isolated groups of people all around the world, even two 'uncontacted tribes'.",
+        "needle": "isolated",
+        "sourceForm": "isolated"
+      },
+      {
+        "term": "maintain",
+        "pos": "v",
+        "ipa": "/meɪnˈteɪn/",
+        "meaning": "duy trì; khẳng định",
+        "synonyms": "preserve; assert",
+        "example": "This questing nature of ours undoubtedly helped our species spread around the globe, just as it nowadays no doubt helps the last nomadic Penan maintain their existence in the depleted forests of Borneo, and a visitor negotiate the subways of New York.",
+        "needle": "maintain",
+        "sourceForm": "maintain"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "We think back to a golden age, as if exploration peaked somehow in the 19th century – as if the process of discovery is now on the decline, though the truth is that we have named only one and a half million of this planet's species, and there may be more than IO million – and that's not including bacteria.",
+        "needle": "including",
+        "sourceForm": "including"
+      },
+      {
+        "term": "process",
+        "pos": "n",
+        "ipa": "/ˈprəʊses/",
+        "meaning": "quá trình",
+        "synonyms": "procedure",
+        "example": "We think back to a golden age, as if exploration peaked somehow in the 19th century – as if the process of discovery is now on the decline, though the truth is that we have named only one and a half million of this planet's species, and there may be more than IO million – and that's not including bacteria.",
+        "needle": "process",
+        "sourceForm": "process"
       }
     ],
     "grammar": [
@@ -1599,6 +1969,36 @@
         "example": "To illustrate, Sennett discusses the Peachtree Center in Atlanta, USA, a development typical of the modernist approach to urban planning prevalent in the 1970s.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "psychological",
+        "pos": "adj",
+        "ipa": "/ˌsaɪkəˈlɒdʒɪkəl/",
+        "meaning": "thuộc tâm lý",
+        "synonyms": "mental; relating to the mind",
+        "example": "In doing so they make crossings feel longer, introducing psychological barriers greatly impacting those that are the least mobile, and encouraging others to make dangerous crossings to get around the guard rails.",
+        "needle": "psychological",
+        "sourceForm": "psychological"
+      },
+      {
+        "term": "construction",
+        "pos": "n",
+        "ipa": "/kənˈstrʌkʃn/",
+        "meaning": "sự xây dựng",
+        "synonyms": "building",
+        "example": "Whereas medieval builders improvised and adapted construction through their intimate knowledge of materials and personal experience of the conditions on a site, building designs are now conceived and stored in media technologies that detach the designer from the physical and social realities they are creating.",
+        "needle": "construction",
+        "sourceForm": "construction"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "To illustrate, Sennett discusses the Peachtree Center in Atlanta, USA, a development typical of the modernist approach to urban planning prevalent in the 1970s.",
+        "needle": "development",
+        "sourceForm": "development"
       }
     ],
     "grammar": [
@@ -2041,6 +2441,66 @@
         "example": "A more practical approach for long-extinct species is to take the DNA of existing species as a template, ready for the insertion of strands of extinct animal DNA to create something new; a hybrid, based on the living species, but which looks and/or acts like the animal which died out.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "carnivore",
+        "pos": "n",
+        "ipa": "/ˈkɑːnɪvɔː/",
+        "meaning": "động vật ăn thịt",
+        "synonyms": "meat-eating animal",
+        "example": "'There is no carnivore now in Tasmania that fills the niche which thylacines once occupied,' explains Michael Archer of the University of New South Wales.",
+        "needle": "carnivore",
+        "sourceForm": "carnivore"
+      },
+      {
+        "term": "existence",
+        "pos": "n",
+        "ipa": "/ɪɡˈzɪstəns/",
+        "meaning": "sự tồn tại",
+        "synonyms": "presence; being",
+        "example": "He points out that in the decades since the thylacine went extinct, there has been a spread in a 'dangerously debilitating' facial tumour syndrome which threatens the existence of the Tasmanian devils, the island's other notorious resident.",
+        "needle": "existence",
+        "sourceForm": "existence"
+      },
+      {
+        "term": "therefore",
+        "pos": "adv",
+        "ipa": "/ˈðeəfɔː/",
+        "meaning": "vì vậy",
+        "synonyms": "consequently",
+        "example": "This has left forests stagnant and therefore unwelcoming to the plants and animals which evolved to help regenerate the forest after a disturbance.",
+        "needle": "therefore",
+        "sourceForm": "therefore"
+      },
+      {
+        "term": "abundant",
+        "pos": "adj",
+        "ipa": "/əˈbʌndənt/",
+        "meaning": "có sẵn với số lượng dồi dào",
+        "synonyms": "plentiful; ample",
+        "example": "The basic premise involves using cloning technology to turn the DNA of extinct animals into a fertilised embryo, which is carried by the nearest relative still in existence – in this case, the abundant band-tailed pigeon – before being born as a living, breathing animal.",
+        "needle": "abundant",
+        "sourceForm": "abundant"
+      },
+      {
+        "term": "emission",
+        "pos": "n",
+        "ipa": "/ɪˈmɪʃən/",
+        "meaning": "lượng khí thải được phát ra",
+        "synonyms": "discharge; release",
+        "example": "This repopulation of the tundra and boreal forests of Eurasia and North America with large mammals could also be a useful factor in reducing carbon emissions – elephants punch holes through snow and knock down trees, which encourages grass growth.",
+        "needle": "emissions",
+        "sourceForm": "emissions"
+      },
+      {
+        "term": "pinpoint",
+        "pos": "v",
+        "ipa": "/ˈpɪnpɔɪnt/",
+        "meaning": "xác định chính xác một yếu tố, vị trí hoặc nguyên nhân",
+        "synonyms": "identify precisely; locate exactly",
+        "example": "By pinpointing which genetic traits made it possible for mammoths to survive the icy climate of the tundra, the project's goal is to return mammoths, or a mammothlike species, to the area.",
+        "needle": "pinpointing",
+        "sourceForm": "pinpointing"
       }
     ],
     "grammar": [
@@ -2573,6 +3033,26 @@
         "example": "The students then completed a task requiring persistence in which they were asked to guess the potential performance of employees based on provided profiles, and were told that making 10 correct assessments in a row would lead to a win.",
         "needle": "potential",
         "sourceForm": "potential"
+      },
+      {
+        "term": "communication",
+        "pos": "n",
+        "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+        "meaning": "sự giao tiếp, truyền thông",
+        "synonyms": "exchange of information",
+        "example": "Theories focusing on the evolution of laughter point to it as an important adaptation for social communication.",
+        "needle": "communication",
+        "sourceForm": "communication"
+      },
+      {
+        "term": "psychological",
+        "pos": "adj",
+        "ipa": "/ˌsaɪkəˈlɒdʒɪkəl/",
+        "meaning": "thuộc tâm lý",
+        "synonyms": "mental; relating to the mind",
+        "example": "Like other human emotions and expressions, laughter and humour provide psychological scientists with rich resources for studying human psychology, ranging from the development of language to the neuroscience of social perception.",
+        "needle": "psychological",
+        "sourceForm": "psychological"
       }
     ],
     "grammar": [
@@ -2928,6 +3408,146 @@
         "example": "Alongside the instruction he received at the Royal College, Moore visited many of the London museums, particularly the British Museum, which had a wide-ranging collection of ancient sculpture.",
         "needle": "ancient",
         "sourceForm": "ancient"
+      },
+      {
+        "term": "exceptional",
+        "pos": "adj",
+        "ipa": "/ɪkˈsepʃənəl/",
+        "meaning": "xuất sắc; khác thường so với mức thông thường",
+        "synonyms": "outstanding; extraordinary",
+        "example": "Moore's exceptional talent soon gained recognition, and in 1926 he started work as a sculpture instructor at the Royal College.",
+        "needle": "exceptional",
+        "sourceForm": "exceptional"
+      },
+      {
+        "term": "collection",
+        "pos": "n",
+        "ipa": "/kəˈlekʃən/",
+        "meaning": "bộ sưu tập; việc thu thập",
+        "synonyms": "set of collected objects; gathering",
+        "example": "Alongside the instruction he received at the Royal College, Moore visited many of the London museums, particularly the British Museum, which had a wide-ranging collection of ancient sculpture.",
+        "needle": "collection",
+        "sourceForm": "collection"
+      },
+      {
+        "term": "commission",
+        "pos": "n",
+        "ipa": "/kəˈmɪʃən/",
+        "meaning": "đơn đặt hàng hoặc nhiệm vụ được giao để tạo ra tác phẩm",
+        "synonyms": "order for a work; commissioned assignment",
+        "example": "In 1944, Harlow, a town near London, offered Moore a commission for a sculpture depicting a family.",
+        "needle": "commission",
+        "sourceForm": "commission"
+      },
+      {
+        "term": "exhibition",
+        "pos": "n",
+        "ipa": "/ˌeksɪˈbɪʃən/",
+        "meaning": "cuộc trưng bày, triển lãm",
+        "synonyms": "display; show",
+        "example": "In 1931, he held an exhibition at the Leicester Galleries in London.",
+        "needle": "exhibition",
+        "sourceForm": "exhibition"
+      },
+      {
+        "term": "available",
+        "pos": "adj",
+        "ipa": "/əˈveɪləbl/",
+        "meaning": "có sẵn, có thể sử dụng",
+        "synonyms": "accessible",
+        "example": "In this way, Moore's work became available to collectors all over the world.",
+        "needle": "available",
+        "sourceForm": "available"
+      },
+      {
+        "term": "collector",
+        "pos": "n",
+        "ipa": "/kəˈlektə/",
+        "meaning": "người sưu tầm",
+        "synonyms": "person who gathers particular objects",
+        "example": "In this way, Moore's work became available to collectors all over the world.",
+        "needle": "collectors",
+        "sourceForm": "collectors"
+      },
+      {
+        "term": "sculpture",
+        "pos": "n",
+        "ipa": "/ˈskʌlptʃə/",
+        "meaning": "điêu khắc; tác phẩm điêu khắc",
+        "synonyms": "three-dimensional artwork",
+        "example": "Alongside the instruction he received at the Royal College, Moore visited many of the London museums, particularly the British Museum, which had a wide-ranging collection of ancient sculpture.",
+        "needle": "sculpture",
+        "sourceForm": "sculpture"
+      },
+      {
+        "term": "discover",
+        "pos": "v",
+        "ipa": "/dɪˈskʌvə/",
+        "meaning": "phát hiện, khám phá",
+        "synonyms": "find; uncover",
+        "example": "During these visits, he discovered the power and beauty of ancient Egyptian and African sculpture.",
+        "needle": "discovered",
+        "sourceForm": "discovered"
+      },
+      {
+        "term": "material",
+        "pos": "n",
+        "ipa": "/məˈtɪəriəl/",
+        "meaning": "vật liệu, chất liệu",
+        "synonyms": "substance; raw material",
+        "example": "A shortage of materials forced him to focus on drawing.",
+        "needle": "materials",
+        "sourceForm": "materials"
+      },
+      {
+        "term": "achieve",
+        "pos": "v",
+        "ipa": "/əˈtʃiːv/",
+        "meaning": "đạt được",
+        "synonyms": "accomplish",
+        "example": "Moore was the first modern English sculptor to achieve international critical acclaim and he is still regarded as one of the most important sculptors of the 20th century.",
+        "needle": "achieve",
+        "sourceForm": "achieve"
+      },
+      {
+        "term": "gallery",
+        "pos": "n",
+        "ipa": "/ˈɡæləri/",
+        "meaning": "phòng trưng bày nghệ thuật",
+        "synonyms": "exhibition space",
+        "example": "In 1931, he held an exhibition at the Leicester Galleries in London.",
+        "needle": "Galleries",
+        "sourceForm": "Galleries"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "He himself started carving a variety of subjects in stone, including depictions of reclining women, mother-and-child groups, and masks.",
+        "needle": "including",
+        "sourceForm": "including"
+      },
+      {
+        "term": "project",
+        "pos": "n",
+        "ipa": "/ˈprɒdʒekt/",
+        "meaning": "dự án, công việc có kế hoạch",
+        "synonyms": "planned undertaking",
+        "example": "The boost to his income enabled him to take on ambitious projects and start working on the scale he felt his sculpture demanded.",
+        "needle": "projects",
+        "sourceForm": "projects"
+      },
+      {
+        "term": "create",
+        "pos": "v",
+        "ipa": "/kriˈeɪt/",
+        "meaning": "tạo ra",
+        "synonyms": "produce; bring into existence",
+        "example": "In his final years, Moore created the Henry Moore Foundation to promote art appreciation and to display his work.",
+        "needle": "created",
+        "sourceForm": "created"
       }
     ],
     "grammar": [
@@ -3347,6 +3967,86 @@
         "example": "Its main selling point is that unlike standard desalination techniques, it doesn't require a generated power supply: just sunlight.",
         "needle": "techniques",
         "sourceForm": "techniques"
+      },
+      {
+        "term": "population",
+        "pos": "n",
+        "ipa": "/ˌpɒpjuˈleɪʃn/",
+        "meaning": "dân số, quần thể",
+        "synonyms": "inhabitants",
+        "example": "Janssen says that by 2030 half of the world's population will be living with water stress – where the demand exceeds the supply over a certain period of time.",
+        "needle": "population",
+        "sourceForm": "population"
+      },
+      {
+        "term": "available",
+        "pos": "adj",
+        "ipa": "/əˈveɪləbl/",
+        "meaning": "có sẵn, có thể sử dụng",
+        "synonyms": "accessible",
+        "example": "It is particularly valuable in regions where natural groundwater reserves have been polluted, or where seawater is the only water source available.",
+        "needle": "available",
+        "sourceForm": "available"
+      },
+      {
+        "term": "equipment",
+        "pos": "n",
+        "ipa": "/ɪˈkwɪpmənt/",
+        "meaning": "thiết bị",
+        "synonyms": "apparatus",
+        "example": "The market for the self-sufficient devices in developing countries is twofold – those who cannot afford the money for the device outright and pay through microfinance, and middleincome homes that can lease their own equipment.",
+        "needle": "equipment",
+        "sourceForm": "equipment"
+      },
+      {
+        "term": "domestic",
+        "pos": "adj",
+        "ipa": "/dəˈmestɪk/",
+        "meaning": "thuộc gia đình hoặc trong nước",
+        "synonyms": "household; local",
+        "example": "Travelling around Thailand in the 1990s, William Janssen was impressed with the basic rooftop solar heating systems that were on many homes, where energy from the sun was absorbed by a plate and then used to heat water for domestic use.",
+        "needle": "domestic",
+        "sourceForm": "domestic"
+      },
+      {
+        "term": "transmit",
+        "pos": "v",
+        "ipa": "/trænzˈmɪt/",
+        "meaning": "truyền; chuyển tín hiệu, năng lượng hoặc tác nhân gây bệnh",
+        "synonyms": "transfer; convey",
+        "example": "The performance of the unit is shown on an LCD screen and transmitted to the company which provides servicing when necessary.",
+        "needle": "transmitted",
+        "sourceForm": "transmitted"
+      },
+      {
+        "term": "valuable",
+        "pos": "adj",
+        "ipa": "/ˈvæljuəbəl/",
+        "meaning": "có giá trị",
+        "synonyms": "precious; useful",
+        "example": "It is particularly valuable in regions where natural groundwater reserves have been polluted, or where seawater is the only water source available.",
+        "needle": "valuable",
+        "sourceForm": "valuable"
+      },
+      {
+        "term": "develop",
+        "pos": "v",
+        "ipa": "/dɪˈveləp/",
+        "meaning": "phát triển",
+        "synonyms": "grow; evolve",
+        "example": "The market for the self-sufficient devices in developing countries is twofold – those who cannot afford the money for the device outright and pay through microfinance, and middleincome homes that can lease their own equipment.",
+        "needle": "developing",
+        "sourceForm": "developing"
+      },
+      {
+        "term": "provide",
+        "pos": "v",
+        "ipa": "/prəˈvaɪd/",
+        "meaning": "cung cấp",
+        "synonyms": "supply; furnish",
+        "example": "The performance of the unit is shown on an LCD screen and transmitted to the company which provides servicing when necessary.",
+        "needle": "provides",
+        "sourceForm": "provides"
       }
     ],
     "grammar": [
@@ -3819,6 +4519,86 @@
         "example": "Tehrani has used the same approach to compare related versions of fairy tales to discover how they have evolved and which elements have survived longest.",
         "needle": "approach",
         "sourceForm": "approach"
+      },
+      {
+        "term": "relationship",
+        "pos": "n",
+        "ipa": "/rɪˈleɪʃnʃɪp/",
+        "meaning": "mối quan hệ",
+        "synonyms": "connection",
+        "example": "To work out the evolutionary history, development and relationships among groups of organisms, biologists compare the characteristics of living species in a process called 'phylogenetic analysis'.",
+        "needle": "relationships",
+        "sourceForm": "relationships"
+      },
+      {
+        "term": "development",
+        "pos": "n",
+        "ipa": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "synonyms": "growth; progress",
+        "example": "To work out the evolutionary history, development and relationships among groups of organisms, biologists compare the characteristics of living species in a process called 'phylogenetic analysis'.",
+        "needle": "development",
+        "sourceForm": "development"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "'Studies on hunter-gatherer folk tales suggest that these narratives include really important information about the environment and the possible dangers that may be faced there – stuff that's relevant to survival,' he says.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "'It might be what we find interesting about this story is that it's got this survivalrelevant information in it,' says anthropologist Jamie Tehrani at Durham University in the UK.",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "traditional",
+        "pos": "adj",
+        "ipa": "/trəˈdɪʃənl/",
+        "meaning": "truyền thống",
+        "synonyms": "conventional",
+        "example": "'Folklorists: those who study traditional stories more mndamental than whether the visitor is a little girl or three siblings, or the animal is a tiger instead of a wolf.",
+        "needle": "traditional",
+        "sourceForm": "traditional"
+      },
+      {
+        "term": "importance",
+        "pos": "n",
+        "ipa": "/ɪmˈpɔːtəns/",
+        "meaning": "tầm quan trọng",
+        "synonyms": "significance",
+        "example": "That hasn't stopped anthropologists, folklorists* and other academics devising theories to explain the importance of fairy tales in human society.",
+        "needle": "importance",
+        "sourceForm": "importance"
+      },
+      {
+        "term": "knowledge",
+        "pos": "n",
+        "ipa": "/ˈnɒlɪdʒ/",
+        "meaning": "kiến thức, hiểu biết",
+        "synonyms": "understanding; learning",
+        "example": "'We have this huge gap in our knowledge about the history and prehistory of storytelling, despite the fact that we know this genre is an incredibly ancient one,' he says.",
+        "needle": "knowledge",
+        "sourceForm": "knowledge"
+      },
+      {
+        "term": "narrative",
+        "pos": "n",
+        "ipa": "/ˈnærətɪv/",
+        "meaning": "câu chuyện hoặc bản tường thuật các sự kiện",
+        "synonyms": "account; story",
+        "example": "'Studies on hunter-gatherer folk tales suggest that these narratives include really important information about the environment and the possible dangers that may be faced there – stuff that's relevant to survival,' he says.",
+        "needle": "narratives",
+        "sourceForm": "narratives"
       }
     ],
     "grammar": [
@@ -4230,6 +5010,106 @@
         "example": "He sees his project as a model that has the potential to be rolled out across other arid areas around the world.",
         "needle": "potential",
         "sourceForm": "potential"
+      },
+      {
+        "term": "restoration",
+        "pos": "n",
+        "ipa": "/ˌrestəˈreɪʃn/",
+        "meaning": "sự phục hồi, trùng tu",
+        "synonyms": "reconstruction",
+        "example": "'In order to get people interested in habitat restoration, you need to plant a tree that is useful to them,' says Whaley.",
+        "needle": "restoration",
+        "sourceForm": "restoration"
+      },
+      {
+        "term": "population",
+        "pos": "n",
+        "ipa": "/ˌpɒpjuˈleɪʃn/",
+        "meaning": "dân số, quần thể",
+        "synonyms": "inhabitants",
+        "example": "If you just have a few trees left, the population can grow up quickly because it's used to exploiting water when it arrives.'",
+        "needle": "population",
+        "sourceForm": "population"
+      },
+      {
+        "term": "community",
+        "pos": "n",
+        "ipa": "/kəˈmjuːnəti/",
+        "meaning": "cộng đồng",
+        "synonyms": "local population",
+        "example": "'Increasingly aspirational communities think that if you plant food trees in your home or street, it shows you are poor, and still need to grow your own food,' he says.",
+        "needle": "communities",
+        "sourceForm": "communities"
+      },
+      {
+        "term": "essential",
+        "pos": "adj",
+        "ipa": "/ɪˈsenʃl/",
+        "meaning": "thiết yếu",
+        "synonyms": "vital; necessary",
+        "example": "Some of these cut across the forests and break up the corridors that allow the essential movement of mammals, birds and pollen up and down the narrow forest strip.",
+        "needle": "essential",
+        "sourceForm": "essential"
+      },
+      {
+        "term": "cultural",
+        "pos": "adj",
+        "ipa": "/ˈkʌltʃərəl/",
+        "meaning": "thuộc văn hóa",
+        "synonyms": "relating to a society's customs and arts",
+        "example": "'It's a process of cultural resuscitation,' he says.",
+        "needle": "cultural",
+        "sourceForm": "cultural"
+      },
+      {
+        "term": "fragile",
+        "pos": "adj",
+        "ipa": "/ˈfrædʒaɪl/",
+        "meaning": "mong manh, dễ vỡ",
+        "synonyms": "delicate",
+        "example": "'If we can do it here, in the most fragile system on Earth, then that's a real message of hope for lots of places, including Africa, where there is drought and they just can't afford to wait for rain.'",
+        "needle": "fragile",
+        "sourceForm": "fragile"
+      },
+      {
+        "term": "include",
+        "pos": "v",
+        "ipa": "/ɪnˈkluːd/",
+        "meaning": "bao gồm",
+        "synonyms": "contain; incorporate",
+        "example": "'If we can do it here, in the most fragile system on Earth, then that's a real message of hope for lots of places, including Africa, where there is drought and they just can't afford to wait for rain.'",
+        "needle": "including",
+        "sourceForm": "including"
+      },
+      {
+        "term": "process",
+        "pos": "n",
+        "ipa": "/ˈprəʊses/",
+        "meaning": "quá trình",
+        "synonyms": "procedure",
+        "example": "'It's a process of cultural resuscitation,' he says.",
+        "needle": "process",
+        "sourceForm": "process"
+      },
+      {
+        "term": "project",
+        "pos": "n",
+        "ipa": "/ˈprɒdʒekt/",
+        "meaning": "dự án, công việc có kế hoạch",
+        "synonyms": "planned undertaking",
+        "example": "'Of the forests that were here 1,000 years ago, 99 per cent have already gone,' says botanist Oliver Whaley from Kew Gardens in London, who, together with ethnobotanist Dr William Milliken, is running a pioneering project to protect and restore the rapidly disappearing habitat.",
+        "needle": "project",
+        "sourceForm": "project"
+      },
+      {
+        "term": "protect",
+        "pos": "v",
+        "ipa": "/prəˈtekt/",
+        "meaning": "bảo vệ",
+        "synonyms": "safeguard; preserve",
+        "example": "'Of the forests that were here 1,000 years ago, 99 per cent have already gone,' says botanist Oliver Whaley from Kew Gardens in London, who, together with ethnobotanist Dr William Milliken, is running a pioneering project to protect and restore the rapidly disappearing habitat.",
+        "needle": "protect",
+        "sourceForm": "protect"
       }
     ],
     "grammar": [
@@ -4580,6 +5460,146 @@
         "example": "'Our results provide more evidence about the flexibility of human capacity for language in a variety of forms,' Corina says.",
         "needle": "evidence",
         "sourceForm": "evidence"
+      },
+      {
+        "term": "communication",
+        "pos": "n",
+        "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+        "meaning": "sự giao tiếp, truyền thông",
+        "synonyms": "exchange of information",
+        "example": "This form of communication is an adaptation found among cultures where people are often isolated from each other, according to Julien Meyer, a researcher at the Institute of Human Sciences in Lyon, France.",
+        "needle": "communication",
+        "sourceForm": "communication"
+      },
+      {
+        "term": "independent",
+        "pos": "adj",
+        "ipa": "/ˌɪndɪˈpendənt/",
+        "meaning": "độc lập",
+        "synonyms": "autonomous; self-reliant",
+        "example": "'These data suggest that left-hemisphere language regions are uniquely adapted for communicative purposes, independent of the modality of signal.",
+        "needle": "independent",
+        "sourceForm": "independent"
+      },
+      {
+        "term": "information",
+        "pos": "n",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "meaning": "thông tin",
+        "synonyms": "facts; data",
+        "example": "It is also home to the best known of the world's whistle 'languages', a means of transmitting information over long distances which is perfectly adapted to the extreme terrain of the island.",
+        "needle": "information",
+        "sourceForm": "information"
+      },
+      {
+        "term": "experiment",
+        "pos": "n",
+        "ipa": "/ɪkˈsperɪmənt/",
+        "meaning": "thí nghiệm",
+        "synonyms": "trial; test",
+        "example": "When the experiments were repeated with non-whistlers, however, activation was observed in all areas of the brain.",
+        "needle": "experiments",
+        "sourceForm": "experiments"
+      },
+      {
+        "term": "individual",
+        "pos": "n/adj",
+        "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+        "meaning": "cá nhân; riêng lẻ",
+        "synonyms": "person; separate",
+        "example": "Silbo is a substitute for Spanish, with individual words recoded into whistles which have highand low-frequency tones.",
+        "needle": "individual",
+        "sourceForm": "individual"
+      },
+      {
+        "term": "psychology",
+        "pos": "n",
+        "ipa": "/saɪˈkɒlədʒi/",
+        "meaning": "tâm lý học",
+        "synonyms": "study of the mind and behaviour",
+        "example": "'There is much more ambiguity in the whistled signal than in the spoken signal,' explains lead researcher Manuel Carreiras, psychology professor at the University of La Laguna on the Canary island of Tenerife.",
+        "needle": "psychology",
+        "sourceForm": "psychology"
+      },
+      {
+        "term": "available",
+        "pos": "adj",
+        "ipa": "/əˈveɪləbl/",
+        "meaning": "có sẵn, có thể sử dụng",
+        "synonyms": "accessible",
+        "example": "But with modern communication technology now widely available, researchers say whistled languages like Silbo are threatened with extinction.",
+        "needle": "available",
+        "sourceForm": "available"
+      },
+      {
+        "term": "equipment",
+        "pos": "n",
+        "ipa": "/ɪˈkwɪpmənt/",
+        "meaning": "thiết bị",
+        "synonyms": "apparatus",
+        "example": "The study team used neuroimaging equipment to contrast the brain activity of silbadores while listening to whistled and spoken Spanish.",
+        "needle": "equipment",
+        "sourceForm": "equipment"
+      },
+      {
+        "term": "recognise",
+        "pos": "v",
+        "ipa": "/ˈrekəɡnaɪz/",
+        "meaning": "nhận ra, công nhận",
+        "synonyms": "identify; acknowledge",
+        "example": "'Science has developed the idea of brain areas that are dedicated to language, and we are starting to understand the scope of signals that can be recognised as language,' says David Corina, co-author of a recent study and associate professor of psychology at the University of Washington in Seattle.",
+        "needle": "recognised",
+        "sourceForm": "recognised"
+      },
+      {
+        "term": "activity",
+        "pos": "n",
+        "ipa": "/ækˈtɪvəti/",
+        "meaning": "hoạt động",
+        "synonyms": "action; pursuit",
+        "example": "The study team used neuroimaging equipment to contrast the brain activity of silbadores while listening to whistled and spoken Spanish.",
+        "needle": "activity",
+        "sourceForm": "activity"
+      },
+      {
+        "term": "isolated",
+        "pos": "adj",
+        "ipa": "/ˈaɪsəleɪtɪd/",
+        "meaning": "bị cô lập, biệt lập",
+        "synonyms": "remote; separated",
+        "example": "The silbadores of Gomera are traditionally shepherds and other isolated mountain folk, and their novel means of staying in touch allows them to communicate over distances of up to 10 kilometres.",
+        "needle": "isolated",
+        "sourceForm": "isolated"
+      },
+      {
+        "term": "language",
+        "pos": "n",
+        "ipa": "/ˈlæŋɡwɪdʒ/",
+        "meaning": "ngôn ngữ",
+        "synonyms": "system of communication",
+        "example": "Researchers say that Silbo activates parts of the brain normally associated with spoken language, suggesting that the brain is remarkably flexible in its ability to interpret sounds as language.",
+        "needle": "language",
+        "sourceForm": "language"
+      },
+      {
+        "term": "original",
+        "pos": "adj",
+        "ipa": "/əˈrɪdʒənəl/",
+        "meaning": "ban đầu; có tính độc đáo",
+        "synonyms": "initial; novel",
+        "example": "'Whistled languages are quite clearly defined and represent an original adaptation of the spoken language for the needs of isolated human groups.'",
+        "needle": "original",
+        "sourceForm": "original"
+      },
+      {
+        "term": "survival",
+        "pos": "n",
+        "ipa": "/səˈvaɪvl/",
+        "meaning": "sự sống còn",
+        "synonyms": "continued existence",
+        "example": "With dwindling numbers of Gomera islanders still fluent in the language, Canaries' authorities are taking steps to try to ensure its survival.",
+        "needle": "survival",
+        "sourceForm": "survival"
       }
     ],
     "grammar": [
@@ -4992,6 +6012,126 @@
         "example": "The public's task is therefore to identify which links in the supply chain are sensitive to public pressure: for instance, fast-food chains or jewelry stores, but not meat packers or gold miners.",
         "needle": "identify",
         "sourceForm": "identify"
+      },
+      {
+        "term": "responsibility",
+        "pos": "n",
+        "ipa": "/rɪˌspɒnsəˈbɪləti/",
+        "meaning": "trách nhiệm",
+        "synonyms": "duty",
+        "example": "Our blaming of businesses also ignores the ultimate responsibility of the public for creating the conditions that let a business profit through destructive environmental policies.",
+        "needle": "responsibility",
+        "sourceForm": "responsibility"
+      },
+      {
+        "term": "environment",
+        "pos": "n",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "synonyms": "surroundings",
+        "example": "Depending on the circumstances, a business may maximize the amount of money it makes, at least in the short term, by damaging the environment and hurting people.",
+        "needle": "environment",
+        "sourceForm": "environment"
+      },
+      {
+        "term": "ineffective",
+        "pos": "adj",
+        "ipa": "/ˌɪnɪˈfektɪv/",
+        "meaning": "không hiệu quả; không tạo ra kết quả mong muốn",
+        "synonyms": "unsuccessful; ineffectual",
+        "example": "When government regulation is effective, and when the public is environmentally aware, environmentally clean big businesses may out-compete dirty ones, but the reverse is likely to be true if government regulation is ineffective and if the public doesn't care.",
+        "needle": "ineffective",
+        "sourceForm": "ineffective"
+      },
+      {
+        "term": "regulation",
+        "pos": "n",
+        "ipa": "/ˌreɡjuˈleɪʃn/",
+        "meaning": "quy định; sự điều chỉnh",
+        "synonyms": "rule; control",
+        "example": "When government regulation is effective, and when the public is environmentally aware, environmentally clean big businesses may out-compete dirty ones, but the reverse is likely to be true if government regulation is ineffective and if the public doesn't care.",
+        "needle": "regulation",
+        "sourceForm": "regulation"
+      },
+      {
+        "term": "effective",
+        "pos": "adj",
+        "ipa": "/ɪˈfektɪv/",
+        "meaning": "hiệu quả",
+        "synonyms": "successful",
+        "example": "When government regulation is effective, and when the public is environmentally aware, environmentally clean big businesses may out-compete dirty ones, but the reverse is likely to be true if government regulation is ineffective and if the public doesn't care.",
+        "needle": "effective",
+        "sourceForm": "effective"
+      },
+      {
+        "term": "essential",
+        "pos": "adj",
+        "ipa": "/ɪˈsenʃl/",
+        "meaning": "thiết yếu",
+        "synonyms": "vital; necessary",
+        "example": "I predict that in the future, just as in the past, changes in public attitudes will be essential for changes in businesses' environmental practices.",
+        "needle": "essential",
+        "sourceForm": "essential"
+      },
+      {
+        "term": "introduce",
+        "pos": "v",
+        "ipa": "/ˌɪntrəˈdjuːs/",
+        "meaning": "giới thiệu, đưa vào sử dụng",
+        "synonyms": "present; bring in",
+        "example": "For instance, after the US public became concerned about the spread of a disease known as BSE, which was transmitted to humans through infected meat, the US government's Food and Drug Administration introduced rules demanding that the meat industry abandon practices associated with the risk ofthe disease spreading.",
+        "needle": "introduced",
+        "sourceForm": "introduced"
+      },
+      {
+        "term": "principle",
+        "pos": "n",
+        "ipa": "/ˈprɪnsəpl/",
+        "meaning": "nguyên lý, nguyên tắc",
+        "synonyms": "rule",
+        "example": "My views may seem to ignore the belief that businesses should act in accordance with moral principles even if this leads to a reduction in their profits.",
+        "needle": "principles",
+        "sourceForm": "principles"
+      },
+      {
+        "term": "therefore",
+        "pos": "adv",
+        "ipa": "/ˈðeəfɔː/",
+        "meaning": "vì vậy",
+        "synonyms": "consequently",
+        "example": "The public's task is therefore to identify which links in the supply chain are sensitive to public pressure: for instance, fast-food chains or jewelry stores, but not meat packers or gold miners.",
+        "needle": "therefore",
+        "sourceForm": "therefore"
+      },
+      {
+        "term": "employee",
+        "pos": "n",
+        "ipa": "/ɪmˈplɔɪiː/",
+        "meaning": "nhân viên",
+        "synonyms": "worker",
+        "example": "The car manufacturer Henry Ford was in fact successfully sued by shareholders in 1919 for raising the minimum wage of his workers to $5 per day: the courts declared that, while Ford's humanitarian sentiments about his employees were nice, his business existed to make profits for its stockholders.",
+        "needle": "employees",
+        "sourceForm": "employees"
+      },
+      {
+        "term": "purchase",
+        "pos": "n/v",
+        "ipa": "/ˈpɜːtʃəs/",
+        "meaning": "sự mua; mua",
+        "synonyms": "buy",
+        "example": "But for five years the meat packers refused to follow these, claiming that they would be too expensive to obey However, when a major fast-food company then made the same demands after customer purchases of its hamburgers plummeted, the meat industry complied within weeks.",
+        "needle": "purchases",
+        "sourceForm": "purchases"
+      },
+      {
+        "term": "transmit",
+        "pos": "v",
+        "ipa": "/trænzˈmɪt/",
+        "meaning": "truyền; chuyển tín hiệu, năng lượng hoặc tác nhân gây bệnh",
+        "synonyms": "transfer; convey",
+        "example": "For instance, after the US public became concerned about the spread of a disease known as BSE, which was transmitted to humans through infected meat, the US government's Food and Drug Administration introduced rules demanding that the meat industry abandon practices associated with the risk ofthe disease spreading.",
+        "needle": "transmitted",
+        "sourceForm": "transmitted"
       }
     ],
     "grammar": [
