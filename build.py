@@ -36,4 +36,6 @@ def build():
 
 
 if __name__ == '__main__':
+    import build_listening
+    build_listening.build()
     build()

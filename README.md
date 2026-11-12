@@ -59,3 +59,16 @@ Bản `14.pdf` đầu vào thiếu nội dung câu 22 ở Test 4: ứng dụng g
 Build chỉ chọn dữ liệu có `track: academic`. Để kiểm tra số mục từ, trích dẫn nguyên văn, tính duy nhất và dữ liệu ảnh trước khi build, chạy `python tools/validate_library.py`. Báo cáo đợt cập nhật nằm trong `docs/academic-library-update.json`.
 
 Việc chuẩn hóa từ vựng và cấu trúc có kiểm tra nguyên văn, nhưng không thay thế việc duyệt ngữ nghĩa thủ công toàn bộ bộ dữ liệu. Nội dung sách nguồn vẫn thuộc quyền của chủ sở hữu tương ứng; chưa cấp giấy phép phân phối công khai cho bộ dữ liệu này.
+
+
+## IELTS Listening
+
+Mở `listening.html`, hoặc chọn Listening trên thanh đầu trang Reading. Có 60 test Cambridge 7–21, 240 phần, 2.400 ô trả lời; Cambridge 12 giữ số Test 5–8 theo PDF. Đề gốc được nhúng dưới dạng ảnh để giữ nguyên bảng, sơ đồ và bản đồ; văn bản OCR có thể mở để tìm kiếm, đối chiếu. Có phóng to, bộ chọn thời gian 10–60 phút (mặc định 30), đánh dấu xem lại, chấm điểm và sao lưu tiến độ riêng với Reading.
+
+56 test có đủ 2.240 đáp án được đối chiếu với khóa trong PDF. File 20.pdf đầu vào không có bảng khóa Listening; 4 test này giữ đầy đủ đề và phiếu trả lời nhưng chưa chấm tự động. Màn hình luôn ghi rõ giới hạn nguồn này. Không tự suy đoán đáp án để điền đủ số lượng.
+
+132 track đã được ghép cho 36 test thuộc Cambridge 10–13, 15, 16, 19–21. Cambridge 21 dùng audio toàn test; các sách còn lại dùng từng part. Những test chưa có audio hỗ trợ chọn file từ máy. File nghe không nhúng vào HTML và không lưu trong lịch sử Git: được phân phối qua Release `listening-audio-v1`. Khi chạy web, chỉ track đang chọn được tải; khi mở file HTML trực tiếp, ứng dụng tìm trong `assets/audio/` hoặc nhận file do người học chọn.
+
+`build.py` build cả Reading và Listening. `build_listening.py` chỉ build Listening và dùng thư viện chuẩn Python. Dữ liệu ở `data/listening/tests.json`, giao diện ở `src/listening.template.html`, ảnh nguồn ở `assets/listening/`. Reading vẫn là file HTML độc lập. Listening bản web tải ảnh từ `assets/listening/` theo phần đang mở; giữ nguyên thư mục này khi chạy ngoại tuyến. Để xuất một file Listening nhúng cả đề, gọi `build_listening.build(embed=True, output="listening-offline.html")`. Audio là tài nguyên riêng.
+
+Chấm tự động hỗ trợ chữ hoa/thường, dạng tùy chọn trong ngoặc, biến thể có dấu / và các nhóm trả lời theo thứ tự bất kỳ; không tính trùng đáp án trong nhóm. Hiện phiếu trả lời dùng ô nhập văn bản cho tất cả dạng câu hỏi, đối chiếu đề gốc bên trái; chưa chuyển toàn bộ sơ đồ/matching thành kéo-thả. Kết quả không tự quy đổi sang IELTS band.

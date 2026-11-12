@@ -1,0 +1,32 @@
+{
+  "updated": "2026-11-12",
+  "books": 15,
+  "tests": 60,
+  "parts": 240,
+  "questions": 2400,
+  "sourcePages": 458,
+  "answerKeys": 56,
+  "verifiedAnswers": 2240,
+  "missingAnswerKeys": [
+    "c20l1",
+    "c20l2",
+    "c20l3",
+    "c20l4"
+  ],
+  "audioTracks": 132,
+  "testsWithAudio": 36,
+  "checks": {
+    "renderAll240Parts": true,
+    "gradeUnorderedGroupsAndPreventDuplicateCredit": true,
+    "persistAnswersFlagsAndResults": true,
+    "all132AudioFilesDecoded": true,
+    "sourceKeyPagesVisuallyCompared": true,
+    "readingLibraryValidationPassed": true,
+    "runtimeErrors": 0
+  },
+  "limitations": [
+    "Questions are presented as source scans with a text answer sheet; not all question types have dedicated drag-and-drop widgets.",
+    "Cambridge 20 supplied PDF lacks the Listening answer key; grading is disabled for those four tests.",
+    "24 tests have no bundled audio and accept a local audio file."
+  ]
+}

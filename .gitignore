@@ -13,3 +13,6 @@ personal-data/
 ocr/
 scans/
 .cache/
+
+# Audio is distributed as GitHub Release assets
+assets/audio/
