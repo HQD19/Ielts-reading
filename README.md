@@ -72,3 +72,8 @@ Mở `listening.html`, hoặc chọn Listening trên thanh đầu trang Reading.
 `build.py` build cả Reading và Listening. `build_listening.py` chỉ build Listening và dùng thư viện chuẩn Python. Dữ liệu ở `data/listening/tests.json`, giao diện ở `src/listening.template.html`, ảnh nguồn ở `assets/listening/`. Reading vẫn là file HTML độc lập. Listening bản web tải ảnh từ `assets/listening/` theo phần đang mở; giữ nguyên thư mục này khi chạy ngoại tuyến. Để xuất một file Listening nhúng cả đề, gọi `build_listening.build(embed=True, output="listening-offline.html")`. Audio là tài nguyên riêng.
 
 Chấm tự động hỗ trợ chữ hoa/thường, dạng tùy chọn trong ngoặc, biến thể có dấu / và các nhóm trả lời theo thứ tự bất kỳ; không tính trùng đáp án trong nhóm. Hiện phiếu trả lời dùng ô nhập văn bản cho tất cả dạng câu hỏi, đối chiếu đề gốc bên trái; chưa chuyển toàn bộ sơ đồ/matching thành kéo-thả. Kết quả không tự quy đổi sang IELTS band.
+
+
+### Bài luyện YouTube đã có
+
+Trang `listening-youtube.html` giữ nguyên bộ 40 câu, 4 phần và các mốc YouTube đã được thêm trên GitHub trong commit a38f7dc, cùng khóa lưu tiến độ cũ. Có thể mở từ mục YouTube practice trên trang Listening Cambridge. Trang này dùng dữ liệu bài luyện riêng, không gán nhầm vào các test Cambridge.
