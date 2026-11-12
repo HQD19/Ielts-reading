@@ -15,6 +15,12 @@
 
 Tiến độ học được lưu trong trình duyệt, không gửi lên GitHub. Chức năng chính chạy ngoại tuyến; tra từ chưa có trong bộ từ cục bộ có thể dùng Free Dictionary API và cần mạng.
 
+## Listening
+
+Mở `listening.html` hoặc chọn **Listening** trên thanh đầu trang Reading. Trang HTML độc lập gồm 4 phần, 40 câu hỏi từ dữ liệu được cung cấp, trình phát YouTube theo timestamp, chấm từng phần, xem đáp án và lưu bài trên trình duyệt.
+
+Deploy GitHub Pages trực tiếp từ thư mục gốc repository (Settings → Pages → Deploy from a branch → chọn branch và `/ (root)`). Giữ `index.html` và `listening.html` cùng thư mục. Không cần chạy Python, cài thư viện hay build để dùng trang Listening. Phát YouTube cần Internet và quyền nhúng của video.
+
 ## Build
 
 Yêu cầu Python 3.10 trở lên. Lệnh build chỉ dùng thư viện chuẩn:
