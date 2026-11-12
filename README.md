@@ -78,3 +78,10 @@ Chấm tự động hỗ trợ biến thể tùy chọn và nhóm trả lời th
 ### Bài luyện YouTube đã có
 
 Trang `listening-youtube.html` giữ nguyên bộ 40 câu, 4 phần và các mốc YouTube đã được thêm trên GitHub trong commit a38f7dc, cùng khóa lưu tiến độ cũ. Trang này được giữ ở đường dẫn riêng để tra cứu khi cần. Trang này dùng dữ liệu bài luyện riêng, không gán nhầm vào các test Cambridge.
+
+
+### Highlight và tra từ trong Listening
+
+Chọn chữ OCR bên trái để mở thanh Tô sáng / Tra từ / Bỏ highlight. Nhấn vào một vùng đã tô để bỏ highlight. Highlight lưu riêng theo test và trang, giữ qua tải lại, xuất/khôi phục JSON và làm lại test. Nút Tra từ trên thanh đề cũng cho nhập từ/cụm từ trực tiếp.
+
+Tra từ dùng bộ nghĩa tiếng Việt cục bộ chung với dữ liệu Reading, có IPA/từ loại khi sẵn có. Các từ chưa có được tra qua Free Dictionary API (định nghĩa tiếng Anh, cần mạng); luôn có liên kết tới Cambridge Dictionary. Vùng highlight áp dụng cho chữ OCR; nhãn chỉ tồn tại dưới dạng nét vẽ trong bản đồ không thể chọn như chữ.

@@ -1,0 +1,28 @@
+name: Listening study checks
+on:
+  push:
+    paths:
+      - 'src/listening*'
+      - 'build_listening.py'
+      - 'data/listening/**'
+      - 'data/books/**'
+      - 'tests/listening-study.mjs'
+      - '.github/workflows/listening-study.yml'
+permissions:
+  contents: read
+jobs:
+  browser:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Build Listening
+        run: python3 build_listening.py
+      - name: Install browser test dependency
+        run: npm install --no-save --package-lock=false playwright@1.56.1
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+      - name: Test Listening study tools
+        run: node tests/listening-study.mjs

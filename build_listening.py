@@ -1,6 +1,6 @@
 """Build the standalone Listening screen; uses only the Python standard library."""
 from pathlib import Path
-import json
+import json,re
 ROOT=Path(__file__).resolve().parent
 
 def build(output=None):
@@ -25,6 +25,22 @@ def build(output=None):
  source=(ROOT/'src/listening.template.html').read_text(encoding='utf8')
  marker='/*__LISTENING_DATA__*/';assert source.count(marker)==1
  source=source.replace(marker,json.dumps(tests,ensure_ascii=False,separators=(',',':')).replace('</','<\\/'))
+ dictionary={}
+ def add_word(term,v):
+  key=re.sub(r'\s+',' ',term.strip().lower())
+  rows=dictionary.setdefault(key,[])
+  entry={k:v.get(k,'') for k in ('pos','ipa','meaning','synonyms')}
+  if len(rows)<4 and not any(r['pos']==entry['pos'] and r['meaning']==entry['meaning'] for r in rows):rows.append(entry)
+ for bookfile in sorted((ROOT/'data/books').glob('*.json'),key=lambda p:int(p.stem)):
+  for passage in json.loads(bookfile.read_text(encoding='utf8')):
+   for v in passage['vocab']:add_word(v['term'],v)
+ common=json.loads((ROOT/'data/listening/common-words.json').read_text(encoding='utf8'))
+ for term,meaning in common.items():add_word(term,{'meaning':meaning})
+ study=(ROOT/'src/listening-study.js').read_text(encoding='utf8')
+ assert source.count('/*__LISTENING_STUDY__*/')==1
+ source=source.replace('/*__LISTENING_STUDY__*/',study)
+ assert source.count('/*__LISTENING_DICTIONARY__*/')==1
+ source=source.replace('/*__LISTENING_DICTIONARY__*/',json.dumps(dictionary,ensure_ascii=False,separators=(',',':')).replace('</','<\\/'))
  dest=Path(output) if output else ROOT/'listening.html';dest.write_text(source,encoding='utf8')
  print(f'Built Listening: {len(tests)} tests, {dest.stat().st_size:,} bytes')
 
