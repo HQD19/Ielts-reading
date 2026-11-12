@@ -63,17 +63,18 @@ Việc chuẩn hóa từ vựng và cấu trúc có kiểm tra nguyên văn, nh�
 
 ## IELTS Listening
 
-Mở `listening.html`, hoặc chọn Listening trên thanh đầu trang Reading. Có 60 test Cambridge 7–21, 240 phần, 2.400 ô trả lời; Cambridge 12 giữ số Test 5–8 theo PDF. Đề gốc được nhúng dưới dạng ảnh để giữ nguyên bảng, sơ đồ và bản đồ; văn bản OCR có thể mở để tìm kiếm, đối chiếu. Có phóng to, bộ chọn thời gian 10–60 phút (mặc định 30), đánh dấu xem lại, chấm điểm và sao lưu tiến độ riêng với Reading.
+Mở `listening.html` hoặc chọn Listening trên thanh đầu trang Reading. Thư viện có 60 test Cambridge 7–21, 240 phần và 2.400 ô trả lời; Cambridge 12 giữ số Test 5–8 của PDF.
 
-56 test có đủ 2.240 đáp án được đối chiếu với khóa trong PDF. File 20.pdf đầu vào không có bảng khóa Listening; 4 test này giữ đầy đủ đề và phiếu trả lời nhưng chưa chấm tự động. Màn hình luôn ghi rõ giới hạn nguồn này. Không tự suy đoán đáp án để điền đủ số lượng.
+Đề hiển thị thành chữ OCR có thể chọn và sao chép, đặt theo tọa độ trong PDF để giữ bố cục bảng, các cột, khoảng trống và trắc nghiệm. Đường kẻ bảng và nét bản đồ/sơ đồ được tái dựng riêng; các nét/nhãn hình chưa được nhận dạng vẫn được giữ để tránh mất thông tin. Watermark chữ, logo tiêu đề, footer quảng bá và đường link ngoài nội dung được lọc. OCR vẫn có thể có lỗi ký tự; đây không phải bản chép tay hoàn toàn.
 
-132 track đã được ghép cho 36 test thuộc Cambridge 10–13, 15, 16, 19–21. Cambridge 21 dùng audio toàn test; các sách còn lại dùng từng part. Những test chưa có audio hỗ trợ chọn file từ máy. File nghe không nhúng vào HTML và không lưu trong lịch sử Git: được phân phối qua Release `listening-audio-v1`. Khi chạy web, chỉ track đang chọn được tải; khi mở file HTML trực tiếp, ứng dụng tìm trong `assets/audio/` hoặc nhận file do người học chọn.
+Đã gỡ trình phát, nút chọn file, tốc độ và dữ liệu ghép audio khỏi trang Cambridge. Audio sẽ được bổ sung lại trong lần cập nhật sau. Đồng hồ 10–60 phút (mặc định 30), cờ xem lại, chấm bài và tiến độ Listening vẫn hoạt động độc lập với Reading.
 
-`build.py` build cả Reading và Listening. `build_listening.py` chỉ build Listening và dùng thư viện chuẩn Python. Dữ liệu ở `data/listening/tests.json`, giao diện ở `src/listening.template.html`, ảnh nguồn ở `assets/listening/`. Reading vẫn là file HTML độc lập. Listening bản web tải ảnh từ `assets/listening/` theo phần đang mở; giữ nguyên thư mục này khi chạy ngoại tuyến. Để xuất một file Listening nhúng cả đề, gọi `build_listening.build(embed=True, output="listening-offline.html")`. Audio là tài nguyên riêng.
+56 test có 2.240 đáp án được đối chiếu với khóa PDF. File 20.pdf đầu vào thiếu khóa Listening; 4 test đó chưa chấm tự động và luôn có thông báo trong giao diện.
 
-Chấm tự động hỗ trợ chữ hoa/thường, dạng tùy chọn trong ngoặc, biến thể có dấu / và các nhóm trả lời theo thứ tự bất kỳ; không tính trùng đáp án trong nhóm. Hiện phiếu trả lời dùng ô nhập văn bản cho tất cả dạng câu hỏi, đối chiếu đề gốc bên trái; chưa chuyển toàn bộ sơ đồ/matching thành kéo-thả. Kết quả không tự quy đổi sang IELTS band.
+`build.py` build cả Reading và Listening, chỉ cần thư viện chuẩn Python. Dữ liệu đề ở `data/listening/tests.json`; bố cục đã làm sạch ở `data/listening/layouts.json`; giao diện ở `src/listening.template.html`. `build_listening.py` xuất một file HTML chứa toàn bộ chữ và nét vẽ, không cần tải ảnh đề hay audio. Công cụ `tools/prepare_listening_layout.py --library PATH --supplement PATH` dùng các bản OCR và scan của quá trình nhập PDF để tái tạo bố cục; cần OpenCV, NumPy và Pillow.
 
+Chấm tự động hỗ trợ biến thể tùy chọn và nhóm trả lời theo thứ tự bất kỳ, không tính trùng đáp án. Phiếu trả lời vẫn dùng ô nhập cho tất cả dạng câu, đối chiếu với đề bên trái.
 
 ### Bài luyện YouTube đã có
 
-Trang `listening-youtube.html` giữ nguyên bộ 40 câu, 4 phần và các mốc YouTube đã được thêm trên GitHub trong commit a38f7dc, cùng khóa lưu tiến độ cũ. Có thể mở từ mục YouTube practice trên trang Listening Cambridge. Trang này dùng dữ liệu bài luyện riêng, không gán nhầm vào các test Cambridge.
+Trang `listening-youtube.html` giữ nguyên bộ 40 câu, 4 phần và các mốc YouTube đã được thêm trên GitHub trong commit a38f7dc, cùng khóa lưu tiến độ cũ. Trang này được giữ ở đường dẫn riêng để tra cứu khi cần. Trang này dùng dữ liệu bài luyện riêng, không gán nhầm vào các test Cambridge.

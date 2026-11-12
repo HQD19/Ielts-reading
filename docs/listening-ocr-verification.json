@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-12",
+  "scope": "Selectable OCR pages, PDF layout reconstruction, audio removal",
+  "tests": 60,
+  "parts": 240,
+  "questionPages": 402,
+  "processedPages": 458,
+  "ocrWords": 58435,
+  "filteredLines": 957,
+  "secondPassPages": 402,
+  "supplementedNumberLabels": 61,
+  "answerDataUnchanged": true,
+  "checks": {
+    "all240PartsRender": true,
+    "noAudioControlsOrSources": true,
+    "noRasterQuestionImages": true,
+    "noAdvertisingLinksInRenderedPages": true,
+    "textSelectionAndCopy": true,
+    "pdfTableAndMapVisualReview": true,
+    "progressAndTimerRetained": true,
+    "answerKeyTablesContain40Rows": true,
+    "runtimeErrors": 0
+  },
+  "limitations": [
+    "Some diagram labels remain as vector outlines when OCR cannot identify them reliably.",
+    "OCR can still contain character errors; source positioning is reconstructed, not an exact digital PDF typesetting."
+  ]
+}
