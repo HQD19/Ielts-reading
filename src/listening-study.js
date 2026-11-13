@@ -36,15 +36,16 @@ function showSelectionTools(selection){
 }
 function captureStudySelection(){
  const selected=getSelection();if(!selected||selected.isCollapsed||!selected.rangeCount)return false;
- const start=selected.anchorNode?.parentElement?.closest('#pages .ocr-text'),end=selected.focusNode?.parentElement?.closest('#pages .ocr-text');
+ const start=selected.anchorNode?.parentElement?.closest('#pages .listening-text'),end=selected.focusNode?.parentElement?.closest('#pages .listening-text');
  if(!start||!end)return false;
  const range=selected.getRangeAt(0),segments=[],pieces=[];
- for(const span of document.querySelectorAll('#pages tspan[data-run]')){
-  const node=span.firstChild;if(!node||!range.intersectsNode(node))continue;
+ for(const span of document.querySelectorAll('#pages .source-word[data-run]')){
+  if(!range.intersectsNode(span))continue;
   const page=Number(span.dataset.page),run=Number(span.dataset.run);
   const text=current.pages.find(p=>p.page===page)?.layout.runs[run]?.[0]||'';
-  const a=range.startContainer===node?Math.min(text.length,range.startOffset):0;
-  const b=range.endContainer===node?Math.min(text.length,range.endOffset):text.length;
+  function offset(node,index){const r=document.createRange();r.selectNodeContents(span);r.setEnd(node,index);return Math.min(text.length,r.toString().length);}
+  const a=span.contains(range.startContainer)?offset(range.startContainer,range.startOffset):0;
+  const b=span.contains(range.endContainer)?offset(range.endContainer,range.endOffset):text.length;
   if(b>a){segments.push({page,run,start:a,end:b});pieces.push(text.slice(a,b));}
  }
  const text=pieces.join(' ').trim();if(!segments.length||!text)return false;
@@ -52,26 +53,18 @@ function captureStudySelection(){
  showSelectionTools({segments,text,rect:range.getBoundingClientRect().toJSON()});return true;
 }
 function drawStudyHighlights(){
- for(const svg of document.querySelectorAll('#pages .ocr-page')){
-  svg.querySelector('.highlight-layer')?.remove();
-  const layer=document.createElementNS('http://www.w3.org/2000/svg','g');
-  layer.setAttribute('class','highlight-layer');
-  const page=Number(svg.dataset.page);
-  for(const h of state().highlights){
-   for(const s of h.segments.filter(s=>s.page===page)){
-    const span=svg.querySelector('tspan[data-run="'+s.run+'"]');if(!span)continue;
-    try{
-     const boxes=[];for(let i=s.start;i<Math.min(s.end,span.getNumberOfChars());i++)boxes.push(span.getExtentOfChar(i));
-     if(!boxes.length)continue;
-     const x=Math.min(...boxes.map(b=>b.x)),y=Math.min(...boxes.map(b=>b.y));
-     const right=Math.max(...boxes.map(b=>b.x+b.width)),bottom=Math.max(...boxes.map(b=>b.y+b.height));
-     const rect=document.createElementNS(svg.namespaceURI,'rect');
-     for(const [key,value]of Object.entries({x:x-1,y:y-1,width:right-x+2,height:bottom-y+2,rx:2}))rect.setAttribute(key,value);
-     rect.dataset.highlight=h.id;layer.appendChild(rect);
-    }catch{}
-   }
+ for(const span of document.querySelectorAll('#pages .source-word')){
+  const page=Number(span.dataset.page),run=Number(span.dataset.run);
+  const text=current.pages.find(p=>p.page===page)?.layout.runs[run]?.[0]||'';
+  const marks=state().highlights.flatMap(h=>h.segments.filter(s=>s.page===page&&s.run===run).map(s=>({...s,id:h.id})));
+  const boundaries=[...new Set([0,text.length,...marks.flatMap(s=>[s.start,s.end])])].sort((a,b)=>a-b);
+  span.replaceChildren();
+  for(let i=0;i<boundaries.length-1;i++){
+   const start=boundaries[i],end=boundaries[i+1],mark=marks.find(s=>s.start<end&&s.end>start);
+   const value=text.replace(/(?<=\d)�(?=\d)/g,'–').replace(/�/g,'•').slice(start,end);
+   if(mark){const el=document.createElement('mark');el.className='source-highlight';el.dataset.highlight=mark.id;el.textContent=value;span.appendChild(el);}
+   else span.appendChild(document.createTextNode(value));
   }
-  svg.insertBefore(layer,svg.querySelector('.ocr-text'));
  }
 }
 function addStudyHighlight(){
@@ -160,7 +153,7 @@ $('#pages').addEventListener('mouseup',e=>{
  const target=e.target;
  setTimeout(()=>{
   if(captureStudySelection())return;
-  const span=target.closest?.('tspan[data-run]'),rect=target.closest?.('[data-highlight]');
+  const span=target.closest?.('.source-word[data-run]'),rect=target.closest?.('[data-highlight]');
   const mark=rect?state().highlights.find(h=>h.id===rect.dataset.highlight):span?
    state().highlights.find(h=>h.segments.some(s=>s.page===Number(span.dataset.page)&&s.run===Number(span.dataset.run))):null;
   if(mark){

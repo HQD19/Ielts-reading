@@ -49,7 +49,7 @@ try{
  for(const key of ['body','header','button'])assert.deepEqual(styles.reading[key],styles.listening[key],'Shared '+key+' styles');
  assert.deepEqual(styles.reading.session,styles.listening.session,'Shared session bar');
  await page.setViewportSize({width:1440,height:1000});
- const font=await page.locator('.ocr-page').first().evaluate(e=>getComputedStyle(e).fontFamily);
+ const font=await page.locator('.listening-text').first().evaluate(e=>getComputedStyle(e).fontFamily);
  await page.goto(pathToFileURL(resolve('index.html')).href);
  assert.equal(font,await page.locator('.reading-body').evaluate(e=>getComputedStyle(e).fontFamily),'OCR and passage fonts match');
  await page.locator('#book-select').selectOption('13');

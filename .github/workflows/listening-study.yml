@@ -28,6 +28,8 @@ jobs:
         run: node tests/listening-study.mjs
       - name: Test shared UI and Reading regression
         run: node tests/shared-ui.mjs
+      - name: Test reflowed Listening text and font size
+        run: node tests/listening-flow.mjs
       - name: Upload interface screenshots
         if: always()
         uses: actions/upload-artifact@v4

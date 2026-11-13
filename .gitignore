@@ -16,3 +16,5 @@ scans/
 
 # Audio is distributed as GitHub Release assets
 assets/audio/
+
+/test-results/

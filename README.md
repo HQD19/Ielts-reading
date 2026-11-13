@@ -65,7 +65,7 @@ Việc chuẩn hóa từ vựng và cấu trúc có kiểm tra nguyên văn, nh�
 
 Mở `listening.html` hoặc chọn Listening trên thanh đầu trang Reading. Thư viện có 60 test Cambridge 7–21, 240 phần và 2.400 ô trả lời; Cambridge 12 giữ số Test 5–8 của PDF.
 
-Đề hiển thị thành chữ OCR có thể chọn và sao chép, đặt theo tọa độ trong PDF để giữ bố cục bảng, các cột, khoảng trống và trắc nghiệm. Đường kẻ bảng và nét bản đồ/sơ đồ được tái dựng riêng; các nét/nhãn hình chưa được nhận dạng vẫn được giữ để tránh mất thông tin. Watermark chữ, logo tiêu đề, footer quảng bá và đường link ngoài nội dung được lọc. OCR vẫn có thể có lỗi ký tự; đây không phải bản chép tay hoàn toàn.
+Đề hiển thị thành văn bản HTML từ dữ liệu OCR đã làm sạch, tự xuống dòng theo khung. Bảng được trình bày bằng HTML; sơ đồ gốc nằm trong mục tham khảo có thể mở khi cần. Watermark và các đường link quảng bá đã được lọc. Nguồn OCR vẫn có thể còn lỗi ký tự.
 
 Đã gỡ trình phát, nút chọn file, tốc độ và dữ liệu ghép audio khỏi trang Cambridge. Audio sẽ được bổ sung lại trong lần cập nhật sau. Đồng hồ 10–60 phút (mặc định 30), cờ xem lại, chấm bài và tiến độ Listening vẫn hoạt động độc lập với Reading.
 
@@ -90,6 +90,12 @@ Tra từ dùng bộ nghĩa tiếng Việt cục bộ chung với dữ liệu Rea
 
 Reading và Listening cùng dùng `src/ui.css` (font, màu, thanh điều hướng, đồng hồ, nút, tab và chế độ tối) và `src/ui.header.html` (nhận diện và chuyển kỹ năng). `ui_template.py` nhúng trực tiếp các thành phần chung khi build; mỗi trang xuất ra vẫn là một file HTML độc lập, dùng được ngoại tuyến.
 
-Chữ đề Listening dùng Georgia như nội dung Reading, giữ tọa độ chữ, bảng và sơ đồ OCR. Hai vùng đề/phiếu trả lời chia 50/50 trên desktop. Phần bố cục theo dạng đề và JavaScript nghiệp vụ vẫn ở template từng kỹ năng. Sửa giao diện chung trong `src/ui.css`, chạy `python build.py` để cập nhật cả hai trang.
+Chữ đề Listening dùng Georgia như nội dung Reading và tự xuống dòng; bảng HTML co giãn theo khung, sơ đồ OCR có mục tham khảo riêng. Hai vùng đề/phiếu trả lời chia 50/50 trên desktop. Phần bố cục theo dạng đề và JavaScript nghiệp vụ vẫn ở template từng kỹ năng. Sửa giao diện chung trong `src/ui.css`, chạy `python build.py` để cập nhật cả hai trang.
 
 Kiểm tra hồi quy: `node tests/listening-study.mjs` và `node tests/shared-ui.mjs` (cần Playwright/Chromium). CI build cả hai màn hình, kiểm tra các chức năng học, kích thước desktop/mobile và lưu ảnh giao diện sáng/tối.
+
+### Đề Listening dạng văn bản
+
+Đề Listening hiển thị dưới dạng HTML tự xuống dòng, không còn phóng to cả trang PDF. Nút A− / A+ đổi cỡ chữ 14–28px (mặc định 18px), nhớ lựa chọn qua tải lại và đổi test. Bảng nội dung dùng bảng HTML; trên màn hình nhỏ, các ô xếp thành từng mục có nhãn. Sơ đồ được giữ trong mục “Xem sơ đồ tham khảo” khi cần đối chiếu.
+
+Chọn một từ, một phần từ hoặc nhiều dòng trong đề để Tô sáng / Tra từ / Bỏ highlight. Highlight cũ theo tọa độ chữ vẫn được ánh xạ sang văn bản mới nhờ giữ nguyên chỉ số trang và từ OCR; không xóa câu trả lời hoặc dữ liệu Reading. Đây vẫn là nguồn OCR hiện có, nên có thể còn lỗi nhận dạng ký tự.

@@ -12,12 +12,12 @@ try{
  await page.evaluate(()=>{localStorage.clear();});await page.reload();
  assert.equal(await page.locator('audio').count(),0);
  await page.evaluate(()=>localStorage.setItem('reading-room:c20:v1','reading-progress-sentinel'));
- const target=await page.locator('#pages tspan').evaluateAll(spans=>{
+ const target=await page.locator('#pages .flow-line:not(.flow-meta) .source-word').evaluateAll(spans=>{
   const s=spans.find(s=>s.textContent.trim().length>=7&&/^[A-Za-z]+$/.test(s.textContent.trim()));
   if(!s)throw Error('No selectable word');
   return {page:s.dataset.page,run:s.dataset.run,length:s.textContent.trim().length};
  });
- const selector='#pages tspan[data-page="'+target.page+'"][data-run="'+target.run+'"]';
+ const selector='#pages .source-word[data-page="'+target.page+'"][data-run="'+target.run+'"]';
  await page.locator(selector).evaluate(span=>{
   const range=document.createRange();range.setStart(span.firstChild,1);range.setEnd(span.firstChild,4);
   getSelection().removeAllRanges();getSelection().addRange(range);
@@ -25,32 +25,32 @@ try{
  });
  await page.locator('#selection-tools').waitFor({state:'visible'});
  await page.locator('#selection-mark').click();
- assert.equal(await page.locator('.highlight-layer rect').count(),1);
+ assert.equal(await page.locator('.source-highlight').count(),1);
  const h=await page.evaluate(()=>state().highlights[0]);
  assert.equal(h.segments[0].start,1);assert.equal(h.segments[0].end,4);
  const wordWidth=await page.locator(selector).evaluate(s=>s.getBoundingClientRect().width);
- const markWidth=await page.locator('.highlight-layer rect').evaluate(s=>s.getBoundingClientRect().width);
+ const markWidth=await page.locator('.source-highlight').evaluate(s=>s.getBoundingClientRect().width);
  assert.ok(markWidth>0&&markWidth<wordWidth,'Partial highlight should not cover entire word');
  await page.locator('[data-part="2"]').click();
- assert.equal(await page.locator('.highlight-layer rect').count(),0);
+ assert.equal(await page.locator('.source-highlight').count(),0);
  await page.locator('[data-part="1"]').click();
- assert.equal(await page.locator('.highlight-layer rect').count(),1);
+ assert.equal(await page.locator('.source-highlight').count(),1);
  await page.reload();
- assert.equal(await page.locator('.highlight-layer rect').count(),1);
+ assert.equal(await page.locator('.source-highlight').count(),1);
  await page.locator('#zoom-in').click();
- assert.ok(await page.locator('.highlight-layer rect').evaluate(s=>s.getBoundingClientRect().width)>markWidth);
+ assert.ok(await page.locator('.source-highlight').evaluate(s=>s.getBoundingClientRect().width)>markWidth);
  await page.locator(selector).click();
  await page.locator('#selection-remove').waitFor({state:'visible'});
  await page.locator('#selection-remove').click();
- assert.equal(await page.locator('.highlight-layer rect').count(),0);
- await page.locator('#pages .ocr-text').first().evaluate(group=>{
-  const spans=[...group.querySelectorAll('tspan')].slice(0,5);
+ assert.equal(await page.locator('.source-highlight').count(),0);
+ await page.locator('#pages .listening-text').first().evaluate(group=>{
+  const spans=[...group.querySelectorAll('.source-word')].slice(0,5);
   const range=document.createRange();range.setStart(spans[0].firstChild,0);range.setEnd(spans.at(-1).firstChild,spans.at(-1).textContent.trim().length);
   getSelection().removeAllRanges();getSelection().addRange(range);
   spans.at(-1).dispatchEvent(new MouseEvent('mouseup',{bubbles:true}));
  });
  await page.locator('#selection-mark').waitFor({state:'visible'});await page.locator('#selection-mark').click();
- assert.ok(await page.locator('.highlight-layer rect').count()>1,'Multi-word selection should be retained');
+ assert.ok(await page.locator('.source-highlight').count()>1,'Multi-word selection should be retained');
  const expected=await page.evaluate(()=>JSON.stringify(state().highlights));
  await page.locator('#a-1').fill('saved answer');
  await page.locator('[data-flag="1"]').click();
@@ -97,7 +97,7 @@ try{
  assert.ok(!(await page.locator('#lookup-results').innerText()).includes('slowword definition'),'Old lookup must not replace newer lookup');
  await page.keyboard.press('Escape');await page.locator('#word-lookup').waitFor({state:'hidden'});
  await page.locator('#theme').click();assert.ok(await page.locator('html').evaluate(e=>e.classList.contains('dark')));
- assert.ok(await page.locator('.highlight-layer rect').count()>1);
+ assert.ok(await page.locator('.source-highlight').count()>1);
  assert.equal(await page.evaluate(()=>localStorage.getItem('reading-room:c20:v1')),'reading-progress-sentinel','Reading progress must not change');
  const coverage=await page.evaluate(()=>{
   const failures=[];for(const t of TESTS){current=t;for(let n=1;n<=4;n++){part=n;tab='sheet';render();if(document.querySelectorAll('[data-answer]').length!==10)failures.push(t.id+':'+n);}}
@@ -105,5 +105,5 @@ try{
  });
  assert.deepEqual(coverage,[]);
  assert.deepEqual(errors,[]);
- console.log('PASS: partial/multiple highlight, remove, zoom, reload, test/part isolation, reset, backup/import, legacy state, offline/online lookup, race protection, escaping, dark mode, 240 parts and Reading progress.');
+ console.log('PASS: partial/multiple highlight, remove, font sizing, reload, test/part isolation, reset, backup/import, legacy state, offline/online lookup, race protection, escaping, dark mode, 240 parts and Reading progress.');
 }finally{await browser.close();}

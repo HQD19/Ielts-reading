@@ -9,7 +9,7 @@ def build(output=None):
  layouts=json.loads((ROOT/'data/listening/layouts.json').read_text(encoding='utf8'))
  def layout(book,page):
   raw=layouts[f'{book}-{page}']
-  return {k:raw[k] for k in ('view','runs','paths','rules') if k in raw}
+  return {k:raw[k] for k in ('view','runs','paths','rules','diagram') if k in raw}
  assert len(tests)==60 and len({t['id'] for t in tests})==60
  for test in tests:
   assert {p['part'] for p in test['pages']}=={1,2,3,4},test['id']
@@ -37,6 +37,7 @@ def build(output=None):
    for v in passage['vocab']:add_word(v['term'],v)
  common=json.loads((ROOT/'data/listening/common-words.json').read_text(encoding='utf8'))
  for term,meaning in common.items():add_word(term,{'meaning':meaning})
+ source=source.replace('/*__LISTENING_FLOW__*/',(ROOT/'src/listening-flow.js').read_text(encoding='utf8'))
  study=(ROOT/'src/listening-study.js').read_text(encoding='utf8')
  assert source.count('/*__LISTENING_STUDY__*/')==1
  source=source.replace('/*__LISTENING_STUDY__*/',study)
