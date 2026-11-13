@@ -22,7 +22,7 @@ function syncListeningAudio() {
   audio.load();
   audio.playbackRate = Number(document.getElementById('listening-audio-speed').value);
   document.getElementById('listening-audio-label').textContent = `Cambridge ${current.book} · Test ${current.sourceTest} · Part ${part}`;
-  document.getElementById('listening-audio-status').textContent = path;
+  document.getElementById('listening-audio-status').textContent = 'Đang tải audio…';
 }
 
 function setupListeningAudio() {
@@ -31,9 +31,10 @@ function setupListeningAudio() {
   audio.addEventListener('loadedmetadata', () => {
     audio.currentTime = Number.isFinite(audio.duration) ? Math.min(listeningAudioSeek, Math.max(0, audio.duration - 0.1)) : 0;
     audio.playbackRate = Number(document.getElementById('listening-audio-speed').value);
+    status.textContent = 'Sẵn sàng · Bấm Play để bắt đầu';
   });
   audio.addEventListener('error', () => {
-    status.textContent = 'Không tải được audio. Thêm file theo đường dẫn bên trên hoặc chọn audio từ máy.';
+    status.textContent = 'Chưa có audio cho phần này. Bạn có thể chọn file từ máy để nghe.';
   });
   audio.addEventListener('timeupdate', () => {
     listeningAudioPositions.set(listeningAudioKey, audio.currentTime || 0);

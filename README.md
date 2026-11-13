@@ -37,7 +37,7 @@ Lệnh này cập nhật cả hai file HTML. Chỉ build Listening: `python buil
 
 Listening uses one MP3 per Part: `data/audios/c7/test1/part1.mp3` (original test numbers). Controls include native play/pause, speed, replay, skip +/-10 seconds and local-file selection. Cambridge 20 Test 1 now includes all four audio Parts in `data/audios/c20/test1/`, using the supplied CSV timestamps; other tests still need audio. The legacy YouTube page has been removed.
 
-Cambridge 20 Test 1 displays practice notes adapted from the supplied CSV via `src/listening-csv.js`, replacing its OCR display. Parts 1 and 4 have ten practice prompts each and use the CSV numbered answer lists. Parts 2 and 3 display topic summaries only; their answers remain ungraded because the CSV contains no individual questions, choices or numbered keys for them. This CSV practice version uses separate saved progress from the original OCR version.
+Cambridge 20 Test 1 uses `cambridge_20_test_1_full_questions_and_answers.csv` via `src/listening-csv.js`, with bracketed solutions hidden. Part 3 uses the user-supplied questions and answer key, also recorded in the CSV. All 40 questions are graded. Questions 21–22 accept C/E and Questions 23–24 accept D/E in either order, without awarding duplicate answers twice. Previous Part 3 responses are cleared when its content revision changes; other saved answers are preserved.
 
 Để sửa giao diện chung: chỉnh `src/ui.css` và `src/ui.header.html`, rồi build lại. Để sửa nội dung: chỉnh JSON, giữ nguyên ID và khóa lưu trữ để bảo toàn liên kết tiến độ. File PDF, scan và cache OCR đầu vào được giữ bên ngoài repo.
 
