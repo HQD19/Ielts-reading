@@ -35,7 +35,7 @@ Lệnh này cập nhật cả hai file HTML. Chỉ build Listening: `python buil
 | `docs/` | Báo cáo kiểm tra, trạng thái duyệt thủ công |
 | `tools/` | Kiểm tra thư viện và công cụ tái tạo OCR tùy chọn |
 
-Listening uses one MP3 per Part: `data/audios/c7/test1/part1.mp3` (original test numbers). Controls include native play/pause, speed, replay, skip +/-10 seconds and local-file selection. Audio files must be supplied separately. The legacy YouTube page has been removed.
+Listening uses one MP3 per Part: `data/audios/c7/test1/part1.mp3` (original test numbers). Controls include native play/pause, speed, replay, skip +/-10 seconds and local-file selection. Cambridge 20 Test 1 now includes all four audio Parts in `data/audios/c20/test1/`, using the supplied CSV timestamps; other tests still need audio. The legacy YouTube page has been removed.
 
 Để sửa giao diện chung: chỉnh `src/ui.css` và `src/ui.header.html`, rồi build lại. Để sửa nội dung: chỉnh JSON, giữ nguyên ID và khóa lưu trữ để bảo toàn liên kết tiến độ. File PDF, scan và cache OCR đầu vào được giữ bên ngoài repo.
 
