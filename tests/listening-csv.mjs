@@ -34,7 +34,7 @@ for (let part = 1; part <= 4; part++) {
 }
 for (const path of ['listening.html', 'src/listening.template.html']) {
   const html = readFileSync(path, 'utf8');
-  assert.match(html, /src="src\/listening-csv.js"/);
+  assert.match(html, /src="src\/listening-csv.js\?v=[^"]+"/);
   assert.match(html, /applyCambridge20Csv\(TESTS\)/);
   assert.match(html, /renderCambridge20Csv\(current,part\)/);
   assert.doesNotMatch(html, /csvOcrPart3/);

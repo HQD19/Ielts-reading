@@ -37,7 +37,11 @@ try{
  const failures=await page.evaluate(()=>{
   const out=[];for(const test of TESTS){current=test;for(let n=1;n<=4;n++){
    part=n;render();
-   for(const p of test.pages.filter(p=>p.part===n)){
+   if(test.csvSource){
+    if(document.querySelectorAll('.exam-heading').length!==1)out.push(test.id+':'+n+':missing question heading');
+    if(n===3&&document.querySelectorAll('.exam-question').length!==8)out.push(test.id+':3:missing question groups');
+   }
+   for(const p of test.csvSource?[]:test.pages.filter(p=>p.part===n)){
     const words=[...document.querySelectorAll('.listening-text[data-page="'+p.page+'"] .source-word')];
     const ids=words.map(e=>+e.dataset.run);
     if(new Set(ids).size!==p.layout.runs.length||ids.length!==p.layout.runs.length)out.push(test.id+':'+n+':missing/duplicate runs');
@@ -45,7 +49,7 @@ try{
    if(document.querySelectorAll('[data-answer]').length!==10)out.push(test.id+':'+n+':answers');
   }}return out;
  });
- assert.deepEqual(failures,[],'All 240 parts preserve every OCR word exactly once');
+ assert.deepEqual(failures,[],'All 240 parts render their OCR or curated question content and ten answer fields');
  await mkdir('test-results',{recursive:true});
  for(const [book,id] of [[10,'c10l1'],[13,'c13l1']]){
   await page.evaluate(id=>{current=TESTS.find(t=>t.id===id);part=1;db.fontSize=18;render();},id);

@@ -10,7 +10,8 @@ const errors=[];page.on('pageerror',e=>errors.push(e.message));
 try{
  await page.goto(pathToFileURL(resolve('listening.html')).href);
  await page.evaluate(()=>{localStorage.clear();});await page.reload();
- assert.equal(await page.locator('audio').count(),0);
+ assert.equal(await page.locator('#listening-audio').count(),1);
+ assert.equal(await page.locator('iframe').count(),0);
  await page.evaluate(()=>localStorage.setItem('reading-room:c20:v1','reading-progress-sentinel'));
  const target=await page.locator('#pages .flow-line:not(.flow-meta) .source-word').evaluateAll(spans=>{
   const s=spans.find(s=>s.textContent.trim().length>=7&&/^[A-Za-z]+$/.test(s.textContent.trim()));
