@@ -2,14 +2,15 @@
 from pathlib import Path
 import json,re
 from ui_template import render_shared_ui
+from listening_corrections import corrected_layouts
 ROOT=Path(__file__).resolve().parent
 
 def build(output=None):
  tests=json.loads((ROOT/'data/listening/tests.json').read_text(encoding='utf8'))
- layouts=json.loads((ROOT/'data/listening/layouts.json').read_text(encoding='utf8'))
+ layouts=corrected_layouts(json.loads((ROOT/'data/listening/layouts.json').read_text(encoding='utf8')))
  def layout(book,page):
   raw=layouts[f'{book}-{page}']
-  return {k:raw[k] for k in ('view','runs','paths','rules','diagram') if k in raw}
+  return {k:raw[k] for k in ('view','runs','paths','rules','diagram','answerGaps','table','silentRuns') if k in raw}
  assert len(tests)==60 and len({t['id'] for t in tests})==60
  for test in tests:
   assert {p['part'] for p in test['pages']}=={1,2,3,4},test['id']

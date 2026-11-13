@@ -6,6 +6,7 @@ on:
       - 'ui_template.py'
       - 'build.py'
       - 'build_listening.py'
+      - 'listening_corrections.py'
       - 'data/listening/**'
       - 'data/books/**'
       - 'tests/**'

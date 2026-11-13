@@ -14,10 +14,8 @@ function listeningWords(layout,indices,page,blanks=true){
   const r=layout.runs[index],next=layout.runs[indices[i+1]];
   // A single replacement character occupies the same stored character offset.
   const text=r[0].replace(/(?<=\d)�(?=\d)/g,'–').replace(/�/g,'•');
-  const digits=text.replace(/^[•�]|[.)]$/g,'');
-  const number=/^\d{1,2}$/.test(digits)&&+digits>=part*10-9&&+digits<=part*10;
-  const gap=blanks&&number&&(!next||next[1]-r[1]-r[3]>r[4]*1.7);
-  return '<span class="source-word" data-page="'+page+'" data-run="'+index+'">'+esc(text)+'</span>'+(gap?'<span class="answer-space" aria-label="chỗ trống"> ______</span>':'')+' ';
+  const gap=blanks&&(layout.answerGaps||[]).includes(index);
+  return (gap?'<span class="source-gap">':'')+'<span class="source-word'+((layout.silentRuns||[]).includes(index)?' source-decoration':'')+'" data-page="'+page+'" data-run="'+index+'">'+esc(text)+'</span>'+(gap?'<span class="answer-space" aria-label="chỗ trống"> ______</span></span>':'')+' ';
  }).join('');
 }
 function listeningFlowPage(p){
@@ -42,6 +40,13 @@ function listeningFlowPage(p){
   const tag=meta?'p':heading?'h3':title?'h2':'p';
   return '<'+tag+' class="flow-line'+(meta?' flow-meta':'')+'">'+listeningWords(layout,l.runs,p.page,!heading&&!meta)+'</'+tag+'>';
  };
+ if(layout.table){
+  const t=layout.table;
+  html=listeningLines(layout,t.prefix).map(paragraph).join('');
+  html+='<table class="flow-table"><thead><tr>'+t.headers.map(h=>'<th scope="col">'+listeningWords(layout,h,p.page,false)+'</th>').join('')+'</tr></thead><tbody>';
+  html+=t.rows.map(row=>'<tr>'+row.map((ids,c)=>'<td data-label="'+esc(t.headers[c].map(i=>layout.runs[i][0]).join(' '))+'">'+listeningWords(layout,ids,p.page)+'</td>').join('')+'</tr>').join('');
+  return '<section class="listening-text" data-page="'+p.page+'">'+html+'</tbody></table></section>';
+ }
  for(const l of lines.slice(0,tableAt<0?lines.length:tableAt))html+=paragraph(l);
  if(tableAt>=0){
   const boundaries=headers.slice(1).map(h=>layout.runs[h[0]][1]-typical*.5);

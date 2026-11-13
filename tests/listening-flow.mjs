@@ -57,6 +57,20 @@ try{
    await page.screenshot({path:'test-results/flow-cam'+book+'-'+width+'.png'});
   }
  }
+ // Checked against the original PDF pages, not only word counts.
+ await page.evaluate(()=>{current=TESTS.find(t=>t.id==='c10l1');part=1;render();});
+ assert.deepEqual(await page.locator('.listening-text[data-page="4"] .answer-space').count(),6);
+ assert.equal(await page.locator('.listening-text[data-page="5"] .answer-space').count(),4);
+ const table=page.locator('.listening-text[data-page="5"] table');
+ assert.equal(await table.locator('thead th').count(),5);
+ assert.ok((await table.locator('tbody tr').first().innerText()).includes('£525'));
+ assert.ok((await table.locator('tbody tr').nth(1).innerText()).includes('9 £'));
+ assert.equal(await table.locator('[data-run="26"] + .answer-space').count(),0,'9 days is a duration, never an answer blank');
+ await page.evaluate(()=>{current=TESTS.find(t=>t.id==='c13l1');part=1;render();});
+ assert.equal(await page.locator('.listening-text[data-page="11"] .answer-space').count(),10);
+ const cells=page.locator('tbody tr').nth(2).locator('td');
+ assert.match(await cells.nth(1).innerText(),/mainly\s+8[\s_]+food/);
+ assert.match(await page.locator('tbody tr').nth(1).locator('td').nth(2).innerText(),/free\s+6[\s_]+every Thursday/);
  assert.deepEqual(errors,[]);
  console.log('PASS: real font sizing 14–28px, bounds/persistence, legacy highlights, nested selection, every word in 240 parts, notes/tables at desktop/mobile, no horizontal overflow.');
 }finally{await browser.close();}

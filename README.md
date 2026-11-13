@@ -99,3 +99,9 @@ Kiểm tra hồi quy: `node tests/listening-study.mjs` và `node tests/shared-ui
 Đề Listening hiển thị dưới dạng HTML tự xuống dòng, không còn phóng to cả trang PDF. Nút A− / A+ đổi cỡ chữ 14–28px (mặc định 18px), nhớ lựa chọn qua tải lại và đổi test. Bảng nội dung dùng bảng HTML; trên màn hình nhỏ, các ô xếp thành từng mục có nhãn. Sơ đồ được giữ trong mục “Xem sơ đồ tham khảo” khi cần đối chiếu.
 
 Chọn một từ, một phần từ hoặc nhiều dòng trong đề để Tô sáng / Tra từ / Bỏ highlight. Highlight cũ theo tọa độ chữ vẫn được ánh xạ sang văn bản mới nhờ giữ nguyên chỉ số trang và từ OCR; không xóa câu trả lời hoặc dữ liệu Reading. Đây vẫn là nguồn OCR hiện có, nên có thể còn lỗi nhận dạng ký tự.
+
+### Đối chiếu nội dung Listening với nguồn
+
+Các bản sửa có dấu vết trong `data/listening/corrections.json`; `listening_corrections.py` áp dụng khi build và kiểm tra từ OCR trước khi sửa. Đã đối chiếu trực quan Cambridge 10 Test 1 Part 1 (hai trang) và Cambridge 13 Test 1 Part 1: sửa ký tự, ký hiệu tiền, vị trí chỗ trống và thứ tự ô bảng. Bổ sung 13 từ/nhãn bị bỏ sót sau khi xem ảnh nguồn ở các trang được ghi trong file sửa.
+
+Không tự thêm chỗ trống chỉ vì thấy số 1–40 nữa. Ngoài các trang đã duyệt, vị trí chỗ trống được khôi phục từ đường chấm trong dữ liệu hình học nguồn. Đây vẫn là khôi phục tự động; toàn bộ 240 phần chưa được duyệt thủ công từng câu. Việc giữ đủ số từ và ô trả lời không đồng nghĩa mọi câu OCR đều chính xác.
