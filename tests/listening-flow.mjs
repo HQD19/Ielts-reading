@@ -71,6 +71,16 @@ try{
  const cells=page.locator('tbody tr').nth(2).locator('td');
  assert.match(await cells.nth(1).innerText(),/mainly\s+8[\s_]+food/);
  assert.match(await page.locator('tbody tr').nth(1).locator('td').nth(2).innerText(),/free\s+6[\s_]+every Thursday/);
+ await page.setViewportSize({width:1440,height:1000});
+ await page.evaluate(()=>{current=TESTS.find(t=>t.id==='c20l1');part=3;db.fontSize=18;render();theme(true);});
+ const prompt=page.locator('.flow-prompt').filter({hasText:'Which TWO things'});
+ assert.equal(await prompt.count(),1);
+ assert.ok((await prompt.innerText()).includes('increase in loneliness?'));
+ assert.ok(await prompt.evaluate(e=>parseFloat(getComputedStyle(e).fontSize))>18);
+ assert.equal(await page.locator('.listening-text[data-page="8"] .flow-prompt').count(),3);
+ assert.equal(await page.locator('.listening-text[data-page="9"] .flow-prompt').count(),4);
+ assert.ok((await page.locator('.listening-text[data-page="8"]').innerText()).includes('A–E.'));
+ await page.screenshot({path:'test-results/cam20-prompts-dark.png'});
  assert.deepEqual(errors,[]);
  console.log('PASS: real font sizing 14–28px, bounds/persistence, legacy highlights, nested selection, every word in 240 parts, notes/tables at desktop/mobile, no horizontal overflow.');
 }finally{await browser.close();}

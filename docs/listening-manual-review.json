@@ -1,0 +1,2823 @@
+{
+  "pages": {
+    "7-11": {
+      "book": 7,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 11,
+      "status": "pending"
+    },
+    "7-12": {
+      "book": 7,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 12,
+      "status": "pending"
+    },
+    "7-13": {
+      "book": 7,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 13,
+      "status": "pending"
+    },
+    "7-14": {
+      "book": 7,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 14,
+      "status": "pending"
+    },
+    "7-15": {
+      "book": 7,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 15,
+      "status": "pending"
+    },
+    "7-16": {
+      "book": 7,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 16,
+      "status": "pending"
+    },
+    "7-17": {
+      "book": 7,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 17,
+      "status": "pending"
+    },
+    "7-18": {
+      "book": 7,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 18,
+      "status": "pending"
+    },
+    "7-34": {
+      "book": 7,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 34,
+      "status": "pending"
+    },
+    "7-35": {
+      "book": 7,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 35,
+      "status": "pending"
+    },
+    "7-36": {
+      "book": 7,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 36,
+      "status": "pending"
+    },
+    "7-37": {
+      "book": 7,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 37,
+      "status": "pending"
+    },
+    "7-38": {
+      "book": 7,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 38,
+      "status": "pending"
+    },
+    "7-39": {
+      "book": 7,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 39,
+      "status": "pending"
+    },
+    "7-40": {
+      "book": 7,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 40,
+      "status": "pending"
+    },
+    "7-57": {
+      "book": 7,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 57,
+      "status": "pending"
+    },
+    "7-58": {
+      "book": 7,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 58,
+      "status": "pending"
+    },
+    "7-59": {
+      "book": 7,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 59,
+      "status": "pending"
+    },
+    "7-60": {
+      "book": 7,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 60,
+      "status": "pending"
+    },
+    "7-61": {
+      "book": 7,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 61,
+      "status": "pending"
+    },
+    "7-62": {
+      "book": 7,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 62,
+      "status": "pending"
+    },
+    "7-63": {
+      "book": 7,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 63,
+      "status": "pending"
+    },
+    "7-64": {
+      "book": 7,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 64,
+      "status": "pending"
+    },
+    "7-65": {
+      "book": 7,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 65,
+      "status": "pending"
+    },
+    "7-82": {
+      "book": 7,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 82,
+      "status": "pending"
+    },
+    "7-83": {
+      "book": 7,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 83,
+      "status": "pending"
+    },
+    "7-84": {
+      "book": 7,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 84,
+      "status": "pending"
+    },
+    "7-85": {
+      "book": 7,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 85,
+      "status": "pending"
+    },
+    "7-86": {
+      "book": 7,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 86,
+      "status": "pending"
+    },
+    "7-87": {
+      "book": 7,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 87,
+      "status": "pending"
+    },
+    "7-88": {
+      "book": 7,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 88,
+      "status": "pending"
+    },
+    "7-89": {
+      "book": 7,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 89,
+      "status": "pending"
+    },
+    "8-9": {
+      "book": 8,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 9,
+      "status": "pending"
+    },
+    "8-10": {
+      "book": 8,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 10,
+      "status": "pending"
+    },
+    "8-11": {
+      "book": 8,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 11,
+      "status": "pending"
+    },
+    "8-12": {
+      "book": 8,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 12,
+      "status": "pending"
+    },
+    "8-13": {
+      "book": 8,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 13,
+      "status": "pending"
+    },
+    "8-14": {
+      "book": 8,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 14,
+      "status": "pending"
+    },
+    "8-15": {
+      "book": 8,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 15,
+      "status": "pending"
+    },
+    "8-16": {
+      "book": 8,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 16,
+      "status": "pending"
+    },
+    "8-32": {
+      "book": 8,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 32,
+      "status": "pending"
+    },
+    "8-33": {
+      "book": 8,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 33,
+      "status": "pending"
+    },
+    "8-34": {
+      "book": 8,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 34,
+      "status": "pending"
+    },
+    "8-35": {
+      "book": 8,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 35,
+      "status": "pending"
+    },
+    "8-36": {
+      "book": 8,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 36,
+      "status": "pending"
+    },
+    "8-37": {
+      "book": 8,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 37,
+      "status": "pending"
+    },
+    "8-38": {
+      "book": 8,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 38,
+      "status": "pending"
+    },
+    "8-39": {
+      "book": 8,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 39,
+      "status": "pending"
+    },
+    "8-55": {
+      "book": 8,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 55,
+      "status": "pending"
+    },
+    "8-56": {
+      "book": 8,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 56,
+      "status": "pending"
+    },
+    "8-57": {
+      "book": 8,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 57,
+      "status": "pending"
+    },
+    "8-58": {
+      "book": 8,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 58,
+      "status": "pending"
+    },
+    "8-59": {
+      "book": 8,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 59,
+      "status": "pending"
+    },
+    "8-60": {
+      "book": 8,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 60,
+      "status": "pending"
+    },
+    "8-61": {
+      "book": 8,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 61,
+      "status": "pending"
+    },
+    "8-62": {
+      "book": 8,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 62,
+      "status": "pending"
+    },
+    "8-63": {
+      "book": 8,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 63,
+      "status": "pending"
+    },
+    "8-80": {
+      "book": 8,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 80,
+      "status": "pending"
+    },
+    "8-81": {
+      "book": 8,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 81,
+      "status": "pending"
+    },
+    "8-82": {
+      "book": 8,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 82,
+      "status": "pending"
+    },
+    "8-83": {
+      "book": 8,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 83,
+      "status": "pending"
+    },
+    "8-84": {
+      "book": 8,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 84,
+      "status": "pending"
+    },
+    "8-85": {
+      "book": 8,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 85,
+      "status": "pending"
+    },
+    "8-86": {
+      "book": 8,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 86,
+      "status": "pending"
+    },
+    "9-2": {
+      "book": 9,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 2,
+      "status": "pending"
+    },
+    "9-3": {
+      "book": 9,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 3,
+      "status": "pending"
+    },
+    "9-4": {
+      "book": 9,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 4,
+      "status": "pending"
+    },
+    "9-5": {
+      "book": 9,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 5,
+      "status": "pending"
+    },
+    "9-6": {
+      "book": 9,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 6,
+      "status": "pending"
+    },
+    "9-7": {
+      "book": 9,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 7,
+      "status": "pending"
+    },
+    "9-8": {
+      "book": 9,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 8,
+      "status": "pending"
+    },
+    "9-25": {
+      "book": 9,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 25,
+      "status": "pending"
+    },
+    "9-26": {
+      "book": 9,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 26,
+      "status": "pending"
+    },
+    "9-27": {
+      "book": 9,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 27,
+      "status": "pending"
+    },
+    "9-28": {
+      "book": 9,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 28,
+      "status": "pending"
+    },
+    "9-29": {
+      "book": 9,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 29,
+      "status": "pending"
+    },
+    "9-30": {
+      "book": 9,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 30,
+      "status": "pending"
+    },
+    "9-31": {
+      "book": 9,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 31,
+      "status": "pending"
+    },
+    "9-32": {
+      "book": 9,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 32,
+      "status": "pending"
+    },
+    "9-48": {
+      "book": 9,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 48,
+      "status": "pending"
+    },
+    "9-49": {
+      "book": 9,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 49,
+      "status": "pending"
+    },
+    "9-50": {
+      "book": 9,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 50,
+      "status": "pending"
+    },
+    "9-51": {
+      "book": 9,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 51,
+      "status": "pending"
+    },
+    "9-52": {
+      "book": 9,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 52,
+      "status": "pending"
+    },
+    "9-53": {
+      "book": 9,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 53,
+      "status": "pending"
+    },
+    "9-54": {
+      "book": 9,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 54,
+      "status": "pending"
+    },
+    "9-71": {
+      "book": 9,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 71,
+      "status": "pending"
+    },
+    "9-72": {
+      "book": 9,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 72,
+      "status": "pending"
+    },
+    "9-73": {
+      "book": 9,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 73,
+      "status": "pending"
+    },
+    "9-74": {
+      "book": 9,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 74,
+      "status": "pending"
+    },
+    "9-75": {
+      "book": 9,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 75,
+      "status": "pending"
+    },
+    "9-76": {
+      "book": 9,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 76,
+      "status": "pending"
+    },
+    "9-77": {
+      "book": 9,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 77,
+      "status": "pending"
+    },
+    "9-78": {
+      "book": 9,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 78,
+      "status": "pending"
+    },
+    "10-4": {
+      "book": 10,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 4,
+      "status": "reviewed",
+      "method": "Visual comparison with original source scan, wording and reading order"
+    },
+    "10-5": {
+      "book": 10,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 5,
+      "status": "reviewed",
+      "method": "Visual comparison with original source scan, wording and reading order"
+    },
+    "10-6": {
+      "book": 10,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 6,
+      "status": "pending"
+    },
+    "10-7": {
+      "book": 10,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 7,
+      "status": "pending"
+    },
+    "10-8": {
+      "book": 10,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 8,
+      "status": "pending"
+    },
+    "10-9": {
+      "book": 10,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 9,
+      "status": "pending"
+    },
+    "10-10": {
+      "book": 10,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 10,
+      "status": "pending"
+    },
+    "10-27": {
+      "book": 10,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 27,
+      "status": "pending"
+    },
+    "10-28": {
+      "book": 10,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 28,
+      "status": "pending"
+    },
+    "10-29": {
+      "book": 10,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 29,
+      "status": "pending"
+    },
+    "10-30": {
+      "book": 10,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 30,
+      "status": "pending"
+    },
+    "10-31": {
+      "book": 10,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 31,
+      "status": "pending"
+    },
+    "10-32": {
+      "book": 10,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 32,
+      "status": "pending"
+    },
+    "10-33": {
+      "book": 10,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 33,
+      "status": "pending"
+    },
+    "10-34": {
+      "book": 10,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 34,
+      "status": "pending"
+    },
+    "10-51": {
+      "book": 10,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 51,
+      "status": "pending"
+    },
+    "10-52": {
+      "book": 10,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 52,
+      "status": "pending"
+    },
+    "10-53": {
+      "book": 10,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 53,
+      "status": "pending"
+    },
+    "10-54": {
+      "book": 10,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 54,
+      "status": "pending"
+    },
+    "10-55": {
+      "book": 10,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 55,
+      "status": "pending"
+    },
+    "10-56": {
+      "book": 10,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 56,
+      "status": "pending"
+    },
+    "10-57": {
+      "book": 10,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 57,
+      "status": "pending"
+    },
+    "10-74": {
+      "book": 10,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 74,
+      "status": "pending"
+    },
+    "10-75": {
+      "book": 10,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 75,
+      "status": "pending"
+    },
+    "10-76": {
+      "book": 10,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 76,
+      "status": "pending"
+    },
+    "10-77": {
+      "book": 10,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 77,
+      "status": "pending"
+    },
+    "10-78": {
+      "book": 10,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 78,
+      "status": "pending"
+    },
+    "10-79": {
+      "book": 10,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 79,
+      "status": "pending"
+    },
+    "10-80": {
+      "book": 10,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 80,
+      "status": "pending"
+    },
+    "10-81": {
+      "book": 10,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 81,
+      "status": "pending"
+    },
+    "11-10": {
+      "book": 11,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 10,
+      "status": "pending"
+    },
+    "11-11": {
+      "book": 11,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 11,
+      "status": "pending"
+    },
+    "11-12": {
+      "book": 11,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 12,
+      "status": "pending"
+    },
+    "11-13": {
+      "book": 11,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 13,
+      "status": "pending"
+    },
+    "11-14": {
+      "book": 11,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 14,
+      "status": "pending"
+    },
+    "11-15": {
+      "book": 11,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 15,
+      "status": "pending"
+    },
+    "11-16": {
+      "book": 11,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 16,
+      "status": "pending"
+    },
+    "11-17": {
+      "book": 11,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 17,
+      "status": "pending"
+    },
+    "11-33": {
+      "book": 11,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 33,
+      "status": "pending"
+    },
+    "11-34": {
+      "book": 11,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 34,
+      "status": "pending"
+    },
+    "11-35": {
+      "book": 11,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 35,
+      "status": "pending"
+    },
+    "11-36": {
+      "book": 11,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 36,
+      "status": "pending"
+    },
+    "11-37": {
+      "book": 11,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 37,
+      "status": "pending"
+    },
+    "11-38": {
+      "book": 11,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 38,
+      "status": "pending"
+    },
+    "11-39": {
+      "book": 11,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 39,
+      "status": "pending"
+    },
+    "11-40": {
+      "book": 11,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 40,
+      "status": "pending"
+    },
+    "11-57": {
+      "book": 11,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 57,
+      "status": "pending"
+    },
+    "11-58": {
+      "book": 11,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 58,
+      "status": "pending"
+    },
+    "11-59": {
+      "book": 11,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 59,
+      "status": "pending"
+    },
+    "11-60": {
+      "book": 11,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 60,
+      "status": "pending"
+    },
+    "11-61": {
+      "book": 11,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 61,
+      "status": "pending"
+    },
+    "11-62": {
+      "book": 11,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 62,
+      "status": "pending"
+    },
+    "11-63": {
+      "book": 11,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 63,
+      "status": "pending"
+    },
+    "11-64": {
+      "book": 11,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 64,
+      "status": "pending"
+    },
+    "11-80": {
+      "book": 11,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 80,
+      "status": "pending"
+    },
+    "11-81": {
+      "book": 11,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 81,
+      "status": "pending"
+    },
+    "11-82": {
+      "book": 11,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 82,
+      "status": "pending"
+    },
+    "11-83": {
+      "book": 11,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 83,
+      "status": "pending"
+    },
+    "11-84": {
+      "book": 11,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 84,
+      "status": "pending"
+    },
+    "11-85": {
+      "book": 11,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 85,
+      "status": "pending"
+    },
+    "11-86": {
+      "book": 11,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 86,
+      "status": "pending"
+    },
+    "12-12": {
+      "book": 12,
+      "test": 5,
+      "part": 1,
+      "pdfPage": 12,
+      "status": "pending"
+    },
+    "12-13": {
+      "book": 12,
+      "test": 5,
+      "part": 1,
+      "pdfPage": 13,
+      "status": "pending"
+    },
+    "12-14": {
+      "book": 12,
+      "test": 5,
+      "part": 2,
+      "pdfPage": 14,
+      "status": "pending"
+    },
+    "12-15": {
+      "book": 12,
+      "test": 5,
+      "part": 2,
+      "pdfPage": 15,
+      "status": "pending"
+    },
+    "12-16": {
+      "book": 12,
+      "test": 5,
+      "part": 3,
+      "pdfPage": 16,
+      "status": "pending"
+    },
+    "12-17": {
+      "book": 12,
+      "test": 5,
+      "part": 4,
+      "pdfPage": 17,
+      "status": "pending"
+    },
+    "12-32": {
+      "book": 12,
+      "test": 6,
+      "part": 1,
+      "pdfPage": 32,
+      "status": "pending"
+    },
+    "12-33": {
+      "book": 12,
+      "test": 6,
+      "part": 2,
+      "pdfPage": 33,
+      "status": "pending"
+    },
+    "12-34": {
+      "book": 12,
+      "test": 6,
+      "part": 2,
+      "pdfPage": 34,
+      "status": "pending"
+    },
+    "12-35": {
+      "book": 12,
+      "test": 6,
+      "part": 3,
+      "pdfPage": 35,
+      "status": "pending"
+    },
+    "12-36": {
+      "book": 12,
+      "test": 6,
+      "part": 3,
+      "pdfPage": 36,
+      "status": "pending"
+    },
+    "12-37": {
+      "book": 12,
+      "test": 6,
+      "part": 4,
+      "pdfPage": 37,
+      "status": "pending"
+    },
+    "12-55": {
+      "book": 12,
+      "test": 7,
+      "part": 1,
+      "pdfPage": 55,
+      "status": "pending"
+    },
+    "12-56": {
+      "book": 12,
+      "test": 7,
+      "part": 2,
+      "pdfPage": 56,
+      "status": "pending"
+    },
+    "12-57": {
+      "book": 12,
+      "test": 7,
+      "part": 2,
+      "pdfPage": 57,
+      "status": "pending"
+    },
+    "12-58": {
+      "book": 12,
+      "test": 7,
+      "part": 3,
+      "pdfPage": 58,
+      "status": "pending"
+    },
+    "12-59": {
+      "book": 12,
+      "test": 7,
+      "part": 3,
+      "pdfPage": 59,
+      "status": "pending"
+    },
+    "12-60": {
+      "book": 12,
+      "test": 7,
+      "part": 4,
+      "pdfPage": 60,
+      "status": "pending"
+    },
+    "12-76": {
+      "book": 12,
+      "test": 8,
+      "part": 1,
+      "pdfPage": 76,
+      "status": "pending"
+    },
+    "12-77": {
+      "book": 12,
+      "test": 8,
+      "part": 2,
+      "pdfPage": 77,
+      "status": "pending"
+    },
+    "12-78": {
+      "book": 12,
+      "test": 8,
+      "part": 2,
+      "pdfPage": 78,
+      "status": "pending"
+    },
+    "12-79": {
+      "book": 12,
+      "test": 8,
+      "part": 3,
+      "pdfPage": 79,
+      "status": "pending"
+    },
+    "12-80": {
+      "book": 12,
+      "test": 8,
+      "part": 3,
+      "pdfPage": 80,
+      "status": "pending"
+    },
+    "12-81": {
+      "book": 12,
+      "test": 8,
+      "part": 4,
+      "pdfPage": 81,
+      "status": "pending"
+    },
+    "13-11": {
+      "book": 13,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 11,
+      "status": "reviewed",
+      "method": "Visual comparison with original source scan, wording and reading order"
+    },
+    "13-12": {
+      "book": 13,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 12,
+      "status": "pending"
+    },
+    "13-13": {
+      "book": 13,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 13,
+      "status": "pending"
+    },
+    "13-14": {
+      "book": 13,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 14,
+      "status": "pending"
+    },
+    "13-15": {
+      "book": 13,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 15,
+      "status": "pending"
+    },
+    "13-16": {
+      "book": 13,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 16,
+      "status": "pending"
+    },
+    "13-33": {
+      "book": 13,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 33,
+      "status": "pending"
+    },
+    "13-34": {
+      "book": 13,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 34,
+      "status": "pending"
+    },
+    "13-35": {
+      "book": 13,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 35,
+      "status": "pending"
+    },
+    "13-36": {
+      "book": 13,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 36,
+      "status": "pending"
+    },
+    "13-37": {
+      "book": 13,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 37,
+      "status": "pending"
+    },
+    "13-38": {
+      "book": 13,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 38,
+      "status": "pending"
+    },
+    "13-55": {
+      "book": 13,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 55,
+      "status": "pending"
+    },
+    "13-56": {
+      "book": 13,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 56,
+      "status": "pending"
+    },
+    "13-57": {
+      "book": 13,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 57,
+      "status": "pending"
+    },
+    "13-58": {
+      "book": 13,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 58,
+      "status": "pending"
+    },
+    "13-59": {
+      "book": 13,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 59,
+      "status": "pending"
+    },
+    "13-60": {
+      "book": 13,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 60,
+      "status": "pending"
+    },
+    "13-77": {
+      "book": 13,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 77,
+      "status": "pending"
+    },
+    "13-78": {
+      "book": 13,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 78,
+      "status": "pending"
+    },
+    "13-79": {
+      "book": 13,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 79,
+      "status": "pending"
+    },
+    "13-80": {
+      "book": 13,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 80,
+      "status": "pending"
+    },
+    "13-81": {
+      "book": 13,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 81,
+      "status": "pending"
+    },
+    "13-82": {
+      "book": 13,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 82,
+      "status": "pending"
+    },
+    "14-9": {
+      "book": 14,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 9,
+      "status": "pending"
+    },
+    "14-10": {
+      "book": 14,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 10,
+      "status": "pending"
+    },
+    "14-11": {
+      "book": 14,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 11,
+      "status": "pending"
+    },
+    "14-12": {
+      "book": 14,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 12,
+      "status": "pending"
+    },
+    "14-13": {
+      "book": 14,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 13,
+      "status": "pending"
+    },
+    "14-14": {
+      "book": 14,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 14,
+      "status": "pending"
+    },
+    "14-32": {
+      "book": 14,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 32,
+      "status": "pending"
+    },
+    "14-33": {
+      "book": 14,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 33,
+      "status": "pending"
+    },
+    "14-34": {
+      "book": 14,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 34,
+      "status": "pending"
+    },
+    "14-35": {
+      "book": 14,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 35,
+      "status": "pending"
+    },
+    "14-36": {
+      "book": 14,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 36,
+      "status": "pending"
+    },
+    "14-37": {
+      "book": 14,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 37,
+      "status": "pending"
+    },
+    "14-53": {
+      "book": 14,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 53,
+      "status": "pending"
+    },
+    "14-54": {
+      "book": 14,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 54,
+      "status": "pending"
+    },
+    "14-55": {
+      "book": 14,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 55,
+      "status": "pending"
+    },
+    "14-56": {
+      "book": 14,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 56,
+      "status": "pending"
+    },
+    "14-57": {
+      "book": 14,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 57,
+      "status": "pending"
+    },
+    "14-58": {
+      "book": 14,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 58,
+      "status": "pending"
+    },
+    "14-75": {
+      "book": 14,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 75,
+      "status": "pending"
+    },
+    "14-76": {
+      "book": 14,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 76,
+      "status": "pending"
+    },
+    "14-77": {
+      "book": 14,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 77,
+      "status": "pending"
+    },
+    "14-78": {
+      "book": 14,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 78,
+      "status": "pending"
+    },
+    "14-79": {
+      "book": 14,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 79,
+      "status": "pending"
+    },
+    "14-80": {
+      "book": 14,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 80,
+      "status": "pending"
+    },
+    "14-81": {
+      "book": 14,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 81,
+      "status": "pending"
+    },
+    "15-9": {
+      "book": 15,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 9,
+      "status": "pending"
+    },
+    "15-10": {
+      "book": 15,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 10,
+      "status": "pending"
+    },
+    "15-11": {
+      "book": 15,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 11,
+      "status": "pending"
+    },
+    "15-12": {
+      "book": 15,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 12,
+      "status": "pending"
+    },
+    "15-28": {
+      "book": 15,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 28,
+      "status": "pending"
+    },
+    "15-29": {
+      "book": 15,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 29,
+      "status": "pending"
+    },
+    "15-30": {
+      "book": 15,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 30,
+      "status": "pending"
+    },
+    "15-31": {
+      "book": 15,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 31,
+      "status": "pending"
+    },
+    "15-32": {
+      "book": 15,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 32,
+      "status": "pending"
+    },
+    "15-33": {
+      "book": 15,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 33,
+      "status": "pending"
+    },
+    "15-49": {
+      "book": 15,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 49,
+      "status": "pending"
+    },
+    "15-50": {
+      "book": 15,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 50,
+      "status": "pending"
+    },
+    "15-51": {
+      "book": 15,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 51,
+      "status": "pending"
+    },
+    "15-52": {
+      "book": 15,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 52,
+      "status": "pending"
+    },
+    "15-53": {
+      "book": 15,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 53,
+      "status": "pending"
+    },
+    "15-54": {
+      "book": 15,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 54,
+      "status": "pending"
+    },
+    "15-71": {
+      "book": 15,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 71,
+      "status": "pending"
+    },
+    "15-72": {
+      "book": 15,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 72,
+      "status": "pending"
+    },
+    "15-73": {
+      "book": 15,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 73,
+      "status": "pending"
+    },
+    "15-74": {
+      "book": 15,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 74,
+      "status": "pending"
+    },
+    "15-75": {
+      "book": 15,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 75,
+      "status": "pending"
+    },
+    "15-76": {
+      "book": 15,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 76,
+      "status": "pending"
+    },
+    "16-11": {
+      "book": 16,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 11,
+      "status": "pending"
+    },
+    "16-12": {
+      "book": 16,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 12,
+      "status": "pending"
+    },
+    "16-13": {
+      "book": 16,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 13,
+      "status": "pending"
+    },
+    "16-14": {
+      "book": 16,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 14,
+      "status": "pending"
+    },
+    "16-15": {
+      "book": 16,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 15,
+      "status": "pending"
+    },
+    "16-16": {
+      "book": 16,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 16,
+      "status": "pending"
+    },
+    "16-33": {
+      "book": 16,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 33,
+      "status": "pending"
+    },
+    "16-34": {
+      "book": 16,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 34,
+      "status": "pending"
+    },
+    "16-35": {
+      "book": 16,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 35,
+      "status": "pending"
+    },
+    "16-36": {
+      "book": 16,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 36,
+      "status": "pending"
+    },
+    "16-37": {
+      "book": 16,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 37,
+      "status": "pending"
+    },
+    "16-38": {
+      "book": 16,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 38,
+      "status": "pending"
+    },
+    "16-56": {
+      "book": 16,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 56,
+      "status": "pending"
+    },
+    "16-57": {
+      "book": 16,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 57,
+      "status": "pending"
+    },
+    "16-58": {
+      "book": 16,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 58,
+      "status": "pending"
+    },
+    "16-59": {
+      "book": 16,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 59,
+      "status": "pending"
+    },
+    "16-60": {
+      "book": 16,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 60,
+      "status": "pending"
+    },
+    "16-61": {
+      "book": 16,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 61,
+      "status": "pending"
+    },
+    "16-77": {
+      "book": 16,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 77,
+      "status": "pending"
+    },
+    "16-78": {
+      "book": 16,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 78,
+      "status": "pending"
+    },
+    "16-79": {
+      "book": 16,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 79,
+      "status": "pending"
+    },
+    "16-80": {
+      "book": 16,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 80,
+      "status": "pending"
+    },
+    "16-81": {
+      "book": 16,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 81,
+      "status": "pending"
+    },
+    "16-82": {
+      "book": 16,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 82,
+      "status": "pending"
+    },
+    "17-3": {
+      "book": 17,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 3,
+      "status": "pending"
+    },
+    "17-4": {
+      "book": 17,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 4,
+      "status": "pending"
+    },
+    "17-5": {
+      "book": 17,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 5,
+      "status": "pending"
+    },
+    "17-6": {
+      "book": 17,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 6,
+      "status": "pending"
+    },
+    "17-7": {
+      "book": 17,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 7,
+      "status": "pending"
+    },
+    "17-8": {
+      "book": 17,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 8,
+      "status": "pending"
+    },
+    "17-24": {
+      "book": 17,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 24,
+      "status": "pending"
+    },
+    "17-25": {
+      "book": 17,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 25,
+      "status": "pending"
+    },
+    "17-26": {
+      "book": 17,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 26,
+      "status": "pending"
+    },
+    "17-27": {
+      "book": 17,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 27,
+      "status": "pending"
+    },
+    "17-28": {
+      "book": 17,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 28,
+      "status": "pending"
+    },
+    "17-29": {
+      "book": 17,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 29,
+      "status": "pending"
+    },
+    "17-46": {
+      "book": 17,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 46,
+      "status": "pending"
+    },
+    "17-47": {
+      "book": 17,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 47,
+      "status": "pending"
+    },
+    "17-48": {
+      "book": 17,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 48,
+      "status": "pending"
+    },
+    "17-49": {
+      "book": 17,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 49,
+      "status": "pending"
+    },
+    "17-50": {
+      "book": 17,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 50,
+      "status": "pending"
+    },
+    "17-51": {
+      "book": 17,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 51,
+      "status": "pending"
+    },
+    "17-68": {
+      "book": 17,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 68,
+      "status": "pending"
+    },
+    "17-69": {
+      "book": 17,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 69,
+      "status": "pending"
+    },
+    "17-70": {
+      "book": 17,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 70,
+      "status": "pending"
+    },
+    "17-71": {
+      "book": 17,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 71,
+      "status": "pending"
+    },
+    "17-72": {
+      "book": 17,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 72,
+      "status": "pending"
+    },
+    "17-73": {
+      "book": 17,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 73,
+      "status": "pending"
+    },
+    "18-12": {
+      "book": 18,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 12,
+      "status": "pending"
+    },
+    "18-13": {
+      "book": 18,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 13,
+      "status": "pending"
+    },
+    "18-14": {
+      "book": 18,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 14,
+      "status": "pending"
+    },
+    "18-15": {
+      "book": 18,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 15,
+      "status": "pending"
+    },
+    "18-16": {
+      "book": 18,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 16,
+      "status": "pending"
+    },
+    "18-17": {
+      "book": 18,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 17,
+      "status": "pending"
+    },
+    "18-34": {
+      "book": 18,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 34,
+      "status": "pending"
+    },
+    "18-35": {
+      "book": 18,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 35,
+      "status": "pending"
+    },
+    "18-36": {
+      "book": 18,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 36,
+      "status": "pending"
+    },
+    "18-37": {
+      "book": 18,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 37,
+      "status": "pending"
+    },
+    "18-38": {
+      "book": 18,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 38,
+      "status": "pending"
+    },
+    "18-39": {
+      "book": 18,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 39,
+      "status": "pending"
+    },
+    "18-40": {
+      "book": 18,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 40,
+      "status": "pending"
+    },
+    "18-57": {
+      "book": 18,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 57,
+      "status": "pending"
+    },
+    "18-58": {
+      "book": 18,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 58,
+      "status": "pending"
+    },
+    "18-59": {
+      "book": 18,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 59,
+      "status": "pending"
+    },
+    "18-60": {
+      "book": 18,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 60,
+      "status": "pending"
+    },
+    "18-61": {
+      "book": 18,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 61,
+      "status": "pending"
+    },
+    "18-62": {
+      "book": 18,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 62,
+      "status": "pending"
+    },
+    "18-80": {
+      "book": 18,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 80,
+      "status": "pending"
+    },
+    "18-81": {
+      "book": 18,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 81,
+      "status": "pending"
+    },
+    "18-82": {
+      "book": 18,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 82,
+      "status": "pending"
+    },
+    "18-83": {
+      "book": 18,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 83,
+      "status": "pending"
+    },
+    "18-84": {
+      "book": 18,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 84,
+      "status": "pending"
+    },
+    "18-85": {
+      "book": 18,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 85,
+      "status": "pending"
+    },
+    "19-9": {
+      "book": 19,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 9,
+      "status": "pending"
+    },
+    "19-10": {
+      "book": 19,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 10,
+      "status": "pending"
+    },
+    "19-11": {
+      "book": 19,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 11,
+      "status": "pending"
+    },
+    "19-12": {
+      "book": 19,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 12,
+      "status": "pending"
+    },
+    "19-13": {
+      "book": 19,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 13,
+      "status": "pending"
+    },
+    "19-14": {
+      "book": 19,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 14,
+      "status": "pending"
+    },
+    "19-32": {
+      "book": 19,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 32,
+      "status": "pending"
+    },
+    "19-33": {
+      "book": 19,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 33,
+      "status": "pending"
+    },
+    "19-34": {
+      "book": 19,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 34,
+      "status": "pending"
+    },
+    "19-35": {
+      "book": 19,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 35,
+      "status": "pending"
+    },
+    "19-36": {
+      "book": 19,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 36,
+      "status": "pending"
+    },
+    "19-37": {
+      "book": 19,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 37,
+      "status": "pending"
+    },
+    "19-38": {
+      "book": 19,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 38,
+      "status": "pending"
+    },
+    "19-54": {
+      "book": 19,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 54,
+      "status": "pending"
+    },
+    "19-55": {
+      "book": 19,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 55,
+      "status": "pending"
+    },
+    "19-56": {
+      "book": 19,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 56,
+      "status": "pending"
+    },
+    "19-57": {
+      "book": 19,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 57,
+      "status": "pending"
+    },
+    "19-58": {
+      "book": 19,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 58,
+      "status": "pending"
+    },
+    "19-59": {
+      "book": 19,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 59,
+      "status": "pending"
+    },
+    "19-60": {
+      "book": 19,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 60,
+      "status": "pending"
+    },
+    "19-77": {
+      "book": 19,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 77,
+      "status": "pending"
+    },
+    "19-78": {
+      "book": 19,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 78,
+      "status": "pending"
+    },
+    "19-79": {
+      "book": 19,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 79,
+      "status": "pending"
+    },
+    "19-80": {
+      "book": 19,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 80,
+      "status": "pending"
+    },
+    "19-81": {
+      "book": 19,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 81,
+      "status": "pending"
+    },
+    "19-82": {
+      "book": 19,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 82,
+      "status": "pending"
+    },
+    "20-5": {
+      "book": 20,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 5,
+      "status": "pending"
+    },
+    "20-6": {
+      "book": 20,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 6,
+      "status": "pending"
+    },
+    "20-7": {
+      "book": 20,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 7,
+      "status": "pending"
+    },
+    "20-8": {
+      "book": 20,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 8,
+      "status": "reviewed",
+      "method": "Visual comparison with original source scan, wording and reading order"
+    },
+    "20-9": {
+      "book": 20,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 9,
+      "status": "reviewed",
+      "method": "Visual comparison with original source scan, wording and reading order"
+    },
+    "20-10": {
+      "book": 20,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 10,
+      "status": "pending"
+    },
+    "20-11": {
+      "book": 20,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 11,
+      "status": "pending"
+    },
+    "20-41": {
+      "book": 20,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 41,
+      "status": "pending"
+    },
+    "20-42": {
+      "book": 20,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 42,
+      "status": "pending"
+    },
+    "20-43": {
+      "book": 20,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 43,
+      "status": "pending"
+    },
+    "20-44": {
+      "book": 20,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 44,
+      "status": "pending"
+    },
+    "20-45": {
+      "book": 20,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 45,
+      "status": "pending"
+    },
+    "20-46": {
+      "book": 20,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 46,
+      "status": "pending"
+    },
+    "20-47": {
+      "book": 20,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 47,
+      "status": "pending"
+    },
+    "20-79": {
+      "book": 20,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 79,
+      "status": "pending"
+    },
+    "20-80": {
+      "book": 20,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 80,
+      "status": "pending"
+    },
+    "20-81": {
+      "book": 20,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 81,
+      "status": "pending"
+    },
+    "20-82": {
+      "book": 20,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 82,
+      "status": "pending"
+    },
+    "20-83": {
+      "book": 20,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 83,
+      "status": "pending"
+    },
+    "20-84": {
+      "book": 20,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 84,
+      "status": "pending"
+    },
+    "20-85": {
+      "book": 20,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 85,
+      "status": "pending"
+    },
+    "20-86": {
+      "book": 20,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 86,
+      "status": "pending"
+    },
+    "20-116": {
+      "book": 20,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 116,
+      "status": "pending"
+    },
+    "20-117": {
+      "book": 20,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 117,
+      "status": "pending"
+    },
+    "20-118": {
+      "book": 20,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 118,
+      "status": "pending"
+    },
+    "20-119": {
+      "book": 20,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 119,
+      "status": "pending"
+    },
+    "20-120": {
+      "book": 20,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 120,
+      "status": "pending"
+    },
+    "20-121": {
+      "book": 20,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 121,
+      "status": "pending"
+    },
+    "20-122": {
+      "book": 20,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 122,
+      "status": "pending"
+    },
+    "21-11": {
+      "book": 21,
+      "test": 1,
+      "part": 1,
+      "pdfPage": 11,
+      "status": "pending"
+    },
+    "21-12": {
+      "book": 21,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 12,
+      "status": "pending"
+    },
+    "21-13": {
+      "book": 21,
+      "test": 1,
+      "part": 2,
+      "pdfPage": 13,
+      "status": "pending"
+    },
+    "21-14": {
+      "book": 21,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 14,
+      "status": "pending"
+    },
+    "21-15": {
+      "book": 21,
+      "test": 1,
+      "part": 3,
+      "pdfPage": 15,
+      "status": "pending"
+    },
+    "21-16": {
+      "book": 21,
+      "test": 1,
+      "part": 4,
+      "pdfPage": 16,
+      "status": "pending"
+    },
+    "21-33": {
+      "book": 21,
+      "test": 2,
+      "part": 1,
+      "pdfPage": 33,
+      "status": "pending"
+    },
+    "21-34": {
+      "book": 21,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 34,
+      "status": "pending"
+    },
+    "21-35": {
+      "book": 21,
+      "test": 2,
+      "part": 2,
+      "pdfPage": 35,
+      "status": "pending"
+    },
+    "21-36": {
+      "book": 21,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 36,
+      "status": "pending"
+    },
+    "21-37": {
+      "book": 21,
+      "test": 2,
+      "part": 3,
+      "pdfPage": 37,
+      "status": "pending"
+    },
+    "21-38": {
+      "book": 21,
+      "test": 2,
+      "part": 4,
+      "pdfPage": 38,
+      "status": "pending"
+    },
+    "21-55": {
+      "book": 21,
+      "test": 3,
+      "part": 1,
+      "pdfPage": 55,
+      "status": "pending"
+    },
+    "21-56": {
+      "book": 21,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 56,
+      "status": "pending"
+    },
+    "21-57": {
+      "book": 21,
+      "test": 3,
+      "part": 2,
+      "pdfPage": 57,
+      "status": "pending"
+    },
+    "21-58": {
+      "book": 21,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 58,
+      "status": "pending"
+    },
+    "21-59": {
+      "book": 21,
+      "test": 3,
+      "part": 3,
+      "pdfPage": 59,
+      "status": "pending"
+    },
+    "21-60": {
+      "book": 21,
+      "test": 3,
+      "part": 4,
+      "pdfPage": 60,
+      "status": "pending"
+    },
+    "21-76": {
+      "book": 21,
+      "test": 4,
+      "part": 1,
+      "pdfPage": 76,
+      "status": "pending"
+    },
+    "21-77": {
+      "book": 21,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 77,
+      "status": "pending"
+    },
+    "21-78": {
+      "book": 21,
+      "test": 4,
+      "part": 2,
+      "pdfPage": 78,
+      "status": "pending"
+    },
+    "21-79": {
+      "book": 21,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 79,
+      "status": "pending"
+    },
+    "21-80": {
+      "book": 21,
+      "test": 4,
+      "part": 3,
+      "pdfPage": 80,
+      "status": "pending"
+    },
+    "21-81": {
+      "book": 21,
+      "test": 4,
+      "part": 4,
+      "pdfPage": 81,
+      "status": "pending"
+    }
+  }
+}

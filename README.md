@@ -105,3 +105,7 @@ Chọn một từ, một phần từ hoặc nhiều dòng trong đề để Tô 
 Các bản sửa có dấu vết trong `data/listening/corrections.json`; `listening_corrections.py` áp dụng khi build và kiểm tra từ OCR trước khi sửa. Đã đối chiếu trực quan Cambridge 10 Test 1 Part 1 (hai trang) và Cambridge 13 Test 1 Part 1: sửa ký tự, ký hiệu tiền, vị trí chỗ trống và thứ tự ô bảng. Bổ sung 13 từ/nhãn bị bỏ sót sau khi xem ảnh nguồn ở các trang được ghi trong file sửa.
 
 Không tự thêm chỗ trống chỉ vì thấy số 1–40 nữa. Ngoài các trang đã duyệt, vị trí chỗ trống được khôi phục từ đường chấm trong dữ liệu hình học nguồn. Đây vẫn là khôi phục tự động; toàn bộ 240 phần chưa được duyệt thủ công từng câu. Việc giữ đủ số từ và ô trả lời không đồng nghĩa mọi câu OCR đều chính xác.
+
+### Theo dõi duyệt thủ công
+
+`docs/listening-manual-review.json` liệt kê 402 trang đề cho 240 phần Listening. Chỉ các trang đã xem và đối chiếu ảnh nguồn mới mang trạng thái `reviewed`; hiện có 5 trang, các trang còn lại là `pending`. Cambridge 20 Test 1 Part 3 (trang PDF 8–9) đã đối chiếu; bổ sung A–E, nhãn E và sửa dấu câu nhãn D. Dòng dẫn câu hỏi được ghép khi xuống dòng, hiển thị đậm và lớn hơn nội dung 20%, vẫn chỉnh theo A−/A+.

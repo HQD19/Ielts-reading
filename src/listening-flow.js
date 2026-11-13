@@ -18,8 +18,21 @@ function listeningWords(layout,indices,page,blanks=true){
   return (gap?'<span class="source-gap">':'')+'<span class="source-word'+((layout.silentRuns||[]).includes(index)?' source-decoration':'')+'" data-page="'+page+'" data-run="'+index+'">'+esc(text)+'</span>'+(gap?'<span class="answer-space" aria-label="chỗ trống"> ______</span></span>':'')+' ';
  }).join('');
 }
+function listeningParagraphs(layout,lines){
+ const output=[];
+ for(const line of lines){
+  const value=line.runs.map(i=>layout.runs[i][0]).join(' ');
+  const number=Number(value.match(/^\d{1,2}\b/)?.[0]);
+  const prompt=number>=part*10-9&&number<=part*10&&/^\d{1,2}\s*(?:[-–—�]\s*\d{1,2}\s*)?[A-Z]/.test(value)&&!line.runs.some(i=>(layout.answerGaps||[]).includes(i));
+  const previous=output.at(-1);
+  const continuation=previous?.prompt&&!/[?:]$/.test(previous.value)&&!prompt&&!/^(?:Questions?\b|Choose\b|Write\b|[A-E][.,)]?\s)/.test(value)&&line.y-previous.lastY<line.size*2.2;
+  if(continuation){previous.runs.push(...line.runs);previous.value+=' '+value;previous.lastY=line.y;}
+  else output.push({...line,value,prompt,lastY:line.y});
+ }
+ return output;
+}
 function listeningFlowPage(p){
- const layout=p.layout,lines=listeningLines(layout),text=l=>l.runs.map(i=>layout.runs[i][0]).join(' ');
+ const layout=p.layout,lines=listeningParagraphs(layout,listeningLines(layout)),text=l=>l.runs.map(i=>layout.runs[i][0]).join(' ');
  const typical=layout.runs.map(r=>r[4]).sort((a,b)=>a-b)[Math.floor(layout.runs.length/2)]||24;
  const instruction=lines.findIndex(l=>/^Write\b/i.test(text(l)));
  let tableAt=-1,headers=[];
@@ -34,11 +47,11 @@ function listeningFlowPage(p){
  }
  let html='';
  const paragraph=l=>{
-  const value=text(l),heading=/^(?:Test\s+\d+|(?:SECTION|PART)\s+\d+.*|Questions\s+[\d�–—-]+)$/i.test(value);
+  const value=text(l),heading=/^(?:Test\s+\d+|(?:SECTION|PART)\s+\d+.*|Questions?\s+[\d�–— and-]+)$/i.test(value);
   const title=!heading&&value.length>5&&/[A-Z]{3}/.test(value)&&value===value.toUpperCase()&&!/^Write/i.test(value);
   const meta=/^(?:Test\s+\d+|LISTENING)$/i.test(value);
-  const tag=meta?'p':heading?'h3':title?'h2':'p';
-  return '<'+tag+' class="flow-line'+(meta?' flow-meta':'')+'">'+listeningWords(layout,l.runs,p.page,!heading&&!meta)+'</'+tag+'>';
+  const tag=meta?'p':l.prompt?'h3':heading?'h3':title?'h2':'p';
+  return '<'+tag+' class="flow-line'+(meta?' flow-meta':l.prompt?' flow-prompt':'')+'">'+listeningWords(layout,l.runs,p.page,!heading&&!meta)+'</'+tag+'>';
  };
  if(layout.table){
   const t=layout.table;
