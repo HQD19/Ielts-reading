@@ -11,6 +11,7 @@ try{
  page.on('pageerror',e=>errors.push(e.message));
  const styles={};
  for(const [skill,file] of [['reading','index.html'],['listening','listening.html']]){
+  await page.setViewportSize({width:1440,height:1000});
   await page.goto(pathToFileURL(resolve(file)).href);
   await page.waitForFunction(()=>document.querySelector('.brand-mark svg')&&document.querySelector('#palette button'));
   styles[skill]=await page.evaluate(()=>{
