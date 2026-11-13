@@ -2,6 +2,7 @@
 from pathlib import Path
 import base64
 import json
+from ui_template import render_shared_ui
 
 ROOT = Path(__file__).resolve().parent
 
@@ -22,7 +23,7 @@ def build():
     passages.sort(key=lambda p: (p['book'], p['track'] != 'academic', p['test'], p['number']))
     ids = [p['id'] for p in passages]
     assert len(ids) == len(set(ids)), 'Duplicate passage IDs'
-    template = (ROOT / 'src/index.template.html').read_text(encoding='utf-8')
+    template = render_shared_ui((ROOT / 'src/index.template.html').read_text(encoding='utf-8'), 'reading')
     replacements = {
         '/*__PASSAGE_DATA__*/': json.dumps(passages, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/'),
         '/*__BOOK_DATA__*/': json.dumps(books, ensure_ascii=False),

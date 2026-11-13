@@ -85,3 +85,11 @@ Trang `listening-youtube.html` giữ nguyên bộ 40 câu, 4 phần và các m�
 Chọn chữ OCR bên trái để mở thanh Tô sáng / Tra từ / Bỏ highlight. Nhấn vào một vùng đã tô để bỏ highlight. Highlight lưu riêng theo test và trang, giữ qua tải lại, xuất/khôi phục JSON và làm lại test. Nút Tra từ trên thanh đề cũng cho nhập từ/cụm từ trực tiếp.
 
 Tra từ dùng bộ nghĩa tiếng Việt cục bộ chung với dữ liệu Reading, có IPA/từ loại khi sẵn có. Các từ chưa có được tra qua Free Dictionary API (định nghĩa tiếng Anh, cần mạng); luôn có liên kết tới Cambridge Dictionary. Vùng highlight áp dụng cho chữ OCR; nhãn chỉ tồn tại dưới dạng nét vẽ trong bản đồ không thể chọn như chữ.
+
+### Template giao diện chung
+
+Reading và Listening cùng dùng `src/ui.css` (font, màu, thanh điều hướng, đồng hồ, nút, tab và chế độ tối) và `src/ui.header.html` (nhận diện và chuyển kỹ năng). `ui_template.py` nhúng trực tiếp các thành phần chung khi build; mỗi trang xuất ra vẫn là một file HTML độc lập, dùng được ngoại tuyến.
+
+Chữ đề Listening dùng Georgia như nội dung Reading, giữ tọa độ chữ, bảng và sơ đồ OCR. Hai vùng đề/phiếu trả lời chia 50/50 trên desktop. Phần bố cục theo dạng đề và JavaScript nghiệp vụ vẫn ở template từng kỹ năng. Sửa giao diện chung trong `src/ui.css`, chạy `python build.py` để cập nhật cả hai trang.
+
+Kiểm tra hồi quy: `node tests/listening-study.mjs` và `node tests/shared-ui.mjs` (cần Playwright/Chromium). CI build cả hai màn hình, kiểm tra các chức năng học, kích thước desktop/mobile và lưu ảnh giao diện sáng/tối.

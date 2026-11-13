@@ -1,6 +1,7 @@
 """Build the standalone Listening screen; uses only the Python standard library."""
 from pathlib import Path
 import json,re
+from ui_template import render_shared_ui
 ROOT=Path(__file__).resolve().parent
 
 def build(output=None):
@@ -22,7 +23,7 @@ def build(output=None):
    page['layout']=layout(test['book'],page['page'])
    page['text']=layouts[f"{test['book']}-{page['page']}"]['text']
   test.pop('audio',None)
- source=(ROOT/'src/listening.template.html').read_text(encoding='utf8')
+ source=render_shared_ui((ROOT/'src/listening.template.html').read_text(encoding='utf8'), 'listening')
  marker='/*__LISTENING_DATA__*/';assert source.count(marker)==1
  source=source.replace(marker,json.dumps(tests,ensure_ascii=False,separators=(',',':')).replace('</','<\\/'))
  dictionary={}
