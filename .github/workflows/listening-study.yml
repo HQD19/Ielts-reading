@@ -12,13 +12,15 @@ on:
       - 'tests/**'
       - '.github/workflows/listening-study.yml'
 permissions:
-  contents: write
+  contents: read
 jobs:
   browser:
     runs-on: ubuntu-latest
     timeout-minutes: 12
     steps:
       - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
       - name: Build both standalone screens
         run: python3 build.py
       - name: Install browser test dependency
@@ -38,13 +40,3 @@ jobs:
           name: shared-ui-screenshots
           path: test-results/
           if-no-files-found: ignore
-      - name: Save verified standalone builds
-        if: github.ref == 'refs/heads/codex/unified-skill-template'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html listening.html
-          if ! git diff --cached --quiet; then
-            git commit -m "Build Reading and Listening with shared UI template"
-            git push origin HEAD
-          fi

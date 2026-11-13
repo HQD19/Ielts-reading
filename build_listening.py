@@ -15,9 +15,8 @@ def build(output=None):
  for test in tests:
   assert {p['part'] for p in test['pages']}=={1,2,3,4},test['id']
   assert [q['n'] for q in test['answers']]==list(range(1,41)),test['id']
-  if test['keyPath']:
+  if test['keyPage'] is not None:
    assert all(q['answer'] and q['accept'] for q in test['answers']),test['id']
-   test['keyLayout']=layout(test['book'],test['keyPage'])
   else:
    assert test['book']==20 and test['answerSource']=='unavailable'
   for page in test['pages']:
